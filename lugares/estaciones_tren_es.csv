@@ -1,0 +1,1515 @@
+station_code,name,province_code,municipality_code,services,products,latitude,longitude
+01003,Arahal,41,41011,media_distancia,MD,37.268081,-5.548514
+01005,Marchena,41,41060,media_distancia,MD,37.334282,-5.425519
+01007,Osuna,41,41068,media_distancia,MD,37.233899,-5.115026
+01009,Pedrera,41,41072,media_distancia,MD,37.222396,-4.893519
+02002,Puente Genil-Herrera,14,14056,media_distancia;larga_distancia,AVANT;AVE;AVLO,37.357900,-4.821638
+02003,Antequera-Santa Ana,29,29015,media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;MD,37.069881,-4.719014
+02030,Antequera AV,29,29015,media_distancia;larga_distancia,ALVIA;AVANT;AVE;MD,37.033444,-4.561290
+03001,Mengíbar-Artichuela,23,23061,media_distancia,MD,37.978219,-3.803308
+03100,Jaén,23,23050,media_distancia,MD,37.779827,-3.790798
+03208,Cuenca-Fernando Zóbel,16,16078,media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO,40.035192,-2.144410
+03213,Requena-Utiel,46,46213,media_distancia;larga_distancia,AVANT;AVE;AVLO,39.519834,-1.127601
+03216,València-Joaquín Sorolla,46,46250,media_distancia;larga_distancia,AVANT;AVE;AVLO,39.459051,-0.382923
+03309,Villena Alta Velocidad,03,03140,larga_distancia,ALVIA;AVE;AVLO,38.585302,-0.873295
+03410,Elche/Elx AV,03,03065,media_distancia;larga_distancia,AVANT;AVE;AVLO,38.245510,-0.766750
+03412,Callosa de Segura-Cox,03,03049,media_distancia,AVANT,38.122771,-0.874573
+04007,Guadalajara-Yebes,19,19326,larga_distancia,ALVIA;AVE;AVE INT,40.587315,-3.124301
+04040,Zaragoza Delicias,50,50297,cercanias;media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVE INT;Intercity;MD;REG.EXP.;REGIONAL,41.658658,-0.911269
+04104,Camp de Tarragona,43,43144,media_distancia;larga_distancia,ALVIA;AVANT;AVANT EXP;AVE;AVE INT;EUROMED;Intercity,41.192066,1.272666
+04307,Figueres-Vilafant,17,17221,media_distancia;larga_distancia,AVANT;AVE;AVE INT;EUROMED,42.264771,2.943547
+05000,Granada,18,18087,media_distancia;larga_distancia,ALVIA;AVANT;AVE;MD,37.184038,-3.609154
+05012,Loja,18,18122,media_distancia;larga_distancia,AVANT;AVE,37.175372,-4.134841
+05102,San Xoán,15,15036,cercanias;media_distancia,REGIONAL,43.494565,-8.214273
+05103,Santa Icía,15,15054,cercanias;media_distancia,REGIONAL,43.499771,-8.199923
+05104,Virxe Do Mar,15,15054,cercanias;media_distancia,REGIONAL,43.496525,-8.204875
+05105,Piñeiros,15,15054,cercanias;media_distancia,REGIONAL,43.509483,-8.183992
+05106,O Ponto,15,15054,cercanias;media_distancia,REGIONAL,43.514776,-8.177781
+05107,Xuvia,15,15054,cercanias;media_distancia,REGIONAL,43.517191,-8.161282
+05108,O Alto Do Castiñeiro,15,15054,cercanias;media_distancia,REGIONAL,43.503179,-8.195548
+05109,Ferrerías,15,15054,cercanias;media_distancia,REGIONAL,43.528018,-8.150436
+05111,Sedes,15,15054,cercanias;media_distancia,REGIONAL,43.542611,-8.140190
+05113,Pedroso de Narón,15,15054,cercanias;media_distancia,REGIONAL,43.536707,-8.109193
+05115,San Sadurniño,15,15076,cercanias;media_distancia,REGIONAL,43.546084,-8.078110
+05117,Lamas,15,15076,cercanias;media_distancia,REGIONAL,43.547306,-8.049017
+05119,Apalla,15,15049,cercanias;media_distancia,REGIONAL,43.550457,-8.018619
+05121,Moeche,15,15049,cercanias;media_distancia,REGIONAL,43.562132,-8.002757
+05123,Labacengos,15,15049,cercanias;media_distancia,REGIONAL,43.565271,-7.980188
+05125,Entrambarrías,15,15049,cercanias;media_distancia,REGIONAL,43.577063,-7.954264
+05127,Cerdido,15,15049,cercanias;media_distancia,REGIONAL,43.587343,-7.934310
+05129,A Cuqueira,15,15025,cercanias;media_distancia,REGIONAL,43.607829,-7.921939
+05131,Santa María de Mera,15,15061,cercanias;media_distancia,REGIONAL,43.640929,-7.916190
+05133,Ponte Mera,15,15061,cercanias;media_distancia,REGIONAL,43.666038,-7.902621
+05135,San Clodio,15,15061,cercanias;media_distancia,REGIONAL,43.660944,-7.873478
+05137,Senra,15,15061,cercanias;media_distancia,REGIONAL,43.668793,-7.854553
+05139,Ortigueira,15,15061,cercanias;media_distancia,REGIONAL,43.686222,-7.849574
+05141,Espasante,15,15061,media_distancia,REGIONAL,43.708880,-7.804897
+05143,Loiba,15,15061,media_distancia,REGIONAL,43.730393,-7.750044
+05145,O Barqueiro,15,15044,media_distancia,REGIONAL,43.735649,-7.702880
+05147,O Vicedo,27,27064,media_distancia,REGIONAL,43.731026,-7.673215
+05149,Mosende,27,27064,media_distancia,REGIONAL,43.706194,-7.635477
+05151,Folgueiro,27,27064,media_distancia,REGIONAL,43.692766,-7.635048
+05153,Covas de Viveiro,27,27066,media_distancia,REGIONAL,43.670275,-7.614613
+05155,Viveiro,27,27066,media_distancia,REGIONAL,43.656900,-7.600330
+05156,Viveiro Apeadero,27,27066,media_distancia,REGIONAL,43.661435,-7.594532
+05157,Xuances,27,27025,media_distancia,REGIONAL,43.687991,-7.553904
+05159,Xove Pobo,27,27025,media_distancia,REGIONAL,43.683567,-7.510921
+05161,Xove,27,27025,media_distancia,REGIONAL,43.681138,-7.495251
+05163,Lago,27,27025,media_distancia,REGIONAL,43.687108,-7.481942
+05165,Bidueiros,27,27013,media_distancia,REGIONAL,43.696712,-7.468843
+05167,San Cibrao,27,27013,media_distancia,REGIONAL,43.692319,-7.441770
+05169,Madeiro,27,27013,media_distancia,REGIONAL,43.686219,-7.412863
+05171,Burela,27,27902,media_distancia,REGIONAL,43.660607,-7.361183
+05173,Cangas de Foz,27,27019,media_distancia,REGIONAL,43.626106,-7.333309
+05175,Nois,27,27019,media_distancia,REGIONAL,43.610309,-7.312222
+05177,Fazouro,27,27019,media_distancia,REGIONAL,43.600457,-7.299843
+05179,Marzán,27,27019,media_distancia,REGIONAL,43.574750,-7.269360
+05181,Foz,27,27019,media_distancia,REGIONAL,43.560886,-7.272235
+05183,Barreiros,27,27005,media_distancia,REGIONAL,43.547366,-7.225287
+05185,Reinante,27,27005,media_distancia,REGIONAL,43.549870,-7.174315
+05187,Esteiro,27,27051,media_distancia,REGIONAL,43.551697,-7.146099
+05189,Os Castros,27,27051,media_distancia,REGIONAL,43.551570,-7.130895
+05191,Rinlo,27,27051,media_distancia,REGIONAL,43.549761,-7.108645
+05193,Ribadeo,27,27051,media_distancia,REGIONAL,43.536070,-7.055572
+05197,Vegadeo Pueblo,,,media_distancia,REGIONAL,43.479667,-7.057327
+05199,Vilavedelle,33,33017,media_distancia,REGIONAL,43.490502,-7.038353
+05203,Tremañes Carreño,33,33024,cercanias,,43.528552,-5.694884
+05204,Centro de Transportes,33,33024,cercanias,,43.531129,-5.706716
+05207,Aboño Apeadero,33,33014,cercanias,,43.555049,-5.723604
+05208,Xivares,33,33014,cercanias,,43.565939,-5.728746
+05209,Perlora,33,33014,cercanias,,43.580863,-5.754105
+05210,Candás-Apeadero,33,33014,cercanias,,43.586538,-5.767971
+05211,Candás,33,33014,cercanias,,43.584711,-5.772690
+05213,Regueral,33,33014,cercanias,,43.580502,-5.797616
+05215,Zanzabornín,33,33014,cercanias,,43.568927,-5.825312
+05216,Gudín Laminación,33,33020,cercanias,,43.552293,-5.865392
+05217,Trasona,33,33020,cercanias,,43.551769,-5.874175
+05219,Llaranes,33,33004,cercanias,,43.554337,-5.896557
+05220,Cristalería,33,33004,cercanias,,43.575568,-5.929241
+05221,Avilés-Apeadero,33,33004,cercanias,,43.554634,-5.917442
+05224,Raíces,33,33016,cercanias,,43.576349,-5.939913
+05225,Salinas,33,33016,cercanias,,43.570391,-5.956626
+05227,Piedras Blancas,33,33016,cercanias,,43.556557,-5.975552
+05229,Vegarrozadas,33,33016,cercanias,,43.551161,-5.995514
+05231,Santiago del Monte,33,33069,cercanias,,43.540924,-6.027971
+05232,El Parador,33,33069,cercanias,,43.535141,-6.070591
+05233,Soto del Barco,33,33069,cercanias,,43.529056,-6.071293
+05235,Riberas,33,33069,cercanias,,43.502740,-6.074305
+05237,Peñaullán,33,33051,cercanias,,43.491170,-6.093964
+05239,Santianes,33,33051,cercanias;media_distancia,REGIONAL,43.503799,-6.091839
+05241,Los Cabos,33,33051,cercanias;media_distancia,REGIONAL,43.512415,-6.097475
+05243,Muros del Nalón,33,33039,cercanias;media_distancia,REGIONAL,43.542973,-6.111072
+05244,El Pito Piñera,33,33021,cercanias;media_distancia,REGIONAL,43.546909,-6.143342
+05245,Cudillero,33,33021,cercanias;media_distancia,REGIONAL,43.550926,-6.151930
+05247,Villademar,33,33021,media_distancia,REGIONAL,43.557065,-6.155477
+05249,La Magdalena,33,33021,media_distancia,REGIONAL,43.559309,-6.184922
+05251,San Martín de Luiña,33,33021,media_distancia,REGIONAL,43.544753,-6.228702
+05253,San Cosme,33,33021,media_distancia,REGIONAL,43.544069,-6.248091
+05255,Soto de Luiña,33,33021,media_distancia,REGIONAL,43.559635,-6.234369
+05257,Valdredo,33,33021,media_distancia,REGIONAL,43.566380,-6.263234
+05259,Novellana,33,33021,media_distancia,REGIONAL,43.557795,-6.289593
+05261,Santa Marina,33,33021,media_distancia,REGIONAL,43.552674,-6.305181
+05263,Ballota,33,33021,media_distancia,REGIONAL,43.550716,-6.322812
+05265,Tablizo,33,33034,media_distancia,REGIONAL,43.547253,-6.351225
+05267,Cadavedo,33,33034,media_distancia,REGIONAL,43.542952,-6.391612
+05269,San Cristóbal,33,33034,media_distancia,REGIONAL,43.547225,-6.415264
+05271,Canero,33,33034,media_distancia,REGIONAL,43.541913,-6.445878
+05273,Barcia,33,33034,media_distancia,REGIONAL,43.546813,-6.508280
+05275,Luarca,33,33034,media_distancia,REGIONAL,43.537949,-6.536617
+05277,Otur,33,33034,media_distancia,REGIONAL,43.540541,-6.593562
+05279,Villapedre,33,33041,media_distancia,REGIONAL,43.546723,-6.645870
+05281,Piñera-Villaoril,33,33041,media_distancia,REGIONAL,43.535685,-6.685414
+05283,Navia,33,33041,media_distancia,REGIONAL,43.536802,-6.719425
+05285,Medal,33,33018,media_distancia,REGIONAL,43.545692,-6.752994
+05287,Loza,33,33018,media_distancia,REGIONAL,43.551254,-6.771675
+05289,Cartavio,33,33018,media_distancia,REGIONAL,43.550714,-6.789622
+05291,La Caridad,33,33023,media_distancia,REGIONAL,43.547074,-6.827541
+05293,Tapia,33,33070,media_distancia,REGIONAL,43.535026,-6.909329
+05295,Tol,33,33017,media_distancia,REGIONAL,43.527204,-6.952128
+05297,Las Campas de Castropol,33,33017,media_distancia,REGIONAL,43.520298,-6.977102
+05299,Castropol,33,33017,media_distancia,REGIONAL,43.509586,-7.014770
+05300,Vallobín,33,33044,cercanias;media_distancia,REGIONAL,43.365231,-5.864798
+05301,Argañosa-Lavapiés,33,33044,cercanias;media_distancia,REGIONAL,43.365831,-5.870018
+05302,Las Campas,33,33044,cercanias;media_distancia,REGIONAL,43.363889,-5.883373
+05303,Las Mazas,33,33044,cercanias;media_distancia,REGIONAL,43.358719,-5.897557
+05304,San Claudio,33,33044,cercanias;media_distancia,REGIONAL,43.355353,-5.917809
+05306,San Pedro de Nora,33,33044,cercanias;media_distancia,REGIONAL,43.368748,-5.958595
+05308,Soto Udrión,33,33044,cercanias;media_distancia,REGIONAL,43.356436,-5.965016
+05311,Trubia,33,33044,cercanias;media_distancia,REGIONAL,43.348570,-5.967776
+05313,Santa María de Grado,33,33026,cercanias;media_distancia,REGIONAL,43.384227,-5.982708
+05315,Vega de Anzo,33,33026,cercanias;media_distancia,REGIONAL,43.389330,-6.005683
+05316,Peñaflor de Grado,33,33026,cercanias;media_distancia,REGIONAL,43.402927,-6.045392
+05317,Grado,33,33026,cercanias;media_distancia,REGIONAL,43.394542,-6.063725
+05319,Sandiche,33,33010,cercanias;media_distancia,REGIONAL,43.425623,-6.059934
+05320,Aces,33,33010,cercanias;media_distancia,REGIONAL,43.439914,-6.065798
+05321,San Román,33,33010,cercanias;media_distancia,REGIONAL,43.448884,-6.077164
+05323,Beifar,33,33051,cercanias;media_distancia,REGIONAL,43.470138,-6.098871
+05325,Pravia,33,33051,cercanias;media_distancia,REGIONAL,43.490898,-6.110537
+05327,San Ranón,33,33051,cercanias,,43.516455,-6.082031
+05329,San Esteban,33,33039,cercanias,,43.552094,-6.087239
+05361,Baiña,33,33037,cercanias,,43.274472,-5.828290
+05369,Mieres Vasco,33,33037,cercanias,,43.250297,-5.780111
+05371,Caudalia,33,33037,cercanias,,43.228215,-5.782774
+05373,Figaredo,33,33037,cercanias,,43.213840,-5.784036
+05375,Ujo Taruelo,33,33037,cercanias,,43.200623,-5.787861
+05376,Santa Cruz,33,33037,cercanias,,43.195970,-5.777545
+05377,Caborana,33,33002,cercanias,,43.176117,-5.754863
+05379,Moreda de Aller,33,33002,cercanias,,43.170792,-5.741962
+05380,San Antonio,33,33002,cercanias,,43.168851,-5.696707
+05381,Oyanco,33,33002,cercanias,,43.166553,-5.722151
+05382,Corigos,33,33002,cercanias,,43.164287,-5.676651
+05383,Piñeres,33,33002,cercanias,,43.165973,-5.684254
+05384,Santa Ana-Soto,33,33002,cercanias,,43.164780,-5.646100
+05385,Cabañaquinta,33,33002,cercanias,,43.160770,-5.624899
+05387,Levinco,33,33002,cercanias,,43.151108,-5.600294
+05389,Collanzo,33,33002,cercanias,,43.124100,-5.566154
+05403,Tremañes-Langreo,33,33024,cercanias,,43.528544,-5.694868
+05405,Sotiello,33,33024,cercanias,,43.507239,-5.726542
+05407,Pinzales,33,33024,cercanias,,43.486541,-5.719704
+05409,Aguda,33,33024,cercanias,,43.465520,-5.726021
+05410,Xixún,33,33066,cercanias,,43.371452,-5.693868
+05411,La Florida,33,33066,cercanias,,43.434759,-5.709927
+05412,Puente Buracos,33,33066,cercanias,,43.448048,-5.717266
+05413,Noreña,33,33042,cercanias,,43.393978,-5.703627
+05415,Bendición,33,33066,cercanias,,43.363475,-5.680585
+05416,Valdesoto,33,33066,cercanias,,43.358350,-5.658147
+05417,Carbayín,33,33066,cercanias,,43.350721,-5.634335
+05420,Curuxona,33,33066,cercanias,,43.339815,-5.630476
+05421,Tuilla,33,33031,cercanias,,43.328151,-5.643078
+05426,La Felguera N. Langreo-N. Llangréu,33,33031,cercanias,,43.305459,-5.688896
+05427,Sama los Llerones,33,33031,cercanias,,43.296706,-5.680359
+05431,Ciaño Escobio,33,33031,cercanias,,43.290724,-5.667900
+05432,San Vicente,33,33060,cercanias,,43.289142,-5.652933
+05433,El Entrego-La Oscura,33,33060,cercanias,,43.289510,-5.640810
+05435,Carrocera,33,33060,cercanias,,43.287734,-5.626377
+05436,San Martín,33,33060,cercanias,,43.278376,-5.615292
+05437,Sotrondio,33,33060,cercanias,,43.275925,-5.604890
+05439,Blimea,33,33060,cercanias,,43.270881,-5.590331
+05441,Barredos,33,33032,cercanias,,43.259889,-5.574993
+05443,Laviana,33,33032,cercanias,,43.250816,-5.564669
+05451,Bilbao la Concordia,48,48020,cercanias;media_distancia,REGIONAL,43.260190,-2.926384
+05455,Basurto Hospital,48,48020,cercanias;media_distancia,REGIONAL,43.259770,-2.953827
+05457,Zorrotza Zorrozgoiti,48,48020,cercanias;media_distancia,REGIONAL,43.274040,-2.974012
+05459,Santa Águeda,48,48020,cercanias;media_distancia,REGIONAL,43.261857,-2.973022
+05460,Kastrexana,48,48020,cercanias;media_distancia,REGIONAL,43.255476,-2.972145
+05461,Irauregui,48,48912,cercanias;media_distancia,REGIONAL,43.248418,-2.990073
+05463,Zaramillo,48,48045,cercanias;media_distancia,REGIONAL,43.233289,-3.015904
+05465,La Quadra,48,48045,cercanias;media_distancia,REGIONAL,43.222723,-3.024985
+05467,Sodupe,48,48045,cercanias;media_distancia,REGIONAL,43.202030,-3.050517
+05469,Artxube,48,48045,cercanias;media_distancia,REGIONAL,43.200993,-3.071503
+05470,Lambarri,48,48045,cercanias;media_distancia,REGIONAL,43.206073,-3.082511
+05471,Güeñes,48,48045,cercanias;media_distancia,REGIONAL,43.209028,-3.095211
+05473,Aranguren,48,48096,cercanias;media_distancia,REGIONAL,43.210456,-3.108399
+05474,Aranguren-Apeadero,48,48096,cercanias;media_distancia,REGIONAL,43.210352,-3.114050
+05475,Zalla,48,48096,cercanias;media_distancia,REGIONAL,43.212910,-3.133337
+05477,Colegio,48,48096,cercanias;media_distancia,REGIONAL,43.211267,-3.138141
+05479,Ibarra,48,48096,cercanias;media_distancia,REGIONAL,43.203959,-3.144839
+05481,La Herrera,48,48096,cercanias;media_distancia,REGIONAL,43.203452,-3.170569
+05483,Balmaseda,48,48090,cercanias;media_distancia,REGIONAL,43.196355,-3.189956
+05484,Mimetiz,48,48096,cercanias;media_distancia,REGIONAL,43.215814,-3.131255
+05485,La Calzada,48,48090,cercanias,,43.190115,-3.197406
+05487,Traslaviña,48,48008,cercanias;media_distancia,REGIONAL,43.233290,-3.198304
+05489,Artzentales,48,48008,cercanias;media_distancia,REGIONAL,43.235508,-3.213358
+05493,Villaverde de Trucios,48,48008,cercanias;media_distancia,REGIONAL,43.241280,-3.250540
+05497,Karrantza,48,48022,cercanias;media_distancia,REGIONAL,43.238854,-3.357827
+05504,Parque Principado,33,33044,cercanias;media_distancia,REGIONAL,43.386586,-5.808797
+05505,Colloto,33,33066,cercanias;media_distancia,REGIONAL,43.379509,-5.792366
+05507,Meres,33,33066,cercanias;media_distancia,REGIONAL,43.380989,-5.748721
+05508,Fonciello,33,33066,cercanias;media_distancia,REGIONAL,43.381778,-5.729719
+05509,El Berrón,33,33066,cercanias;media_distancia,REGIONAL,43.382738,-5.702677
+05511,La Carrera de Siero,33,33066,cercanias;media_distancia,REGIONAL,43.386921,-5.675346
+05513,Pola de Siero,33,33066,cercanias;media_distancia,REGIONAL,43.388153,-5.664772
+05515,Los Corros,33,33066,cercanias;media_distancia,REGIONAL,43.376843,-5.601377
+05517,Lieres,33,33066,cercanias;media_distancia,REGIONAL,43.380583,-5.582623
+05521,El Remedio,33,33040,cercanias;media_distancia,REGIONAL,43.375079,-5.546239
+05522,Llames,33,33040,cercanias;media_distancia,REGIONAL,43.368780,-5.525240
+05523,Nava,33,33040,cercanias;media_distancia,REGIONAL,43.361188,-5.509099
+05525,Fuente Santa de Nava,33,33040,cercanias;media_distancia,REGIONAL,43.355570,-5.478379
+05527,Ceceda,33,33040,cercanias;media_distancia,REGIONAL,43.356223,-5.451109
+05529,Carancos,33,33040,cercanias;media_distancia,REGIONAL,43.355569,-5.434442
+05531,Pintueles,33,33049,cercanias;media_distancia,REGIONAL,43.359923,-5.384132
+05533,Infiesto,33,33049,cercanias;media_distancia,REGIONAL,43.351787,-5.369202
+05534,Infiesto Apeadero,33,33049,cercanias;media_distancia,REGIONAL,43.344041,-5.360641
+05535,Villamayor,33,33049,media_distancia,REGIONAL,43.363100,-5.302850
+05537,Sebares,33,33049,media_distancia,REGIONAL,43.362360,-5.257400
+05539,Soto de Dueñas,33,33045,media_distancia,REGIONAL,43.358300,-5.226890
+05541,Ozanes,33,33045,media_distancia,REGIONAL,43.368395,-5.185191
+05542,Policlínico,33,33045,media_distancia,REGIONAL,43.378622,-5.186030
+05543,Arriondas,33,33045,media_distancia,REGIONAL,43.387513,-5.188258
+05545,Fuentes,33,33045,media_distancia,REGIONAL,43.401443,-5.143117
+05547,Toraño,33,33045,media_distancia,REGIONAL,43.412281,-5.118013
+05549,Cuevas,33,33056,media_distancia,REGIONAL,43.431144,-5.073302
+05551,Llovio,33,33056,media_distancia,REGIONAL,43.440563,-5.055592
+05553,Ribadesella,33,33056,media_distancia,REGIONAL,43.459450,-5.054500
+05555,Camango,33,33056,media_distancia,REGIONAL,43.448210,-5.018820
+05557,Belmonte de Pría,33,33036,media_distancia,REGIONAL,43.439800,-4.982280
+05559,Nueva,33,33036,media_distancia,REGIONAL,43.440585,-4.935531
+05561,Villahormes,33,33036,media_distancia,REGIONAL,43.442010,-4.903830
+05563,Posada,33,33036,media_distancia,REGIONAL,43.424830,-4.865000
+05565,Balmori,33,33036,media_distancia,REGIONAL,43.421470,-4.835830
+05567,Celorio,33,33036,media_distancia,REGIONAL,43.425010,-4.811330
+05569,Poo,33,33036,media_distancia,REGIONAL,43.424290,-4.781890
+05571,Llanes,33,33036,media_distancia,REGIONAL,43.420940,-4.758700
+05573,San Roque del Acebal,33,33036,media_distancia,REGIONAL,43.394730,-4.730130
+05575,Vidiago,33,33036,media_distancia,REGIONAL,43.396470,-4.673000
+05577,Pendueles,33,33036,media_distancia,REGIONAL,43.392830,-4.630390
+05579,Colombres,33,33055,media_distancia,REGIONAL,43.382720,-4.557090
+05602,Valdecilla la Marga,39,39075,cercanias;media_distancia,REGIONAL,43.452947,-3.828241
+05603,Cazoña,39,39075,cercanias,,43.455154,-3.841164
+05604,Adarzo,39,39075,cercanias,,43.453472,-3.855904
+05605,Bezana,39,39073,cercanias,,43.440855,-3.899592
+05607,Mortera,39,39073,cercanias,,43.435234,-3.918253
+05609,Boo de Piélagos,39,39052,cercanias,,43.431656,-3.946311
+05611,Mogro,39,39044,cercanias,,43.424893,-3.960516
+05613,Gornazo,39,39044,cercanias,,43.409703,-3.988603
+05615,Mar,39,39054,cercanias,,43.398406,-4.010006
+05617,Requejada,39,39054,cercanias,,43.391418,-4.028025
+05619,Barreda,39,39087,cercanias,,43.374283,-4.041897
+05620,Altamira,39,39087,cercanias,,43.351920,-4.056970
+05621,Torrelavega-Centro,39,39087,cercanias;media_distancia,REGIONAL,43.351001,-4.051179
+05622,Ganzo,39,39087,cercanias,,43.356528,-4.070227
+05623,Puente San Miguel,39,39060,cercanias;media_distancia,REGIONAL,43.358672,-4.087767
+05625,Santa Isabel de Quijas,39,39060,cercanias,,43.359010,-4.111853
+05627,San Pedro de Rudagüera,39,39001,cercanias,,43.361159,-4.149528
+05629,Golbardo,39,39060,cercanias,,43.340816,-4.155628
+05631,Casar de Periedo,39,39012,cercanias,,43.338784,-4.174731
+05633,Virgen de la Peña,39,39012,cercanias,,43.323039,-4.193484
+05635,Ontoria,39,39012,cercanias,,43.315334,-4.215422
+05637,Cabezón de la Sal,39,39012,cercanias;media_distancia,REGIONAL,43.307904,-4.231944
+05641,Treceño,39,39091,cercanias;media_distancia,REGIONAL,43.318280,-4.309020
+05643,Roiz,39,39091,cercanias;media_distancia,REGIONAL,43.328210,-4.349270
+05644,El Barcenal,39,39080,cercanias;media_distancia,REGIONAL,43.340347,-4.383335
+05645,San Vicente de la Barquera,39,39080,cercanias;media_distancia,REGIONAL,43.367837,-4.404504
+05647,Pesués,39,39095,cercanias;media_distancia,REGIONAL,43.370289,-4.480174
+05649,Unquera,39,39095,cercanias;media_distancia,REGIONAL,43.374780,-4.514340
+05651,Nueva Montaña,39,39075,cercanias;media_distancia,REGIONAL,43.440185,-3.849371
+05652,Valle Real,39,39016,cercanias;media_distancia,REGIONAL,43.427540,-3.840538
+05655,Maliaño Vidriera,39,39016,cercanias;media_distancia,REGIONAL,43.416016,-3.841102
+05657,Astillero,39,39008,cercanias;media_distancia,REGIONAL,43.403651,-3.820680
+05658,La Cantábrica,39,39008,cercanias,,43.397366,-3.814968
+05659,San Salvador,39,39042,,,43.393766,-3.803854
+05661,Heras,39,39042,cercanias;media_distancia,REGIONAL,43.400900,-3.766638
+05663,Orejo,39,39040,cercanias;media_distancia,REGIONAL,43.399478,-3.738397
+05665,Solares,39,39042,cercanias,,43.387247,-3.731383
+05667,Ceceñas,39,39042,cercanias,,43.376492,-3.718192
+05669,La Cavada,39,39064,cercanias,,43.350614,-3.707078
+05671,Liérganes,39,39037,cercanias,,43.345075,-3.742645
+05672,Puente Agüero,39,39040,cercanias;media_distancia,REGIONAL,43.406489,-3.719342
+05673,Villaverde de Pontones,39,39062,cercanias;media_distancia,REGIONAL,43.411322,-3.703643
+05675,Hoz de Anero,39,39062,cercanias;media_distancia,REGIONAL,43.404885,-3.666883
+05677,Beranga,39,39031,cercanias;media_distancia,REGIONAL,43.413710,-3.577130
+05679,Gama,39,39009,cercanias;media_distancia,REGIONAL,43.423150,-3.524720
+05681,Cicero,39,39009,cercanias;media_distancia,REGIONAL,43.417052,-3.490490
+05683,Treto,39,39009,cercanias;media_distancia,REGIONAL,43.394090,-3.469200
+05685,Limpias,39,39102,cercanias;media_distancia,REGIONAL,43.358810,-3.433340
+05687,Marrón,39,39002,cercanias;media_distancia,REGIONAL,43.346610,-3.420918
+05689,Udalla,39,39058,cercanias;media_distancia,REGIONAL,43.313680,-3.445490
+05691,Gibaja,39,39057,cercanias;media_distancia,REGIONAL,43.282190,-3.438310
+05721,Arla Berrón,09,09410,cercanias;media_distancia,REGIONAL,43.166699,-3.227589
+05722,Ungo Nava,09,09410,cercanias;media_distancia,REGIONAL,43.142894,-3.264716
+05724,Mercadillo Villasana,09,09410,cercanias;media_distancia,REGIONAL,43.105209,-3.264469
+05727,Cadagua,09,09410,cercanias;media_distancia,REGIONAL,43.068171,-3.347339
+05730,Bercedo-Montija,09,09214,cercanias;media_distancia,REGIONAL,43.088479,-3.456000
+05731,Quintana de los Prados,09,09124,cercanias;media_distancia,REGIONAL,43.080000,-3.510000
+05732,Espinosa de los Monteros,09,09124,cercanias;media_distancia,REGIONAL,43.074252,-3.537116
+05733,Redondo,09,09215,cercanias;media_distancia,REGIONAL,43.062993,-3.607895
+05734,Sotoscueva,09,09215,cercanias;media_distancia,REGIONAL,43.045292,-3.688253
+05735,Pedrosa,09,09216,cercanias;media_distancia,REGIONAL,43.012367,-3.737852
+05736,Dosante Cidad,09,09216,cercanias;media_distancia,REGIONAL,43.001250,-3.745250
+05737,Robredo Ahedo,09,09216,cercanias;media_distancia,REGIONAL,43.019094,-3.809231
+05738,Soncillo,09,09413,cercanias;media_distancia,REGIONAL,43.005809,-3.844888
+05739,Cabañas de Virtus,09,09413,cercanias;media_distancia,REGIONAL,42.996397,-3.858466
+05740,Arija,09,09025,cercanias;media_distancia,REGIONAL,42.991292,-3.945006
+05741,Llano,39,39065,cercanias;media_distancia,REGIONAL,42.988062,-3.982357
+05742,Las Rozas de Valdearroyo,39,39065,cercanias;media_distancia,REGIONAL,42.973605,-4.029864
+05743,Montes Claros,39,39093,cercanias;media_distancia,REGIONAL,42.934323,-4.050073
+05744,Los Carabeos,39,39093,cercanias;media_distancia,REGIONAL,42.910329,-4.075211
+05747,Cillamayor,34,34027,cercanias;media_distancia,REGIONAL,42.857752,-4.279178
+05748,Salinas de Pisuerga,34,34158,cercanias;media_distancia,REGIONAL,42.851271,-4.386209
+05749,Vado-Cervera,34,34067,cercanias;media_distancia,REGIONAL,42.839360,-4.494770
+05750,Castrejón de la Peña,34,34049,cercanias;media_distancia,REGIONAL,42.811990,-4.601620
+05751,Villaverde Tarilonte,34,34171,cercanias;media_distancia,REGIONAL,42.818353,-4.685419
+05752,Santibáñez de la Peña,34,34171,cercanias;media_distancia,REGIONAL,42.802040,-4.741450
+05753,Guardo Apeadero,34,34080,cercanias;media_distancia,REGIONAL,42.787738,-4.845133
+05754,Guardo,34,34080,cercanias;media_distancia,REGIONAL,42.790995,-4.851933
+05755,La Llama de la Guzpeña,24,24118,cercanias;media_distancia,REGIONAL,42.770248,-5.041248
+05756,La Espina,24,24183,cercanias;media_distancia,REGIONAL,42.786856,-4.905202
+05757,Valcuende,24,24183,cercanias;media_distancia,REGIONAL,42.765578,-4.929256
+05758,Puente Almuhey,24,24183,cercanias;media_distancia,REGIONAL,42.787632,-4.971899
+05759,Prado de la Guzpeña,24,24118,cercanias;media_distancia,REGIONAL,42.783235,-5.027097
+05760,Valle de las Casas,24,24052,cercanias;media_distancia,REGIONAL,42.767772,-5.071367
+05761,Cistierna,24,24056,cercanias;media_distancia,REGIONAL,42.803160,-5.130793
+05762,Yugueros,24,24068,cercanias,,42.809790,-5.180063
+05763,La Ercina,24,24068,cercanias;media_distancia,REGIONAL,42.808848,-5.213892
+05764,Barrillos,24,24068,cercanias,,42.812368,-5.283114
+05765,La Losilla,24,24199,cercanias,,42.838544,-5.318161
+05766,Boñar,24,24021,cercanias;media_distancia,REGIONAL,42.862788,-5.328526
+05767,La Vecilla,24,24193,cercanias;media_distancia,REGIONAL,42.855116,-5.412116
+05768,Aviados,24,24179,cercanias,,42.854777,-5.442840
+05769,La Valcueva,24,24098,cercanias,,42.849665,-5.486909
+05770,Matallana,24,24098,cercanias;media_distancia,REGIONAL,42.841149,-5.521872
+05771,Pardavé,24,24098,cercanias,,42.806350,-5.508189
+05772,Pedrún,24,24076,cercanias,,42.790898,-5.506948
+05773,Manzaneda,24,24076,cercanias,,42.754290,-5.516556
+05774,Garrafe,24,24076,cercanias,,42.734507,-5.524156
+05775,Palazuelo,24,24076,cercanias,,42.707126,-5.533781
+05776,San Feliz,24,24076,cercanias;media_distancia,REGIONAL,42.682311,-5.537909
+05777,Villaquilambre,24,24222,cercanias,,42.646866,-5.554038
+05778,Feve-León,24,24089,media_distancia,REGIONAL,42.602492,-5.574934
+05784,Estación de tren Hospitales,24,24089,,,42.612620,-5.569856
+05785,Villasinta,24,24222,cercanias,,42.657582,-5.549281
+05786,Matueca,24,24076,cercanias,,42.771540,-5.511948
+05787,Naredo,24,24098,cercanias,,42.833651,-5.523178
+05788,Robles,24,24098,cercanias,,42.840737,-5.507315
+05789,Campohermoso,24,24193,cercanias,,42.855936,-5.428745
+05790,Sorriba,24,24056,cercanias;media_distancia,REGIONAL,42.786277,-5.127476
+05793,La Mata de la Riba,24,24199,cercanias,,42.858541,-5.339490
+05794,La Raya,24,24222,cercanias,,42.638111,-5.556981
+05795,Otero,24,24179,cercanias,,42.859570,-5.389967
+05796,Villa Romana,24,24222,cercanias,,42.629204,-5.561306
+05797,Valdepiélago,24,24179,cercanias,,42.864964,-5.403219
+05798,La Devesa,24,24199,cercanias,,42.820127,-5.302192
+05799,Cerezal de la Guzpeña,24,24118,cercanias;media_distancia,REGIONAL,42.779774,-5.005572
+05801,Ventas/S.mamés,24,24089,,,42.609876,-5.571176
+05803,La Asunción Universidad,24,24089,cercanias;media_distancia,REGIONAL,42.616098,-5.566099
+05805,Barrio de las Ollas,24,24021,cercanias,,42.864645,-5.334481
+05807,Valderilla,24,24076,cercanias,,42.718774,-5.530001
+05951,Cartagena-Plaza Bastarreche,30,30016,cercanias,,37.603615,-0.977326
+05952,Estación de tren Hospital,30,30016,cercanias,,37.605219,-0.960732
+05953,Media Legua,30,30016,cercanias,,37.607883,-0.953652
+05955,Vista Alegre,30,30016,cercanias,,37.609313,-0.943759
+05957,Abrevadero,30,30016,cercanias,,37.609702,-0.931828
+05959,Alumbres,30,30016,cercanias,,37.609932,-0.914841
+05961,La Esperanza,30,30041,cercanias,,37.613763,-0.891441
+05963,La Unión Vieja,30,30041,cercanias,,37.615467,-0.881632
+05965,La Unión,30,30041,cercanias,,37.615549,-0.875132
+05967,Sierra Minera,30,30041,cercanias,,37.619878,-0.864882
+05969,Llano del Beal,30,30016,cercanias,,37.626047,-0.836212
+05971,El Estrecho,30,30016,cercanias,,37.627608,-0.829592
+05973,Nietos Viejos,30,30016,cercanias,,37.646912,-0.791514
+05975,Los Nietos Pescadería,30,30016,cercanias,,37.649352,-0.787856
+05977,Los Nietos,30,30016,cercanias,,37.651830,-0.797080
+06002,Alhama de Murcia,30,30008,larga_distancia,Intercity,37.849402,-1.414514
+06003,Totana,30,30039,larga_distancia,Intercity,37.763542,-1.495615
+06005,Lorca-San Diego,30,30024,,,37.680717,-1.685645
+06006,Lorca-Sutullena,30,30024,larga_distancia,Intercity,37.672113,-1.696230
+06007,Puerto Lumbreras,30,30033,,,37.581006,-1.731875
+06100,Almendricos,30,30024,,,37.474880,-1.779630
+07001,Pulpí,04,04075,,,37.399203,-1.749486
+07003,Jaravía,04,04075,,,37.392463,-1.693040
+07004,Águilas,30,30003,larga_distancia,Intercity,37.409865,-1.572534
+07007,Águilas-El Labradorcico,30,30003,,,37.411966,-1.585872
+08004,Segovia-Guiomar,40,40194,media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;Intercity,40.910577,-4.094564
+08223,Vigo Urzaiz,36,36057,media_distancia;larga_distancia,ALVIA;AVE;AVLO;MD;REGIONAL,42.234189,-8.713728
+08224,Redondela AV,36,36045,media_distancia,MD;REGIONAL,42.284509,-8.603573
+08240,Medina del Campo AV,47,47085,larga_distancia,ALVIA;AVLO,41.317459,-4.910071
+08247,Sanabria AV,49,49143,larga_distancia,ALVIA;AVLO,42.045053,-6.563132
+08251,A Gudiña-Porta de Galicia,32,32034,larga_distancia,ALVIA;AVLO,42.063540,-7.135560
+10000,Madrid-Príncipe Pío,28,28079,cercanias;media_distancia,MD;REG.EXP.;REGIONAL,40.421489,-3.718969
+10001,Aravaca,28,28079,cercanias;media_distancia,REGIONAL,40.448455,-3.785555
+10002,Pozuelo,28,28115,cercanias;media_distancia,REGIONAL,40.447457,-3.800278
+10005,Las Rozas,28,28127,cercanias;media_distancia,REGIONAL,40.494289,-3.868175
+10007,Majadahonda,28,28080,cercanias,,40.474289,-3.846293
+10010,El Barrial-Centro Comercial Pozuelo,28,28079,cercanias,,40.465392,-3.807685
+10100,Pinar de las Rozas,28,28127,cercanias;media_distancia,REGIONAL,40.522267,-3.882248
+10101,Las Matas,28,28127,cercanias;media_distancia,REGIONAL,40.552387,-3.896766
+10103,Torrelodones,28,28152,cercanias;media_distancia,REGIONAL,40.574554,-3.956601
+10104,Galapagar-La Navata,28,28061,cercanias;media_distancia,REGIONAL,40.600314,-3.982259
+10200,Villalba de Guadarrama,28,28047,cercanias;media_distancia,MD;REG.EXP.;REGIONAL,40.626489,-4.008030
+10201,San Yago,28,28061,cercanias;media_distancia,REGIONAL,40.617895,-4.031075
+10202,Las Zorreras-Navalquejigo,28,28054,cercanias;media_distancia,REGIONAL,40.609312,-4.046363
+10203,El Escorial,28,28054,cercanias;media_distancia,MD;REG.EXP.;REGIONAL,40.585367,-4.132405
+10204,Zarzalejo,28,28183,cercanias;media_distancia,MD;REG.EXP.;REGIONAL,40.538927,-4.158066
+10205,Robledo de Chavela,28,28125,cercanias;media_distancia,MD;REG.EXP.;REGIONAL,40.520824,-4.246759
+10206,Santa María de la Alameda-Peguerinos,28,28135,cercanias;media_distancia,MD;REG.EXP.;REGIONAL,40.569001,-4.269126
+10207,Las Navas del Marqués,05,05168,media_distancia,MD;REG.EXP.;REGIONAL,40.589205,-4.362259
+10208,Navalperal,05,05161,media_distancia,MD;REG.EXP.;REGIONAL,40.591152,-4.408382
+10209,El Pimpollar,28,28135,media_distancia,MD;REGIONAL,40.567587,-4.283541
+10300,Herradón-La Cañada,05,05093,media_distancia,MD;REG.EXP.;REGIONAL,40.599275,-4.495039
+10302,Guimorcondo,05,05019,media_distancia,MD;REGIONAL,40.649062,-4.614987
+10400,Ávila,05,05019,media_distancia,MD;REG.EXP.;REGIONAL,40.657255,-4.683312
+10409,Arévalo,05,05016,media_distancia,MD;REG.EXP.,41.047123,-4.701988
+10500,Medina del Campo,47,47085,media_distancia;larga_distancia,Intercity;MD;PROXIMDAD;REG.EXP.,41.317617,-4.909923
+10501,Pozaldez,47,47124,media_distancia;larga_distancia,Intercity;MD;PROXIMDAD;REG.EXP.,41.367920,-4.836001
+10502,Matapozuelos,47,47082,media_distancia;larga_distancia,Intercity;MD;PROXIMDAD;REG.EXP.,41.422794,-4.801025
+10503,Valdestillas,47,47182,media_distancia;larga_distancia,Intercity;MD;PROXIMDAD;REG.EXP.,41.488729,-4.772937
+10504,Viana,47,47193,media_distancia;larga_distancia,Intercity;MD;PROXIMDAD;REG.EXP.,41.524070,-4.754489
+10600,Valladolid-Campo Grande,47,47186,media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;Intercity;MD;PROXIMDAD;REG.EXP.;REGIONAL,41.642167,-4.726986
+10602,Cabezón del Pisuerga,47,47027,media_distancia,PROXIMDAD;REG.EXP.;REGIONAL,41.737276,-4.651294
+10603,Corcos-Aguilarejo,47,47055,media_distancia,PROXIMDAD;REG.EXP.;REGIONAL,41.766446,-4.623485
+10604,Cubillas de Santa Marta,47,47057,media_distancia,PROXIMDAD;REG.EXP.;REGIONAL,41.808861,-4.579754
+10605,Dueñas,34,34069,media_distancia,MD;PROXIMDAD;REG.EXP.;REGIONAL,41.870480,-4.541216
+10610,Valladolid Universidad,47,47186,media_distancia,MD;PROXIMDAD;REG.EXP.;REGIONAL,41.660257,-4.704037
+11000,Venta de Baños,34,34023,media_distancia,MD;PROXIMDAD;REG.EXP.;REGIONAL,41.917360,-4.495844
+11004,Magaz,34,34098,media_distancia,MD,41.976561,-4.432114
+11006,Quintana del Puente,34,34141,media_distancia,MD,42.079974,-4.198580
+11009,Villaquirán,09,09456,media_distancia,MD,42.215717,-3.999396
+11014,Burgos-Rosa Manzano,09,09059,media_distancia;larga_distancia,ALVIA;AVE;Intercity;MD;REG.EXP.,42.371197,-3.666308
+11109,Briviesca,09,09056,media_distancia,MD;REG.EXP.,42.542765,-3.319287
+11111,Pancorbo,09,09251,media_distancia,MD;REG.EXP.,42.630486,-3.112307
+11200,Miranda de Ebro,09,09219,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.;REGIONAL,42.691024,-2.940366
+11203,Manzanos,01,01047,media_distancia,REG.EXP.;REGIONAL,42.742899,-2.867501
+11204,La Puebla de Arganzón,09,09276,media_distancia,REG.EXP.;REGIONAL,42.765245,-2.830385
+11205,Nanclares-Langraiz,01,01901,media_distancia,REG.EXP.;REGIONAL,42.816216,-2.804942
+11208,Vitoria-Gasteiz,01,01059,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.;REGIONAL,42.841517,-2.672601
+11210,Alegría-Dulantzi,01,01001,media_distancia,MD;REG.EXP.;REGIONAL,42.848723,-2.514668
+11212,Agurain-Salvatierra de Álava,01,01051,media_distancia,MD;REG.EXP.;REGIONAL,42.846430,-2.389210
+11213,Araia,01,01053,media_distancia,MD;REG.EXP.;REGIONAL,42.869599,-2.306807
+11300,Altsasu,31,31010,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.;REGIONAL,42.894847,-2.181237
+11305,Brinkola,20,20051,cercanias;media_distancia,REG.EXP.,43.018986,-2.334681
+11306,Legazpi,20,20051,cercanias;media_distancia,MD;REG.EXP.,43.051038,-2.330610
+11400,Zumarraga,20,20080,cercanias;media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,43.087082,-2.320230
+11402,Ormáiztegui,20,20062,cercanias;media_distancia,REG.EXP.,43.040275,-2.256462
+11404,Beasain,20,20019,cercanias;media_distancia,MD;REG.EXP.,43.046269,-2.202299
+11405,Ordizia,20,20076,cercanias;media_distancia,MD;REG.EXP.,43.052755,-2.179192
+11406,Itsasondo,20,20047,cercanias,,43.068330,-2.162485
+11407,Legorreta,20,20052,cercanias,,43.085695,-2.140898
+11408,Ikaztegieta,20,20044,cercanias,,43.094040,-2.125577
+11409,Alegia,20,20005,cercanias,,43.101760,-2.097140
+11500,Tolosa,20,20071,cercanias;media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,43.135447,-2.079089
+11501,Tolosa-Centro,20,20071,cercanias;media_distancia,REG.EXP.,43.139396,-2.074112
+11502,Anoeta,20,20010,cercanias,,43.162606,-2.070390
+11503,Billabona-Zizurkil,20,20028,cercanias;media_distancia,MD;REG.EXP.,43.189191,-2.055372
+11504,Andoain-Centro,20,20009,cercanias;media_distancia,MD;REG.EXP.,43.215574,-2.020459
+11505,Andoain,20,20009,cercanias,,43.222046,-2.015676
+11506,Urnieta,20,20072,cercanias,,43.247467,-1.988427
+11507,Hernani-Erdia,20,20040,cercanias;media_distancia,MD,43.266478,-1.972623
+11508,Hernani,20,20040,cercanias,,43.272511,-1.963774
+11509,Martutene,20,20069,cercanias,,43.299113,-1.956175
+11510,Loiola,20,20069,cercanias,,43.304675,-1.963629
+11511,San Sebastián-Donostia,20,20069,cercanias;media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,43.317696,-1.976717
+11512,Gros,20,20069,cercanias,,43.321846,-1.973883
+11513,Ategorrieta,20,20069,cercanias,,43.320323,-1.959813
+11514,Herrera,20,20069,cercanias,,43.319354,-1.937017
+11515,Pasaia,20,20064,cercanias;media_distancia,MD;REG.EXP.,43.318943,-1.917173
+11516,Lezo-Rentería,20,20053,cercanias;media_distancia,MD;REG.EXP.,43.315936,-1.899439
+11518,Ventas de Irún,20,20045,cercanias,,43.330412,-1.816781
+11522,Intxaurrondo,20,20069,cercanias,,43.320049,-1.951767
+11600,Irun,20,20045,cercanias;media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,43.339537,-1.801252
+12001,Los Negrales,28,28010,cercanias;media_distancia,REGIONAL,40.638567,-4.021875
+12002,Alpedrete,28,28010,cercanias;media_distancia,REGIONAL,40.658104,-4.034972
+12004,Collado Mediano,28,28046,cercanias;media_distancia,REGIONAL,40.692898,-4.035927
+12005,Los Molinos-Guadarrama,28,28087,cercanias;media_distancia,REGIONAL,40.706641,-4.067199
+12006,Cercedilla,28,28038,cercanias;media_distancia,REGIONAL,40.737613,-4.066299
+12007,Tablada,28,28068,media_distancia,REGIONAL,40.705648,-4.125310
+12008,Gudillos,40,40076,media_distancia,REGIONAL,40.716914,-4.157681
+12009,San Rafael,40,40076,media_distancia,REGIONAL,40.714944,-4.181430
+12010,El Espinar,40,40076,media_distancia,REGIONAL,40.740852,-4.189482
+12011,Los Ángeles de San Rafael,40,40076,media_distancia,REGIONAL,40.777909,-4.206933
+12012,Otero-Herreros,40,40152,media_distancia,REGIONAL,40.800970,-4.203504
+12013,Ortigosa del Monte,40,40901,media_distancia,REGIONAL,40.832771,-4.168094
+12014,Navas de Riofrío-La Losa,40,40904,media_distancia,REGIONAL,40.856673,-4.141103
+12020,Puerto de Navacerrada,28,,cercanias,,40.784468,-4.004774
+12023,Los Cotos,40,40181,cercanias,,40.822342,-3.964496
+12100,Segovia,40,40194,media_distancia,REGIONAL,40.934030,-4.113650
+13100,Orduña,48,48074,cercanias,,42.994619,-3.015814
+13101,Amurrio,01,01002,cercanias,,43.049051,-3.002018
+13102,Salbio,01,01002,cercanias,,43.074172,-2.999395
+13103,Luiaondo,01,01010,cercanias,,43.093593,-2.999664
+13104,Santa Cruz de Llodio,01,01036,cercanias,,43.132863,-2.969838
+13106,Llodio,01,01036,cercanias;larga_distancia,ALVIA;Intercity,43.142351,-2.960651
+13107,Areta,01,01036,cercanias,,43.145127,-2.943391
+13108,Arbide,48,48009,cercanias,,43.163259,-2.927836
+13109,Arrankudiaga,48,48009,cercanias,,43.169499,-2.918448
+13110,Ugao-Miraballes,48,48065,cercanias,,43.179083,-2.902696
+13111,Arrigorriaga,48,48011,cercanias,,43.210087,-2.888572
+13112,Basauri,48,48015,cercanias,,43.223530,-2.882386
+13113,Bidebieta-Basauri,48,48015,cercanias,,43.237057,-2.889486
+13114,Ollargan,48,48011,cercanias,,43.242497,-2.916456
+13115,Bakiola,48,48009,cercanias,,43.176986,-2.909070
+13116,Iñarratxu,01,01002,cercanias,,43.035824,-3.003879
+13117,Arakaldo,48,48005,cercanias,,43.153559,-2.938203
+13118,Abaroa-San Miguel,48,48015,cercanias,,43.225648,-2.887114
+13119,La Peña de Bilbao,48,48020,cercanias,,43.240167,-2.924043
+13120,Miribilla,48,48020,cercanias,,43.250429,-2.930515
+13121,Amurrio Iparralde,01,01002,cercanias,,43.057845,-2.996066
+13200,Bilbao-Intermod. Abando Indalecio Prieto,48,48020,cercanias;larga_distancia,ALVIA;Intercity,43.260130,-2.928559
+13205,Zabalburu,48,48020,cercanias,,43.256791,-2.932284
+13206,Ametzola,48,48020,cercanias;media_distancia,REGIONAL,43.254706,-2.943660
+13207,Autonomía,48,48020,cercanias,,43.258134,-2.946032
+13208,San Mamés,48,48020,cercanias,,43.261531,-2.948834
+13303,Olabeaga,48,48020,cercanias,,43.264380,-2.955327
+13304,Zorrotza,48,48020,cercanias,,43.277804,-2.972119
+13305,Lutxana-Barakaldo,48,48013,cercanias,,43.287814,-2.975413
+13400,Desertu-Barakaldo,48,48013,cercanias,,43.300026,-2.984409
+13401,Sestao,48,48084,cercanias,,43.308520,-2.994011
+13402,La Iberia,48,48084,cercanias,,43.312703,-3.004496
+13403,Portugalete,48,48078,cercanias,,43.318676,-3.015230
+13404,Peñota,48,48082,cercanias,,43.326356,-3.023457
+13405,Santurtzi,48,48082,cercanias,,43.328660,-3.029568
+13501,Galindo,48,48084,cercanias,,43.304135,-3.010197
+13502,Trápaga,48,48080,cercanias,,43.303027,-3.016991
+13503,Valle de Trápaga/Trapagaran,48,48080,cercanias,,43.301484,-3.028795
+13504,Ortuella,48,48083,cercanias,,43.311512,-3.060355
+13505,Putxeta,48,48002,cercanias,,43.315680,-3.091136
+13506,Muskiz,48,48071,cercanias,,43.321511,-3.112321
+13507,Urioste,48,48083,cercanias,,43.307532,-3.041072
+13508,Gallarta,48,48083,cercanias,,43.319332,-3.067452
+13509,Sagrada Familia,48,48083,cercanias,,43.308236,-3.052898
+14100,Palencia,34,34120,media_distancia;larga_distancia,ALVIA;AVE;AVLO;Intercity;MD;PROXIMDAD;REG.EXP.;REGIONAL,42.015711,-4.534135
+14101,Monzón de Campos,34,34108,media_distancia,REG.EXP.,42.105538,-4.501677
+14102,Amusco,34,34011,media_distancia,REG.EXP.,42.178019,-4.480743
+14103,Piña,34,34130,media_distancia,REG.EXP.,42.211747,-4.434689
+14104,Frómista,34,34074,media_distancia,REG.EXP.,42.264900,-4.402433
+14107,Osorno,34,34901,media_distancia,REG.EXP.,42.415077,-4.357367
+14108,Espinosa de Villagonzalo,34,34071,media_distancia,REG.EXP.,42.452373,-4.367811
+14111,Herrera de Pisuerga,34,34083,media_distancia,REG.EXP.,42.598477,-4.316683
+14112,Alar del Rey,34,34005,media_distancia,REG.EXP.,42.656837,-4.311372
+14113,Mave,34,34004,media_distancia,REG.EXP.,42.723726,-4.276160
+14114,Aguilar de Campoo,34,34004,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,42.785362,-4.233899
+14115,Quintanilla de las Torres,34,34135,media_distancia,REG.EXP.,42.819030,-4.202753
+14117,El Carrión,34,34108,media_distancia,REG.EXP.,42.116642,-4.500692
+14200,Mataporquera,39,39092,cercanias;media_distancia,REG.EXP.;REGIONAL,42.870901,-4.165406
+14202,Reinosa,39,39059,cercanias;media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,42.994499,-4.140945
+14203,Lantueno-Santiurde,39,39077,cercanias,,43.058073,-4.084013
+14204,Pesquera,39,39051,cercanias,,43.082333,-4.073814
+14206,Bárcena,39,39010,cercanias;media_distancia,REG.EXP.,43.128705,-4.053473
+14207,Molledo-Portolín,39,39046,cercanias,,43.145627,-4.039033
+14208,Santa Cruz de Iguña,39,39046,cercanias,,43.170122,-4.045063
+14209,Las Fraguas,39,39004,cercanias,,43.193219,-4.054113
+14210,Los Corrales de Buelna,39,39025,cercanias;media_distancia,REG.EXP.,43.255101,-4.063947
+14211,Las Caldas de Besaya,39,39069,cercanias,,43.298595,-4.073252
+14212,Viérnoles,39,39087,cercanias,,43.324564,-4.054044
+14213,Torrelavega,39,39087,cercanias;media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,43.327678,-4.042687
+14214,Sierrapando,39,39087,cercanias,,43.341785,-4.026634
+14215,Zurita,39,39052,cercanias,,43.347671,-3.991050
+14216,Renedo,39,39052,cercanias;media_distancia,REG.EXP.,43.353107,-3.949647
+14217,Parbayón,39,39052,cercanias,,43.376745,-3.894220
+14218,Guarnizo,39,39008,cercanias,,43.391510,-3.859545
+14219,Boo,39,39008,cercanias,,43.410480,-3.841588
+14220,Maliaño,39,39016,cercanias;media_distancia,REG.EXP.,43.416142,-3.841076
+14223,Santander,39,39075,cercanias;media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.;REGIONAL,43.458398,-3.810953
+14230,Valdecilla,39,39075,cercanias;media_distancia,REG.EXP.,43.454089,-3.827763
+14231,Nueva Montaña apeadero,39,39075,cercanias,,43.444713,-3.847199
+14232,Lombera,39,39025,cercanias,,43.265825,-4.067590
+14233,Río Ebro,39,39059,cercanias,,43.000755,-4.134401
+14234,Pujayo,39,39010,cercanias,,43.122875,-4.082375
+14235,Arenas de Iguña,39,39004,cercanias,,43.185083,-4.050075
+14236,Vioño,39,39052,cercanias,,43.360647,-3.964806
+14237,Muriedas-Bahía,39,39016,cercanias,,43.421686,-3.844117
+15001,Grijota,34,34079,media_distancia,REG.EXP.;REGIONAL,42.049225,-4.583954
+15003,Becerril,34,34029,media_distancia,REG.EXP.;REGIONAL,42.104706,-4.647120
+15004,Paredes de Nava,34,34123,media_distancia,MD;REG.EXP.;REGIONAL,42.150694,-4.697599
+15006,Cisneros,34,34059,media_distancia,REG.EXP.,42.191120,-4.850249
+15007,Villada,34,34206,media_distancia,MD;REG.EXP.;REGIONAL,42.245238,-4.970589
+15008,Grajal,24,24080,media_distancia,REG.EXP.;REGIONAL,42.323246,-5.013381
+15009,Sahagún,24,24139,media_distancia,MD;REG.EXP.;REGIONAL,42.369329,-5.022667
+15012,El Burgo Ranero,24,24024,media_distancia,REG.EXP.;REGIONAL,42.425753,-5.208592
+15014,Santas Martas,24,24160,media_distancia,REG.EXP.,42.460004,-5.386777
+15015,Palanquinos,24,24218,media_distancia,REG.EXP.;REGIONAL,42.460716,-5.497584
+15100,León,24,24089,media_distancia;larga_distancia,ALVIA;AVE;AVLO;Intercity;MD;REG.EXP.;REGIONAL,42.596048,-5.582428
+15106,La Robla,24,24134,media_distancia,REGIONAL,42.804454,-5.626255
+15108,La Pola de Gordón,24,24114,media_distancia,REGIONAL,42.854099,-5.674524
+15109,Santa Lucía,24,24114,media_distancia,REGIONAL,42.875150,-5.639613
+15112,Villamanín,24,24901,media_distancia,REGIONAL,42.936710,-5.657637
+15113,Busdongo,24,24901,media_distancia,REGIONAL,42.984495,-5.705391
+15116,Linares-Congostinas,33,33033,media_distancia,REGIONAL,43.101743,-5.772162
+15118,Puente de los Fierros,33,33033,cercanias;media_distancia,REGIONAL,43.071599,-5.769465
+15119,La Frecha,33,33033,cercanias,,43.096167,-5.798600
+15120,Campomanes,33,33033,cercanias;media_distancia,REGIONAL,43.110068,-5.816447
+15121,La Cobertoria,33,33033,cercanias,,43.130161,-5.816030
+15122,Pola de Lena,33,33033,cercanias;media_distancia;larga_distancia,ALVIA;AVE;AVLO;MD;REGIONAL,43.158720,-5.831026
+15123,Villallana,33,33033,cercanias,,43.183857,-5.814593
+15200,Ujo,33,33037,cercanias;media_distancia,REGIONAL,43.204696,-5.792642
+15202,Santullano,33,33037,cercanias,,43.220899,-5.785587
+15203,Mieres-Puente,33,33037,cercanias;media_distancia;larga_distancia,ALVIA;AVE;AVLO;MD;REGIONAL,43.250027,-5.782262
+15205,Ablaña,33,33037,cercanias,,43.267603,-5.805793
+15206,La Pereda-Riosa,33,33037,cercanias,,43.277087,-5.812235
+15207,Olloniego,33,33044,cercanias,,43.296123,-5.818850
+15208,Soto de Rey,33,33057,cercanias,,43.306409,-5.855807
+15209,Las Segadas,33,33044,cercanias,,43.313242,-5.869198
+15210,El Caleyo,33,33044,cercanias,,43.329047,-5.873332
+15211,Oviedo,33,33044,cercanias;media_distancia;larga_distancia,ALVIA;AVE;AVLO;MD;REGIONAL,43.366358,-5.854838
+15212,Lugones,33,33066,cercanias,,43.404272,-5.811782
+15217,La Corredoria,33,33044,cercanias;media_distancia,REGIONAL,43.388108,-5.827253
+15218,Llamaquique,33,33044,cercanias;media_distancia,REGIONAL,43.358828,-5.857320
+15300,Lugo de Llanera,33,33035,cercanias,,43.442332,-5.815893
+15301,Villabona de Asturias,33,33035,cercanias,,43.461519,-5.826346
+15302,Serín,33,33024,cercanias,,43.504905,-5.781882
+15303,Monteana,33,33024,cercanias,,43.520848,-5.746358
+15305,Villabona-Tabladielillo,33,33035,cercanias,,43.474162,-5.800054
+15400,Veriña,33,33024,cercanias,,43.541576,-5.722797
+15401,Calzada de Asturias,33,33024,cercanias;media_distancia,REGIONAL,43.535385,-5.697151
+15410,Gijón-Sanz Crespo,33,33024,cercanias;media_distancia;larga_distancia,ALVIA;AVE;AVLO;MD;REGIONAL,43.537733,-5.675809
+16001,Santa Eulalia de Manzaneda,33,33044,cercanias,,43.317338,-5.812620
+16002,Tudela-Veguín,33,33044,cercanias,,43.331010,-5.776892
+16005,Peña Rubia,33,33031,cercanias,,43.321302,-5.720806
+16006,Barros,33,33031,cercanias,,43.317830,-5.710914
+16008,La Felguera,33,33031,cercanias,,43.304831,-5.692852
+16009,Sama,33,33031,cercanias,,43.298778,-5.683321
+16010,Ciaño,33,33031,cercanias,,43.289388,-5.668670
+16011,El Entrego,33,33060,cercanias,,43.289517,-5.640847
+16301,Ferroñes,33,33035,cercanias,,43.476034,-5.861622
+16302,Cancienes,33,33020,cercanias,,43.507333,-5.869252
+16400,Nubledo,33,33020,cercanias,,43.523423,-5.870301
+16401,Villalegre,33,33004,cercanias,,43.540040,-5.902231
+16402,La Rocica,33,33004,cercanias,,43.547101,-5.904708
+16403,Avilés,33,33004,cercanias;larga_distancia,ALVIA,43.561339,-5.922833
+16405,San Juan de Nieva,33,33016,cercanias,,43.589536,-5.932551
+16408,Los Campos,33,33020,cercanias,,43.536512,-5.884882
+17000,Madrid-Chamartín-Clara Campoamor,28,28079,cercanias;media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;Intercity;MD;REG.EXP.;REGIONAL,40.471179,-3.682952
+17001,Fuencarral,28,28079,cercanias,,40.501560,-3.682504
+17003,El Goloso,28,28079,cercanias,,40.558897,-3.713971
+17004,Tres Cantos,28,28903,cercanias,,40.598742,-3.715559
+17005,Colmenar Viejo,28,28045,cercanias,,40.645209,-3.776614
+17009,Universidad-Cantoblanco,28,28079,cercanias,,40.543842,-3.700155
+18000,Madrid-Atocha Cercanías,28,28079,cercanias;media_distancia;larga_distancia,ALVIA;MD;PROXIMDAD;REG.EXP.;REGIONAL,40.406619,-3.689439
+18001,Madrid-Recoletos,28,28079,cercanias;media_distancia,REGIONAL,40.423373,-3.690931
+18002,Madrid-Nuevos Ministerios,28,28079,cercanias;media_distancia,REG.EXP.;REGIONAL,40.446627,-3.692347
+18003,Méndez Álvaro P.V.,28,28079,cercanias,,40.395777,-3.677844
+18004,Delicias,28,28079,cercanias,,40.400438,-3.692777
+18005,Pirámides,28,28079,cercanias,,40.402534,-3.711362
+18101,Sol,28,28079,cercanias,,40.416866,-3.702876
+19001,Universidad Pontificia de Comillas,28,28079,cercanias,,40.553970,-3.683700
+19002,Valdelasfuentes,28,28006,cercanias,,40.547434,-3.654324
+19003,Alcobendas-San Sebastián de los Reyes,28,28006,cercanias,,40.546577,-3.635173
+20002,Quintana-Raneros,24,24162,media_distancia,REG.EXP.,42.550085,-5.637789
+20005,Veguellina,24,24223,media_distancia;larga_distancia,Intercity;MD;REG.EXP.,42.433500,-5.887560
+20006,Barrientos,24,24182,media_distancia,REG.EXP.,42.414301,-5.963988
+20007,Nistal,24,24148,media_distancia,REG.EXP.,42.424462,-6.008030
+20008,Villavante,24,24159,media_distancia,REG.EXP.,42.464580,-5.838914
+20100,Astorga,24,24008,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,42.459489,-6.047212
+20102,Vega-Magaz,24,24093,media_distancia;larga_distancia,Intercity;MD;REG.EXP.,42.553760,-6.068267
+20103,Porqueros,24,24093,media_distancia,REG.EXP.,42.598935,-6.108238
+20104,Brañuelas,24,24210,media_distancia;larga_distancia,Intercity;MD;REG.EXP.,42.632631,-6.201002
+20106,La Granja,24,24170,media_distancia,REG.EXP.,42.614874,-6.282495
+20109,Torre del Bierzo,24,24170,media_distancia;larga_distancia,Intercity;MD;REG.EXP.,42.595578,-6.329083
+20111,Bembibre,24,24014,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,42.609558,-6.422048
+20113,San Miguel de las Dueñas,24,24057,media_distancia;larga_distancia,Intercity;MD;REG.EXP.,42.586392,-6.523776
+20200,Ponferrada,24,24115,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,42.545429,-6.602376
+20203,Villadepalos,24,24038,media_distancia,REG.EXP.,42.536860,-6.751109
+20204,Toral de los Vados,24,24206,media_distancia,REG.EXP.,42.541052,-6.776703
+20207,Covas,32,32073,media_distancia,REG.EXP.,42.475326,-6.830878
+20208,Quereño,32,32073,media_distancia,REG.EXP.,42.420704,-6.829486
+20210,Sobradelo,32,32017,media_distancia,REG.EXP.,42.414859,-6.911951
+20211,O Barco de Valdeorras,32,32009,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,42.418301,-6.985030
+20212,Vilamartín de Valdeorras,32,32088,media_distancia,REG.EXP.,42.411829,-7.061185
+20213,A Rúa-Petín,32,32072,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,42.392760,-7.113284
+20214,Montefurado,27,27050,media_distancia,REG.EXP.,42.394020,-7.198400
+20216,San Clodio-Quiroga,27,27052,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,42.465271,-7.287198
+20218,A Pobra Do Brollón,27,27047,media_distancia,REG.EXP.,42.533682,-7.400088
+20300,Monforte de Lemos,27,27031,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,42.529682,-7.503589
+20305,Sarria,27,27057,media_distancia;larga_distancia,ALVIA;Intercity;MD,42.784049,-7.418822
+20306,Pedrelo-Céltigos,27,27057,media_distancia,MD,42.832934,-7.393329
+20309,Lugo,27,27028,media_distancia;larga_distancia,ALVIA;Intercity;MD,43.015222,-7.552176
+20310,Rábade,27,27056,media_distancia,MD,43.121378,-7.624835
+20312,Baamonde,27,27007,media_distancia,MD,43.173405,-7.756128
+20313,Parga,27,27022,media_distancia,MD,43.163644,-7.837383
+20314,Guitiriz,27,27022,media_distancia,MD,43.179058,-7.895039
+20316,Teixeiro,15,15032,media_distancia,MD,43.141411,-8.037690
+20317,Curtis,15,15032,media_distancia,MD,43.127232,-8.143155
+20318,Piñoi,15,15902,media_distancia,MD,43.127922,-8.163498
+20319,Cesuras,15,15902,media_distancia,MD,43.173073,-8.200500
+20320,Oza Dos Ríos,15,15902,media_distancia,MD,43.218770,-8.187111
+20400,Betanzos-Infesta,15,15009,media_distancia,MD,43.270698,-8.225847
+20402,Cecebre,15,15017,media_distancia,MD,43.287913,-8.307767
+20403,Cambre,15,15017,media_distancia,MD,43.290502,-8.352104
+20404,O Burgo-Santiago,15,15031,media_distancia,MD,43.317841,-8.368750
+20410,Elviña-Universidade,15,15030,media_distancia,MD,43.335222,-8.413061
+21001,Betanzos-Cidade,15,15009,media_distancia,MD,43.284137,-8.215874
+21002,Miño,15,15048,media_distancia,MD,43.349431,-8.207313
+21003,Perbes,15,15048,media_distancia,MD,43.378197,-8.201106
+21004,Pontedeume,15,15069,media_distancia,MD,43.411797,-8.180416
+21005,Cabanas,15,15015,media_distancia,MD,43.415585,-8.168828
+21007,Barallobre,15,15035,media_distancia,MD,43.462899,-8.188586
+21008,Perlío,15,15035,media_distancia,MD,43.472309,-8.174837
+21009,Neda,15,15055,media_distancia,MD,43.495351,-8.160967
+21010,Ferrol,15,15036,cercanias;media_distancia,MD;REGIONAL,43.488047,-8.231066
+21913,POLIGON INDUSTRIAL DEL SEGRE,25,25120,,,41.615745,0.626956
+22001,Canaval,27,27059,media_distancia,REG.EXP.,42.482882,-7.587733
+22002,Areas,27,27059,media_distancia,REG.EXP.,42.457799,-7.628790
+22003,Santo Estevo Do Sil,27,27041,media_distancia,REG.EXP.,42.426921,-7.661676
+22004,San Pedro Do Sil,27,27041,media_distancia,REG.EXP.,42.441353,-7.704120
+22005,Os Peares,32,32059,media_distancia,REG.EXP.,42.451439,-7.735523
+22006,Barra de Miño,32,32026,media_distancia,REG.EXP.,42.401095,-7.802567
+22100,Ourense,32,32054,media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;Intercity;MD;REG.EXP.;REGIONAL,42.350389,-7.872777
+22101,Barbantes,32,32025,media_distancia,REG.EXP.,42.338376,-8.011721
+22102,Ribadavia,32,32069,media_distancia,REG.EXP.,42.293100,-8.139261
+22103,Filgueira,36,36014,media_distancia,REG.EXP.,42.219917,-8.184788
+22104,Frieira,36,36014,media_distancia,REG.EXP.,42.154882,-8.201036
+22105,Pousa-Crecente,36,36014,media_distancia,REG.EXP.,42.136705,-8.234889
+22106,Arbo,36,36001,media_distancia,REG.EXP.,42.107058,-8.300247
+22107,Sela,36,36001,media_distancia,REG.EXP.,42.092092,-8.355998
+22108,As Neves,36,36034,media_distancia,REG.EXP.,42.075462,-8.420074
+22109,Salvaterra,36,36050,media_distancia,REG.EXP.,42.081640,-8.495141
+22110,Caldelas,36,36055,media_distancia,REG.EXP.,42.055813,-8.566343
+22200,Guillarei,36,36055,media_distancia,REG.EXP.,42.065663,-8.622530
+22201,O Porriño,36,36039,media_distancia,REG.EXP.,42.164190,-8.622020
+22300,Redondela,36,36045,media_distancia,REG.EXP.;REGIONAL,42.286005,-8.619402
+22308,Vigo-Guixar,36,36057,media_distancia;larga_distancia,REG.EXP.;REGIONAL;TRENCELTA,42.239266,-8.714609
+22401,TUI,36,36055,,,42.056534,-8.642884
+23000,Redondela-Picota,36,36045,media_distancia,REGIONAL,42.286866,-8.607118
+23001,Cesantes,36,36045,media_distancia,REGIONAL,42.310258,-8.616541
+23002,Arcade,36,36053,media_distancia,MD;REGIONAL,42.340549,-8.611178
+23004,Pontevedra,36,36038,media_distancia;larga_distancia,ALVIA;AVE;AVLO;MD;REGIONAL,42.421969,-8.635546
+23005,Portela,36,36002,media_distancia,REGIONAL,42.517801,-8.654609
+23008,Vilagarcía de Arousa,36,36060,media_distancia;larga_distancia,ALVIA;AVE;AVLO;MD;REGIONAL,42.602189,-8.762523
+23009,Catoira,36,36010,media_distancia,REGIONAL,42.672166,-8.725291
+23010,Pontecesures,36,36044,media_distancia,REGIONAL,42.722985,-8.652130
+23011,Padrón,15,15065,media_distancia,REGIONAL,42.738967,-8.652614
+23013,Osebe,15,15082,media_distancia,REGIONAL,42.825298,-8.615840
+23018,Pontevedra Universidad,36,36038,media_distancia,REGIONAL,42.438750,-8.630481
+23021,Padrón Barbanza,15,15065,media_distancia,MD,42.738967,-8.652614
+30000,Monfragüe,10,10116,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,39.937464,-6.100910
+30002,Plasencia,10,10148,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,40.022282,-6.099397
+30100,Salamanca,37,37274,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,40.972235,-5.648990
+30110,Salamanca-La Alamedilla,37,37274,media_distancia,MD;REG.EXP.,40.966763,-5.656366
+30200,Zamora,49,49275,media_distancia;larga_distancia,ALVIA;AVE;AVLO;REG.EXP.,41.515892,-5.739675
+31002,Nava del Rey,47,47101,media_distancia,REG.EXP.,41.334716,-5.076818
+31006,Toro,49,49219,media_distancia,REG.EXP.,41.512201,-5.384953
+31104,Carbajales de Alba,49,49036,media_distancia,REG.EXP.,41.681542,-5.971906
+31106,Ferreruela de Tábara,49,49068,media_distancia,REG.EXP.,41.764106,-6.073900
+31107,Abejera,49,49176,media_distancia,REG.EXP.,41.809420,-6.141851
+31108,Sarracín de Aliste,49,49176,media_distancia,REG.EXP.,41.848497,-6.205130
+31109,Cabañas de Aliste,49,49176,media_distancia,REG.EXP.,41.854595,-6.246350
+31112,Linarejos-Pedroso,49,49110,media_distancia,REG.EXP.,41.946963,-6.484541
+31200,Puebla de Sanabria,49,49166,media_distancia,REG.EXP.,42.045763,-6.626848
+31303,A Friela-Maside,32,32045,media_distancia,REGIONAL,42.411401,-8.028967
+31304,O Carballiño,32,32019,media_distancia,REGIONAL,42.431340,-8.068874
+31306,O Irixo,32,32035,media_distancia,REGIONAL,42.519719,-8.105174
+31308,Lalín,36,36024,media_distancia,REGIONAL,42.632530,-8.142715
+31400,Santiago de Compostela-Daniel Castelao,15,15078,media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;MD;REGIONAL,42.870842,-8.544697
+31411,Uxes,15,15005,media_distancia,REGIONAL,43.297374,-8.444404
+31412,A Coruña,15,15030,media_distancia;larga_distancia,AVANT;AVE;AVLO;MD;REGIONAL,43.349693,-8.415563
+31415,Ordes,15,15059,media_distancia,REGIONAL,43.037544,-8.448447
+31416,Cerceda-Meirama,15,15024,media_distancia,MD;REGIONAL,43.207879,-8.446772
+32001,Campillo,47,47031,media_distancia,MD;REG.EXP.,41.259509,-5.017791
+32002,El Carpio,47,47035,media_distancia;larga_distancia,Intercity;MD;REG.EXP.,41.215464,-5.114466
+32003,Fresno el Viejo,47,47065,media_distancia;larga_distancia,Intercity;MD;REG.EXP.,41.191351,-5.138061
+32004,Cantalapiedra,37,37081,media_distancia;larga_distancia,Intercity;MD;REG.EXP.,41.133585,-5.182961
+32006,El Pedroso de la Armuña,37,37239,media_distancia,MD;REG.EXP.,41.079901,-5.406019
+32007,Pitiegua,37,37254,media_distancia,MD;REG.EXP.,41.063741,-5.474174
+32008,Gomecello,37,37152,media_distancia,MD;REG.EXP.,41.041859,-5.541551
+32009,Moriscos,37,37207,media_distancia,MD;REG.EXP.,41.011633,-5.584713
+34002,Cardeñosa de Ávila,05,05049,media_distancia,MD,40.739120,-4.750750
+34005,San Pedro del Arroyo,05,05220,media_distancia,MD,40.803841,-4.871407
+34007,Crespos,05,05065,media_distancia,MD,40.870110,-4.968030
+34008,Narros del Castillo,05,05147,media_distancia,MD,40.866641,-5.052869
+34010,Peñaranda de Bracamonte,37,37246,media_distancia,MD,40.898138,-5.206361
+34011,Villar de Gallimazo,37,37358,media_distancia,MD,40.951981,-5.296183
+34012,Babilafuente,37,37038,media_distancia,MD,40.972426,-5.430593
+34013,San Morales,37,37288,media_distancia,MD,40.984243,-5.492955
+34014,Aldealengua,37,37016,media_distancia,MD,40.979890,-5.552951
+35001,Leganés,28,28074,cercanias;media_distancia;larga_distancia,ALVIA;MD;PROXIMDAD;REG.EXP.;REGIONAL,40.328643,-3.771316
+35002,Fuenlabrada,28,28058,cercanias;media_distancia,PROXIMDAD;REG.EXP.;REGIONAL,40.283378,-3.799443
+35005,Illescas,45,45081,media_distancia,MD;PROXIMDAD;REG.EXP.;REGIONAL,40.120880,-3.842262
+35009,Zarzaquemada,28,28074,cercanias,,40.340853,-3.748263
+35010,La Serna-Fuenlabrada,28,28058,cercanias,,40.296817,-3.792623
+35011,Parque Polvoranca,28,28074,cercanias,,40.312574,-3.783494
+35012,Humanes,28,28073,cercanias;media_distancia,PROXIMDAD,40.255810,-3.828705
+35105,Torrijos,45,45173,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.;REGIONAL,39.979003,-4.283037
+35109,Montearagón,45,45104,media_distancia,REGIONAL,39.960996,-4.647093
+35200,Talavera de la Reina,45,45165,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.;REGIONAL,39.970674,-4.826512
+35203,Oropesa de Toledo,45,45125,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,39.921746,-5.186137
+35206,Navalmoral de la Mata,10,10131,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,39.894913,-5.545607
+35207,Casatejada,10,10058,media_distancia,REG.EXP.,39.891909,-5.677732
+35301,Mirabel,10,10123,media_distancia,REG.EXP.,39.866229,-6.228969
+35302,Casas de Millán,10,10056,media_distancia,REG.EXP.,39.811866,-6.326045
+35303,Cañaveral,10,10045,media_distancia,REG.EXP.,39.789124,-6.375031
+35400,Cáceres,10,10037,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.;REGIONAL,39.461131,-6.385679
+35402,Arroyo de Malpartida,10,10037,media_distancia,REGIONAL,39.468078,-6.533634
+35405,San Vicente de Alcántara,06,06123,media_distancia,REGIONAL,39.381561,-7.117075
+35406,Valencia de Alcántara,10,10203,media_distancia,REGIONAL,39.426928,-7.230688
+35600,Aluche,28,28079,cercanias,,40.385668,-3.760734
+35601,Maestra Justa Freire-Polidep. Aluche,28,28079,cercanias,,40.383638,-3.768687
+35602,Las Águilas,28,28079,cercanias,,40.381022,-3.780164
+35603,Cuatro Vientos,28,28079,cercanias,,40.377765,-3.791510
+35604,San José de Valderas,28,28007,cercanias,,40.356613,-3.815573
+35605,Alcorcón,28,28007,cercanias,,40.350227,-3.831702
+35606,Móstoles,28,28092,cercanias,,40.328663,-3.863622
+35607,Móstoles-El Soto,28,28092,cercanias,,40.331064,-3.882456
+35608,Laguna,28,28079,cercanias,,40.399060,-3.744231
+35609,Embajadores,28,28079,cercanias,,40.404648,-3.702579
+35610,Las Retamas,28,28007,cercanias,,40.342115,-3.842464
+35702,Doce de Octubre,28,28079,cercanias,,40.378921,-3.698699
+35703,Orcasitas,28,28079,cercanias,,40.367102,-3.704231
+35704,Puente Alcocer,28,28079,cercanias,,40.350448,-3.705115
+37001,Madrid-Villaverde Alto,28,28079,cercanias,,40.341589,-3.712351
+37002,Getafe-Centro,28,28065,cercanias,,40.310004,-3.733988
+37010,Las Margaritas,28,28065,cercanias,,40.323099,-3.727286
+37011,Getafe-Sector 3,28,28065,cercanias,,40.288389,-3.737499
+37012,Parla,28,28106,cercanias,,40.241099,-3.769270
+37200,Ciudad Real,13,13034,media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;MD;REG.EXP.,38.985300,-3.913633
+37300,Puertollano,13,13071,media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;MD;REG.EXP.,38.691280,-4.111655
+37302,Brazatortas-Veredas,13,13024,media_distancia,MD;REG.EXP.,38.668758,-4.316468
+37305,Almadenejos-Almadén,13,13012,media_distancia,MD;REG.EXP.,38.740578,-4.730387
+37308,Guadalmez-Los Pedroches,13,13046,media_distancia,MD;REG.EXP.,38.699210,-4.929771
+37311,Cabeza del Buey,06,06023,media_distancia,MD;REG.EXP.,38.723890,-5.227067
+37400,Almorchón,06,06023,media_distancia,MD;REG.EXP.,38.696631,-5.290496
+37402,Castuera,06,06036,media_distancia,MD;REG.EXP.,38.735021,-5.541637
+37404,Campanario,06,06028,media_distancia,MD;REG.EXP.,38.853395,-5.641415
+37406,Villanueva de la Serena,06,06153,media_distancia,MD;REG.EXP.;REGIONAL,38.968860,-5.796500
+37407,Don Benito,06,06044,media_distancia,MD;REG.EXP.;REGIONAL,38.966950,-5.862923
+37409,Valdetorres,06,06138,media_distancia,MD;REG.EXP.;REGIONAL,38.913301,-6.069407
+37410,Guareña,06,06060,media_distancia,MD;REG.EXP.;REGIONAL,38.896749,-6.128842
+37500,Mérida,06,06083,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.;REGIONAL,38.921503,-6.343794
+37603,Montijo,06,06088,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.;REGIONAL,38.913539,-6.598577
+37604,Guadiana,06,06903,media_distancia,REG.EXP.;REGIONAL,38.922099,-6.689998
+37606,Badajoz,06,06015,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.;REGIONAL,38.890696,-6.981753
+37608,Montijo-El Molino,06,06088,media_distancia,MD;REG.EXP.;REGIONAL,38.913973,-6.618281
+37611,Garrovilla-Las Vegas,06,06058,media_distancia,MD;REG.EXP.;REGIONAL,38.915763,-6.474080
+37704,Villanueva de Córdoba,14,14069,larga_distancia,AVE;AVLO,38.255405,-4.570952
+40002,Calamonte,06,06025,media_distancia,MD;REG.EXP.;REGIONAL,38.886931,-6.382965
+40004,Almendralejo,06,06011,media_distancia,MD;REG.EXP.;REGIONAL,38.684662,-6.399815
+40005,Villafranca de los Barros,06,06149,media_distancia,MD;REG.EXP.;REGIONAL,38.564402,-6.352048
+40006,Los Santos de Maimona,06,06122,media_distancia,MD;REG.EXP.;REGIONAL,38.449724,-6.361749
+40008,Zafra Feria,06,06158,media_distancia,MD;REG.EXP.;REGIONAL,38.424403,-6.410084
+40100,Zafra,06,06158,media_distancia,MD;REG.EXP.;REGIONAL,38.413635,-6.405083
+40105,Llerena,06,06074,media_distancia,MD;REG.EXP.,38.237000,-6.009017
+40107,Fuente del Arco,06,06053,media_distancia,MD;REG.EXP.,38.163530,-5.900484
+40108,Guadalcanal,41,41048,media_distancia,MD;REG.EXP.,38.090197,-5.803388
+40113,Cazalla-Constantina,41,41032,cercanias;media_distancia,MD;REG.EXP.,37.932864,-5.704433
+40115,Pedroso,41,41073,cercanias;media_distancia,MD;REG.EXP.,37.837392,-5.762452
+40119,Villanueva del Río-Minas,41,41099,cercanias;media_distancia,MD;REG.EXP.,37.661705,-5.712154
+40121,Alcolea del Río,41,41099,cercanias,,37.635456,-5.730831
+40122,Tocina,41,41092,cercanias;media_distancia,MD;REG.EXP.,37.609304,-5.731694
+42005,Fregenal de la Sierra,06,06050,media_distancia,MD,38.167613,-6.637909
+42006,Cumbres Mayores,21,21029,media_distancia,MD,38.053126,-6.631553
+42008,Jabugo-Galaroza,21,21043,media_distancia,MD,37.928243,-6.773908
+42009,Almonaster-Cortegana,21,21004,media_distancia,MD,37.901174,-6.797372
+42012,Valdelamusa,21,21025,media_distancia,MD,37.787111,-6.873729
+42013,El Tamujoso,21,21023,media_distancia,MD,37.720339,-6.900554
+42015,Calañas,21,21017,media_distancia,MD,37.652007,-6.875841
+42016,Los Milanos,21,21017,media_distancia,MD,37.586219,-6.919938
+42018,El Cobujón,21,21017,media_distancia,MD,37.516509,-6.953428
+42019,Belmonte,21,21035,media_distancia,MD,37.461864,-6.947533
+42020,Gibraleón,21,21035,media_distancia,MD,37.368520,-6.962070
+43000,San Jerónimo,41,41091,cercanias,,37.433173,-5.980360
+43002,Camas,41,41096,cercanias,,37.417738,-6.040847
+43003,Villanueva del Ariscal y Olivares,41,41098,cercanias,,37.407137,-6.148189
+43004,Sanlúcar la Mayor,41,41087,cercanias,,37.381440,-6.193962
+43005,Benacazón,41,41015,cercanias;media_distancia,MD,37.356851,-6.208201
+43008,Carrión de los Céspedes,41,41025,media_distancia,MD,37.368955,-6.335088
+43009,Escacena,21,21032,media_distancia,MD,37.397812,-6.391980
+43011,La Palma del Condado,21,21054,media_distancia;larga_distancia,ALVIA;Intercity;MD,37.390665,-6.554444
+43012,Villarrasa,21,21077,media_distancia,MD,37.386999,-6.598819
+43015,Niebla-Puerta del Buey,21,21053,media_distancia,MD,37.358762,-6.681258
+43019,Huelva,21,21041,media_distancia;larga_distancia,ALVIA;Intercity;MD,37.252592,-6.944815
+43021,San Juan del Puerto,21,21064,media_distancia,MD,37.311898,-6.841076
+43026,Valencina-Santiponce,41,41096,cercanias,,37.426813,-6.056686
+43027,Salteras,41,41085,cercanias,,37.410235,-6.099239
+50002,Cinco Casas,13,13005,media_distancia,MD,39.169282,-3.232663
+50100,Manzanares,13,13053,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,39.005837,-3.370507
+50102,Valdepeñas,13,13087,media_distancia;larga_distancia,ALVIA;MD,38.762868,-3.395720
+50200,Santa Cruz de Mudela,13,13077,media_distancia,MD,38.644428,-3.451493
+50202,Almuradiel-Viso del Marqués,13,13016,media_distancia,MD,38.514267,-3.501935
+50207,Vilches,23,23094,media_distancia;larga_distancia,ALVIA;MD,38.215742,-3.517576
+50300,Linares-Baeza,23,23055,media_distancia;larga_distancia,ALVIA;MD,38.068864,-3.589396
+50400,Espelúy,23,23032,media_distancia,MD,38.010247,-3.832726
+50403,Andújar,23,23005,media_distancia,MD,38.028225,-4.066036
+50407,Villa del Río,14,14066,media_distancia,MD;PROXIMDAD,37.981331,-4.283788
+50413,Alcolea de Córdoba,14,14021,media_distancia,PROXIMDAD,37.922326,-4.694751
+50417,Campus Universitario de Rabanales,14,14021,media_distancia,MD;PROXIMDAD,37.912560,-4.720860
+50500,Córdoba-Julio Anguita,14,14021,media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;Intercity;MD;PROXIMDAD,37.888291,-4.789453
+50501,El Higuerón,14,14021,media_distancia,PROXIMDAD,37.870271,-4.838942
+50502,Villarrubia de Córdoba,14,14021,media_distancia,PROXIMDAD,37.847574,-4.915339
+50504,Posadas,14,14053,media_distancia,MD;PROXIMDAD,37.803986,-5.106325
+50506,Palma del Río,14,14049,media_distancia,MD;PROXIMDAD,37.718081,-5.292760
+50507,Peñaflor,41,41074,media_distancia,MD,37.707502,-5.341609
+50600,Lora del Río,41,41055,cercanias;media_distancia,MD,37.661321,-5.529551
+50602,Guadajoz,41,41024,cercanias,,37.581459,-5.669980
+50700,Los Rosales,41,41092,cercanias;media_distancia,MD;REG.EXP.,37.589972,-5.726121
+50701,Cantillana,41,41023,cercanias,,37.574969,-5.803207
+50702,Brenes,41,41018,cercanias,,37.546328,-5.866782
+50703,La Rinconada,41,41081,cercanias,,37.480090,-5.940119
+50704,El Cáñamo,41,41081,cercanias,,37.486395,-5.932975
+51003,Sevilla-Santa Justa,41,41091,cercanias;media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;Intercity;MD;REG.EXP.,37.392496,-5.974927
+51009,Palacio de Congresos,41,41091,cercanias,,37.403646,-5.936264
+51010,Padre Pío-Palmete,41,41091,cercanias,,37.370852,-5.939411
+51050,Cartuja,41,41091,cercanias,,37.407457,-6.010186
+51051,Estadio Olímpico,41,41089,cercanias,,37.417431,-6.007496
+51100,San Bernardo,41,41091,cercanias;media_distancia,MD,37.377778,-5.979614
+51101,La Salud,41,41091,,,37.329983,-5.963792
+51103,Dos Hermanas,41,41038,cercanias;media_distancia,MD,37.287226,-5.923532
+51110,Virgen del Rocío,41,41091,cercanias;media_distancia,MD,37.362809,-5.976011
+51111,Bellavista,41,41038,cercanias;media_distancia,MD,37.321519,-5.964192
+51112,Cantaelgallo,41,41038,cercanias,,37.278220,-5.910440
+51113,Jardines de Hércules,41,41091,cercanias,,37.332853,-5.964094
+51200,Utrera,41,41095,cercanias;media_distancia,MD,37.184818,-5.790754
+51202,Las Cabezas de San Juan,41,41020,cercanias;media_distancia,MD,37.019490,-5.946580
+51203,Lebrija,41,41053,cercanias;media_distancia,MD,36.911638,-6.094849
+51205,Aeropuerto de Jerez,11,11020,cercanias;media_distancia,MD,36.751589,-6.065938
+51300,Jerez de la Frontera,11,11020,cercanias;media_distancia;larga_distancia,ALVIA;MD,36.680022,-6.126603
+51400,Puerto de Santa María,11,11027,cercanias;media_distancia;larga_distancia,ALVIA;MD,36.604072,-6.217926
+51401,Puerto Real,11,11028,cercanias;media_distancia,MD,36.530915,-6.185314
+51402,San Fernando-Centro,11,11031,cercanias,,36.475961,-6.194032
+51404,Segunda Aguada,11,11012,cercanias;media_distancia,MD,36.513532,-6.277013
+51405,Cádiz,11,11012,cercanias;media_distancia;larga_distancia,ALVIA;MD,36.528935,-6.287972
+51406,San Fernando-Bahía Sur,11,11031,cercanias;media_distancia;larga_distancia,ALVIA;MD,36.468083,-6.206768
+51407,Cortadura,11,11012,cercanias,,36.494367,-6.268238
+51409,Cádiz-Estadio,11,11012,cercanias;media_distancia,MD,36.502946,-6.272064
+51414,San Severiano,11,11012,cercanias,,36.521605,-6.280671
+51415,Las Aletas,11,11028,cercanias,,36.544638,-6.199009
+51416,Universidad de Cádiz,11,11028,cercanias,,36.529251,-6.206169
+51417,Valdelagrana,11,11027,cercanias,,36.584725,-6.216299
+51419,Río Arillo,11,11031,cercanias,,36.457494,-6.223626
+51450,Pelagatos,11,11015,cercanias,,36.408756,-6.134322
+51451,La Hoya,11,11015,cercanias,,36.411245,-6.139095
+51452,Reyes Católicos,11,11015,cercanias,,36.414412,-6.143190
+51453,Nuestra Señora de los Remedios,11,11015,cercanias,,36.420398,-6.144747
+51454,Alameda Solano,11,11015,cercanias,,36.425378,-6.144524
+51455,Marquesado,11,11015,cercanias,,36.428640,-6.143374
+51456,Pinar de los Franceses,11,11015,cercanias,,36.440520,-6.144566
+51457,Tres Caminos,11,11028,cercanias,,36.466523,-6.175706
+51458,Venta de Vargas,11,11031,cercanias,,36.467739,-6.191064
+51459,Plaza de la Iglesia,11,11031,cercanias,,36.466219,-6.195550
+51460,Plaza del Rey,11,11031,cercanias,,36.463944,-6.198344
+51461,Compañía de María,11,11031,cercanias,,36.460437,-6.201011
+51462,Plaza del Carmen,11,11031,cercanias,,36.458159,-6.203489
+51463,Santo Entierro,11,11031,cercanias,,36.455907,-6.209616
+51464,La Ardila,11,11031,cercanias,,36.456250,-6.216027
+54400,Bobadilla,29,29015,media_distancia,MD,37.037073,-4.727942
+54403,El Chorro-Caminito del Rey,29,29012,media_distancia;larga_distancia,Intercity;MD;PROXIMDAD,36.907335,-4.759258
+54404,Las Mellizas,29,29012,media_distancia;larga_distancia,Intercity;MD;PROXIMDAD,36.873306,-4.719433
+54405,Álora,29,29012,cercanias;media_distancia,MD;PROXIMDAD,36.819875,-4.699611
+54406,Pizarra,29,29080,cercanias,,36.764151,-4.711831
+54407,Aljaima,29,29038,cercanias,,36.733083,-4.664500
+54408,Cártama,29,29038,cercanias,,36.733739,-4.608397
+54410,Campanillas,29,29067,cercanias,,36.705044,-4.545483
+54412,Málaga-Los Prados,29,29067,cercanias,,36.698611,-4.478150
+54413,Málaga María Zambrano,29,29067,media_distancia;larga_distancia,AVANT;AVE;AVLO;Intercity;MD;PROXIMDAD,36.711339,-4.431389
+54500,Málaga M.Z. Cercanías,29,29067,cercanias,,36.711388,-4.432891
+54501,Victoria Kent,29,29067,cercanias,,36.701223,-4.454415
+54503,Guadalhorce,29,29067,cercanias,,36.692076,-4.483684
+54505,Málaga-Aeropuerto,29,29067,cercanias,,36.677717,-4.490161
+54508,La Colina,29,29901,cercanias,,36.641924,-4.492638
+54509,Torremolinos,29,29901,cercanias,,36.622560,-4.499570
+54510,El Pinillo,29,29901,cercanias,,36.609869,-4.515373
+54511,Benalmádena-Arroyo de la Miel,29,29025,cercanias,,36.599112,-4.536346
+54512,Torremuelle,29,29025,cercanias,,36.582297,-4.567018
+54513,Carvajal,29,29054,cercanias,,36.570259,-4.594049
+54514,Torreblanca del Sol,29,29054,cercanias,,36.564907,-4.606711
+54515,Los Boliches,29,29054,cercanias,,36.554658,-4.614577
+54516,Fuengirola,29,29054,cercanias,,36.541895,-4.623858
+54517,Málaga-Centro Alameda,29,29067,cercanias,,36.715954,-4.426533
+54518,Los Álamos,29,29901,cercanias,,36.645059,-4.485119
+54519,Montemar Alto,29,29901,cercanias,,36.613667,-4.509426
+54520,Plaza Mayor,29,29067,cercanias,,36.656203,-4.480304
+55001,Campillos,29,29032,media_distancia,MD,37.032231,-4.863499
+55003,Almargen-Cañete la Real,29,29010,media_distancia,MD,37.000985,-5.020111
+55005,Setenil,11,11034,media_distancia,MD,36.863423,-5.121375
+55007,Ronda,29,29084,media_distancia;larga_distancia,ALVIA;MD,36.748401,-5.161970
+55008,Arriate,29,29020,media_distancia,MD,36.790595,-5.140757
+55010,Benaoján-Montejaque,29,29028,media_distancia,MD,36.713753,-5.246366
+55011,Jimera de Líbar,29,29063,media_distancia,MD,36.660678,-5.281473
+55012,Cortes de la Frontera,29,29046,media_distancia,MD,36.597364,-5.332784
+55013,Gaucín,29,29046,media_distancia,MD,36.540372,-5.386825
+55014,San Pablo,11,11021,media_distancia,MD,36.467952,-5.418921
+55015,Jimena de la Frontera,11,11021,media_distancia,MD,36.424200,-5.434113
+55017,Almoraima,11,11013,media_distancia,MD,36.277510,-5.430529
+55018,San Roque-La Línea,11,11033,media_distancia;larga_distancia,ALVIA;MD,36.214482,-5.432399
+55019,Los Barrios,11,11008,media_distancia,MD,36.173998,-5.460801
+55020,Algeciras,11,11004,media_distancia;larga_distancia,ALVIA;MD,36.126831,-5.451108
+56004,Jódar-Úbeda,23,23092,media_distancia,MD,37.913343,-3.348920
+56009,Cabra del Santo Cristo y Alicún,23,23017,media_distancia,MD,37.656713,-3.262623
+56100,Moreda,18,18909,media_distancia,MD,37.431216,-3.310516
+56103,Benalúa de Guadix,18,18027,media_distancia,MD,37.345277,-3.163177
+56200,Guadix,18,18089,media_distancia;larga_distancia,ALVIA;MD,37.316873,-3.127209
+56301,Fiñana,04,04045,media_distancia,MD,37.184647,-2.839757
+56305,Gérgal,04,04050,media_distancia,MD,37.108847,-2.591556
+56308,Gádor,04,04047,media_distancia,MD,36.951624,-2.487658
+56310,Huercal-Viator,04,04052,media_distancia;larga_distancia,ALVIA;MD,36.885155,-2.436718
+56312,Almería,04,04013,media_distancia;larga_distancia,ALVIA;MD,36.834951,-2.455519
+57003,Iznalloz,18,18105,media_distancia,MD,37.395852,-3.527947
+60000,Madrid-Puerta de Atocha-Almudena Grandes,28,28079,media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVE INT;AVLO;Intercity,40.406442,-3.690886
+60100,Madrid-Villaverde Bajo,28,28079,cercanias,,40.352676,-3.683898
+60101,San Cristóbal Industrial,28,28079,cercanias,,40.331859,-3.698960
+60102,Getafe-Industrial,28,28065,cercanias,,40.305718,-3.707836
+60103,Pinto,28,28113,cercanias,,40.242855,-3.703530
+60104,Valdemoro,28,28161,cercanias,,40.196078,-3.664937
+60105,Ciempozuelos,28,28040,cercanias,,40.159201,-3.610185
+60107,San Cristóbal de los Ángeles,28,28079,cercanias,,40.342414,-3.683979
+60109,El Casar,28,28065,cercanias,,40.318522,-3.709806
+60200,Aranjuez,28,28013,cercanias;media_distancia,MD;REG.EXP.,40.035026,-3.618253
+60202,Castillejo-Añover,28,28013,media_distancia,MD,39.949634,-3.738774
+60203,Villasequilla,45,45197,media_distancia,MD;REG.EXP.,39.879535,-3.728453
+60206,Tembleque,45,45149,media_distancia,MD,39.722958,-3.497354
+60207,El Romeral,45,45149,media_distancia,MD,39.694516,-3.430502
+60300,Villacañas,45,45185,media_distancia,MD;REG.EXP.,39.622698,-3.330510
+60301,Quero,45,45141,media_distancia,MD;REG.EXP.,39.504173,-3.266072
+60400,Alcázar de San Juan,13,13005,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,39.395628,-3.205744
+60402,Campo de Criptana,13,13028,media_distancia,MD;REG.EXP.,39.394343,-3.117746
+60406,Socuéllamos,13,13078,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,39.278776,-2.775571
+60500,Villarrobledo,02,02081,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,39.260868,-2.598621
+60503,Minaya,02,02048,media_distancia,REG.EXP.,39.240738,-2.348403
+60505,La Roda de Albacete,02,02069,media_distancia,MD;REG.EXP.,39.199594,-2.162547
+60507,La Gineta,02,02035,media_distancia,MD;REG.EXP.,39.111665,-2.000155
+60600,Albacete-Los Llanos,02,02003,media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;Intercity;MD;REG.EXP.;REGIONAL,38.999384,-1.848450
+60800,Almansa,02,02009,media_distancia,MD;REG.EXP.;REGIONAL,38.867822,-1.105446
+60900,La Encina,03,03140,media_distancia,REG.EXP.;REGIONAL,38.765344,-0.954244
+60901,Caudete,02,02025,media_distancia,MD,38.716163,-0.959727
+60902,Villena,03,03140,media_distancia;larga_distancia,Intercity;MD;REG.EXP.;REGIONAL,38.631738,-0.867689
+60904,Sax,03,03123,media_distancia,MD;REGIONAL,38.544251,-0.813729
+60905,Elda-Petrer,03,03066,media_distancia;larga_distancia,Intercity;MD;REG.EXP.;REGIONAL,38.484879,-0.801090
+60907,Novelda-Aspe,03,03093,media_distancia,MD;REGIONAL,38.407086,-0.777744
+60911,Alicante/Alacant-Terminal,03,03014,cercanias;media_distancia;larga_distancia,ALVIA;AVANT;AVE;AVLO;EUROMED;Intercity;MD;REG.EXP.;REGIONAL,38.344713,-0.495524
+60913,Sant Vicent Centre,03,03122,cercanias;media_distancia,MD;REG.EXP.;REGIONAL,38.394653,-0.528725
+60914,Universidad de Alicante,03,03014,cercanias;media_distancia,MD;REG.EXP.;REGIONAL,38.384165,-0.528411
+61005,Hellín,02,02037,larga_distancia,Intercity,38.508776,-1.688437
+61012,Cieza,30,30019,larga_distancia,Intercity,38.246609,-1.421702
+61015,Archena-Fortuna,30,30027,larga_distancia,Intercity,38.131320,-1.236037
+61200,Murcia del Carmen,30,30030,cercanias;media_distancia;larga_distancia,AVANT;AVE;AVLO;Intercity;MD;PROXIMDAD,37.974824,-1.131508
+61303,Balsicas-Mar Menor,30,30037,media_distancia;larga_distancia,Intercity;MD;PROXIMDAD,37.818840,-0.950891
+61304,Torre-Pacheco,30,30037,media_distancia;larga_distancia,Intercity;MD;PROXIMDAD,37.746905,-0.967078
+61307,Cartagena,30,30016,media_distancia;larga_distancia,Intercity;MD;PROXIMDAD,37.604967,-0.975122
+62001,Beniel,30,30010,cercanias;media_distancia,AVANT,38.044861,-0.999476
+62002,Orihuela-Miguel Hernández,03,03099,cercanias;media_distancia;larga_distancia,AVANT;AVE;AVLO;Intercity;MD,38.077932,-0.944606
+62003,Callosa de Segura,03,03049,cercanias;media_distancia,MD,38.122769,-0.874575
+62100,San Isidro-Albatera-Catral,03,03904,cercanias;media_distancia,MD,38.167021,-0.838085
+62101,Crevillente,03,03059,cercanias;media_distancia,MD,38.224562,-0.781528
+62102,Elche/Elx-Carrús,03,03065,cercanias;media_distancia,MD,38.268978,-0.706399
+62103,Elche/Elx-Parc,03,03065,cercanias;media_distancia;larga_distancia,Intercity;MD,38.271781,-0.695219
+62104,Torrellano,03,03065,cercanias;media_distancia,MD,38.289637,-0.582457
+62109,Sant Gabriel,03,03014,cercanias;media_distancia,MD,38.329065,-0.508687
+64003,Moixent,46,46170,,,38.877797,-0.753651
+64004,Vallada,46,46251,,,38.908991,-0.690238
+64005,Montesa,46,46174,,,38.942939,-0.641091
+64006,L'Alcúdia de Crespins,46,46020,cercanias,,38.969058,-0.586676
+64007,Lenova-Manuel,46,46119,cercanias;media_distancia,REGIONAL,39.050073,-0.477604
+64100,Xàtiva,46,46145,cercanias;media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.;REGIONAL,38.992148,-0.524540
+64102,La Pobla Llarga,46,46203,cercanias;media_distancia,REGIONAL,39.083339,-0.469659
+64103,Carcaixent,46,46083,cercanias;media_distancia,REGIONAL,39.120525,-0.454410
+64104,Alzira,46,46017,cercanias;media_distancia,REGIONAL,39.153149,-0.450601
+64105,Algemesí,46,46029,cercanias;media_distancia,REGIONAL,39.193148,-0.440920
+64107,Benifaió,46,46060,cercanias;media_distancia,REGIONAL,39.284303,-0.429954
+64200,Silla,46,46230,cercanias;media_distancia,MD;REG.EXP.;REGIONAL,39.361955,-0.414981
+64201,Catarroja,46,46094,cercanias;media_distancia,REGIONAL,39.400045,-0.399220
+64202,Massanassa,46,46165,cercanias;media_distancia,REGIONAL,39.409193,-0.395307
+64203,Alfafar-Benetússer,46,46054,cercanias;media_distancia,REGIONAL,39.422423,-0.392605
+64210,Albal,46,46007,cercanias,,39.391843,-0.402634
+65000,València-Estació del Nord,46,46250,cercanias;media_distancia;larga_distancia,ALVIA;EUROMED;Intercity;MD;REG.EXP.;REGIONAL,39.466930,-0.377224
+65001,Roca-Cúper,46,46166,cercanias;media_distancia,REGIONAL,39.526209,-0.323840
+65002,València-La Font de Sant Lluís,46,46250,cercanias;media_distancia,REGIONAL,39.441605,-0.371422
+65003,València-Cabanyal,46,46250,cercanias;media_distancia,REG.EXP.;REGIONAL,39.470246,-0.334677
+65005,Albuixech,46,46014,cercanias;media_distancia,REGIONAL,39.543523,-0.320553
+65006,Massalfassar,46,46163,cercanias;media_distancia,REGIONAL,39.555753,-0.318306
+65007,El Puig,46,46204,cercanias;media_distancia,REGIONAL,39.588302,-0.311665
+65008,Puçol,46,46205,cercanias;media_distancia,REGIONAL,39.620537,-0.303109
+65200,Sagunt,46,46220,cercanias;media_distancia;larga_distancia,Intercity;MD;REG.EXP.;REGIONAL,39.675803,-0.271542
+65201,Les Valls,46,46220,cercanias;media_distancia,REGIONAL,39.719346,-0.239760
+65202,Almenara,12,12011,cercanias;media_distancia,REGIONAL,39.748774,-0.218381
+65203,La Llosa,12,12074,cercanias;media_distancia,REGIONAL,39.767811,-0.202944
+65204,Chilches/Xilxes,12,12053,cercanias;media_distancia,REGIONAL,39.782673,-0.190330
+65205,Moncofa,12,12082,cercanias;media_distancia,REGIONAL,39.820889,-0.162696
+65206,Nules la Villavella,12,12082,cercanias;media_distancia,REG.EXP.;REGIONAL,39.853235,-0.152732
+65207,Burriana-Alquerías Niño Perdido,12,12032,cercanias;media_distancia,REGIONAL,39.896509,-0.103860
+65208,Vila-Real,12,12135,cercanias;media_distancia,REG.EXP.;REGIONAL,39.933093,-0.096768
+65209,Almassora,12,12009,cercanias;media_distancia,REGIONAL,39.954908,-0.076771
+65300,Castelló de la Plana,12,12040,cercanias;media_distancia;larga_distancia,ALVIA;AVE;EUROMED;Intercity;REG.EXP.;REGIONAL,39.988474,-0.052346
+65304,Orpesa,12,12085,cercanias;media_distancia;larga_distancia,Intercity;REG.EXP.;REGIONAL,40.092258,0.139861
+65306,Torreblanca,12,12117,cercanias;media_distancia,REG.EXP.;REGIONAL,40.212211,0.198779
+65308,Alcalá de Chivert,12,12004,cercanias;media_distancia,REG.EXP.;REGIONAL,40.304690,0.228717
+65311,Benicarló-Peñíscola,12,12027,cercanias;media_distancia;larga_distancia,ALVIA;Intercity;REG.EXP.;REGIONAL,40.427639,0.415217
+65312,Vinaròs,12,12138,cercanias;media_distancia;larga_distancia,ALVIA;Intercity;REG.EXP.;REGIONAL,40.471682,0.455727
+65314,Ulldecona-Alcanar-La Sénia,43,43156,cercanias;media_distancia,REG.EXP.;REGIONAL,40.595927,0.449274
+65318,Benicàssim,12,12028,cercanias;media_distancia;larga_distancia,Intercity;REG.EXP.;REGIONAL,40.057945,0.057765
+65400,Tortosa,43,43155,cercanias;media_distancia,AVANT EXP;REG.EXP.;REGIONAL,40.807333,0.523014
+65401,Camp-redó,43,43155,cercanias;media_distancia,REG.EXP.,40.759156,0.555844
+65402,L'Aldea-Amposta-Tortosa,43,43904,cercanias;media_distancia;larga_distancia,ALVIA;AVANT EXP;Intercity;REG.EXP.;REGIONAL,40.753564,0.614309
+65403,Camarles-Deltebre,43,43903,cercanias;media_distancia,REG.EXP.,40.774763,0.671761
+65404,L'Ampolla-El Perelló-Deltebre,43,43906,cercanias;media_distancia,AVANT EXP;REG.EXP.,40.811990,0.708263
+65405,L'Ametlla de Mar,43,43013,cercanias;media_distancia,AVANT EXP;REG.EXP.,40.886200,0.800453
+65411,Salou-Port Aventura,43,43905,cercanias;media_distancia,REG.EXP.;REGIONAL,41.088480,1.146052
+65420,L'Hospitalet de l'Infant,43,43162,cercanias;media_distancia,AVANT EXP;REG.EXP.,40.999390,0.912539
+65422,Cambrils,43,43038,cercanias;media_distancia;larga_distancia,ALVIA;AVANT EXP;Intercity;REG.EXP.,41.081564,1.046038
+66200,Utiel,46,46249,,,39.570774,-1.202422
+66201,San Antonio de Requena,46,46213,,,39.522300,-1.150367
+66202,Requena,46,46213,,,39.491271,-1.104658
+66203,El Rebollar,46,46213,,,39.477360,-1.011602
+66204,Siete Aguas,46,46229,,,39.457226,-0.902507
+66206,Buñol,46,46077,cercanias,,39.427139,-0.787364
+66207,Chiva,46,46111,cercanias,,39.471127,-0.722941
+66208,Cheste,46,46109,cercanias,,39.490903,-0.686264
+66209,Lorigüilla-Reva,46,46148,cercanias,,39.485777,-0.567398
+66210,Circuit Ricardo Tormo,46,46109,cercanias,,39.495438,-0.624754
+66211,Aldaia,46,46021,cercanias,,39.461118,-0.463248
+66212,València-Sant Isidre,46,46250,cercanias,,39.450219,-0.403979
+66214,Xirivella-Alqueries,46,46110,cercanias,,39.462629,-0.432216
+67004,María de Huerva,50,50163,media_distancia,REGIONAL,41.539759,-0.998082
+67007,Arañales de Muel,50,50181,media_distancia,MD;REGIONAL,41.468946,-1.086394
+67009,Longares,50,50143,media_distancia,REGIONAL,41.404787,-1.158791
+67010,Cariñena,50,50073,media_distancia,MD;REGIONAL,41.335586,-1.228422
+67011,Encinacorba,50,50098,media_distancia,MD;REGIONAL,41.288650,-1.278534
+67013,Villarreal de Huerva,50,50292,media_distancia,MD;REGIONAL,41.196498,-1.287096
+67014,Villadoz,50,50283,media_distancia,MD;REGIONAL,41.165482,-1.279339
+67015,Badules,50,50040,media_distancia,MD;REGIONAL,41.139510,-1.251572
+67016,Villahermosa,44,44252,media_distancia,MD;REGIONAL,41.108492,-1.239803
+67017,Ferreruela,44,44101,media_distancia,MD;REGIONAL,41.063870,-1.239384
+67018,Cuencabuena,44,44050,media_distancia,REGIONAL,41.009293,-1.254641
+67019,Lechago,44,44050,media_distancia,REGIONAL,40.957681,-1.269087
+67020,Navarrete,44,44050,media_distancia,REGIONAL,40.936721,-1.261733
+67021,Calamocha,44,44050,media_distancia,MD;REGIONAL,40.903864,-1.299841
+67100,Caminreal-Fuentes Claras,44,44056,media_distancia,MD;REGIONAL,40.851110,-1.337650
+67101,Torrijo del Campo,44,44232,media_distancia,MD;REGIONAL,40.826012,-1.340498
+67103,Villafranca del Campo,44,44251,media_distancia,REGIONAL,40.683827,-1.357927
+67105,Santa Eulalia del Campo,44,44209,media_distancia,MD;REGIONAL,40.572917,-1.312995
+67107,Cella,44,44076,media_distancia,MD;REGIONAL,40.455266,-1.244329
+67113,Monreal del Campo,44,44153,media_distancia,MD;REGIONAL,40.782321,-1.360792
+67200,Teruel,44,44216,media_distancia,MD;REGIONAL,40.341029,-1.110284
+67203,Puebla de Valverde,44,44192,media_distancia,MD,40.213424,-0.944674
+67205,Sarrión,44,44210,media_distancia,MD,40.146339,-0.823631
+67206,Mora de Rubielos,44,44210,media_distancia,MD,40.123142,-0.786145
+67207,Rubielos de Mora,44,44010,media_distancia,MD,40.118006,-0.773463
+67208,Barracas,12,12020,media_distancia,MD,40.011740,-0.696151
+67211,Caudiel,12,12043,,,39.947370,-0.572054
+67212,Jérica-Viver,12,12071,,,39.914978,-0.569390
+67213,Navajas,12,12081,,,39.874417,-0.505955
+67214,Segorbe-Arrabal,12,12104,,,39.854557,-0.493863
+67215,Segorbe-Ciudad,12,12104,media_distancia,MD,39.847175,-0.482354
+67216,Algimia-Ciudad,46,46030,,,39.752993,-0.365754
+67217,Soneja,12,12106,,,39.812601,-0.431821
+67221,Estivella-Albalat Dels Tarongers,46,46120,,,39.706408,-0.348324
+67223,Gilet,46,46134,,,39.679398,-0.320655
+69001,Genovés,46,46132,media_distancia,REGIONAL,38.987730,-0.479880
+69002,Benigànim,46,46062,media_distancia,REGIONAL,38.938499,-0.453424
+69003,La Pobla del Duc,46,46200,media_distancia,REGIONAL,38.907606,-0.453386
+69004,Montaberner,46,46173,media_distancia,REGIONAL,38.884135,-0.491619
+69005,Bufalí,46,46075,media_distancia,REGIONAL,38.867405,-0.510478
+69006,Albaida,46,46006,media_distancia,REGIONAL,38.845645,-0.518129
+69007,Agullent,46,46004,media_distancia,REGIONAL,38.830569,-0.551183
+69008,Ontinyent,46,46184,media_distancia,REGIONAL,38.809692,-0.602457
+69009,Agres,03,03003,media_distancia,REGIONAL,38.796829,-0.521744
+69010,Cocentaina,03,03056,media_distancia,REGIONAL,38.740618,-0.446789
+69011,Alcoi,03,03009,media_distancia,REGIONAL,38.709349,-0.470247
+69101,El Romaní,46,46233,cercanias,,39.302979,-0.394235
+69102,Sollana,46,46233,cercanias,,39.279347,-0.379314
+69103,Sueca,46,46235,cercanias,,39.205847,-0.308239
+69104,Cullera,46,46105,cercanias,,39.177889,-0.263244
+69105,Tavernes de la Valldigna,46,46238,cercanias,,39.079044,-0.226297
+69107,Xeraco,46,46143,cercanias,,39.026149,-0.215035
+69110,Gandia,46,46131,cercanias,,38.970514,-0.179783
+69111,Platja i Grau de Gandia,46,46131,cercanias,,38.990244,-0.162434
+70001,Vallecas,28,28079,cercanias,,40.381961,-3.624583
+70002,Asamblea de Madrid-Entrevías,28,28079,cercanias;media_distancia,REGIONAL,40.381862,-3.668045
+70003,El Pozo,28,28079,cercanias;media_distancia,REGIONAL,40.376038,-3.656141
+70005,Vallecas,28,28079,media_distancia,REGIONAL,40.382364,-3.623042
+70100,Vicálvaro,28,28079,cercanias;media_distancia,REGIONAL,40.401252,-3.595897
+70101,San Fernando de Henares,28,28049,cercanias;media_distancia,REGIONAL,40.442780,-3.533987
+70102,Torrejón de Ardoz,28,28148,cercanias;media_distancia,REGIONAL,40.454789,-3.479730
+70103,Alcalá de Henares,28,28005,cercanias;media_distancia,REG.EXP.;REGIONAL,40.489081,-3.366246
+70104,Meco,28,28083,cercanias;media_distancia,REGIONAL,40.534673,-3.298681
+70105,Azuqueca,19,19046,cercanias;media_distancia,REGIONAL,40.561077,-3.265397
+70107,Alcalá de Henares-Universidad,28,28005,cercanias;media_distancia,REGIONAL,40.505430,-3.335326
+70108,Coslada,28,28049,cercanias;media_distancia,REGIONAL,40.423237,-3.561111
+70109,Santa Eugenia,28,28079,cercanias;media_distancia,REGIONAL,40.386955,-3.608986
+70111,La Garena,28,28005,cercanias;media_distancia,REGIONAL,40.480545,-3.393006
+70112,Soto del Henares,28,28148,cercanias;media_distancia,REGIONAL,40.463964,-3.441408
+70200,Guadalajara,19,19130,cercanias;media_distancia,REG.EXP.;REGIONAL,40.644193,-3.182260
+70202,Yunquera de Henares,19,19331,media_distancia,REG.EXP.;REGIONAL,40.747013,-3.163226
+70204,Humanes de Mohernando,19,19151,media_distancia,REG.EXP.;REGIONAL,40.831273,-3.138860
+70207,Espinosa de Henares,19,19113,media_distancia,REG.EXP.;REGIONAL,40.909686,-3.073157
+70208,Carrascosa de Henares,19,19113,media_distancia,REG.EXP.;REGIONAL,40.905980,-3.014352
+70209,Jadraque,19,19156,media_distancia,REG.EXP.;REGIONAL,40.930229,-2.935935
+70210,Matillas,19,19174,media_distancia,REG.EXP.;REGIONAL,40.953808,-2.843260
+70300,Baides,19,19047,media_distancia,REG.EXP.;REGIONAL,41.004864,-2.785635
+70302,Sigüenza,19,19257,media_distancia,REG.EXP.;REGIONAL,41.071417,-2.646407
+70400,Torralba,42,42113,media_distancia,REG.EXP.,41.136617,-2.492952
+70401,Medinaceli,42,42113,media_distancia,REG.EXP.;REGIONAL,41.165207,-2.421241
+70403,Arcos de Jalón,42,42025,media_distancia,REG.EXP.;REGIONAL,41.215854,-2.278998
+70404,Santa María de Huerta,42,42167,media_distancia,REGIONAL,41.264421,-2.177525
+70405,Monreal de Ariza,50,50172,media_distancia,REGIONAL,41.298767,-2.110448
+70500,Ariza,50,50034,media_distancia,REG.EXP.;REGIONAL,41.309800,-2.059411
+70501,Cetina,50,50081,media_distancia,REGIONAL,41.295978,-1.961811
+70502,Alhama de Aragón,50,50020,media_distancia,REGIONAL,41.294398,-1.904454
+70503,Bubierca,50,50058,media_distancia,REGIONAL,41.317190,-1.855198
+70504,Ateca,50,50038,media_distancia,REGIONAL,41.324659,-1.785268
+70505,Terrer,50,50253,media_distancia,REGIONAL,41.322218,-1.709254
+70600,Calatayud,50,50067,media_distancia;larga_distancia,ALVIA;AVANT;AVE;REG.EXP.;REGIONAL,41.346692,-1.638680
+70602,Embid de Jalón,50,50067,media_distancia,REGIONAL,41.421676,-1.592127
+70603,Paracuellos-Sabiñán,50,50202,media_distancia,REGIONAL,41.429310,-1.567483
+70604,Sabiñán,50,50241,media_distancia,REGIONAL,41.443981,-1.571474
+70605,Morés,50,50177,media_distancia,REGIONAL,41.478667,-1.566238
+70606,Purroy,50,50177,media_distancia,REGIONAL,41.477236,-1.540446
+70607,Morata de Jalón,50,50175,media_distancia,REGIONAL,41.475467,-1.479721
+70700,Ricla-La Almunia,50,50225,media_distancia,REGIONAL,41.501394,-1.403450
+70701,Calatorao,50,50068,media_distancia,REGIONAL,41.528692,-1.360545
+70702,Salillas de Jalón,50,50231,media_distancia,REGIONAL,41.567940,-1.325848
+70703,Épila,50,50099,media_distancia,REGIONAL,41.609330,-1.301043
+70704,Rueda de Jalón-Lumpiaque,50,50228,media_distancia,REGIONAL,41.638892,-1.281667
+70705,Plasencia de Jalón,50,50211,media_distancia,REGIONAL,41.689350,-1.234237
+70706,Grisén,50,50123,media_distancia,REGIONAL,41.745261,-1.165924
+70800,Casetas,50,50297,cercanias;media_distancia,REG.EXP.;REGIONAL,41.722648,-1.020192
+70801,Utebo,50,50272,cercanias;media_distancia,REG.EXP.;REGIONAL,41.710864,-0.998583
+70806,Zaragoza-Portillo,50,50297,cercanias;media_distancia,REG.EXP.;REGIONAL,41.652736,-0.895876
+70807,Zaragoza-Goya,50,50297,cercanias;media_distancia,REG.EXP.;REGIONAL,41.643878,-0.891257
+71100,Zaragoza-Miraflores,50,50297,cercanias;media_distancia,REG.EXP.;REGIONAL,41.633431,-0.868165
+71103,Fuentes de Ebro,50,50115,media_distancia,REGIONAL,41.515065,-0.618625
+71105,Quinto,50,50222,cercanias;media_distancia,REG.EXP.;REGIONAL,41.419528,-0.490673
+71108,La Zaida-Sástago,50,50296,cercanias;media_distancia,REG.EXP.;REGIONAL,41.320542,-0.427115
+71200,La Puebla de Híjar,44,44191,cercanias;media_distancia,REG.EXP.;REGIONAL,41.224400,-0.438595
+71201,Samper,44,44205,cercanias;media_distancia,REG.EXP.;REGIONAL,41.182183,-0.368761
+71204,Caspe,50,50074,cercanias;media_distancia,REG.EXP.;REGIONAL,41.239738,-0.042701
+71205,Val de Pilas,50,50074,media_distancia,REGIONAL,41.230056,0.070145
+71206,Fabara,50,50102,cercanias;media_distancia,REG.EXP.;REGIONAL,41.234405,0.143284
+71207,Nonaspe,50,50189,cercanias;media_distancia,REG.EXP.;REGIONAL,41.213788,0.242472
+71208,Faió-La Pobla de Massaluca,43,43110,cercanias;media_distancia,REG.EXP.;REGIONAL,41.225056,0.351103
+71209,Riba-roja d'Ebre,43,43125,cercanias;media_distancia,REG.EXP.;REGIONAL,41.248559,0.481032
+71210,Flix,43,43060,cercanias;media_distancia,REG.EXP.;REGIONAL,41.229365,0.540100
+71211,Ascó,43,43019,cercanias;media_distancia,REG.EXP.;REGIONAL,41.182373,0.569025
+71300,Móra la Nova,43,43094,cercanias;media_distancia,REG.EXP.;REGIONAL,41.106582,0.653218
+71302,Capçanes,43,43040,cercanias;media_distancia,REG.EXP.,41.102090,0.780361
+71303,Marçà-Falset,43,43076,cercanias;media_distancia,REG.EXP.,41.130942,0.810418
+71304,Pradell,43,43115,cercanias;media_distancia,REG.EXP.,41.133359,0.858650
+71305,Duesaigües-L'Argentera,43,43017,cercanias;media_distancia,REG.EXP.,41.143693,0.920871
+71306,Riudecanyes-Botarell,43,43127,cercanias;media_distancia,REG.EXP.,41.140058,0.975748
+71307,Les Borges del Camp,43,43031,cercanias;media_distancia,REG.EXP.,41.166506,1.022132
+71400,Reus,43,43123,cercanias;media_distancia,REG.EXP.;REGIONAL,41.160523,1.100090
+71401,Vila-seca,43,43171,cercanias;media_distancia,REG.EXP.;REGIONAL,41.112819,1.150379
+71500,Tarragona,43,43148,cercanias;media_distancia;larga_distancia,Intercity;REG.EXP.;REGIONAL,41.111564,1.253228
+71502,Altafulla-Tamarit,43,43148,cercanias;media_distancia,REG.EXP.,41.136648,1.373415
+71503,Torredembarra,43,43153,cercanias;media_distancia,REG.EXP.,41.142792,1.405784
+71600,Sant Vicenç de Calders,43,43163,cercanias;media_distancia,REG.EXP.,41.186210,1.524804
+71601,Calafell,43,43037,cercanias,,41.189670,1.575009
+71602,Segur de Calafell,43,43037,cercanias,,41.192579,1.606436
+71603,Cunit,43,43051,cercanias,,41.195042,1.631942
+71604,Cubelles,08,08074,cercanias,,41.204325,1.675977
+71700,Vilanova i la Geltrú,08,08307,cercanias;media_distancia,REG.EXP.,41.220321,1.730772
+71701,Sitges,08,08270,cercanias,,41.239131,1.809692
+71703,Garraf,08,08270,cercanias,,41.254587,1.902504
+71704,Platja de Castelldefels,08,08056,cercanias,,41.266982,1.957136
+71705,Castelldefels,08,08056,cercanias,,41.279047,1.979151
+71706,Gavà,08,08089,cercanias,,41.303472,2.010531
+71707,El Prat de Llobregat,08,08169,cercanias,,41.330940,2.089345
+71708,Bellvitge - Gornal,08,08101,cercanias,,41.354922,2.115273
+71709,Viladecans,08,08301,cercanias,,41.309509,2.027419
+71801,Barcelona-Sants,08,08019,cercanias;media_distancia;larga_distancia,ALVIA;AVANT;AVANT EXP;AVE;AVE INT;EUROMED;Intercity;MD;REG.EXP.;REGIONAL,41.379863,2.141017
+71802,Barcelona-Passeig de Gràcia,08,08019,cercanias;media_distancia,MD;REG.EXP.;REGIONAL,41.392086,2.165339
+72101,Roda de Mar,43,43131,cercanias;media_distancia,REG.EXP.,41.186420,1.455208
+72201,El Vendrell,43,43163,cercanias,,41.221006,1.537906
+72202,L'Arboç,43,43016,cercanias,,41.273404,1.600519
+72203,Els Monjos,08,08251,cercanias,,41.314714,1.659884
+72204,Vilafranca del Penedès,08,08305,cercanias,,41.344814,1.703201
+72205,La Granada,08,08094,cercanias,,41.370950,1.725079
+72206,Lavern-Subirats,08,08273,cercanias,,41.395734,1.768174
+72207,Sant Sadurní d'Anoia,08,08240,cercanias,,41.420518,1.794688
+72208,Gelida,08,08091,cercanias,,41.448541,1.865530
+72209,Martorell Central,08,08114,cercanias,,41.479287,1.925335
+72210,Castellbisbal,08,08054,cercanias,,41.473415,1.967570
+72211,El Papiol,08,08158,cercanias,,41.435371,2.002578
+72300,Molins de Rei,08,08123,cercanias,,41.409896,2.020773
+72301,Sant Feliu de Llobregat,08,08211,cercanias,,41.383002,2.047920
+72302,Sant Joan Despí,08,08217,cercanias,,41.368581,2.060208
+72303,Cornellà,08,08073,cercanias,,41.357521,2.070549
+72305,L'Hospitalet de Llobregat,08,08101,cercanias,,41.364204,2.100917
+72400,El Prat Aeroport,08,08169,cercanias,,41.304181,2.073401
+72501,Rubí Can Vallhonrat,08,08184,cercanias,,41.475176,2.037079
+72502,Sant Cugat Coll Favà,08,08205,cercanias,,41.481091,2.079679
+72503,Cerdanyola Universitat,08,08266,cercanias,,41.496990,2.115378
+72508,Santa Perpètua de Mogoda Riera de Caldes,08,08260,cercanias,,41.526230,2.186339
+73001,Puigverd de Lleida-Artesa de Lleida,25,25182,cercanias;media_distancia,REG.EXP.;REGIONAL,41.553702,0.733427
+73002,Juneda,25,25119,cercanias;media_distancia,REG.EXP.;REGIONAL,41.543933,0.825542
+73003,Les Borges Blanques,25,25058,cercanias;media_distancia,REG.EXP.;REGIONAL,41.521397,0.877910
+73004,La Floresta,25,25092,media_distancia,REG.EXP.;REGIONAL,41.504201,0.924432
+73005,Vinaixa,25,25255,media_distancia,REG.EXP.;REGIONAL,41.425141,0.970374
+73006,Vimbodí i Poblet,43,43176,media_distancia,REG.EXP.;REGIONAL,41.402728,1.046033
+73007,L'Espluga de Francolí,43,43054,media_distancia,REG.EXP.;REGIONAL,41.400662,1.103361
+73008,Montblanc,43,43086,media_distancia,REG.EXP.;REGIONAL,41.376625,1.165549
+73009,Vilaverd,43,43172,media_distancia,REG.EXP.;REGIONAL,41.337663,1.176532
+73010,La Riba,43,43124,media_distancia,REG.EXP.;REGIONAL,41.318493,1.181313
+73100,La Plana-Picamoixons,43,43161,cercanias;media_distancia,REG.EXP.;REGIONAL,41.306199,1.194883
+73101,Alcover,43,43005,cercanias;media_distancia,REG.EXP.;REGIONAL,41.261607,1.174160
+73102,La Selva del Camp,43,43145,cercanias;media_distancia,REG.EXP.;REGIONAL,41.211154,1.143960
+74200,Huesca,22,22125,media_distancia;larga_distancia,AVE;REGIONAL,42.133594,-0.409745
+74204,Ayerbe,22,22039,media_distancia,REGIONAL,42.275610,-0.682569
+74206,Riglos,22,22173,media_distancia,REGIONAL,42.344756,-0.731599
+74207,Santa María y la Peña,22,22173,media_distancia,REGIONAL,42.380390,-0.695647
+74208,Anzánigo,22,22072,media_distancia,REGIONAL,42.403289,-0.643344
+74209,Caldearenas-Aquilué,22,22072,media_distancia,REGIONAL,42.397973,-0.499309
+74211,Sabiñánigo,22,22199,media_distancia,REGIONAL,42.520446,-0.373085
+74213,Jaca,22,22130,media_distancia,REGIONAL,42.578303,-0.539231
+74214,Castiello-Pueblo,22,22086,media_distancia,REGIONAL,42.628110,-0.546291
+74216,Villanúa,22,22250,media_distancia,REGIONAL,42.688745,-0.523460
+74217,Canfranc,22,22078,media_distancia,REGIONAL,42.751471,-0.514641
+75101,ALCOLETGE,25,25012,,,41.654267,0.685707
+75102,VILANOVA DE LA BARCA,25,25254,,,41.687381,0.727898
+75103,TÉRMENS,25,25220,,,41.716525,0.763046
+75104,VALLFOGONA DE BALAGUER,25,25240,,,41.755751,0.805612
+75105,BALAGUER,25,25040,,,41.789333,0.814750
+75106,GERB,25,25156,,,41.823329,0.812023
+75107,SANT LLORENÇ DE MONTGAI,25,25062,,,41.866409,0.832424
+75108,VILANOVA DE LA SAL,25,25037,,,41.912066,0.830305
+75109,SANTA LIÑA,25,25037,,,41.931776,0.852433
+75110,AGER,25,25002,,,42.006739,0.851617
+75111,CELLERS-LLIMIANA,25,25904,,,42.058699,0.882868
+75112,GUARDIA DE TREMP,25,25904,,,42.101419,0.888047
+75113,PALAU-PUIGCERCOS,25,25215,,,42.146955,0.892441
+75114,TREMP,25,25234,,,42.167364,0.891137
+75115,SALAS DE PALLARS,25,25190,,,42.206845,0.940447
+75116,LA POBLA DE SEGUR,25,25171,,,42.239854,0.966107
+76001,Salomó,43,43135,cercanias;media_distancia,REG.EXP.,41.223442,1.376625
+76002,Vilabella,43,43165,cercanias;media_distancia,REG.EXP.,41.239547,1.317492
+76003,Nulles-Bràfim,43,43098,cercanias;media_distancia,REG.EXP.,41.250319,1.297503
+76004,Valls,43,43161,cercanias;media_distancia,REG.EXP.,41.289608,1.258652
+77002,Montcada-Ripollet,08,08125,,,41.496802,2.181928
+77003,Santa Perpètua de Mogoda la Florida,08,08260,,,41.526204,2.186234
+77004,Mollet-Santa Rosa,08,08124,,,41.536662,2.206169
+77005,Parets del Vallès,08,08159,,,41.556269,2.226004
+77006,Granollers-Canovelles,08,08096,,,41.611464,2.276861
+77100,Les Franqueses del Vallès,08,08086,,,41.629788,2.295165
+77102,La Garriga,08,08088,cercanias,,41.684627,2.288796
+77103,Figaró,08,08134,cercanias,,41.721345,2.271601
+77104,Sant Martí de Centelles,08,08224,cercanias,,41.760574,2.248905
+77105,Centelles,08,08067,cercanias,,41.799395,2.222636
+77106,Balenyà-Els Hostalets,08,08017,cercanias,,41.814951,2.233315
+77107,Balenyà-Tona-Seva,08,08269,cercanias,,41.841908,2.247442
+77109,Vic,08,08298,cercanias,,41.931096,2.248857
+77110,Manlleu,08,08112,cercanias,,41.999860,2.269296
+77111,Torelló,08,08285,cercanias,,42.052011,2.259972
+77112,Borgonyà,08,08265,cercanias,,42.064659,2.242006
+77113,Sant Quirze de Besora-Montesquiu,08,08237,cercanias,,42.104849,2.217733
+77114,La Farga de Bebié,08,08131,cercanias,,42.130073,2.203936
+77200,Ripoll,17,17147,cercanias,,42.196128,2.195841
+77301,Campdevànol,17,17036,cercanias,,42.221713,2.165758
+77303,Ribes de Freser,17,17145,cercanias,,42.300213,2.166199
+77304,Planoles,17,17134,cercanias,,42.314469,2.099732
+77305,Toses,17,17201,cercanias,,42.320964,2.015258
+77306,La Molina,17,17006,cercanias,,42.344652,1.955951
+77307,Urtx-Alp,17,17069,cercanias,,42.376862,1.896853
+77309,Puigcerdà,17,17141,cercanias,,42.429626,1.924584
+78005,Villanueva de Gállego,50,50288,cercanias;media_distancia,REGIONAL,41.765510,-0.822204
+78200,Tardienta,22,22226,cercanias;media_distancia;larga_distancia,AVE;REG.EXP.;REGIONAL,41.975716,-0.538223
+78201,Grañén,22,22116,media_distancia,REG.EXP.;REGIONAL,41.938033,-0.369329
+78203,Sariñena,22,22213,media_distancia,REG.EXP.;REGIONAL,41.817529,-0.170760
+78301,Monzón-Río Cinca,22,22158,media_distancia,REG.EXP.;REGIONAL,41.913679,0.196939
+78302,Binéfar,22,22061,media_distancia,REG.EXP.;REGIONAL,41.849768,0.291478
+78400,Lleida-Pirineus,25,25120,cercanias;media_distancia;larga_distancia,ALVIA;AVANT;AVE;Intercity;REG.EXP.;REGIONAL,41.620130,0.633653
+78402,Bell-lloc d'Urgell,25,25048,cercanias;media_distancia,REGIONAL,41.631619,0.781547
+78403,Mollerussa,25,25137,cercanias;media_distancia,REGIONAL,41.631779,0.896775
+78404,Golmés,25,25099,cercanias;media_distancia,REGIONAL,41.635929,0.930863
+78405,Castellnou de Seana,25,25068,cercanias;media_distancia,REGIONAL,41.637464,0.967736
+78406,Bellpuig,25,25050,cercanias;media_distancia,REGIONAL,41.632545,1.012993
+78407,Anglesola,25,25027,cercanias;media_distancia,REGIONAL,41.646448,1.079192
+78408,Tàrrega,25,25217,cercanias;media_distancia,REGIONAL,41.650387,1.138963
+78500,Cervera,25,25072,cercanias;media_distancia,REGIONAL,41.673611,1.274773
+78501,Sant Guim de Freixenet,25,25192,cercanias;media_distancia,REGIONAL,41.655924,1.420530
+78502,Sant Martí Sesgueioles,08,08228,cercanias;media_distancia,REGIONAL,41.701217,1.486204
+78503,Calaf,08,08031,cercanias;media_distancia,REGIONAL,41.730334,1.515097
+78504,Seguers-Sant Pere Sallavinera,08,08189,cercanias;media_distancia,REGIONAL,41.747991,1.574167
+78505,Aguilar de Segarra,08,08002,cercanias;media_distancia,REGIONAL,41.738917,1.623720
+78506,Rajadell,08,08178,cercanias;media_distancia,REGIONAL,41.733159,1.696275
+78600,Manresa,08,08113,cercanias;media_distancia,REGIONAL,41.720392,1.826486
+78604,Sant Vicenç de Castellet,08,08262,cercanias;media_distancia,REGIONAL,41.668831,1.862643
+78605,Castellbell i el Vilar-Monist Montserrat,08,08053,cercanias,,41.628683,1.868821
+78606,Vacarisses,08,08291,cercanias,,41.601928,1.894088
+78607,Vacarisses-Torreblanca,08,08291,cercanias,,41.586918,1.916476
+78609,Viladecavalls,08,08300,cercanias,,41.563797,1.957270
+78610,Sant Miquel de Gonteres,08,08300,cercanias,,41.568866,1.974285
+78700,Terrassa Estació del Nord,08,08279,cercanias;media_distancia,REGIONAL,41.569783,2.014354
+78703,Sabadell Sud,08,08187,cercanias,,41.528708,2.105393
+78704,Sabadell Centre,08,08187,cercanias,,41.546420,2.115608
+78705,Barberà del Vallès,08,08252,cercanias,,41.513660,2.118453
+78706,Cerdanyola del Vallès,08,08266,cercanias,,41.492561,2.147522
+78707,Montcada i Reixac-Santa Maria,08,08125,cercanias,,41.481141,2.166987
+78708,Montcada i Reixac-Manresa,08,08125,cercanias,,41.483940,2.185404
+78709,Sabadell Nord,08,08187,cercanias,,41.561977,2.096228
+78710,Terrassa Est,08,08279,cercanias,,41.567530,2.039636
+78800,Montcada-Bifurcació,08,08125,cercanias,,41.469840,2.180016
+78801,Barcelona Torre Baró -Vallbona,08,08019,cercanias,,41.460968,2.181020
+78802,Barcelona Fabra i Puig,08,08019,cercanias,,41.430348,2.183329
+78804,Barcelona Arc de Triomf,08,08019,cercanias,,41.391905,2.180639
+78805,Barcelona Plaça de Catalunya,08,08019,cercanias,,41.387923,2.169704
+78806,Barcelona La Sagrera-Meridiana,08,08019,cercanias,,41.421848,2.187110
+79004,Barcelona Sant Andreu,08,08019,cercanias;media_distancia,REGIONAL,41.436125,2.193199
+79005,Montcada i Reixac,08,08125,cercanias,,41.484225,2.188089
+79006,Mollet-Sant Fost,08,08124,cercanias,,41.533563,2.217665
+79007,Montmeló,08,08135,cercanias,,41.549652,2.245444
+79009,Barcelona El Clot,08,08019,cercanias;media_distancia,MD;REGIONAL,41.409298,2.187198
+79011,La Llagosta,08,08105,cercanias,,41.510457,2.199733
+79100,Granollers Centre,08,08096,cercanias;media_distancia,REGIONAL,41.599745,2.291270
+79101,Cardedeu,08,08046,cercanias,,41.636701,2.356263
+79102,Llinars del Vallès,08,08106,cercanias,,41.638037,2.404458
+79103,Palautordera,08,08259,cercanias,,41.671952,2.454215
+79104,Sant Celoni,08,08202,cercanias;media_distancia,MD;REGIONAL,41.685793,2.490728
+79105,Gualba,08,08097,cercanias;media_distancia,REGIONAL,41.718190,2.538784
+79106,Riells i Viabrea-Breda,17,17146,cercanias;media_distancia,REGIONAL,41.726358,2.568896
+79107,Hostalric,17,17083,cercanias;media_distancia,REGIONAL,41.747788,2.631650
+79109,Les Franqueses-Granollers Nord,08,08096,cercanias,,41.617255,2.294432
+79200,Maçanet-Massanes,17,17103,cercanias;media_distancia,MD;REGIONAL,41.772421,2.673859
+79202,Sils,17,17193,cercanias;media_distancia,MD;REGIONAL,41.807600,2.745007
+79203,Caldes de Malavella,17,17033,cercanias;media_distancia,MD;REGIONAL,41.841110,2.800767
+79204,Riudellots,17,17150,cercanias;media_distancia,REGIONAL,41.896297,2.811570
+79205,Fornells de la Selva,17,17073,cercanias;media_distancia,REGIONAL,41.935043,2.809783
+79300,Girona,17,17079,cercanias;media_distancia;larga_distancia,AVANT;AVE;AVE INT;EUROMED;MD;REGIONAL,41.979363,2.816937
+79301,Celrà,17,17049,cercanias;media_distancia,REGIONAL,42.027198,2.874906
+79302,Bordils-Juià,17,17025,cercanias;media_distancia,REGIONAL,42.037057,2.915296
+79303,Flaçà,17,17067,cercanias;media_distancia,MD;REGIONAL,42.047477,2.957403
+79304,Sant Jordi Desvalls,17,17166,cercanias;media_distancia,REGIONAL,42.068302,2.964477
+79305,Camallera,17,17187,cercanias;media_distancia,REGIONAL,42.122330,2.965365
+79306,Sant Miquel de Fluvià,17,17175,cercanias;media_distancia,REGIONAL,42.172102,2.989598
+79308,Vilamalla,17,17226,cercanias;media_distancia,REGIONAL,42.216362,2.977764
+79309,Figueres,17,17066,cercanias;media_distancia,MD;REGIONAL,42.265113,2.968801
+79311,Vilajuïga,17,17223,cercanias;media_distancia,REGIONAL,42.325669,3.087546
+79312,Llançà,17,17092,cercanias;media_distancia,MD;REGIONAL,42.366619,3.148975
+79314,Colera,17,17054,cercanias;media_distancia,REGIONAL,42.406884,3.154343
+79315,Portbou,17,17138,cercanias;media_distancia,MD;REGIONAL,42.424591,3.158018
+79400,Barcelona Estació de França,08,08019,cercanias;media_distancia,REG.EXP.,41.384487,2.185348
+79403,Sant Adrià de Besòs,08,08194,cercanias,,41.424432,2.230482
+79404,Badalona,08,08015,cercanias,,41.445884,2.248921
+79405,Montgat,08,08126,cercanias,,41.463021,2.272155
+79406,Montgat-Nord,08,08126,cercanias,,41.468786,2.286697
+79407,El Masnou,08,08118,cercanias,,41.477036,2.310377
+79408,Ocata,08,08118,cercanias,,41.479021,2.319533
+79409,Premià de Mar,08,08172,cercanias,,41.487752,2.354856
+79410,Vilassar de Mar,08,08219,cercanias,,41.500628,2.389861
+79412,Cabrera de Mar-Vilassar de Mar,08,08219,cercanias,,41.506772,2.401624
+79500,Mataró,08,08121,cercanias,,41.533385,2.445530
+79501,Sant Andreu de Llavaneres,08,08197,cercanias,,41.555547,2.498265
+79502,Caldes d'Estrac,08,08032,cercanias,,41.568608,2.525981
+79600,Arenys de Mar,08,08006,cercanias,,41.577699,2.549337
+79601,Canet de Mar,08,08040,cercanias,,41.586669,2.581289
+79602,Sant Pol de Mar,08,08235,cercanias,,41.601755,2.624598
+79603,Calella,08,08035,cercanias,,41.614691,2.665995
+79604,Pineda de Mar,08,08163,cercanias,,41.622445,2.693550
+79605,Malgrat de Mar,08,08110,cercanias,,41.641602,2.741279
+79606,Blanes,17,17023,cercanias,,41.673616,2.769270
+79607,Tordera,08,08284,cercanias,,41.707169,2.719571
+79608,Santa Susanna,08,08261,cercanias,,41.630097,2.715970
+80001,Altsasu-Pueblo,31,31010,media_distancia,REG.EXP.,42.893283,-2.167429
+80003,Etxarri-Aranatz,31,31084,media_distancia,REG.EXP.,42.911138,-2.071245
+80005,Uharte-Arakil,31,31123,media_distancia,REG.EXP.,42.920606,-1.974814
+80100,Pamplona/Iruña,31,31201,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,42.824877,-1.661419
+80108,Tafalla,31,31227,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,42.525756,-1.671467
+80109,Olite-Erriberri,31,31191,media_distancia,REG.EXP.,42.484989,-1.649964
+80114,Marcilla de Navarra,31,31163,media_distancia,REG.EXP.,42.334851,-1.717418
+80115,Villafranca de Navarra,31,31254,media_distancia,REG.EXP.,42.280734,-1.745716
+81002,Haro,26,26071,media_distancia;larga_distancia,ALVIA;Intercity;MD,42.583635,-2.849396
+81100,Logroño,26,26089,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,42.457459,-2.442193
+81102,Agoncillo,26,26002,media_distancia,REG.EXP.,42.443585,-2.291701
+81105,Alcanadre,26,26007,media_distancia,REG.EXP.,42.407437,-2.122094
+81106,Féculas-Navarra,31,31157,media_distancia,REG.EXP.,42.411148,-2.098196
+81108,Calahorra,26,26036,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,42.310458,-1.957755
+81109,Rincón de Soto,26,26125,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,42.230011,-1.847473
+81110,Alfaro,26,26011,media_distancia;larga_distancia,ALVIA;MD;REG.EXP.,42.186525,-1.747985
+81200,Castejón de Ebro,31,31070,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,42.172719,-1.692114
+81202,Tudela de Navarra,31,31232,media_distancia;larga_distancia,ALVIA;Intercity;MD;REG.EXP.,42.059434,-1.597931
+81203,Ribaforada,31,31208,media_distancia,REG.EXP.,41.997038,-1.515097
+81205,Cortes de Navarra,31,31078,media_distancia,REG.EXP.,41.915076,-1.420439
+81206,Gallur,50,50118,media_distancia,REG.EXP.,41.867164,-1.321342
+81207,Luceni,50,50147,media_distancia,REG.EXP.,41.826116,-1.243536
+81208,Pedrola,50,50204,media_distancia,REG.EXP.,41.805198,-1.201673
+81209,Cabañas de Ebro,50,50064,media_distancia,REG.EXP.,41.788065,-1.167533
+81210,Alagón,50,50008,media_distancia,REG.EXP.,41.771422,-1.112771
+82100,Soria,42,42173,media_distancia,REG.EXP.,41.754754,-2.476537
+84101,Almazán-Villa,42,42020,media_distancia,REG.EXP.,41.489019,-2.525375
+84103,Tardelcuende,42,42181,media_distancia,REG.EXP.,41.593525,-2.639337
+84104,Quintana Redonda,42,42144,media_distancia,REG.EXP.,41.639726,-2.609682
+92102,Toledo,45,45168,media_distancia,AVANT,39.862272,-4.011244
+94002,Daimiel,13,13039,media_distancia,MD;REG.EXP.,39.061553,-3.604213
+94004,Almagro,13,13013,media_distancia,MD;REG.EXP.,38.895323,-3.709777
+97004,PORTAVE.FERRARI,43,43905,,,41.084708,1.149289
+97015,PORTAVENTURA,43,43905,,,41.088924,1.139832
+97017,SANT SADURNÍ D'ANOIA,08,08240,,,41.419824,1.794186
+97100,Pitis,28,28079,cercanias;media_distancia,REGIONAL,40.495417,-3.726160
+97200,Mirasierra-Paco de Lucía,28,28079,cercanias;media_distancia,REGIONAL,40.499759,-3.709251
+97201,Madrid-Ramón y Cajal,28,28079,cercanias;media_distancia,REGIONAL,40.488147,-3.694804
+98000,MADRID - ATOCHA CERCANÍAS,28,28079,,,40.406528,-3.689373
+98003,Fuente de la Mora,28,28079,cercanias,,40.484720,-3.663061
+98103,ALCALÁ DE HENARES,28,28005,,,40.489027,-3.365765
+98304,Valdebebas,28,28079,cercanias,,40.482102,-3.616287
+98305,Madrid-Aeropuerto T4,28,28079,cercanias,,40.492402,-3.593230
+99117,Ourense Turístico,32,32054,media_distancia,AVANT;MD,42.350389,-7.872777
+99143,A Coruña-Turístico,15,15030,media_distancia,AVANT;MD,43.352761,-8.409755
+99159,Santiago-Turístico,15,15078,media_distancia,AVANT;MD;REGIONAL,42.870842,-8.544697
+99161,Pontevedra-Turístico,36,36038,media_distancia,MD,42.421969,-8.635546
+99173,OVIEDO-TUR,33,33044,,,43.366841,-5.854263
+99180,SORIA ENLACE AVE,42,42173,,,41.754754,-2.476537

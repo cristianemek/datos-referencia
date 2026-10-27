@@ -14,6 +14,7 @@ Datos de España en CSV (UTF-8, separados por comas y con cabecera) para reutili
 - `municipios_es.csv`: municipios con código INE, dígito de control, isla, NUTS3, población y coordenadas.
 - `codigos_postales_es.csv`: códigos postales con su municipio y localidad.
 - `tipos_via.csv`: tipos de vía con su abreviatura y sus sinónimos.
+- `entidades_locales_es.csv`: ayuntamientos, diputaciones, cabildos, comarcas, mancomunidades y entidades locales menores.
 - `nuts_es.csv`: regiones NUTS de España.
 - `simbolos_es.csv`: enlaces a la bandera y el escudo de comunidades, provincias y municipios en Wikimedia Commons.
 - `paises.csv`: países con códigos ISO, nombre en español, prefijo telefónico, pertenencia a la UE y coordenadas.
@@ -33,6 +34,12 @@ Datos de España en CSV (UTF-8, separados por comas y con cabecera) para reutili
 ## contabilidad/
 
 - `pgc_es.csv`: cuadro de cuentas del Plan General Contable.
+
+## lugares/
+
+- `estaciones_tren_es.csv`: estaciones de Renfe con código ADIF, municipio, servicios y coordenadas.
+- `estaciones_meteo_es.csv`: estaciones meteorológicas de AEMET con indicativo, altitud y coordenadas.
+- `playas_es.csv`: playas de AEMET con municipio y coordenadas.
 
 ## email/
 

@@ -13,11 +13,19 @@
 - **Países:** códigos ISO 3166-1 y nombres en español de [Unicode CLDR](https://cldr.unicode.org/).
 - **Subdivisiones de otros países:** nombres de FacturaScripts, con los códigos ISO 3166-2 validados contra [iso-codes](https://salsa.debian.org/iso-codes-team/iso-codes); los que no son válidos se dejan vacíos.
 - **Banderas y escudos:** ficheros elegidos en Wikidata (propiedades P41 y P94) y alojados en [Wikimedia Commons](https://commons.wikimedia.org/). Cada imagen tiene su propia licencia y su autor, indicados en `simbolos_es.csv`. Los SVG de `comunidades_es.csv` están optimizados sin cambiar el dibujo: se han comparado píxel a píxel con el original.
+- **Entidades locales:** [Base de Datos General de Entidades Locales](https://serviciostelematicosext.hacienda.gob.es/sgcief/InventarioBDGEL/Reports) (BDGEL), consulta de entidades vigentes del 27 de octubre de 2026. Origen de los datos: Ministerio de Hacienda. El primer bloque del código es la numeración de comunidades propia de BDGEL, que no coincide con la del INE.
 - **Estructura del IBAN:** IBAN Registry de SWIFT.
 
 ## Calendario
 
 - **Festivos:** resoluciones de la Dirección General de Trabajo con la relación de fiestas laborales de cada año ([2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667) y [2027](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254)). Las fiestas locales de cada municipio no se publican en el BOE y no están incluidas.
+
+## Lugares
+
+- **Estaciones de tren:** [listado de estaciones](https://ssl.renfe.com/ftransit/Fichero_estaciones/estaciones.csv) y GTFS de Cercanías y de Alta Velocidad, Larga y Media Distancia del [portal de datos abiertos de Renfe](https://data.renfe.com/) (CC BY 4.0), del 27 de octubre de 2026. Los servicios salen de los trenes que circulan en los GTFS.
+- **Playas:** [códigos de playas](https://www.aemet.es/documentos/es/eltiempo/prediccion/playas/Playas_codigos.csv) de AEMET. Fuente: AEMET.
+- **Estaciones meteorológicas:** inventario de AEMET de 2025 en la copia de [AnCode666/aemet-mcp](https://github.com/AnCode666/aemet-mcp), porque AEMET solo lo publica con clave de acceso. Se han reparado 231 nombres con la codificación dañada usando los de la web de AEMET. Fuente: AEMET.
+- **Municipio de estaciones de tren y meteorológicas:** calculado a partir de las coordenadas con los recintos municipales del IGN (CC BY 4.0).
 
 ## Catálogos
 
@@ -42,7 +50,9 @@
 - [FacturaScripts](LICENSES/LGPL-3.0-facturascripts.txt): LGPL-3.0.
 - [Dominios desechables](LICENSES/MIT-disposable-email-domains.txt): MIT.
 - [Unicode CLDR](LICENSES/Unicode-3.0-cldr.txt): licencia Unicode v3.
-- INE y Eurostat: reutilización libre citando la fuente (CC BY 4.0).
+- [aemet-mcp](LICENSES/MIT-aemet-mcp.txt): MIT.
+- INE, Eurostat, IGN y Renfe: reutilización libre citando la fuente (CC BY 4.0).
+- Ministerio de Hacienda y AEMET: reutilización libre (Ley 37/2007) citando la fuente.
 - Wikidata: CC0.
 - BOE: los textos legales no están sujetos a derechos de autor.
 
