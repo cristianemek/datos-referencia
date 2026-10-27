@@ -194,7 +194,10 @@ def validate(rows: list[list[str]], boe_id: str) -> None:
         if row[5] != "island" and row[3] != "Arán":
             in_table[row[1]] = in_table.get(row[1], 0) + 1
 
-    wrong = {region: count for region, count in in_table.items() if count != EXPECTED_IN_TABLE.get(region, EXPECTED_DEFAULT)}
+    wrong = {
+        region: count for region, count in in_table.items()
+        if count - EXPECTED_IN_TABLE.get(region, EXPECTED_DEFAULT) not in (0, 1)
+    }
 
     if len(in_table) != 19 or wrong:
         raise ValueError(f"{boe_id}: número de fiestas por comunidad inesperado: {wrong or len(in_table)}")

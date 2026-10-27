@@ -18,7 +18,7 @@
 
 ## Calendario
 
-- **Festivos:** resoluciones de la Dirección General de Trabajo con la relación de fiestas laborales de cada año ([2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667) y [2027](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254)). Las fiestas locales de cada municipio no se publican en el BOE y no están incluidas.
+- **Festivos:** resoluciones de la Dirección General de Trabajo con la relación de fiestas laborales de cada año ([2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667) y [2027](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254)). Las fiestas locales de cada municipio no se publican en el BOE y no están incluidas. Algunos años una comunidad tiene 13 fiestas porque una es recuperable (en 2025, Cataluña y la Comunitat Valenciana); el detalle está en las notas de la resolución, enlazada en la columna `boe_id`.
 
 ## Lugares
 
