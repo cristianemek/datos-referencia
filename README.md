@@ -10,7 +10,7 @@ Datos de bancos, direcciones, contabilidad y email en CSV (UTF-8, separados por 
 ## direcciones/
 
 - `codigos_postales_es.csv`: códigos postales de España con provincia, municipio y localidad.
-- `comunidades_es.csv`: comunidades y ciudades autónomas con su código INE, código ISO 3166-2 y coordenadas.
+- `comunidades_es.csv`: comunidades y ciudades autónomas con su código INE, código ISO 3166-2, coordenadas, y bandera y escudo en SVG (los originales de Wikimedia Commons, optimizados sin cambiar el dibujo; licencia y autor en `simbolos_es.csv`). Algunos escudos pasan de 128 KB: en Python hay que subir el límite con `csv.field_size_limit(sys.maxsize)`.
 - `provincias_es.csv`: provincias de España con su código INE, comunidad autónoma, código ISO 3166-2 y coordenadas de la capital.
 - `municipios_es.csv`: municipios de España con su código INE, dígito de control, isla (Baleares y Canarias) y coordenadas.
 - `simbolos_es.csv`: enlaces a la bandera y el escudo de comunidades, provincias y municipios en Wikimedia Commons, con su licencia y autor.
