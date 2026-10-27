@@ -1,0 +1,910 @@
+country_code,name,iso_code,latitude,longitude
+AR,Buenos Aires,,,
+AR,Catamarca,,,
+AR,Chaco,,,
+AR,Chubut,,,
+AR,Córdoba,,,
+AR,Corrientes,,,
+AR,Entre Ríos,,,
+AR,Formosa,,,
+AR,Jujuy,,,
+AR,La Pampa,,,
+AR,La Rioja,,,
+AR,Mendoza,,,
+AR,Misiones,,,
+AR,Neuquén,,,
+AR,Río Negro,,,
+AR,Salta,,,
+AR,San Juan,,,
+AR,San Luis,,,
+AR,Santa Cruz,,,
+AR,Santa Fe,,,
+AR,Santiago del Estero,,,
+AR,"Tierra del Fuego,Antártida e Isla del Atlántico Sur",,,
+AR,Tucumán,,,
+AT,Burgenland,AT-1,47.5000,16.4167
+AT,Carintia,AT-2,46.7525,13.8617
+AT,Estiria,AT-6,47.2500,15.1667
+AT,Niederösterreich,AT-3,48.3333,15.7500
+AT,Oberösterreich,AT-4,48.2000,14.0000
+AT,Salzburgo,AT-5,47.4200,13.2200
+AT,Tirol,AT-7,47.2667,11.4000
+AT,Viena,AT-9,48.2083,16.3725
+AT,Vorarlberg,AT-8,47.3000,9.9000
+BE,Antwerp,BE-VAN,51.2167,4.4167
+BE,East Flanders,BE-VOV,51.0000,3.7500
+BE,Flemish Brabant,,,
+BE,Hainaut,BE-WHT,50.5000,3.9167
+BE,Liege,BE-WLG,50.6333,5.5667
+BE,Limburg,BE-VLI,50.9833,5.3833
+BE,Luxembourg,BE-WLX,49.9167,5.4167
+BE,Namur,BE-WNA,50.4642,4.8617
+BE,Walloon Brabant,,,
+BE,West Flanders,BE-VWV,51.0000,3.0000
+BO,Beni,,,
+BO,Chuquisaca,,,
+BO,Cochabamba,,,
+BO,La Paz,,,
+BO,Oruro,,,
+BO,Pando,,,
+BO,Potosí,,,
+BO,Santa Cruz,,,
+BO,Tarija,,,
+BR,Acre,BR-AC,-9.0333,-70.5167
+BR,Alagoas,BR-AL,-9.6500,-36.6833
+BR,Amapá,BR-AP,1.3833,-51.8000
+BR,Amazonas,BR-AM,-3.9833,-64.6333
+BR,Bahía,BR-BA,-12.5200,-41.6900
+BR,Ceará,BR-CE,-5.2000,-39.3000
+BR,Distrito Federal,BR-DF,-15.7833,-47.7500
+BR,Espírito Santo,BR-ES,-20.2500,-40.2500
+BR,Goiás,BR-GO,-15.8833,-49.8333
+BR,Maranhão,BR-MA,-6.1833,-45.6000
+BR,Mato Grosso,BR-MT,-12.8333,-56.3167
+BR,Mato Grosso do Sul,BR-MS,-20.1833,-54.7000
+BR,Minas Gerais,BR-MG,-19.7822,-43.9514
+BR,Pará,BR-PA,-3.8500,-52.4000
+BR,Paraíba,BR-PB,-7.1500,-36.8167
+BR,Paraná,BR-PR,-24.6700,-51.6200
+BR,Pernambuco,BR-PE,-8.3400,-37.8100
+BR,Piauí,BR-PI,-7.4167,-42.9000
+BR,Rio de Janeiro,BR-RJ,-22.0333,-42.7000
+BR,Rio Grande do Norte,BR-RN,-5.7400,-36.5500
+BR,Rio Grande do Sul,BR-RS,-29.7500,-53.1500
+BR,Rondônia,BR-RO,-10.9333,-62.8167
+BR,Roraima,BR-RR,2.1333,-61.3500
+BR,Santa Catarina,BR-SC,-27.2700,-50.4900
+BR,São Paulo,BR-SP,-22.0700,-48.4336
+BR,Sergipe,BR-SE,-10.5900,-37.3800
+BR,Tocantins,BR-TO,-9.4167,-48.1500
+BZ,Belize,BZ-BZ,17.2500,-88.1667
+BZ,Cayo,BZ-CY,16.8333,-88.9167
+BZ,Corozal,,,
+BZ,Orange Walk,BZ-OW,17.8333,-88.8333
+BZ,Stann Creek,BZ-SC,16.8333,-88.5000
+BZ,Toledo,,,
+CA,Alberta,,,
+CA,British Columbia,,,
+CA,Manitoba,,,
+CA,New Brunswick,,,
+CA,Newfoundland and Labrador,,,
+CA,Northwest Territories,,,
+CA,Nova Scotia,,,
+CA,Nunavut,,,
+CA,Ontario,,,
+CA,Prince Edward Island,,,
+CA,Quebec,,,
+CA,Saskatchewan,,,
+CA,Yukon,,,
+CL,Aisén,,,
+CL,Antártica Chilena,,,
+CL,Antofagasta,,,
+CL,Arauco,,,
+CL,Arica,,,
+CL,Bío-Bío,,,
+CL,Cachapoal,,,
+CL,Capitán Prat,,,
+CL,Cardenal Caro,,,
+CL,Cauquenes,,,
+CL,Cautín,,,
+CL,Chacabuco,,,
+CL,Chañaral,,,
+CL,Chiloé,,,
+CL,Choapa,,,
+CL,Coihaique,,,
+CL,Colchagua,,,
+CL,Concepción,,,
+CL,Copiapó,,,
+CL,Cordillera,,,
+CL,Curicó,,,
+CL,El Loa,,,
+CL,Elqui,,,
+CL,General Carrera,,,
+CL,Huasco,,,
+CL,Iquique,,,
+CL,Isla de Pascua,,,
+CL,Limarí,,,
+CL,Linares,,,
+CL,Llanquihue,,,
+CL,Los Andes,,,
+CL,Magallanes,,,
+CL,Maipo,,,
+CL,Malleco,,,
+CL,Marga Marga,,,
+CL,Melipilla,,,
+CL,Ñuble,,,
+CL,Osorno,,,
+CL,Palena,,,
+CL,Parinacota,,,
+CL,Petorca,,,
+CL,Quillota,,,
+CL,Ranco,,,
+CL,San Antonio,,,
+CL,San Felipe de Aconcagua,,,
+CL,Santiago,,,
+CL,Talagante,,,
+CL,Talca,,,
+CL,Tamarugal,,,
+CL,Tierra del Fuego,,,
+CL,Tocopilla,,,
+CL,Última Esperanza,,,
+CL,Valdivia,,,
+CL,Valparaíso,,,
+CO,Amazonas,CO-AMA,-1.5000,-71.5000
+CO,Antioquia,CO-ANT,6.6833,-75.5667
+CO,Arauca,CO-ARA,6.6167,-70.9833
+CO,Atlántico,CO-ATL,10.6500,-74.9667
+CO,Bogotá,CO-DC,4.6097,-74.0817
+CO,Bolívar,CO-BOL,8.8833,-74.3167
+CO,Boyacá,CO-BOY,5.7500,-73.1000
+CO,Caldas,CO-CAL,5.2833,-75.3500
+CO,Caquetá,CO-CAQ,1.0333,-73.9000
+CO,Casanare,CO-CAS,5.4333,-71.5000
+CO,Cauca,CO-CAU,2.2833,-76.8500
+CO,Cesar,CO-CES,9.2333,-73.5167
+CO,Chocó,CO-CHO,5.6953,-76.6611
+CO,Córdoba,CO-COR,8.3667,-75.7000
+CO,Cundinamarca,CO-CUN,5.0000,-74.1500
+CO,Guainía,CO-GUA,2.8167,-68.8000
+CO,Guaviare,CO-GUV,1.9833,-71.9333
+CO,Huila,CO-HUI,2.8000,-75.4500
+CO,La Guajira,CO-LAG,11.5500,-72.3500
+CO,Magdalena,CO-MAG,10.1833,-74.2333
+CO,Meta,CO-MET,3.4631,-73.7089
+CO,Nariño,CO-NAR,1.6000,-77.8667
+CO,Norte de Santander,CO-NSA,8.0167,-72.8833
+CO,Putumayo,CO-PUT,0.5667,-75.6500
+CO,Quindío,CO-QUI,4.5328,-75.6725
+CO,Risaralda,CO-RIS,5.0167,-75.9167
+CO,San Andrés y Providencia,CO-SAP,14.3833,-80.2833
+CO,Santander,CO-SAN,6.6667,-73.4500
+CO,Sucre,CO-SUC,9.1449,-75.0782
+CO,Tolima,CO-TOL,4.0500,-75.2500
+CO,Valle del Cauca,CO-VAC,3.9333,-76.5167
+CO,Vaupés,CO-VAU,0.5500,-70.5500
+CO,Vichada,CO-VID,4.6333,-69.2333
+CR,ALAJUELA,,,
+CR,CARTAGO,,,
+CR,GUANACASTE,,,
+CR,HEREDIA,,,
+CR,LIMON,,,
+CR,PUNTARENAS,,,
+CR,SAN JOSE,CR-SJ,9.6000,-83.9500
+CY,Famagusta,CY-04,35.0409,33.9906
+CY,Kyrenia,CY-06,35.3271,33.3139
+CY,Lárnaca,CY-03,34.9169,33.6375
+CY,Limassol,CY-02,34.6789,33.0439
+CY,Nicosia,CY-01,35.1617,33.3455
+CY,Pafos,CY-05,34.7768,32.4197
+CZ,Central Bohemia,CZ-20,49.9667,14.5000
+CZ,Hradec Králové,CZ-52,50.4000,15.8000
+CZ,Karlovy Vary,CZ-41,50.2000,12.7000
+CZ,Liberec,CZ-51,50.7000,15.0000
+CZ,Moravian-Silesian,CZ-80,49.8000,18.0000
+CZ,Olomouc,CZ-71,49.7167,17.1000
+CZ,Pardubice,CZ-53,49.9000,16.2000
+CZ,Plzeň,CZ-32,49.7000,13.2000
+CZ,Prague,CZ-10,50.0875,14.4214
+CZ,South Bohemia,CZ-31,49.0833,14.6667
+CZ,South Moravia,CZ-64,49.1000,16.6000
+CZ,Ústí nad Labem,CZ-42,50.5000,13.8500
+CZ,Vysočina,CZ-63,49.4000,15.7000
+CZ,Zlín,CZ-72,49.2000,17.7000
+DE,Baden-Württemberg,,,
+DE,Bavaria,DE-BY,49.0786,11.3856
+DE,Berlin,DE-BE,52.5167,13.3833
+DE,Brandenburg,DE-BB,52.3946,13.0603
+DE,Bremen,DE-HB,53.1333,8.7333
+DE,Hamburg,DE-HH,53.5500,10.0000
+DE,Hesse,DE-HE,50.6080,9.0285
+DE,Lower Saxony,,,
+DE,Mecklenburg-Vorpommern,DE-MV,53.7500,12.5000
+DE,North Rhine-Westphalia,DE-NW,51.4667,7.5500
+DE,Rhineland-Palatinate,DE-RP,49.9131,7.4497
+DE,Saarland,,,
+DE,Saxony,DE-SN,51.0269,13.3589
+DE,Saxony-Anhalt,DE-ST,52.0000,11.7000
+DE,Schleswig-Holstein,DE-SH,54.4700,9.5142
+DE,Thuringia,DE-TH,51.0000,11.0000
+DK,Capital Region,DK-84,55.9315,12.3501
+DK,Central Denmark,DK-82,56.1667,9.5000
+DK,North Denmark,DK-81,57.1800,9.6700
+DK,Region of Southern Denmark,DK-83,55.3333,9.6667
+DK,Zealand,DK-85,55.1667,11.8333
+DO,Azua,DO-02,18.4600,-70.7400
+DO,Bahoruco,DO-03,18.4900,-71.4200
+DO,Barahona,DO-04,18.2000,-71.1000
+DO,Dajabón,DO-05,19.5667,-71.7100
+DO,Distrito Nacional,DO-01,18.5000,-69.9833
+DO,Duarte,DO-06,19.3000,-70.2500
+DO,Elías Piña,DO-07,18.8833,-71.7000
+DO,El Seibo,DO-08,18.7700,-69.0400
+DO,Espaillat,DO-09,19.3833,-70.5167
+DO,Hato Mayor,DO-30,18.7700,-69.2600
+DO,Hermanas Mirabal,DO-19,19.4200,-70.3900
+DO,Independencia,DO-10,18.4900,-71.8500
+DO,La Altagracia,DO-11,18.6200,-68.7100
+DO,La Romana,DO-12,18.4300,-68.9700
+DO,La Vega,DO-13,19.2200,-70.5300
+DO,María Trinidad Sánchez,DO-14,19.3800,-69.8500
+DO,Monseñor Nouel,DO-28,18.9500,-70.4100
+DO,Monte Cristi,DO-15,19.8500,-71.6500
+DO,Monte Plata,DO-29,18.8100,-69.7900
+DO,Pedernales,DO-16,18.0333,-71.7500
+DO,Peravia,DO-17,18.2900,-70.3300
+DO,Puerto Plata,DO-18,19.8000,-70.6833
+DO,Samaná,DO-20,19.2000,-69.3167
+DO,Sánchez Ramírez,DO-24,19.0600,-70.1500
+DO,San Cristóbal,DO-21,18.4200,-70.1100
+DO,San José de Ocoa,DO-31,18.5500,-70.5000
+DO,San Juan,DO-22,18.8100,-71.2300
+DO,San Pedro de Macorís,DO-23,18.4600,-69.3100
+DO,Santiago,DO-25,19.4800,-70.6900
+DO,Santiago Rodríguez,DO-26,19.4833,-71.3500
+DO,Santo Domingo,DO-32,18.4834,-69.9296
+DO,Valverde,DO-27,19.5667,-71.0833
+EC,Azuay,,,
+EC,Bolívar,,,
+EC,Cañar,,,
+EC,Carchi,,,
+EC,Chimborazo,,,
+EC,Cotopaxi,,,
+EC,El Oro,,,
+EC,Esmeraldas,,,
+EC,Galápagos,,,
+EC,Guayas,,,
+EC,Imbabura,,,
+EC,Loja,,,
+EC,Los Ríos,,,
+EC,Manabí,,,
+EC,Morona Santiago,,,
+EC,Napo,,,
+EC,Orellana,,,
+EC,Pastaza,,,
+EC,Pichincha,,,
+EC,Santa Elena,,,
+EC,Santo Domingo de los Tsáchilas,,,
+EC,Sucumbíos,,,
+EC,Tungurahua,,,
+EC,Zamora Chinchipe,,,
+EE,Harju,EE-37,59.3333,25.0000
+EE,Hiiu,EE-39,58.8333,22.6667
+EE,Ida-Viru,,,
+EE,Järva,,,
+EE,Jõgeva,,,
+EE,Lääne,,,
+EE,Lääne-Viru,,,
+EE,Pärnu,,,
+EE,Põlva,,,
+EE,Rapla,,,
+EE,Saare,EE-74,58.4167,22.5833
+EE,Tartu,,,
+EE,Valga,,,
+EE,Viljandi,EE-84,58.3333,25.5833
+EE,Võru,,,
+ES,A Coruña,ES-C,43.3700,-8.4000
+ES,Álava,ES-VI,42.8333,-2.7500
+ES,Albacete,ES-AB,38.8333,-2.0000
+ES,Alicante,ES-A,38.5000,-0.5000
+ES,Almería,ES-AL,37.0186,-2.4447
+ES,Asturias,ES-O,43.3666,-5.8611
+ES,Ávila,ES-AV,40.6161,-4.9290
+ES,Badajoz,ES-BA,38.6670,-6.1670
+ES,Barcelona,ES-B,41.4500,2.0833
+ES,Bizkaia,ES-BI,43.2619,-2.9322
+ES,Burgos,ES-BU,42.3833,-3.6667
+ES,Cáceres,ES-CC,39.6670,-6.0000
+ES,Cádiz,ES-CA,36.5000,-5.7500
+ES,Cantabria,ES-S,43.1667,-4.0000
+ES,Castellón,ES-CS,40.1667,-0.1667
+ES,Ceuta,ES-CE,35.8867,-5.3000
+ES,Ciudad Real,ES-CR,39.0000,-4.0000
+ES,Córdoba,ES-CO,38.0000,-4.8333
+ES,Cuenca,ES-CU,40.0000,-2.0000
+ES,Gipuzkoa,ES-SS,43.1667,-2.1667
+ES,Girona,ES-GI,42.1667,2.6667
+ES,Granada,ES-GR,37.2500,-3.2500
+ES,Guadalajara,ES-GU,40.8333,-2.5000
+ES,Huelva,ES-H,37.6667,-7.0000
+ES,Huesca,ES-HU,42.1667,-0.1667
+ES,Illes Balears,ES-PM,39.6099,3.0295
+ES,Jaén,ES-J,38.0000,-3.5000
+ES,La Rioja,ES-LO,,
+ES,Las Palmas,ES-GC,28.3333,-14.3333
+ES,León,ES-LE,42.6200,-5.8407
+ES,Lleida,ES-L,42.0000,1.1667
+ES,Lugo,ES-LU,43.0000,-7.5000
+ES,Madrid,ES-M,40.3988,-3.7243
+ES,Málaga,ES-MA,36.7167,-4.4167
+ES,Melilla,ES-ML,35.2825,-2.9475
+ES,Murcia,ES-MU,37.9924,-1.1305
+ES,Navarra,ES-NA,42.8233,-1.6514
+ES,Ourense,ES-OR,42.1667,-7.5000
+ES,Palencia,ES-P,42.4321,-4.5206
+ES,Pontevedra,ES-PO,42.4333,-8.6333
+ES,Salamanca,ES-SA,40.8300,-6.0000
+ES,Santa Cruz de Tenerife,ES-TF,28.1667,-17.3333
+ES,Segovia,ES-SG,41.1667,-4.0000
+ES,Sevilla,ES-SE,37.5000,-5.5000
+ES,Soria,ES-SO,41.6667,-2.6667
+ES,Tarragona,ES-T,41.1667,1.0000
+ES,Teruel,ES-TE,40.6667,-0.6667
+ES,Toledo,ES-TO,39.8333,-4.0000
+ES,Valencia,ES-V,39.4772,-0.3767
+ES,Valladolid,ES-VA,41.5833,-4.6667
+ES,Zamora,ES-ZA,41.7500,-6.0000
+ES,Zaragoza,ES-Z,41.5833,-1.0000
+FI,Ahvenanmaan saaret,FI-01,60.2500,20.0000
+FI,Etelä-Karjala,FI-02,61.0000,28.0000
+FI,Etelä-Pohjanmaa,FI-03,62.7500,22.5000
+FI,Kainuu,FI-05,64.5000,28.0000
+FI,Keski-Pohjanmaa,FI-07,63.5000,24.2500
+FI,Keski-Suomessa,FI-08,62.5000,25.5000
+FI,Kymenlaakso,FI-09,60.5000,27.0000
+FI,Laponia,FI-10,67.0000,26.0000
+FI,Lounais-Suomi,FI-19,60.5000,22.7500
+FI,Ostrobotnia,FI-12,63.0000,22.0000
+FI,Päijänne Tavastia,FI-16,61.2500,25.8333
+FI,Pirkanmaa,FI-11,61.7000,23.7167
+FI,Pohjois-Karjala,FI-13,63.0000,30.0000
+FI,Pohjois-Pohjanmaa,FI-14,65.0000,26.0000
+FI,Satakunta,FI-17,61.3333,22.0000
+FI,Savonia del Norte,FI-15,63.0000,27.0000
+FI,Savonia del Sur,FI-04,62.0000,27.5000
+FI,Tavastia Propia,FI-06,60.8333,24.2500
+FI,Uusimaa,FI-18,60.2500,24.5000
+FR,Aquitaine,FR-NAQ,44.8333,-0.5833
+FR,Auvernia-Ródano-Alpes,FR-ARA,45.7000,4.8000
+FR,Bretagne,FR-BRE,48.0000,-3.0000
+FR,Centro-Valle de Loira,FR-CVL,47.5000,1.7500
+FR,Corse,,,
+FR,Duché de Bourgogne,FR-BFC,47.2345,6.0305
+FR,Grand Est,FR-GES,48.5833,7.7500
+FR,Guadeloupe,FR-GP,,
+FR,Guyane,FR-GF,,
+FR,Haute-France,FR-HDF,49.9167,2.7000
+FR,Île de France,,,
+FR,Martinica,FR-MQ,,
+FR,Mayotte,FR-YT,,
+FR,Normandie,FR-NOR,49.1833,-0.3500
+FR,Occitania,FR-OCC,43.7075,2.1375
+FR,Pays de la Loire,FR-PDL,47.4167,-0.8500
+FR,Provenza-Alpes-Costa Azul,FR-PAC,44.0000,6.0000
+FR,Réunion,FR-RE,,
+GB,Upper Takutu-Upper Essequibo,,,
+GF,Guayana Francesa,,,
+GR,Ática,GR-I,38.0000,23.7000
+GR,Central Greece Region,GR-H,38.5833,22.6667
+GR,Central Macedonia,GR-B,40.7000,23.0000
+GR,Creta,GR-M,35.2167,24.9167
+GR,Eastern Macedonia and Thrace,GR-A,41.2000,25.0000
+GR,Epiro,GR-D,39.5000,20.8333
+GR,Ionian Islands,GR-F,38.7000,20.3000
+GR,North Aegean,GR-K,38.7000,26.0000
+GR,Peloponeso,GR-J,37.3333,22.4167
+GR,South Aegean,GR-L,36.8000,26.2000
+GR,Tesalia,GR-E,,
+GR,Western Greece,GR-G,38.2000,21.4000
+GR,West Macedonia,GR-C,40.4000,21.5000
+GT,Alta Verapaz,GT-AV,,
+GT,Baja Verapaz,GT-BV,,
+GT,Chimaltenango,GT-CM,,
+GT,Chiquimula,GT-CQ,,
+GT,El Progreso,GT-PR,,
+GT,Escuintla,GT-ES,,
+GT,Guatemala,GT-GU,,
+GT,Huehuetenango,GT-HU,,
+GT,Izabal,GT-IZ,,
+GT,Jalapa,GT-JA,,
+GT,Jutiapa,GT-JU,,
+GT,Petén,GT-PE,,
+GT,Quetzaltenango,GT-QZ,,
+GT,Quiché,GT-QC,,
+GT,Retalhuleu,GT-RE,,
+GT,Sacatepéquez,GT-SA,,
+GT,San Marcos,GT-SM,,
+GT,Santa Rosa,GT-SR,,
+GT,Sololá,GT-SO,,
+GT,Suchitepéquez,GT-SU,,
+GT,Totonicapán,GT-TO,,
+GT,Zacapa,GT-ZA,,
+GY,Barima-Waini,GY-BA,7.6670,-59.7500
+GY,Cuyuni-Mazaruni,GY-CU,6.4595,-60.2111
+GY,Demerara-Mahaica,GY-DE,6.7500,-57.9833
+GY,East Berbice-Corentyne,GY-EB,4.1079,-58.1834
+GY,Essequibo Islands-West Demerara,GY-ES,6.7151,-58.5490
+GY,Mahaica-Berbice,GY-MA,6.2295,-57.8868
+GY,Pomeroon-Supenaam,GY-PM,7.1078,-58.8806
+GY,Potaro-Siparuni,GY-PT,4.7697,-59.2654
+GY,Upper Demerara-Berbice,GY-UD,5.2691,-58.2671
+HN,Atlántida,HN-AT,15.7833,-86.7918
+HN,Choluteca,HN-CH,13.3061,-87.1956
+HN,Colón,HN-CL,15.9179,-85.9530
+HN,Comayagua,HN-CM,14.4528,-87.6379
+HN,Copán,HN-CP,14.7675,-88.7781
+HN,Cortés,HN-CR,15.5053,-88.0251
+HN,El Paraíso,HN-EP,13.9444,-86.8526
+HN,Francisco Morazán,HN-FM,14.1058,-87.2047
+HN,Gracias a Dios,HN-GD,15.2664,-83.7725
+HN,Intibucá,HN-IN,14.3081,-88.1768
+HN,Islas de la Bahía,HN-IB,16.3167,-86.5375
+HN,La Paz,HN-LP,14.3234,-87.6832
+HN,Lempira,HN-LE,14.5889,-88.5805
+HN,Ocotepeque,HN-OC,14.4355,-89.1845
+HN,Olancho,HN-OL,14.6672,-86.2196
+HN,Santa Bárbara,HN-SB,14.9216,-88.2364
+HN,Valle,HN-VA,13.5325,-87.4881
+HN,Yoro,HN-YO,15.1379,-87.1249
+HR,Bjelovar-Bilogora,HR-07,45.9028,16.8475
+HR,Brod-Posavina,HR-12,45.1575,18.0203
+HR,Dubrovnik-Neretva,HR-19,42.6536,18.0947
+HR,Istria,HR-18,45.2392,13.9386
+HR,Karlovac,HR-04,45.5000,15.5000
+HR,Koprivnica-Križevci,HR-06,46.1700,16.9090
+HR,Krapina-Zagorje,HR-02,46.1250,15.8070
+HR,Lika-Senj,HR-09,44.7070,15.1740
+HR,Međimurje,HR-20,46.4660,16.4140
+HR,Osijek-Baranja,HR-14,45.6370,18.6180
+HR,Požega-Eslavonia,HR-11,45.3110,17.7400
+HR,Primorje-Gorski Kotar,HR-08,44.9539,14.5939
+HR,Šibenik-Knin,HR-15,43.9290,16.0620
+HR,Sisak-Moslavina,HR-03,45.2208,16.2514
+HR,Split-Dalmacia,,,
+HR,Varaždin,HR-05,46.3210,16.2310
+HR,Virovitica-Podravina,HR-10,45.8730,17.5050
+HR,Vukovar-Sirmia,,,
+HR,Zadar,HR-13,44.1939,15.1983
+HR,Zagreb,HR-21,45.8131,15.9772
+HU,Bacs-Kiskun,HU-BK,46.5000,19.4167
+HU,Baranya,HU-BA,46.0833,18.2333
+HU,Bekes,HU-BE,46.7375,21.0447
+HU,Borsod-Abauj-Zemplen,HU-BZ,48.2500,21.0000
+HU,Csongrad,HU-CS,46.4167,20.2500
+HU,Fejer,HU-FE,47.1667,18.5833
+HU,Gyor-Moson-Sopron,HU-GS,47.6000,17.3000
+HU,Hajdu-Bihar,HU-HB,47.4167,21.5000
+HU,Heves,HU-HE,47.8333,20.2500
+HU,Jasz-Nagykun-Szolnok,HU-JN,47.2500,20.5000
+HU,Komarom Esztergom,HU-KE,47.5833,18.3333
+HU,Nograd,HU-NO,48.0000,19.5700
+HU,Pest,HU-PE,47.4167,19.3333
+HU,Somogy,HU-SO,46.4167,17.5833
+HU,Szabolcs-Szatmar-Bereg,HU-SZ,48.0000,22.1667
+HU,Tolna,HU-TO,46.5000,18.5833
+HU,Vas,HU-VA,47.1667,16.7500
+HU,Veszprem,HU-VE,47.1667,17.7500
+HU,Zala,HU-ZA,46.6667,16.8333
+IE,Connaught,IE-C,53.7800,-9.0500
+IE,Leinster,IE-L,53.3478,-6.2597
+IE,Munster,IE-M,52.2500,-9.0000
+IE,Ulster,IE-U,54.7407,-6.7446
+IT,Abruzzo,IT-65,42.2167,13.8333
+IT,Basilicata,IT-77,40.5000,16.5000
+IT,Calabria,IT-78,39.0000,16.5000
+IT,Campania,IT-72,40.7500,14.9500
+IT,Emilia-Romaña,IT-45,44.7500,11.0000
+IT,Friuli-Venezia Giulia,IT-36,46.1000,13.1167
+IT,Lazio,IT-62,41.9000,12.7167
+IT,Liguria,,,
+IT,Lombardía,IT-25,45.6500,9.9500
+IT,Marche,IT-57,43.3167,13.0000
+IT,Molise,IT-67,41.7000,14.6167
+IT,Piamonte,IT-21,45.2500,7.9167
+IT,Puglia,IT-75,41.0086,16.5128
+IT,Sardegna,IT-88,40.0000,9.0000
+IT,Sicilia,IT-82,,
+IT,Toscana,IT-52,43.4500,11.2000
+IT,Trentino-Alto Adige y Val d'Aosta,IT-32,46.3833,11.4167
+IT,Umbría,IT-55,42.9833,12.5667
+IT,Véneto,IT-34,45.7333,11.8500
+LT,Alytus,LT-AL,54.1667,24.0000
+LT,Kaunas,LT-KU,55.0000,24.0000
+LT,Klaipėda,LT-KL,55.6667,21.1667
+LT,Marijampolė,LT-MR,54.6667,23.1667
+LT,Panevėžys,LT-PN,56.0000,25.0000
+LT,Šiauliai,LT-SA,56.0000,23.3333
+LT,Tauragė,LT-TA,55.2561,22.2928
+LT,Telšiai,LT-TE,56.0000,22.0000
+LT,Utena,LT-UT,55.5000,25.5000
+LT,Vilna,LT-VL,54.6667,25.2833
+LU,Diekirch,LU-CL,50.0786,6.0225
+LU,Grevenmacher,LU-EC,49.8000,6.4000
+LU,Lëtzebuerg,,,
+LV,Kurzeme,,,
+LV,Latgale,,,
+LV,Pierīga,,,
+LV,Riga,,,
+LV,Vidzeme,,,
+LV,Zemgale,,,
+MT,Reġjun ċentrali,,,
+MT,Reġjun Għawdex,,,
+MT,Reġjun tan-Nofsinhar,,,
+MT,Reġjun tat-Tramuntana,,,
+MT,Reġjun tax-Xlokk,,,
+MX,Aguascalientes,MX-AGU,22.0500,-102.3000
+MX,Baja California,MX-BCN,29.9500,-115.1167
+MX,Baja California Sur,MX-BCS,25.4400,-111.8800
+MX,Campeche,MX-CAM,19.0000,-90.4000
+MX,Chiapas,MX-CHP,16.5300,-92.4500
+MX,Chihuahua,MX-CHH,28.6392,-106.0733
+MX,Ciudad de México,MX-CMX,19.3538,-99.1359
+MX,Coahuila de Zaragoza,MX-COA,27.3022,-102.0447
+MX,Colima,MX-COL,19.1000,-103.9000
+MX,Durango,MX-DUR,24.9347,-104.9119
+MX,Guanajuato,MX-GUA,21.0189,-101.2628
+MX,Guerrero,MX-GRO,17.6131,-99.9500
+MX,Hidalgo,MX-HID,20.4783,-98.8636
+MX,Jalisco,MX-JAL,20.6764,-103.3458
+MX,México,MX-MEX,19.3542,-99.6308
+MX,Michoacán de Ocampo,MX-MIC,19.2100,-101.9100
+MX,Morelos,MX-MOR,18.7475,-99.0703
+MX,Nayarit,MX-NAY,22.0000,-105.0000
+MX,Nuevo León,MX-NLE,25.5667,-99.9706
+MX,Oaxaca,MX-OAX,17.0550,-96.6539
+MX,Puebla,MX-PUE,19.0036,-97.8883
+MX,Querétaro,MX-QUE,20.5910,-100.3910
+MX,Quintana Roo,MX-ROO,19.6000,-87.9167
+MX,San Luis Potosí,MX-SLP,22.6033,-100.4297
+MX,Sinaloa,MX-SIN,25.0028,-107.5028
+MX,Sonora,MX-SON,29.8333,-110.9500
+MX,Tabasco,MX-TAB,17.9881,-92.9194
+MX,Tamaulipas,MX-TAM,24.2872,-98.5633
+MX,Tlaxcala,MX-TLA,19.4000,-98.1000
+MX,Veracruz,MX-VER,19.8394,-96.0556
+MX,Yucatán,MX-YUC,21.0000,-89.6000
+MX,Zacatecas,MX-ZAC,23.2928,-102.7006
+NI,Boaco,NI-BO,12.4726,-85.6600
+NI,Carazo,NI-CA,11.8478,-86.1993
+NI,Chinandega,NI-CI,12.6311,-87.1347
+NI,Chontales,NI-CO,12.1061,-85.3652
+NI,Estelí,NI-ES,13.0929,-86.3562
+NI,Granada,NI-GR,11.9304,-85.9536
+NI,Jinotega,NI-JI,13.0920,-86.0032
+NI,León,NI-LE,12.4348,-86.8788
+NI,Madriz,NI-MD,13.4837,-86.5826
+NI,Managua,NI-MN,12.1547,-86.2737
+NI,Masaya,NI-MS,11.9736,-86.0961
+NI,Matagalpa,NI-MT,12.9284,-85.9184
+NI,Nueva Segovia,NI-NS,13.6319,-86.4744
+NI,Región Autónoma de la Costa Caribe Norte,NI-AN,14.0284,-83.3823
+NI,Región Autónoma de la Costa Caribe Sur,NI-AS,12.0131,-83.7649
+NI,Río San Juan,NI-SJ,11.1230,-84.7783
+NI,Rivas,NI-RI,11.4389,-85.8287
+NL,Drente,NL-DR,52.9167,6.5833
+NL,Flevoland,NL-FL,52.5333,5.6667
+NL,Gueldres,,,
+NL,Limburgo,NL-LI,51.2167,5.9333
+NL,Noord-Frankrijk,,,
+NL,Noord-Holland,NL-NH,52.6667,4.8333
+NL,Overijssel,NL-OV,52.5000,6.5000
+NL,Utrecht,NL-UT,52.1033,5.1792
+NL,Zelanda,NL-ZE,51.5667,3.7500
+NL,Zuid-Frankrijk,,,
+NL,Zuid-Holland,NL-ZH,52.0000,4.6667
+PA,Bocas del Toro,PA-1,9.3406,-82.2406
+PA,Chiriquí,PA-4,8.4297,-82.4300
+PA,Coclé,PA-2,8.5000,-80.5000
+PA,Colón,PA-3,9.1667,-80.1667
+PA,Darién,PA-5,8.4083,-77.9150
+PA,Emberá-Wounaan,,,
+PA,Guna Yala,PA-KY,9.2961,-78.3442
+PA,Herrera,PA-6,7.8333,-80.6667
+PA,Los Santos,PA-7,7.6000,-80.4500
+PA,Ngäbe-Buglé,PA-NB,8.7697,-81.7339
+PA,Panamá,PA-8,9.0000,-79.1667
+PA,Panamá Oeste,,,
+PA,Veraguas,PA-9,8.0000,-81.0000
+PE,Amazonas,PE-AMA,-6.2200,-77.8500
+PE,Áncash,PE-ANC,-9.5300,-77.5300
+PE,Apurímac,PE-APU,-14.1667,-72.7556
+PE,Arequipa,PE-ARE,-15.8600,-72.2500
+PE,Ayacucho,PE-AYA,-13.1631,-74.2244
+PE,Cajamarca,PE-CAJ,-6.6100,-78.7800
+PE,Callao,PE-CAL,,
+PE,Cusco,PE-CUS,-13.2600,-72.1100
+PE,Huancavelica,PE-HUV,-13.0200,-75.0900
+PE,Huánuco,PE-HUC,-9.9294,-76.2397
+PE,Ica,PE-ICA,-14.0700,-75.7300
+PE,Junín,PE-JUN,-11.4800,-74.9800
+PE,La Libertad,PE-LAL,-8.0000,-78.5000
+PE,Lambayeque,PE-LAM,-6.4333,-79.8667
+PE,Lima,PE-LIM,-11.8500,-76.4500
+PE,Loreto,PE-LOR,-4.0000,-74.3200
+PE,Madre de Dios,PE-MDD,-11.9900,-70.5900
+PE,Moquegua,PE-MOQ,-16.8000,-70.8000
+PE,Pasco,PE-PAS,-10.5000,-75.3000
+PE,Piura,PE-PIU,-4.9900,-80.4100
+PE,Puno,PE-PUN,-15.0700,-70.1200
+PE,San Martín,PE-SAM,-7.2000,-76.8000
+PE,Tacna,PE-TAC,-17.6000,-70.2000
+PE,Tumbes,PE-TUM,-3.8800,-80.5900
+PE,Ucayali,PE-UCA,-9.9600,-73.1900
+PL,Cuyavia y Pomerania,PL-04,53.0667,18.4833
+PL,Dolny Śląsk,PL-02,51.0833,16.3833
+PL,Lodz,PL-10,51.6000,19.4167
+PL,Lublin,PL-06,51.2167,22.9000
+PL,Lubusz,PL-08,52.1833,15.3333
+PL,Mazovia,PL-14,52.2428,21.0017
+PL,Opole,PL-16,50.6333,17.9000
+PL,Podlaquia,PL-20,53.2672,22.9319
+PL,Pomerania,PL-22,54.1833,18.0000
+PL,Pomerania Occidental,PL-32,53.6000,15.5333
+PL,Santa Cruz,PL-26,50.7500,20.7667
+PL,Silesia,PL-24,50.3333,19.0000
+PL,Subcarpacia,PL-18,49.9500,22.1667
+PL,Varmia y Masuria,PL-28,53.8500,20.8167
+PL,Varsovia,,,
+PL,Wielkopolska,PL-30,52.3333,17.2333
+PT,Aveiro,PT-01,40.6411,-8.6539
+PT,Beja,PT-02,38.0167,-7.8667
+PT,Braga,PT-03,41.5442,-8.4219
+PT,Bragança,PT-04,41.8072,-6.7592
+PT,Castelo Branco,PT-05,39.8240,-7.4920
+PT,Coimbra,PT-06,40.2111,-8.4289
+PT,Évora,PT-07,38.5697,-7.9097
+PT,Faro,PT-08,37.0150,-7.9350
+PT,Guarda,PT-09,40.5369,-7.2681
+PT,Leiria,PT-10,39.7439,-8.8069
+PT,Lisboa,PT-11,38.7000,-9.1833
+PT,Portalegre,PT-12,39.2911,-7.4319
+PT,Porto,PT-13,41.1500,-8.6100
+PT,Santarém,PT-14,39.2333,-8.6833
+PT,Setúbal,PT-15,38.5243,-8.8926
+PT,Viana do Castelo,PT-16,41.6950,-8.8300
+PT,Vila Real,PT-17,41.2961,-7.7461
+PT,Viseu,PT-18,40.6569,-7.9139
+PY,Alto Paraguay,PY-16,-20.5000,-59.0000
+PY,Alto Paraná,PY-10,-25.5140,-54.6143
+PY,Amambay,PY-13,-22.5300,-55.7500
+PY,Asunción,PY-ASU,-25.2800,-57.6344
+PY,Boquerón,PY-19,-21.5167,-60.7000
+PY,Caaguazú,PY-5,-25.2000,-55.8333
+PY,Caazapá,PY-6,-26.2000,-56.3833
+PY,Canindeyú,PY-14,-24.2197,-55.1431
+PY,Central,PY-11,-25.3000,-57.4167
+PY,Concepción,PY-1,-23.0000,-57.0000
+PY,Cordillera,PY-3,-25.3833,-57.1333
+PY,Guairá,PY-4,-25.7500,-56.4333
+PY,Itapúa,PY-7,-27.3333,-55.8833
+PY,Misiones,PY-8,-26.6333,-57.1667
+PY,Ñeembucú,PY-12,-26.6667,-57.9167
+PY,Paraguarí,PY-9,-25.6333,-57.1500
+PY,Presidente Hayes,PY-15,-23.7753,-58.6119
+PY,San Pedro,PY-2,-24.1000,-57.0833
+RO,Alba,RO-AB,46.1333,23.5333
+RO,Arad,RO-AR,46.3600,21.8000
+RO,Argeș,RO-AG,45.0000,24.8200
+RO,Bacău,RO-BC,46.4200,26.7800
+RO,Bihor,RO-BH,47.0722,21.9211
+RO,Bistrița-Năsăud,RO-BN,47.1389,24.5003
+RO,Botoșani,RO-BT,47.8400,26.8200
+RO,Brăila,RO-BR,45.1100,27.6800
+RO,Brașov,RO-BV,45.7900,25.2800
+RO,Buzău,RO-BZ,45.2700,26.7700
+RO,Călărași,RO-CL,44.3333,27.5500
+RO,Caraș-Severin,RO-CS,45.1500,22.0700
+RO,Cluj,RO-CJ,46.7750,23.5917
+RO,Constanța,RO-CT,44.2700,28.3100
+RO,Covasna,RO-CV,45.9000,26.0300
+RO,Dâmbovița,RO-DB,44.8900,25.4700
+RO,Dolj,RO-DJ,44.1700,23.7000
+RO,Galați,RO-GL,45.7900,27.7800
+RO,Giurgiu,RO-GR,44.1600,25.9000
+RO,Gorj,RO-GJ,45.0400,23.3000
+RO,Harghita,RO-HR,46.3600,25.8000
+RO,Hunedoara,RO-HD,45.7800,22.9300
+RO,Ialomița,RO-IL,44.6400,27.3000
+RO,Iași,RO-IS,47.2500,27.3100
+RO,Ilfov,RO-IF,44.6100,26.1200
+RO,Maramureș,RO-MM,47.6728,24.0050
+RO,Mehedinți,RO-MH,44.6300,22.8800
+RO,Mureș,RO-MS,46.5900,24.6100
+RO,Neamț,RO-NT,46.9700,26.4000
+RO,Olt,RO-OT,44.4333,24.3667
+RO,Prahova,RO-PH,45.1000,26.0200
+RO,Sălaj,RO-SJ,47.2000,23.0500
+RO,Satu Mare,RO-SM,47.6900,22.8900
+RO,Sibiu,RO-SB,45.8700,24.2300
+RO,Suceava,RO-SV,47.5800,25.7600
+RO,Teleorman,RO-TR,43.6569,25.3569
+RO,Timiș,RO-TM,45.7800,21.3500
+RO,Tulcea,RO-TL,44.9800,28.7700
+RO,Vâlcea,RO-VL,45.0800,24.1100
+RO,Vaslui,RO-VS,46.5900,27.7700
+RO,Vrancea,RO-VN,45.7900,26.9700
+SE,Blekinge,SE-K,56.2833,15.1167
+SE,Dalarna,SE-W,60.6786,15.6006
+SE,Escania,SE-M,55.9953,13.4418
+SE,Estocolmo,SE-AB,59.3333,18.1667
+SE,Gävleborg,SE-X,60.7806,16.6553
+SE,Gotland,SE-I,57.5000,18.5000
+SE,Halland,SE-N,56.7500,13.0000
+SE,Jämtland,SE-Z,63.0000,14.6667
+SE,Jönköping,SE-F,57.7500,14.2000
+SE,Kalmar,SE-H,56.7333,15.9000
+SE,Kronoberg,SE-G,56.7900,14.4400
+SE,Norrbotten,SE-BD,67.0000,20.0000
+SE,Örebro,SE-T,59.2667,15.2167
+SE,Östergötland,SE-E,58.4106,15.6136
+SE,Södermanland,SE-D,58.7710,16.8695
+SE,Upsala,SE-C,59.8583,17.6500
+SE,Värmland,SE-S,59.7500,13.2500
+SE,Västerbotten,SE-AC,64.3447,18.3142
+SE,Västernorrland,SE-Y,62.7397,16.9300
+SE,Västmanland,SE-U,59.6167,16.5333
+SE,Västra Götaland,SE-O,58.2170,11.7334
+SI,Carintia,,,
+SI,Dolenjsko-kraška,,,
+SI,Drava,,,
+SI,Eslovenia Central,,,
+SI,Gorenjska,,,
+SI,Gorizia,,,
+SI,Jugovzhodna Slovenija,,,
+SI,Murania,,,
+SI,Obalno-kraški,,,
+SI,Pod Savo,,,
+SI,Savinia,,,
+SI,Srednja Sava,,,
+SK,Banska Bystrica,SK-BC,48.7297,19.1492
+SK,Bratislava,SK-BL,48.1439,17.1097
+SK,Kosice,SK-KI,48.7161,21.8631
+SK,Nitra,SK-NI,48.3069,18.0864
+SK,Presov,SK-PV,49.0017,21.2394
+SK,Trencin,SK-TC,48.8942,18.0406
+SK,Trnava,SK-TA,48.3775,17.5883
+SK,Zilina,SK-ZI,49.2228,18.7394
+SR,Brokopondo,SR-BR,4.7725,-55.1294
+SR,Commewijne,SR-CM,5.8697,-54.9197
+SR,Coronie,SR-CR,5.7636,-56.2778
+SR,Marowijne,SR-MA,5.7706,-54.3247
+SR,Nickerie,SR-NI,5.7672,-56.8703
+SR,Para,SR-PR,5.4336,-55.3369
+SR,Paramaribo,SR-PM,5.8236,-55.1697
+SR,Saramacca,SR-SA,5.7825,-55.6247
+SR,Sipaliwini,SR-SI,3.7769,-56.0278
+SR,Wanica,SR-WA,5.7967,-55.2639
+SV,Ahuachapán,SV-AH,13.9234,-89.8463
+SV,Cabañas,SV-CA,13.8762,-88.6285
+SV,Chalatenango,SV-CH,14.0414,-88.9394
+SV,Cuscatlán,SV-CU,13.7217,-88.9345
+SV,La Libertad,SV-LI,13.6737,-89.2886
+SV,La Paz,SV-PA,13.5073,-88.8702
+SV,La Unión,SV-UN,13.3371,-87.8431
+SV,Morazán,SV-MO,13.6952,-88.1061
+SV,San Miguel,SV-SM,13.4804,-88.1772
+SV,San Salvador,SV-SS,13.6976,-89.1912
+SV,Santa Ana,SV-SA,13.9947,-89.5566
+SV,San Vicente,SV-SV,13.6433,-88.7836
+SV,Sonsonate,SV-SO,13.7206,-89.7275
+SV,Usulután,SV-US,13.3438,-88.4382
+TT,Arima,TT-ARI,10.6250,-61.2792
+TT,Chaguanas,TT-CHA,10.5144,-61.4075
+TT,Couva-Tabaquite-Talparo,TT-CTT,10.4167,-61.4500
+TT,Diego Martin,TT-DMN,10.7167,-61.5667
+TT,Eastern Tobago,,,
+TT,Mayaro-Rio Claro,TT-MRC,10.2979,-61.0067
+TT,Penal-Debe,TT-PED,10.2000,-61.4500
+TT,Point Fortin,TT-PTF,10.1667,-61.6667
+TT,Port of Spain,TT-POS,10.6667,-61.5167
+TT,Princes Town,,,
+TT,San Fernando,TT-SFO,10.2833,-61.4667
+TT,Sangre Grande,TT-SGE,10.5667,-61.1333
+TT,Siparia,TT-SIP,10.1333,-61.5000
+TT,Tunapuna-Piarco,TT-TUP,10.6333,-61.3833
+US,Alabama,US-AL,32.7000,-86.7000
+US,Alaska,US-AK,64.0000,-150.0000
+US,Arizona,US-AZ,34.2867,-111.6569
+US,Arkansas,US-AR,34.8000,-92.2000
+US,California,US-CA,37.0000,-120.0000
+US,Colorado,US-CO,39.0000,-105.5000
+US,Connecticut,US-CT,41.6000,-72.7000
+US,Delaware,US-DE,39.0000,-75.5000
+US,District of Columbia,US-DC,38.9169,-77.0086
+US,Florida,US-FL,28.1333,-81.6317
+US,Georgia,US-GA,33.0000,-83.5000
+US,Hawaii,US-HI,21.5000,-158.0000
+US,Idaho,US-ID,45.0000,-114.0000
+US,Illinois,US-IL,40.0003,-89.2503
+US,Indiana,US-IN,39.9333,-86.2167
+US,Iowa,US-IA,42.0000,-93.0000
+US,Kansas,US-KS,38.5000,-98.0000
+US,Kentucky,US-KY,37.5000,-85.0000
+US,Louisiana,US-LA,31.0000,-92.0000
+US,Maine,US-ME,45.5000,-69.0000
+US,Maryland,US-MD,39.0000,-76.7000
+US,Massachusetts,US-MA,42.3000,-71.8000
+US,Michigan,US-MI,44.3400,-85.5800
+US,Minnesota,US-MN,46.0000,-94.0000
+US,Mississippi,US-MS,33.0000,-90.0000
+US,Missouri,US-MO,38.5000,-92.5000
+US,Montana,US-MT,47.0000,-110.0000
+US,Nebraska,US-NE,41.5000,-100.0000
+US,Nevada,US-NV,39.0000,-117.0000
+US,New Hampshire,US-NH,44.0000,-71.5000
+US,New Jersey,US-NJ,40.0000,-74.5000
+US,New Mexico,US-NM,34.0000,-106.0000
+US,New York,US-NY,43.0000,-75.0000
+US,North Carolina,US-NC,35.5000,-80.0000
+US,North Dakota,US-ND,47.5000,-100.5000
+US,Ohio,US-OH,40.5000,-82.5000
+US,Oklahoma,US-OK,35.5000,-98.0000
+US,Oregon,US-OR,43.9358,-120.5750
+US,Pennsylvania,US-PA,41.0000,-77.5000
+US,Puerto Rico,US-PR,18.2500,-66.5000
+US,Rhode Island,US-RI,41.7000,-71.5000
+US,South Carolina,US-SC,34.0000,-81.0000
+US,South Dakota,US-SD,44.5000,-100.0000
+US,Tennessee,US-TN,36.0000,-86.0000
+US,Texas,US-TX,31.0000,-100.0000
+US,Utah,US-UT,39.5000,-111.5000
+US,Vermont,US-VT,44.0000,-72.7000
+US,Virginia,US-VA,37.5000,-79.0000
+US,Washington,US-WA,47.5000,-120.5000
+US,West Virginia,US-WV,39.0000,-80.5000
+US,Wisconsin,US-WI,44.5000,-89.5000
+US,Wyoming,US-WY,43.0000,-107.5000
+UY,Artigas,UY-AR,-30.6242,-56.9450
+UY,Canelones,UY-CA,-34.5242,-56.2817
+UY,Cerro Largo,UY-CL,-32.3681,-54.1678
+UY,Colonia,UY-CO,-34.1167,-57.6833
+UY,Durazno,UY-DU,-33.0428,-56.0281
+UY,Flores,UY-FS,-33.6000,-56.8333
+UY,Florida,UY-FD,-34.0994,-56.2153
+UY,Lavalleja,UY-LA,-34.3775,-55.2381
+UY,Maldonado,UY-MA,-34.6333,-54.8833
+UY,Montevideo,UY-MO,-34.8836,-56.1819
+UY,Paysandú,UY-PA,-32.0653,-57.3272
+UY,Río Negro,UY-RN,-33.1247,-58.3003
+UY,Rivera,UY-RV,-31.5000,-55.2500
+UY,Rocha,UY-RO,-33.9333,-54.0000
+UY,Salto,UY-SA,-31.3158,-57.0367
+UY,San José,UY-SJ,-34.3389,-56.7103
+UY,Soriano,UY-SO,-33.5228,-57.7528
+UY,Tacuarembó,UY-TA,-32.1147,-55.7556
+UY,Treinta y Tres,UY-TT,-33.2308,-54.3822
+VE,Amazonas,VE-Z,3.5000,-66.0000
+VE,Anzoátegui,VE-B,8.9500,-64.2500
+VE,Apure,VE-C,7.1333,-69.0000
+VE,Aragua,VE-D,9.9500,-67.0500
+VE,Barinas,VE-E,8.1333,-69.4167
+VE,Bolívar,VE-F,5.9500,-63.3333
+VE,Carabobo,VE-G,10.1833,-67.9667
+VE,Cojedes,VE-H,9.3500,-68.3167
+VE,Delta Amacuro,VE-Y,8.7000,-61.1500
+VE,Dependencias Federales,,,
+VE,Distrito Capital,VE-A,10.4731,-66.9956
+VE,Falcón,VE-I,11.4067,-69.6778
+VE,Guárico,VE-J,8.7000,-66.6000
+VE,La Guaira,,,
+VE,Lara,VE-K,10.0700,-69.8600
+VE,Mérida,VE-L,8.5167,-71.2667
+VE,Miranda,VE-M,10.2500,-66.4167
+VE,Monagas,VE-N,9.4167,-63.0667
+VE,Nueva Esparta,VE-O,11.0000,-64.0000
+VE,Portuguesa,VE-P,9.1000,-69.2667
+VE,Sucre,VE-R,10.5500,-63.2000
+VE,Táchira,VE-S,7.8333,-72.0833
+VE,Trujillo,VE-T,9.4167,-70.5000
+VE,Vargas,VE-X,10.5667,-66.8667
+VE,Yaracuy,VE-U,10.3000,-68.7000
+VE,Zulia,VE-V,9.8333,-72.2500

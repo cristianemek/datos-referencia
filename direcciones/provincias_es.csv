@@ -1,53 +1,53 @@
-province_code,province
-01,Araba/Álava
-02,Albacete
-03,Alicante/Alacant
-04,Almería
-05,Ávila
-06,Badajoz
-07,"Illes Balears"
-08,Barcelona
-09,Burgos
-10,Cáceres
-11,Cádiz
-12,Castellón/Castelló
-13,"Ciudad Real"
-14,Córdoba
-15,"A Coruña"
-16,Cuenca
-17,Girona
-18,Granada
-19,Guadalajara
-20,Gipuzkoa
-21,Huelva
-22,Huesca
-23,Jaén
-24,León
-25,Lleida
-26,"La Rioja"
-27,Lugo
-28,Madrid
-29,Málaga
-30,Murcia
-31,Navarra
-32,Ourense
-33,Asturias
-34,Palencia
-35,"Las Palmas"
-36,Pontevedra
-37,Salamanca
-38,"Santa Cruz de Tenerife"
-39,Cantabria
-40,Segovia
-41,Sevilla
-42,Soria
-43,Tarragona
-44,Teruel
-45,Toledo
-46,Valencia/València
-47,Valladolid
-48,Bizkaia
-49,Zamora
-50,Zaragoza
-51,Ceuta
-52,Melilla
+province_code,province,iso_code,latitude,longitude
+01,Araba/Álava,ES-VI,42.8467,-2.6726
+02,Albacete,ES-AB,38.9944,-1.8564
+03,Alicante/Alacant,ES-A,38.3452,-0.4810
+04,Almería,ES-AL,36.8340,-2.4637
+05,Ávila,ES-AV,40.6562,-4.7002
+06,Badajoz,ES-BA,38.8794,-6.9829
+07,Illes Balears,ES-PM,39.5696,2.6502
+08,Barcelona,ES-B,41.3851,2.1734
+09,Burgos,ES-BU,42.3409,-3.6998
+10,Cáceres,ES-CC,39.4748,-6.3712
+11,Cádiz,ES-CA,36.5298,-6.2926
+12,Castellón/Castelló,ES-CS,39.9864,0.0573
+13,Ciudad Real,ES-CR,38.9863,-3.9272
+14,Córdoba,ES-CO,37.8882,-4.7794
+15,A Coruña,ES-C,43.3713,-8.3960
+16,Cuenca,ES-CU,40.0704,-2.1374
+17,Girona,ES-GI,41.9794,2.8214
+18,Granada,ES-GR,37.1773,-3.5986
+19,Guadalajara,ES-GU,40.6327,-3.1662
+20,Gipuzkoa,ES-SS,43.1197,-2.3106
+21,Huelva,ES-H,37.2614,-6.9447
+22,Huesca,ES-HU,42.1361,-0.4087
+23,Jaén,ES-J,37.7796,-3.7846
+24,León,ES-LE,42.5987,-5.5671
+25,Lleida,ES-L,41.6176,0.6200
+26,La Rioja,ES-LO,42.2871,-2.5396
+27,Lugo,ES-LU,43.0129,-7.5558
+28,Madrid,ES-M,40.4168,-3.7038
+29,Málaga,ES-MA,36.7213,-4.4213
+30,Murcia,ES-MU,37.9922,-1.1307
+31,Navarra,ES-NA,42.6954,-1.6761
+32,Ourense,ES-OR,42.3357,-7.8634
+33,Asturias,ES-O,43.3614,-5.8593
+34,Palencia,ES-P,42.0095,-4.5295
+35,Las Palmas,ES-GC,28.1248,-15.4300
+36,Pontevedra,ES-PO,42.4316,-8.6446
+37,Salamanca,ES-SA,40.9701,-5.6635
+38,Santa Cruz de Tenerife,ES-TF,28.4636,-16.2518
+39,Cantabria,ES-S,43.1828,-3.9878
+40,Segovia,ES-SG,40.9429,-4.1088
+41,Sevilla,ES-SE,37.3886,-5.9826
+42,Soria,ES-SO,41.7637,-2.4649
+43,Tarragona,ES-T,41.1189,1.2445
+44,Teruel,ES-TE,40.3434,-1.1069
+45,Toledo,ES-TO,39.8628,-4.0273
+46,Valencia/València,ES-V,39.4699,-0.3763
+47,Valladolid,ES-VA,41.6520,-4.7286
+48,Bizkaia,ES-BI,43.2630,-2.9340
+49,Zamora,ES-ZA,41.5034,-5.7460
+50,Zaragoza,ES-Z,41.6488,-0.8891
+51,Ceuta,ES-CE,35.8890,-5.3221
+52,Melilla,ES-ML,35.2923,-2.9381
