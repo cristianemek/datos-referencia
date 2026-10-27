@@ -1,0 +1,251 @@
+code,alpha3,name,phone_prefix,is_eu
+AD,AND,Andorra,+376,0
+AE,ARE,"Emiratos Árabes Unidos",+971,0
+AF,AFG,Afganistán,+93,0
+AG,ATG,"Antigua y Barbuda","+1 268",0
+AI,AIA,Anguila,"+1 264",0
+AL,ALB,Albania,+355,0
+AM,ARM,Armenia,+374,0
+AO,AGO,Angola,+244,0
+AQ,ATA,Antártida,,0
+AR,ARG,Argentina,+54,0
+AS,ASM,"Samoa Americana","+1 684",0
+AT,AUT,Austria,+43,1
+AU,AUS,Australia,+61,0
+AW,ABW,Aruba,+297,0
+AX,ALA,"Islas Aland",,0
+AZ,AZE,Azerbaiyán,+994,0
+BA,BIH,"Bosnia y Herzegovina",+387,0
+BB,BRB,Barbados,"+1 246",0
+BD,BGD,Bangladés,+880,0
+BE,BEL,Bélgica,+32,1
+BF,BFA,"Burkina Faso",+226,0
+BG,BGR,Bulgaria,+359,1
+BH,BHR,Baréin,+973,0
+BI,BDI,Burundi,+257,0
+BJ,BEN,Benín,+229,0
+BL,BLM,"San Bartolomé",,0
+BM,BMU,Bermudas,"+1 441",0
+BN,BRN,Brunéi,+673,0
+BO,BOL,Bolivia,+591,0
+BQ,BES,"Caribe neerlandés",,0
+BR,BRA,Brasil,+55,0
+BS,BHS,Bahamas,"+1 242",0
+BT,BTN,Bután,+975,0
+BV,BVT,"Isla Bouvet",,0
+BW,BWA,Botsuana,+267,0
+BY,BLR,Bielorrusia,+375,0
+BZ,BLZ,Belice,+501,0
+CA,CAN,Canadá,+1,0
+CC,CCK,"Islas Cocos",+61,0
+CD,COD,"República Democrática del Congo",+243,0
+CF,CAF,"República Centroafricana",+236,0
+CG,COG,Congo,+242,0
+CH,CHE,Suiza,+41,0
+CI,CIV,"Côte d’Ivoire",+225,0
+CK,COK,"Islas Cook",+682,0
+CL,CHL,Chile,+56,0
+CM,CMR,Camerún,+237,0
+CN,CHN,China,+86,0
+CO,COL,Colombia,+57,0
+CR,CRI,"Costa Rica",+506,0
+CU,CUB,Cuba,+53,0
+CV,CPV,"Cabo Verde",+238,0
+CW,CUW,Curazao,+599,0
+CX,CXR,"Isla de Navidad",+61,0
+CY,CYP,Chipre,+357,1
+CZ,CZE,Chequia,+420,1
+DE,DEU,Alemania,+49,1
+DJ,DJI,Yibuti,+253,0
+DK,DNK,Dinamarca,+45,1
+DM,DMA,Dominica,"+1 767",0
+DO,DOM,"República Dominicana","+1 809",0
+DZ,DZA,Argelia,+213,0
+EC,ECU,Ecuador,+593,0
+EE,EST,Estonia,+372,1
+EG,EGY,Egipto,+20,0
+EH,ESH,"Sáhara Occidental",+212,0
+ER,ERI,Eritrea,+291,0
+ES,ESP,España,+34,1
+ET,ETH,Etiopía,+251,0
+FI,FIN,Finlandia,+358,1
+FJ,FJI,Fiyi,+679,0
+FK,FLK,"Islas Malvinas",+500,0
+FM,FSM,Micronesia,+691,0
+FO,FRO,"Islas Feroe",+298,0
+FR,FRA,Francia,+33,1
+GA,GAB,Gabón,+241,0
+GB,GBR,"Reino Unido",+44,0
+GD,GRD,Granada,"+1 473",0
+GE,GEO,Georgia,+995,0
+GF,GUF,"Guayana Francesa",+594,0
+GG,GGY,Guernesey,+44,0
+GH,GHA,Ghana,+233,0
+GI,GIB,Gibraltar,+350,0
+GL,GRL,Groenlandia,+299,0
+GM,GMB,Gambia,+220,0
+GN,GIN,Guinea,+224,0
+GP,GLP,Guadalupe,+590,0
+GQ,GNQ,"Guinea Ecuatorial",+240,0
+GR,GRC,Grecia,+30,1
+GS,SGS,"Islas Georgia del Sur y Sandwich del Sur",,0
+GT,GTM,Guatemala,+502,0
+GU,GUM,Guam,"+1 671",0
+GW,GNB,Guinea-Bisáu,+245,0
+GY,GUY,Guyana,+592,0
+HK,HKG,"RAE de Hong Kong (China)",+852,0
+HM,HMD,"Islas Heard y McDonald",,0
+HN,HND,Honduras,+504,0
+HR,HRV,Croacia,+385,1
+HT,HTI,Haití,+509,0
+HU,HUN,Hungría,+36,1
+ID,IDN,Indonesia,+62,0
+IE,IRL,Irlanda,+353,1
+IL,ISR,Israel,+972,0
+IM,INM,"Isla de Man",+44,0
+IN,IND,India,+91,0
+IO,IOT,"Territorio Británico del Océano Índico",+246,0
+IQ,IRQ,Irak,+964,0
+IR,IRN,Irán,+98,0
+IS,ISL,Islandia,+354,0
+IT,ITA,Italia,+39,1
+JE,JEY,Jersey,+44,0
+JM,JAM,Jamaica,"+1 876",0
+JO,JOR,Jordania,+962,0
+JP,JPN,Japón,+81,0
+KE,KEN,Kenia,+254,0
+KG,KGZ,Kirguistán,+996,0
+KH,KHM,Camboya,+855,0
+KI,KIR,Kiribati,+686,0
+KM,COM,Comoras,+269,0
+KN,KNA,"San Cristóbal y Nieves","+1 869",0
+KP,PRK,"Corea del Norte",+850,0
+KR,KOR,"Corea del Sur",+82,0
+KW,KWT,Kuwait,+965,0
+KY,CYM,"Islas Caimán","+1 345",0
+KZ,KAZ,Kazajistán,+7,0
+LA,LAO,Laos,+856,0
+LB,LBN,Líbano,+961,0
+LC,LCA,"Santa Lucía","+1 758",0
+LI,LIE,Liechtenstein,+423,0
+LK,LKA,"Sri Lanka",+94,0
+LR,LBR,Liberia,+231,0
+LS,LSO,Lesoto,+266,0
+LT,LTU,Lituania,+370,1
+LU,LUX,Luxemburgo,+352,1
+LV,LVA,Letonia,+371,1
+LY,LBY,Libia,+218,0
+MA,MAR,Marruecos,+212,0
+MC,MCO,Mónaco,+377,0
+MD,MDA,Moldavia,+373,0
+ME,MNE,Montenegro,+382,0
+MF,MAF,"San Martín",+590,0
+MG,MDG,Madagascar,+261,0
+MH,MHL,"Islas Marshall",+692,0
+MK,MKD,"Macedonia del Norte",+389,0
+ML,MLI,Mali,+223,0
+MM,MMR,"Myanmar (Birmania)",+95,0
+MN,MNG,Mongolia,+976,0
+MO,MAC,"RAE de Macao (China)",+853,0
+MP,MNP,"Islas Marianas del Norte","+1 670",0
+MQ,MTQ,Martinica,+596,0
+MR,MRT,Mauritania,+222,0
+MS,MSR,Montserrat,"+1 664",0
+MT,MLT,Malta,+356,1
+MU,MUS,Mauricio,+230,0
+MV,MDV,Maldivas,+960,0
+MW,MWI,Malaui,+265,0
+MX,MEX,México,+52,0
+MY,MYS,Malasia,+60,0
+MZ,MOZ,Mozambique,+258,0
+NA,NAM,Namibia,+264,0
+NC,NCL,"Nueva Caledonia",+687,0
+NE,NER,Níger,+227,0
+NF,NFK,"Isla Norfolk",+672,0
+NG,NGA,Nigeria,+234,0
+NI,NIC,Nicaragua,+505,0
+NL,NLD,"Países Bajos",+31,1
+NO,NOR,Noruega,+47,0
+NP,NPL,Nepal,+977,0
+NR,NRU,Nauru,+674,0
+NU,NIU,Niue,+683,0
+NZ,NZL,"Nueva Zelanda",+64,0
+OM,OMN,Omán,+968,0
+PA,PAN,Panamá,+507,0
+PE,PER,Perú,+51,0
+PF,PYF,"Polinesia Francesa",+689,0
+PG,PNG,"Papúa Nueva Guinea",+675,0
+PH,PHL,Filipinas,+63,0
+PK,PAK,Pakistán,+92,0
+PL,POL,Polonia,+48,1
+PM,SPM,"San Pedro y Miquelón",,0
+PN,PCN,"Islas Pitcairn",+64,0
+PR,PRI,"Puerto Rico","+1 787",0
+PS,PSE,"Territorios Palestinos",+970,0
+PT,PRT,Portugal,+351,1
+PW,PLW,Palaos,+680,0
+PY,PRY,Paraguay,+595,0
+QA,QAT,Catar,+974,0
+RE,REU,Reunión,+262,0
+RO,ROU,Rumanía,+40,1
+RS,SRB,Serbia,+381,0
+RU,RUS,Rusia,+7,0
+RW,RWA,Ruanda,+250,0
+SA,SAU,"Arabia Saudí",+966,0
+SB,SLB,"Islas Salomón",+677,0
+SC,SYC,Seychelles,+248,0
+SD,SDN,Sudán,+249,0
+SE,SWE,Suecia,+46,1
+SG,SGP,Singapur,+65,0
+SH,SHN,"Santa Elena",,0
+SI,SVN,Eslovenia,+386,1
+SJ,SJM,"Svalbard y Jan Mayen",,0
+SK,SVK,Eslovaquia,+421,1
+SL,SLE,"Sierra Leona",+232,0
+SM,SMR,"San Marino",+378,0
+SN,SEN,Senegal,+221,0
+SO,SOM,Somalia,+252,0
+SR,SUR,Surinam,+597,0
+SS,SSD,"Sudán del Sur",+211,0
+ST,STP,"Santo Tomé y Príncipe",+239,0
+SV,SLV,"El Salvador",+503,0
+SX,SXM,"Sint Maarten","+1 721",0
+SY,SYR,Siria,+963,0
+SZ,SWZ,Esuatini,+268,0
+TC,TCA,"Islas Turcas y Caicos","+1 649",0
+TD,TCD,Chad,+235,0
+TF,ATF,"Territorios Australes Franceses",,0
+TG,TGO,Togo,+228,0
+TH,THA,Tailandia,+66,0
+TJ,TJK,Tayikistán,+992,0
+TK,TKL,Tokelau,,0
+TL,TLS,Timor-Leste,+670,0
+TM,TKM,Turkmenistán,+993,0
+TN,TUN,Túnez,+216,0
+TO,TON,Tonga,+676,0
+TR,TUR,Turquía,+90,0
+TT,TTO,"Trinidad y Tobago","+1 868",0
+TV,TUV,Tuvalu,+688,0
+TW,TWN,Taiwán,+886,0
+TZ,TZA,Tanzania,+255,0
+UA,UKR,Ucrania,+380,0
+UG,UGA,Uganda,+256,0
+UM,UMI,"Islas menores alejadas de EE. UU.",,0
+US,USA,"Estados Unidos",+1,0
+UY,URY,Uruguay,+598,0
+UZ,UZB,Uzbekistán,+998,0
+VA,VAT,"Ciudad del Vaticano",+379,0
+VC,VCT,"San Vicente y las Granadinas","+1 784",0
+VE,VEN,Venezuela,+58,0
+VG,VGB,"Islas Vírgenes Británicas","+1 284",0
+VI,VIR,"Islas Vírgenes de EE. UU.","+1 340",0
+VN,VNM,Vietnam,+84,0
+VU,VUT,Vanuatu,+678,0
+WF,WLF,"Wallis y Futuna",,0
+WS,WSM,Samoa,+685,0
+XI,XIN,"Irlanda del Norte",+44,0
+YE,YEM,Yemen,+967,0
+YT,MYT,Mayotte,+262,0
+ZA,ZAF,Sudáfrica,+27,0
+ZM,ZMB,Zambia,+260,0
+ZW,ZWE,Zimbabue,+263,0
