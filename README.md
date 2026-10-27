@@ -10,8 +10,10 @@ Datos de bancos, direcciones, contabilidad y email en CSV (UTF-8, separados por 
 ## direcciones/
 
 - `codigos_postales_es.csv`: códigos postales de España con provincia, municipio y localidad.
-- `municipios_es.csv`: municipios de España con su código INE y coordenadas.
-- `provincias_es.csv`: provincias de España con su código INE, código ISO 3166-2 y coordenadas de la capital.
+- `comunidades_es.csv`: comunidades y ciudades autónomas con su código INE, código ISO 3166-2 y coordenadas.
+- `provincias_es.csv`: provincias de España con su código INE, comunidad autónoma, código ISO 3166-2 y coordenadas de la capital.
+- `municipios_es.csv`: municipios de España con su código INE, dígito de control, isla (Baleares y Canarias) y coordenadas.
+- `simbolos_es.csv`: enlaces a la bandera y el escudo de comunidades, provincias y municipios en Wikimedia Commons, con su licencia y autor.
 - `paises.csv`: países ISO con nombre en español, prefijo telefónico, pertenencia a la UE y coordenadas.
 - `subdivisiones.csv`: provincias, estados o regiones de 52 países, con código ISO 3166-2 y coordenadas cuando están verificados.
 
@@ -25,8 +27,9 @@ Datos de bancos, direcciones, contabilidad y email en CSV (UTF-8, separados por 
 
 ## Fuentes
 
-- Códigos postales y provincias: [Callejero del Censo Electoral del INE](https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259952026632&p=1259952026632&pagename=ProductosYServicios%2FPYSLayout).
-- Coordenadas de municipios y de subdivisiones: [Wikidata](https://www.wikidata.org/) (CC0), por código INE y código ISO 3166-2.
+- Códigos postales: [Callejero del Censo Electoral del INE](https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259952026632&p=1259952026632&pagename=ProductosYServicios%2FPYSLayout).
+- Comunidades, provincias, municipios e islas: [relación de municipios, provincias, comunidades autónomas y sus códigos del INE](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177031&menu=ultiDatos&idp=1254734710990) (1 de enero de 2026).
+- Coordenadas de comunidades, municipios y subdivisiones, y banderas y escudos: [Wikidata](https://www.wikidata.org/) (CC0), por código INE y código ISO 3166-2. Las imágenes están en [Wikimedia Commons](https://commons.wikimedia.org/), cada una con la licencia que indica `simbolos_es.csv`.
 - Países: códigos ISO 3166-1 y nombres en español de [Unicode CLDR](https://cldr.unicode.org/); coordenadas de [FacturaScripts](https://github.com/NeoRazorX/facturascripts).
 - Códigos ISO 3166-2 y coordenadas de provincias, y nombres de subdivisiones: [FacturaScripts](https://github.com/NeoRazorX/facturascripts), con los códigos validados contra la lista ISO 3166-2 de [iso-codes](https://salsa.debian.org/iso-codes-team/iso-codes).
 - Plan General Contable: [Real Decreto 1514/2007, texto consolidado del BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19884) (actualizado por el Real Decreto 1/2021).
