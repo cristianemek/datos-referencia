@@ -1,0 +1,471 @@
+date,ccaa_code,island_code,territory,name,type,boe_id
+2026-01-01,01,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,02,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,03,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,04,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,05,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,06,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,07,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,08,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,09,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,10,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,11,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,12,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,13,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,14,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,15,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,16,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,17,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,18,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-01,19,,,Año Nuevo,national,BOE-A-2025-21667
+2026-01-06,01,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,02,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,03,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,04,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,05,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,06,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,07,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,08,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,09,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,10,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,11,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,12,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,13,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,14,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,15,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,16,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,17,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,18,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-01-06,19,,,Epifanía del Señor,national_not_substituted,BOE-A-2025-21667
+2026-02-02,05,384,Tenerife,La Virgen de la Candelaria,island,BOE-A-2025-21667
+2026-02-28,01,,,Día de Andalucía,regional,BOE-A-2025-21667
+2026-03-02,04,,,Lunes siguiente al Día de les Illes Balears,regional,BOE-A-2025-21667
+2026-03-19,10,,,San José,national_not_substituted,BOE-A-2025-21667
+2026-03-19,12,,,San José,national_not_substituted,BOE-A-2025-21667
+2026-03-19,14,,,San José,national_not_substituted,BOE-A-2025-21667
+2026-03-19,15,,,San José,national_not_substituted,BOE-A-2025-21667
+2026-03-19,16,,,San José,national_not_substituted,BOE-A-2025-21667
+2026-03-20,19,,,Fiesta del Eid Fitr,regional,BOE-A-2025-21667
+2026-04-02,01,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,02,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,03,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,04,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,05,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,06,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,07,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,08,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,11,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,12,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,13,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,14,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,15,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,16,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,17,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,18,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-02,19,,,Jueves Santo,national_not_substituted,BOE-A-2025-21667
+2026-04-03,01,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,02,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,03,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,04,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,05,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,06,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,07,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,08,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,09,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,10,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,11,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,12,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,13,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,14,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,15,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,16,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,17,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,18,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-03,19,,,Viernes Santo,national,BOE-A-2025-21667
+2026-04-06,04,,,Lunes de Pascua,regional,BOE-A-2025-21667
+2026-04-06,08,,,Lunes de Pascua,regional,BOE-A-2025-21667
+2026-04-06,09,,,Lunes de Pascua,regional,BOE-A-2025-21667
+2026-04-06,10,,,Lunes de Pascua,regional,BOE-A-2025-21667
+2026-04-06,15,,,Lunes de Pascua,regional,BOE-A-2025-21667
+2026-04-06,16,,,Lunes de Pascua,regional,BOE-A-2025-21667
+2026-04-06,17,,,Lunes de Pascua,regional,BOE-A-2025-21667
+2026-04-23,02,,,San Jorge/Día de Aragón,regional,BOE-A-2025-21667
+2026-04-23,07,,,Fiesta de Castilla y León,regional,BOE-A-2025-21667
+2026-05-01,01,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,02,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,03,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,04,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,05,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,06,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,07,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,08,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,09,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,10,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,11,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,12,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,13,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,14,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,15,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,16,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,17,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,18,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-01,19,,,Fiesta del Trabajo,national,BOE-A-2025-21667
+2026-05-02,13,,,Fiesta de la Comunidad de Madrid,regional,BOE-A-2025-21667
+2026-05-27,18,,,Fiesta Sacrificio-Eidul Adha,regional,BOE-A-2025-21667
+2026-05-27,19,,,Fiesta Sacrificio-Aid al Adha,regional,BOE-A-2025-21667
+2026-05-30,05,,,Día de Canarias,regional,BOE-A-2025-21667
+2026-06-04,08,,,Corpus Christi,regional,BOE-A-2025-21667
+2026-06-09,14,,,Día de la Región de Murcia,regional,BOE-A-2025-21667
+2026-06-09,17,,,Día de la Rioja,regional,BOE-A-2025-21667
+2026-06-17,09,,Arán,Fiesta de Arán,regional,BOE-A-2025-21667
+2026-06-24,09,,,San Juan,regional,BOE-A-2025-21667
+2026-06-24,10,,,San Juan,regional,BOE-A-2025-21667
+2026-06-24,12,,,San Juan,regional,BOE-A-2025-21667
+2026-07-25,12,,,Santiago Apóstol/Día Nacional de Galicia,national_not_substituted,BOE-A-2025-21667
+2026-07-25,16,,,Santiago Apóstol/Día Nacional de Galicia,national_not_substituted,BOE-A-2025-21667
+2026-07-28,06,,,Día de las Instituciones de Cantabria,regional,BOE-A-2025-21667
+2026-08-05,05,383,La Palma,Nuestra Señora de Las Nieves,island,BOE-A-2025-21667
+2026-08-05,18,,,Nuestra Señora de África,regional,BOE-A-2025-21667
+2026-08-15,01,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,02,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,03,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,04,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,05,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,06,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,07,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,08,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,09,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,10,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,11,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,12,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,13,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,14,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,15,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,16,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,17,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,18,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-08-15,19,,,Asunción de la Virgen,national,BOE-A-2025-21667
+2026-09-02,18,,,Día de Ceuta,regional,BOE-A-2025-21667
+2026-09-08,03,,,Día de Asturias,regional,BOE-A-2025-21667
+2026-09-08,05,352,Gran Canaria,Nuestra Señora del Pino,island,BOE-A-2025-21667
+2026-09-08,11,,,Día de Extremadura,regional,BOE-A-2025-21667
+2026-09-11,09,,,Fiesta Nacional de Cataluña,regional,BOE-A-2025-21667
+2026-09-15,05,353,Lanzarote y La Graciosa,Nuestra Señora de los Volcanes,island,BOE-A-2025-21667
+2026-09-15,06,,,La Bien Aparecida,regional,BOE-A-2025-21667
+2026-09-18,05,351,Fuerteventura,Nuestra Señora de la Peña,island,BOE-A-2025-21667
+2026-09-24,05,382,El Hierro,Nuestra Señora de los Reyes,island,BOE-A-2025-21667
+2026-10-05,05,381,La Gomera,Nuestra Señora de Guadalupe,island,BOE-A-2025-21667
+2026-10-09,10,,,Día de la Comunitat Valenciana,regional,BOE-A-2025-21667
+2026-10-12,01,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,02,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,03,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,04,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,05,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,06,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,07,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,08,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,09,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,10,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,11,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,12,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,13,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,14,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,15,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,16,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,17,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,18,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-10-12,19,,,Fiesta Nacional de España,national,BOE-A-2025-21667
+2026-11-02,01,,,Día siguiente a Todos los Santos,national_not_substituted,BOE-A-2025-21667
+2026-11-02,02,,,Día siguiente a Todos los Santos,national_not_substituted,BOE-A-2025-21667
+2026-11-02,03,,,Día siguiente a Todos los Santos,national_not_substituted,BOE-A-2025-21667
+2026-11-02,05,,,Día siguiente a Todos los Santos,national_not_substituted,BOE-A-2025-21667
+2026-11-02,07,,,Día siguiente a Todos los Santos,national_not_substituted,BOE-A-2025-21667
+2026-11-02,08,,,Día siguiente a Todos los Santos,national_not_substituted,BOE-A-2025-21667
+2026-11-02,11,,,Día siguiente a Todos los Santos,national_not_substituted,BOE-A-2025-21667
+2026-11-02,13,,,Día siguiente a Todos los Santos,national_not_substituted,BOE-A-2025-21667
+2026-11-02,15,,,Día siguiente a Todos los Santos,national_not_substituted,BOE-A-2025-21667
+2026-12-07,01,,,Lunes siguiente al Día de la Constitución Española,national_not_substituted,BOE-A-2025-21667
+2026-12-07,02,,,Lunes siguiente al Día de la Constitución Española,national_not_substituted,BOE-A-2025-21667
+2026-12-07,03,,,Lunes siguiente al Día de la Constitución Española,national_not_substituted,BOE-A-2025-21667
+2026-12-07,06,,,Lunes siguiente al Día de la Constitución Española,national_not_substituted,BOE-A-2025-21667
+2026-12-07,07,,,Lunes siguiente al Día de la Constitución Española,national_not_substituted,BOE-A-2025-21667
+2026-12-07,11,,,Lunes siguiente al Día de la Constitución Española,national_not_substituted,BOE-A-2025-21667
+2026-12-07,13,,,Lunes siguiente al Día de la Constitución Española,national_not_substituted,BOE-A-2025-21667
+2026-12-07,14,,,Lunes siguiente al Día de la Constitución Española,national_not_substituted,BOE-A-2025-21667
+2026-12-07,17,,,Lunes siguiente al Día de la Constitución Española,national_not_substituted,BOE-A-2025-21667
+2026-12-07,19,,,Lunes siguiente al Día de la Constitución Española,national_not_substituted,BOE-A-2025-21667
+2026-12-08,01,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,02,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,03,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,04,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,05,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,06,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,07,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,08,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,09,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,10,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,11,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,12,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,13,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,14,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,15,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,16,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,17,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,18,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-08,19,,,Inmaculada Concepción,national,BOE-A-2025-21667
+2026-12-25,01,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,02,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,03,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,04,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,05,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,06,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,07,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,08,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,09,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,10,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,11,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,12,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,13,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,14,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,15,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,16,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,17,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,18,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-25,19,,,Natividad del Señor,national,BOE-A-2025-21667
+2026-12-26,04,,,San Esteban,regional,BOE-A-2025-21667
+2026-12-26,09,,Cataluña excepto Arán,San Esteban,regional,BOE-A-2025-21667
+2027-01-01,01,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,02,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,03,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,04,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,05,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,06,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,07,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,08,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,09,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,10,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,11,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,12,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,13,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,14,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,15,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,16,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,17,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,18,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-01,19,,,Año Nuevo,national,BOE-A-2026-21254
+2027-01-06,01,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,02,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,03,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,04,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,05,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,06,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,07,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,08,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,09,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,10,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,11,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,12,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,13,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,14,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,15,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,16,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,17,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,18,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-01-06,19,,,Epifanía del Señor,national_not_substituted,BOE-A-2026-21254
+2027-02-02,05,384,Tenerife,La Virgen de la Candelaria,island,BOE-A-2026-21254
+2027-03-01,01,,,Día de Andalucía,regional,BOE-A-2026-21254
+2027-03-01,04,,,Día de les Illes Balears,regional,BOE-A-2026-21254
+2027-03-10,19,,,Fiesta del Eid Fitr,regional,BOE-A-2026-21254
+2027-03-19,10,,,San José,national_not_substituted,BOE-A-2026-21254
+2027-03-19,12,,,San José,national_not_substituted,BOE-A-2026-21254
+2027-03-19,13,,,San José,national_not_substituted,BOE-A-2026-21254
+2027-03-19,14,,,San José,national_not_substituted,BOE-A-2026-21254
+2027-03-19,15,,,San José,national_not_substituted,BOE-A-2026-21254
+2027-03-25,01,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,02,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,03,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,04,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,05,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,06,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,07,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,08,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,11,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,12,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,13,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,14,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,15,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,16,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,17,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,18,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-25,19,,,Jueves Santo,national_not_substituted,BOE-A-2026-21254
+2027-03-26,01,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,02,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,03,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,04,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,05,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,06,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,07,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,08,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,09,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,10,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,11,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,12,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,13,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,14,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,15,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,16,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,17,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,18,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-26,19,,,Viernes Santo,national,BOE-A-2026-21254
+2027-03-29,04,,,Lunes de Pascua,regional,BOE-A-2026-21254
+2027-03-29,09,,Cataluña excepto Arán,Lunes de Pascua,regional,BOE-A-2026-21254
+2027-03-29,10,,,Lunes de Pascua,regional,BOE-A-2026-21254
+2027-03-29,15,,,Lunes de Pascua,regional,BOE-A-2026-21254
+2027-03-29,16,,,Lunes de Pascua,regional,BOE-A-2026-21254
+2027-03-29,17,,,Lunes de Pascua,regional,BOE-A-2026-21254
+2027-04-23,02,,,San Jorge/Día de Aragón,regional,BOE-A-2026-21254
+2027-04-23,07,,,Fiesta de Castilla y León,regional,BOE-A-2026-21254
+2027-05-01,01,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,02,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,03,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,04,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,05,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,06,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,07,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,08,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,09,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,10,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,11,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,12,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,13,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,14,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,15,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,16,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,17,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,18,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-01,19,,,Fiesta del Trabajo,national,BOE-A-2026-21254
+2027-05-17,12,,,Día de las Letras Gallegas,regional,BOE-A-2026-21254
+2027-05-17,18,,,Eidul Adha-Fiesta Sacrificio,regional,BOE-A-2026-21254
+2027-05-17,19,,,Fiesta Sacrificio-Aid Al Adha,regional,BOE-A-2026-21254
+2027-05-27,08,,,Corpus Christi,regional,BOE-A-2026-21254
+2027-05-31,08,,,Día de Castilla-La Mancha,regional,BOE-A-2026-21254
+2027-06-09,14,,,Día de la Región de Murcia,regional,BOE-A-2026-21254
+2027-06-09,17,,,Día de La Rioja,regional,BOE-A-2026-21254
+2027-06-17,09,,Arán,Fiesta de Arán,regional,BOE-A-2026-21254
+2027-06-24,09,,,Día de San Juan,regional,BOE-A-2026-21254
+2027-07-28,06,,,Día de las Instituciones de Cantabria,regional,BOE-A-2026-21254
+2027-08-05,05,383,La Palma,Nuestra Señora de Las Nieves,island,BOE-A-2026-21254
+2027-08-05,18,,,Nuestra Señora de África,regional,BOE-A-2026-21254
+2027-08-16,01,,,Lunes siguiente a asunción de la Virgen,national_not_substituted,BOE-A-2026-21254
+2027-08-16,02,,,Lunes siguiente a asunción de la Virgen,national_not_substituted,BOE-A-2026-21254
+2027-08-16,03,,,Lunes siguiente a asunción de la Virgen,national_not_substituted,BOE-A-2026-21254
+2027-08-16,05,,,Lunes siguiente a asunción de la Virgen,national_not_substituted,BOE-A-2026-21254
+2027-08-16,07,,,Lunes siguiente a asunción de la Virgen,national_not_substituted,BOE-A-2026-21254
+2027-08-16,13,,,Lunes siguiente a asunción de la Virgen,national_not_substituted,BOE-A-2026-21254
+2027-09-08,03,,,Día de Asturias,regional,BOE-A-2026-21254
+2027-09-08,05,352,Gran Canaria,Nuestra Señora del Pino,island,BOE-A-2026-21254
+2027-09-08,11,,,Día de Extremadura,regional,BOE-A-2026-21254
+2027-09-11,09,,,Fiesta Nacional de Cataluña,regional,BOE-A-2026-21254
+2027-09-15,05,353,Lanzarote y La Graciosa,Nuestra Señora de los Volcanes,island,BOE-A-2026-21254
+2027-09-15,06,,,La Bien Aparecida,regional,BOE-A-2026-21254
+2027-09-17,05,351,Fuerteventura,Nuestra Señora de la Peña,island,BOE-A-2026-21254
+2027-09-24,05,382,El Hierro,Nuestra Señora de los Reyes,island,BOE-A-2026-21254
+2027-10-04,05,381,La Gomera,Nuestra Señora de Guadalupe,island,BOE-A-2026-21254
+2027-10-07,16,,,Aniversario 1er Gobierno Euskadi,regional,BOE-A-2026-21254
+2027-10-09,10,,,Día de la Comunitat Valenciana,regional,BOE-A-2026-21254
+2027-10-11,11,,,Sustitución 15 de agosto,regional,BOE-A-2026-21254
+2027-10-12,01,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,02,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,03,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,04,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,05,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,06,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,07,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,08,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,09,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,10,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,11,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,12,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,13,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,14,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,15,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,16,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,17,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,18,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-10-12,19,,,Fiesta Nacional de España,national,BOE-A-2026-21254
+2027-11-01,01,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,02,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,03,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,04,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,05,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,06,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,07,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,08,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,09,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,10,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,11,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,12,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,13,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,14,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,15,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,16,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,17,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,18,,,Todos los Santos,national,BOE-A-2026-21254
+2027-11-01,19,,,Todos los Santos,national,BOE-A-2026-21254
+2027-12-06,01,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,02,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,03,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,04,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,05,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,06,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,07,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,08,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,09,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,10,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,11,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,12,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,13,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,14,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,15,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,16,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,17,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,18,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-06,19,,,Día de la Constitución Española,national,BOE-A-2026-21254
+2027-12-08,01,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,02,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,03,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,04,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,05,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,06,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,07,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,08,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,09,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,10,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,11,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,12,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,13,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,14,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,15,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,16,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,17,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,18,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-08,19,,,Inmaculada Concepción,national,BOE-A-2026-21254
+2027-12-25,01,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,02,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,03,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,04,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,05,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,06,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,07,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,08,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,09,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,10,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,11,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,12,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,13,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,14,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,15,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,16,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,17,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,18,,,Natividad del Señor,national,BOE-A-2026-21254
+2027-12-25,19,,,Natividad del Señor,national,BOE-A-2026-21254

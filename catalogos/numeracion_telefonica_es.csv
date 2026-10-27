@@ -1,0 +1,58 @@
+prefix,type,description,regulation
+0,short_number,"Numeración corta de 3 cifras (0XY, X≠0) reservada a servicios de interés social o de interés general en todo el territorio; solo están en uso los números atribuidos (filas 0XY)","RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apdo. 10; Res. SETSI 29/05/2009 (BOE-A-2009-10087), apdos. quinto y sexto"
+00,international_prefix,Prefijo internacional: precede al número internacional en llamadas al extranjero,"RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apdo. 5.3"
+010,social,Información de la Administración Local (en los municipios a los que se ha atribuido),Res. SETSI 31/07/2013 (BOE-A-2013-9766)
+011,social,Información sobre tráfico y auxilio en carretera,Res. SETSI 30/08/2010 (BOE-A-2010-14370); mod. BOE-A-2011-9580 y BOE-A-2026-13105
+012,social,Información de las Administraciones Autonómicas,Res. SETSI 21/11/2012 (BOE-A-2012-14968)
+016,social,Información y asesoramiento jurídico a víctimas de violencia de género (gratuito),Res. SETSI 19/06/2007 (BOE-A-2007-13167); mod. BOE-A-2021-7474
+017,social,Línea de ayuda en ciberseguridad,Res. SEAD 04/10/2019 (BOE-A-2019-14853)
+018,social,Línea de atención a víctimas de siniestros de tráfico,Res. SETID 24/11/2025 (BOE-A-2025-24700)
+020,social,Línea de atención del ingreso mínimo vital,Res. SETID 24/06/2024 (BOE-A-2024-14618)
+021,social,Línea de asistencia a personas que sufran o conozcan situaciones de discriminación racial o étnica o delitos de odio racistas,Res. SETID 06/07/2022 (BOE-A-2022-12368)
+024,social,Línea de ayuda a las personas con riesgo de conducta suicida (gratuito),Res. SETID 09/12/2021 (BOE-A-2021-20997); mod. BOE-A-2026-13201
+028,social,Información a víctimas de LGTBIfobia y sus familias,Res. SETID 06/07/2022 (BOE-A-2022-12369)
+047,social,Línea de atención ciudadana en materia de vivienda,Res. SETID 24/11/2025 (BOE-A-2025-24819)
+060,social,Información de la Administración General del Estado (precio fijo por llamada),Res. SETSI 30/11/2011 (BOE-A-2011-19632); mod. BOE-A-2023-18093
+061,emergency,Urgencias sanitarias,"Res. SETSI 29/05/2009 (BOE-A-2009-10087), anexo I; Res. SETSI 21/11/2008 (BOE-A-2008-19663)"
+062,emergency,Guardia Civil,"Res. SETSI 29/05/2009 (BOE-A-2009-10087), anexo I; Res. SETSI 21/11/2008 (BOE-A-2008-19663)"
+065,social,Atención telefónica a las personas en situación de dependencia,Res. SETSI 09/05/2008 (BOE-A-2008-9282)
+067,service_code,Supresión de la identificación de la línea llamante (se marca antes del número de destino),"Res. SETSI 29/05/2009 (BOE-A-2009-10087), anexo I"
+080,emergency,Bomberos de ámbito local,"Res. SETSI 29/05/2009 (BOE-A-2009-10087), anexo I; Res. SETSI 21/11/2008 (BOE-A-2008-19663)"
+085,emergency,Bomberos de ámbito provincial,"Res. SETSI 29/05/2009 (BOE-A-2009-10087), anexo I; Res. SETSI 21/11/2008 (BOE-A-2008-19663)"
+088,emergency,Policías autonómicas,"Res. SETSI 29/05/2009 (BOE-A-2009-10087), anexo I; Res. SETSI 21/11/2008 (BOE-A-2008-19663)"
+091,emergency,Policía Nacional,"Res. SETSI 29/05/2009 (BOE-A-2009-10087), anexo I; Res. SETSI 21/11/2008 (BOE-A-2008-19663)"
+092,emergency,Policías locales,"Res. SETSI 29/05/2009 (BOE-A-2009-10087), anexo I; Res. SETSI 21/11/2008 (BOE-A-2008-19663)"
+1,short_number,"Numeración corta de 4 cifras (1XYA): servicios de interés social y servicios de los operadores (atención al cliente, asistencia técnica…); hay excepciones de longitud en las filas siguientes","RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apdo. 10; Res. SETID 14/04/2026 (BOE-A-2026-8408), apdo. primero.1.a"
+1006,emergency,Protección Civil,"Res. SETSI 29/05/2009 (BOE-A-2009-10087), anexo I; Res. SETSI 21/11/2008 (BOE-A-2008-19663)"
+103,carrier_selection,"Códigos de selección de operador (4 a 6 cifras), se marcan antes del número","RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apdo. 5.5 y apéndice"
+104,carrier_selection,"Códigos de selección de operador (4 a 6 cifras), se marcan antes del número","RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apdo. 5.5 y apéndice"
+105,carrier_selection,"Códigos de selección de operador (4 a 6 cifras), se marcan antes del número","RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apdo. 5.5 y apéndice"
+107,carrier_selection,"Códigos de selección de operador (4 a 6 cifras), se marcan antes del número","RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apdo. 5.5 y apéndice"
+112,emergency,Servicio de atención de llamadas de urgencia (número único europeo),"RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apéndice; Res. SETSI 21/11/2008 (BOE-A-2008-19663)"
+116,harmonised_eu,"Números armonizados europeos de valor social (116XXX, 6 cifras, gratuitos)",Res. SETSI 25/10/2007 (BOE-A-2007-19379); Decisión 2007/116/CE
+116000,harmonised_eu,Línea directa para casos de niños desaparecidos,Res. SETSI 31/03/2010 (BOE-A-2010-6475)
+116111,harmonised_eu,Línea de ayuda a la infancia,Res. SETSI 12/01/2010 (BOE-A-2010-1236)
+118,directory_enquiry,"Consulta telefónica sobre números de abonado (118AB con AB=10–89, y 1189B; 5 cifras)",Orden CTE/711/2002 (BOE-A-2002-6391); Res. SETSI 17/07/2012 (BOE-A-2012-10373)
+120,network_internal,Servicios internos de cada red telefónica (3 o más cifras),"Res. SETSI 29/05/2009 (BOE-A-2009-10087), apdo. primero"
+121,network_internal,Servicios internos de cada red telefónica (3 o más cifras),"Res. SETSI 29/05/2009 (BOE-A-2009-10087), apdo. primero"
+22,network_internal,Servicios internos de cada red telefónica (2 o más cifras),"Res. SETSI 29/05/2009 (BOE-A-2009-10087), apdo. primero"
+400,commercial_calls,"Llamadas comerciales: solo como número de origen de llamadas salientes, no admite llamadas entrantes",Res. SETID 14/04/2026 (BOE-A-2026-8409)
+50,virtual_private_network,"Servicio de red privada virtual: código de operador (500A a 502A, 506AB, 509AB) seguido de un número del plan privado; 9 cifras, o hasta 15 con numeración privada abierta",Res. SETSI 23/11/2006 (BOE-A-2006-21979)
+51,nomadic,Servicios nómadas: numeración no geográfica de ámbito nacional,"Res. SETSI 30/06/2005 (BOE-A-2005-14233), apdo. sexto; mod. BOE-A-2016-3866 y BOE-A-2026-9431"
+590,m2m,Comunicaciones máquina a máquina (números de 13 cifras),Res. SETSI 12/03/2010 (BOE-A-2010-5251); mod. Res. SETID 27/04/2026 (BOE-A-2026-9432)
+6,mobile,Servicios de comunicaciones móviles,"RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apdo. 7; Res. SETSI 27/05/2013 (BOE-A-2013-6312)"
+70,personal,Servicio de numeración personal,"RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apdo. 8"
+71,mobile,Comunicaciones móviles (ampliación del segmento 6),"Res. SETSI 12/03/2010 (BOE-A-2010-5251), apdo. primero"
+72,mobile,Comunicaciones móviles (ampliación del segmento 6),"Res. SETSI 12/03/2010 (BOE-A-2010-5251), apdo. primero"
+73,mobile,Comunicaciones móviles (ampliación del segmento 6),"Res. SETSI 12/03/2010 (BOE-A-2010-5251), apdo. primero"
+74,mobile,Comunicaciones móviles (ampliación del segmento 6),"Res. SETSI 12/03/2010 (BOE-A-2010-5251), apdo. primero"
+800,freephone,Cobro revertido automático (gratuito para el llamante); también para atención a la clientela y llamadas comerciales,"RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apéndice; Orden TDF/149/2025 (BOE-A-2025-2870), art. 10; Res. SETID 14/04/2026 (BOE-A-2026-8408)"
+803,premium_rate,Tarificación adicional: servicios exclusivos para adultos,"Orden IET/2733/2015 (BOE-A-2015-13738), arts. 6 a 8"
+806,premium_rate,Tarificación adicional: servicios de ocio y entretenimiento,"Orden IET/2733/2015 (BOE-A-2015-13738), arts. 6 a 8"
+807,premium_rate,Tarificación adicional: servicios profesionales,"Orden IET/2733/2015 (BOE-A-2015-13738), arts. 6 a 8"
+900,freephone,Cobro revertido automático (gratuito para el llamante); también para atención a la clientela y llamadas comerciales,"RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apéndice; Orden TDF/149/2025 (BOE-A-2025-2870), art. 10; Res. SETID 14/04/2026 (BOE-A-2026-8408)"
+901,shared_cost,Llamadas de pago compartido entre llamante y llamado,"RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apéndice"
+902,caller_pays,Llamadas pagadas por el llamante sin retribución para el llamado,"RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apéndice; Orden IET/2733/2015 (BOE-A-2015-13738), disp. adic. 2.ª"
+905,mass_calling,"Tarificación adicional por recepción de llamadas masivas (televoto, entretenimiento y usos profesionales)","Orden IET/2733/2015 (BOE-A-2015-13738), arts. 9 a 11"
+908,internet_access,Acceso a Internet (factura el operador de acceso),"RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apéndice"
+909,internet_access,Acceso a Internet (no factura el operador de acceso),"RD 2296/2004 (BOE-A-2004-21841), Plan nacional de numeración telefónica, apéndice"

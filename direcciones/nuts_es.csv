@@ -1,0 +1,89 @@
+nuts_code,level,name
+ES1,1,Noroeste
+ES11,2,Galicia
+ES111,3,A Coruña
+ES112,3,Lugo
+ES113,3,Ourense
+ES114,3,Pontevedra
+ES12,2,Principado de Asturias
+ES120,3,Asturias
+ES13,2,Cantabria
+ES130,3,Cantabria
+ES2,1,Noreste
+ES21,2,País Vasco
+ES211,3,Araba/Álava
+ES212,3,Gipuzkoa
+ES213,3,Bizkaia
+ES22,2,Comunidad Foral de Navarra
+ES220,3,Navarra
+ES23,2,La Rioja
+ES230,3,La Rioja
+ES24,2,Aragón
+ES241,3,Huesca
+ES242,3,Teruel
+ES243,3,Zaragoza
+ES3,1,Comunidad de Madrid
+ES30,2,Comunidad de Madrid
+ES300,3,Madrid
+ES4,1,Centro (ES)
+ES41,2,Castilla y León
+ES411,3,Ávila
+ES412,3,Burgos
+ES413,3,León
+ES414,3,Palencia
+ES415,3,Salamanca
+ES416,3,Segovia
+ES417,3,Soria
+ES418,3,Valladolid
+ES419,3,Zamora
+ES42,2,Castilla-La Mancha
+ES421,3,Albacete
+ES422,3,Ciudad Real
+ES423,3,Cuenca
+ES424,3,Guadalajara
+ES425,3,Toledo
+ES43,2,Extremadura
+ES431,3,Badajoz
+ES432,3,Cáceres
+ES5,1,Este
+ES51,2,Cataluña
+ES511,3,Barcelona
+ES512,3,Girona
+ES513,3,Lleida
+ES514,3,Tarragona
+ES52,2,Comunitat Valenciana
+ES521,3,Alicante/Alacant
+ES522,3,Castellón/Castelló
+ES523,3,Valencia/València
+ES53,2,Illes Balears
+ES531,3,Eivissa y Formentera
+ES532,3,Mallorca
+ES533,3,Menorca
+ES6,1,Sur
+ES61,2,Andalucía
+ES611,3,Almería
+ES612,3,Cádiz
+ES613,3,Córdoba
+ES614,3,Granada
+ES615,3,Huelva
+ES616,3,Jaén
+ES617,3,Málaga
+ES618,3,Sevilla
+ES62,2,Región de Murcia
+ES620,3,Murcia
+ES63,2,Ciudad de Ceuta
+ES630,3,Ceuta
+ES64,2,Ciudad de Melilla
+ES640,3,Melilla
+ES7,1,Canarias
+ES70,2,Canarias
+ES703,3,El Hierro
+ES704,3,Fuerteventura
+ES705,3,Gran Canaria
+ES706,3,La Gomera
+ES707,3,La Palma
+ES708,3,Lanzarote
+ES709,3,Tenerife
+ESZ,1,Extra-Regio NUTS 1
+ESZZ,2,Extra-Regio NUTS 2
+ESZZZ,3,Extra-Regio NUTS 3

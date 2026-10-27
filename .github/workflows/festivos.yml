@@ -1,0 +1,45 @@
+name: Festivos del BOE
+
+on:
+  schedule:
+    - cron: "0 7 * 10-12,1 1"
+  workflow_dispatch:
+    inputs:
+      year:
+        description: Año (por defecto, el siguiente)
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  festivos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Buscar la resolución y actualizar el CSV
+        id: festivos
+        run: |
+          set +e
+          python3 scripts/festivos_boe.py ${{ inputs.year }}
+          status=$?
+          set -e
+          if [ "$status" -ne 0 ] && [ "$status" -ne 2 ]; then exit "$status"; fi
+
+      - uses: peter-evans/create-pull-request@v8
+        with:
+          branch: festivos-boe
+          commit-message: "feat: festivos del BOE actualizados"
+          title: Festivos del BOE actualizados
+          body: |
+            El script `scripts/festivos_boe.py` ha encontrado en el BOE una nueva relación de fiestas laborales y ha actualizado `calendario/festivos_es.csv`.
+
+            Revisa el diff antes de fusionar.
+          add-paths: calendario/festivos_es.csv
+          delete-branch: true
