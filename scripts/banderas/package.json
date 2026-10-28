@@ -1,0 +1,11 @@
+{
+  "name": "banderas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optimización y renderizado de las banderas SVG de países",
+  "type": "commonjs",
+  "dependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "svgo": "4.1.0"
+  }
+}
