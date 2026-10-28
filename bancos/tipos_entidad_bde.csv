@@ -1,0 +1,42 @@
+entity_type,bde_type_code,bde_type_name
+banco,TEBP,Banco
+banco_local,TEBL,Banca local
+banco_nacional,TEBN,Banca nacional
+banco_regional,TEBR,Banca regional
+banco_extranjero,TEBEX,Banca extranjera
+caja_ahorros,TECA,Caja de ahorros
+cooperativa_credito,TECC,Cooperativa de crédito
+cooperativa_credito_calificada,TECCC,Cooperativas de crédito calificadas
+cooperativa_credito_otra,TEOCC,Cooperativas de crédito (otras)
+caja_rural_calificada,TECRC,Cajas rurales calificadas
+caja_rural_no_calificada,TECRNC,Cajas rurales no calificadas
+credito_oficial,TECO,Crédito oficial
+entidad_ley_25_1991,TEECCP,"Entidades ley 25/1991, de 21 de noviembre"
+sucursal_ue,TESECC,Sucursal de entidad de crédito extranjera comunitaria
+sucursal_extracomunitaria,TESECE,Sucursal de entidad de crédito extranjera extracomunitaria
+oficina_representacion,TEOR,Oficina de representación en España de entidad de crédito extranjera
+efc,TEEFC,Establecimiento financiero de crédito
+efc_entidad_pago,TEEFEP,Establecimiento financiero de crédito Entidad de pago
+efc_entidad_pago_hibrida,TEEFPH,Establecimientos financieros crédito e pago hibridas
+entidad_pago,TEEP,Entidad de pago
+entidad_pago_exenta,TEEPEX,Entidad de pago exenta según art. 14 RDL 19/2018
+entidad_pago_hibrida,TEEPH,Entidades de pago hibridas
+entidad_dinero_electronico,TEEDE,Entidad de dinero electrónico
+proveedor_informacion_cuentas,TEPSIC,Entidad prestadora del servicio de información sobre cuentas
+sucursal_ue_entidad_pago,TESEPC,Sucursal de entidad de pago extranjera comunitaria
+sucursal_ue_dinero_electronico,TESEDC,Sucursal de entidad de dinero electrónico extranjera comunitaria
+sucursal_ue_filial_financiera,TESEFC,Sucursal de entidad financiera filial de entidad de crédito extranjera comunitaria
+entidad_financiacion,TEEF,Entidades de financiación
+entidad_factoring,TESF,Entidades financiación esp. operaciones factoring
+sociedad_arrendamiento_financiero,TESAF,Sociedades de arrendamiento financiero
+sociedad_credito_hipotecario,TESCH,Sociedades de crédito hipotecario
+sociedad_mediadora_mercado_dinero,TESMMD,Sociedades mediadoras en el mercado de dinero
+sociedad_dominante_entidad_credito,TESDEC,Sociedades dominantes de entidades crédito
+sociedad_financiera_cartera,TESFC,Sociedad financiera de cartera
+sociedad_financiera_mixta_cartera,TESFMC,Sociedad financiera mixta de cartera
+sociedad_garantia_reciproca,TESGR,Sociedad de garantía reciproca
+sociedad_reafianzamiento,TESR,Sociedad de reafianzamiento
+sociedad_tasacion,TEST,Sociedad de tasación
+compraventa_moneda,TEECVM,Titular de establecimientos de compra y venta de moneda extranjera
+compraventa_moneda_transferencias,TEECVT,Titulares establecimientos C.-V.M.E. y/o gestión transferencias
+proveedor_moneda_virtual,CRIPTO,Proveedor de servicios de cambio de moneda virtual por fiduciaria y/o custodia de monederos electrónicos
