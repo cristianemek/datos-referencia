@@ -17,9 +17,9 @@ def download(url: str, accept: str = "*/*") -> bytes:
         raise SystemExit(f"No se pudo descargar {url}: {error}") from error
 
 
-def block(boe_id: str, block_id: str) -> list[tuple[dict, list[str]]]:
+def block(boe_id: str, block_id: str, fresh: bool = False) -> list[tuple[dict, list[str]]]:
     path = CACHE / "boe" / f"{boe_id}_{block_id}.xml"
-    if not path.exists():
+    if fresh or not path.exists():
         data = download(API.format(boe_id=boe_id, block_id=block_id), "application/xml")
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(data)

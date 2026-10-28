@@ -20,6 +20,7 @@ TYPE_ORDER = {t: i for i, t in enumerate(
      "incrementado", "especial", "sectorial", "temporal"])}
 ISO_DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 _TEXTS: dict[str, str] = {}
+_LATEST: dict[tuple, tuple[dict, str]] = {}
 
 
 def norm(text: str) -> str:
@@ -52,6 +53,38 @@ def check_row(row: dict) -> list[str]:
         boe_id, block_id, version_id, needle = check
         if not any(norm(needle) in text for text in boe_texts(boe_id, block_id, version_id)):
             errors.append(f"'{needle}' no está en {boe_id}/{block_id}@{version_id}")
+    return errors
+
+
+def iso(value: str) -> str:
+    return f"{value[:4]}-{value[4:6]}-{value[6:]}" if re.fullmatch(r"\d{8}", value) else value
+
+
+def latest_version(boe_id: str, block_id: str) -> tuple[dict, str]:
+    key = (boe_id, block_id)
+    if key not in _LATEST:
+        versions = tipos_boe.block(boe_id, block_id, fresh=True)
+        attributes, paragraphs = max(versions, key=lambda v: (v[0].get("fecha_vigencia", ""), v[0].get("fecha_publicacion", "")))
+        _LATEST[key] = (attributes, norm(" ".join(paragraphs)))
+    return _LATEST[key]
+
+
+def check_current(row: dict, today: str) -> list[str]:
+    if row["valid_to"] and row["valid_to"] < today:
+        return []
+    needles: dict[tuple, list[str]] = {}
+    for check in row["checks"]:
+        if len(check) == 4:
+            needles.setdefault(check[:2], []).append(norm(check[3]))
+    errors = []
+    for (boe_id, block_id), texts in needles.items():
+        attributes, latest = latest_version(boe_id, block_id)
+        if not any(text in latest for text in texts):
+            errors.append(
+                f"{row['tax']} {row['territory'] or 'ES'} {row['rate_type']} {row['rate']} %: la última versión de "
+                f"{boe_id}/{block_id} ({attributes.get('id_norma')}, vigente desde {iso(attributes.get('fecha_vigencia', ''))}) "
+                f"ya no recoge este tipo; revisa la fila y añade el tipo nuevo"
+            )
     return errors
 
 
@@ -88,7 +121,9 @@ def sort_key(row: dict) -> tuple:
 
 def main() -> None:
     rows = IVA_ROWS + IGIC_ROWS + IPSI_ROWS
+    today = date.today().isoformat()
     errors = [error for row in rows for error in check_row(row)]
+    errors += [error for row in rows for error in check_current(row, today)]
     errors += check_dates(rows) + check_overlaps(rows)
     if errors:
         print("\n".join(errors), file=sys.stderr)

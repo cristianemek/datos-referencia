@@ -1,0 +1,45 @@
+name: Vigilancia de normas
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  vigilancia:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Instalar pdftotext
+        run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+
+      - name: Comprobar los datos tomados de normas
+        id: comprobar
+        run: |
+          set +e
+          python3 scripts/vigilancia_normas.py --informe informe.md
+          status=$?
+          set -e
+          if [ "$status" -eq 1 ]; then echo "revisar=true" >> "$GITHUB_OUTPUT"; elif [ "$status" -ne 0 ]; then exit "$status"; fi
+
+      - name: Abrir o actualizar el issue
+        if: steps.comprobar.outputs.revisar == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TITULO: Revisar normas vigiladas
+        run: |
+          numero=$(gh issue list --state open --search "in:title \"$TITULO\"" --json number,title --jq ".[] | select(.title == \"$TITULO\") | .number" | head -n 1)
+          if [ -n "$numero" ]; then
+            gh issue comment "$numero" --body-file informe.md
+          else
+            gh issue create --title "$TITULO" --body-file informe.md
+          fi
