@@ -1,179 +1,179 @@
-code,numeric,minor_units,name,symbol,is_fund_or_special
-AED,784,2,dírham de los Emiratos Árabes Unidos,,0
-AFN,971,2,afgani afgano,,0
-ALL,008,2,lek albanés,,0
-AMD,051,2,dram armenio,,0
-AOA,973,2,kuanza angoleño,,0
-ARS,032,2,peso argentino,,0
-AUD,036,2,dólar australiano,,0
-AWG,533,2,florín arubeño,,0
-AZN,944,2,manat azerbaiyano,,0
-BAM,977,2,marco convertible de Bosnia y Herzegovina,,0
-BBD,052,2,dólar barbadense,,0
-BDT,050,2,taka bangladesí,,0
-BHD,048,3,dinar bareiní,,0
-BIF,108,0,franco burundés,,0
-BMD,060,2,dólar bermudeño,,0
-BND,096,2,dólar bruneano,,0
-BOB,068,2,boliviano,,0
-BOV,984,2,MVDOL boliviano,,1
-BRL,986,2,real brasileño,,0
-BSD,044,2,dólar bahameño,,0
-BTN,064,2,gultrum butanés,,0
-BWP,072,2,pula botsuano,,0
-BYN,933,2,rublo bielorruso,,0
-BZD,084,2,dólar beliceño,,0
-CAD,124,2,dólar canadiense,,0
-CDF,976,2,franco congoleño,,0
-CHE,947,2,euro WIR,,1
-CHF,756,2,franco suizo,,0
-CHW,948,2,franco WIR,,1
-CLF,990,4,unidad de fomento chilena,,1
-CLP,152,0,peso chileno,,0
-CNY,156,2,yuan renminbi,,0
-COP,170,2,peso colombiano,,0
-COU,970,2,unidad de valor real colombiana,,1
-CRC,188,2,colón costarricense,,0
-CUP,192,2,peso cubano,,0
-CVE,132,2,escudo de Cabo Verde,,0
-CZK,203,2,corona checa,,0
-DJF,262,0,franco yibutiano,,0
-DKK,208,2,corona danesa,,0
-DOP,214,2,peso dominicano,,0
-DZD,012,2,dinar argelino,,0
-EGP,818,2,libra egipcia,,0
-ERN,232,2,nakfa eritreo,,0
-ETB,230,2,bir etíope,,0
-EUR,978,2,euro,€,0
-FJD,242,2,dólar fiyiano,,0
-FKP,238,2,libra malvinense,,0
-GBP,826,2,libra esterlina,,0
-GEL,981,2,lari georgiano,,0
-GHS,936,2,cedi ghanés,,0
-GIP,292,2,libra gibraltareña,,0
-GMD,270,2,dalasi gambiano,,0
-GNF,324,0,franco guineano,,0
-GTQ,320,2,quetzal guatemalteco,,0
-GYD,328,2,dólar guyanés,,0
-HKD,344,2,dólar hongkonés,,0
-HNL,340,2,lempira hondureño,,0
-HTG,332,2,gurde haitiano,,0
-HUF,348,2,forinto húngaro,,0
-IDR,360,2,rupia indonesia,,0
-ILS,376,2,nuevo séquel israelí,,0
-INR,356,2,rupia india,,0
-IQD,368,3,dinar iraquí,,0
-IRR,364,2,rial iraní,,0
-ISK,352,0,corona islandesa,,0
-JMD,388,2,dólar jamaicano,,0
-JOD,400,3,dinar jordano,,0
-JPY,392,0,yen japonés,,0
-KES,404,2,chelín keniano,,0
-KGS,417,2,som kirguís,,0
-KHR,116,2,riel camboyano,,0
-KMF,174,0,franco comorense,,0
-KPW,408,2,won norcoreano,,0
-KRW,410,0,won surcoreano,,0
-KWD,414,3,dinar kuwaití,,0
-KYD,136,2,dólar de las Islas Caimán,,0
-KZT,398,2,tengue kazajo,,0
-LAK,418,2,kip laosiano,,0
-LBP,422,2,libra libanesa,,0
-LKR,144,2,rupia esrilanquesa,,0
-LRD,430,2,dólar liberiano,,0
-LSL,426,2,loti lesotense,,0
-LYD,434,3,dinar libio,,0
-MAD,504,2,dírham marroquí,,0
-MDL,498,2,leu moldavo,,0
-MGA,969,2,ariari malgache,,0
-MKD,807,2,dinar macedonio,,0
-MMK,104,2,kiat de Myanmar,,0
-MNT,496,2,tugrik mongol,,0
-MOP,446,2,pataca macaense,,0
-MRU,929,2,uguiya mauritano,,0
-MUR,480,2,rupia mauriciana,,0
-MVR,462,2,rufiya maldiva,,0
-MWK,454,2,kuacha malauí,,0
-MXN,484,2,peso mexicano,,0
-MXV,979,2,unidad de inversión (UDI) mexicana,,1
-MYR,458,2,ringit malasio,,0
-MZN,943,2,metical mozambiqueño,,0
-NAD,516,2,dólar namibio,,0
-NGN,566,2,naira nigeriano,,0
-NIO,558,2,córdoba oro,,0
-NOK,578,2,corona noruega,,0
-NPR,524,2,rupia nepalí,,0
-NZD,554,2,dólar neozelandés,,0
-OMR,512,3,rial omaní,,0
-PAB,590,2,balboa panameño,,0
-PEN,604,2,sol peruano,,0
-PGK,598,2,kina papú,,0
-PHP,608,2,peso filipino,,0
-PKR,586,2,rupia pakistaní,,0
-PLN,985,2,esloti polaco,,0
-PYG,600,0,guaraní paraguayo,,0
-QAR,634,2,rial catarí,,0
-RON,946,2,leu rumano,,0
-RSD,941,2,dinar serbio,,0
-RUB,643,2,rublo ruso,,0
-RWF,646,0,franco ruandés,,0
-SAR,682,2,rial saudí,,0
-SBD,090,2,dólar salomonense,,0
-SCR,690,2,rupia seychellense,,0
-SDG,938,2,libra sudanesa,,0
-SEK,752,2,corona sueca,,0
-SGD,702,2,dólar singapurense,,0
-SHP,654,2,libra de Santa Elena,,0
-SLE,925,2,leona sierraleonesa,,0
-SOS,706,2,chelín somalí,,0
-SRD,968,2,dólar surinamés,,0
-SSP,728,2,libra sursudanesa,,0
-STN,930,2,dobra santotomense,,0
-SVC,222,2,colón salvadoreño,,0
-SYP,760,2,libra siria,,0
-SZL,748,2,lilangeni esuatiní,,0
-THB,764,2,bat tailandés,฿,0
-TJS,972,2,somoni tayiko,,0
-TMT,934,2,manat turcomano,,0
-TND,788,3,dinar tunecino,,0
-TOP,776,2,paanga tongano,,0
-TRY,949,2,lira turca,,0
-TTD,780,2,dólar de Trinidad y Tobago,,0
-TWD,901,2,nuevo dólar taiwanés,,0
-TZS,834,2,chelín tanzano,,0
-UAH,980,2,grivna ucraniana,,0
-UGX,800,0,chelín ugandés,,0
-USD,840,2,dólar estadounidense,US$,0
-USN,997,2,dólar estadounidense (día siguiente),,1
-UYI,940,0,peso uruguayo en unidades indexadas,,1
-UYU,858,2,peso uruguayo,,0
-UYW,927,4,unidad previsional uruguayo,,1
-UZS,860,2,sum uzbeko,,0
-VED,926,2,,,0
-VES,928,2,bolívar venezolano,,0
-VND,704,0,dong vietnamita,₫,0
-VUV,548,0,vatu vanuatense,,0
-WST,882,2,tala samoano,,0
-XAD,396,2,,,1
-XAF,950,0,franco CFA de África Central,,0
-XAG,961,,plata,,1
-XAU,959,,oro,,1
-XBA,955,,unidad compuesta europea,,1
-XBB,956,,unidad monetaria europea,,1
-XBC,957,,unidad de cuenta europea (XBC),,1
-XBD,958,,unidad de cuenta europea (XBD),,1
-XCD,951,2,dólar del Caribe Oriental,,0
-XCG,532,2,florín caribeño,Cg.,0
-XDR,960,,derechos especiales de giro,,1
-XOF,952,0,franco CFA de África Occidental,,0
-XPD,964,,paladio,,1
-XPF,953,0,franco CFP,CFPF,0
-XPT,962,,platino,,1
-XSU,994,,,,1
-XTS,963,,código reservado para pruebas,,1
-XUA,965,,,,1
-XXX,999,,moneda desconocida,¤,1
-YER,886,2,rial yemení,,0
-ZAR,710,2,rand sudafricano,,0
-ZMW,967,2,kuacha zambiano,,0
-ZWG,924,2,oro zimbabuense,,0
+code,numeric,minor_units,name,name_plural,symbol,symbol_narrow,is_fund_or_special,cash_minor_units,cash_rounding,countries
+AED,784,2,dírham de los Emiratos Árabes Unidos,dírhams de los Emiratos Árabes Unidos,,,0,,,AE
+AFN,971,2,afgani afgano,afganis afganos,,؋,0,0,,AF
+ALL,008,2,lek albanés,leks albaneses,,,0,0,,AL
+AMD,051,2,dram armenio,drams armenios,,֏,0,0,,AM
+AOA,973,2,kuanza angoleño,kuanzas angoleños,,Kz,0,,,AO
+ARS,032,2,peso argentino,pesos argentinos,,$,0,,,AR
+AUD,036,2,dólar australiano,dólares australianos,,$,0,,,AU|CC|CX|HM|KI|NF|NR|TV
+AWG,533,2,florín arubeño,florines arubeños,,,0,,,AW
+AZN,944,2,manat azerbaiyano,manats azerbaiyanos,,₼,0,,,AZ
+BAM,977,2,marco convertible de Bosnia y Herzegovina,marcos convertibles de Bosnia y Herzegovina,,KM,0,,,BA
+BBD,052,2,dólar barbadense,dólares barbadenses,,$,0,,,BB
+BDT,050,2,taka bangladesí,takas bangladesíes,,৳,0,,,BD
+BHD,048,3,dinar bareiní,dinares bareiníes,,,0,,,BH
+BIF,108,0,franco burundés,francos burundeses,,,0,,,BI
+BMD,060,2,dólar bermudeño,dólares bermudeños,,$,0,,,BM
+BND,096,2,dólar bruneano,dólares bruneanos,,$,0,,,BN
+BOB,068,2,boliviano,bolivianos,,Bs,0,,,BO
+BOV,984,2,MVDOL boliviano,MVDOL bolivianos,,,1,,,
+BRL,986,2,real brasileño,reales brasileños,,R$,0,,,BR
+BSD,044,2,dólar bahameño,dólares bahameños,,$,0,,,BS
+BTN,064,2,gultrum butanés,gultrums butaneses,,,0,,,BT
+BWP,072,2,pula botsuano,pulas botsuanos,,P,0,,,BW
+BYN,933,2,rublo bielorruso,rublos bielorrusos,,р.,0,,,BY
+BZD,084,2,dólar beliceño,dólares beliceños,,$,0,,,BZ
+CAD,124,2,dólar canadiense,dólares canadienses,,$,0,,0.05,CA
+CDF,976,2,franco congoleño,francos congoleños,,,0,,,CD
+CHE,947,2,euro WIR,euros WIR,,,1,,,
+CHF,756,2,franco suizo,francos suizos,,Fr.,0,,0.05,CH|LI
+CHW,948,2,franco WIR,francos WIR,,,1,,,
+CLF,990,4,unidad de fomento chilena,unidades de fomento chilenas,,,1,,,
+CLP,152,0,peso chileno,pesos chilenos,,$,0,,,CL
+CNY,156,2,yuan renminbi,yuanes renminbi,,¥,0,,,CN
+COP,170,2,peso colombiano,pesos colombianos,,$,0,0,,CO
+COU,970,2,unidad de valor real colombiana,unidades de valor reales,,,1,,,
+CRC,188,2,colón costarricense,colones costarricenses,,₡,0,0,,CR
+CUP,192,2,peso cubano,pesos cubanos,,$,0,,,CU
+CVE,132,2,escudo de Cabo Verde,escudos de Cabo Verde,,,0,,,CV
+CZK,203,2,corona checa,coronas checas,,Kč,0,0,,CZ
+DJF,262,0,franco yibutiano,francos yibutianos,,,0,,,DJ
+DKK,208,2,corona danesa,coronas danesas,,kr,0,,0.50,DK|FO|GL
+DOP,214,2,peso dominicano,pesos dominicanos,,$,0,,,DO
+DZD,012,2,dinar argelino,dinares argelinos,,,0,,,DZ
+EGP,818,2,libra egipcia,libras egipcias,,,0,,,EG
+ERN,232,2,nakfa eritreo,nakfas eritreos,,,0,,,ER
+ETB,230,2,bir etíope,bires etíopes,,,0,,,ET
+EUR,978,2,euro,euros,€,€,0,,,AD|AT|AX|BE|BG|BL|CY|DE|EE|ES|FI|FR|GF|GP|GR|HR|IE|IT|LT|LU|LV|MC|ME|MF|MQ|MT|NL|PM|PT|RE|SI|SK|SM|TF|VA|YT
+FJD,242,2,dólar fiyiano,dólares fiyianos,,$,0,,,FJ
+FKP,238,2,libra malvinense,libras malvinenses,,£,0,,,FK
+GBP,826,2,libra esterlina,libras esterlinas,,£,0,,,GB|GG|GS|IM|JE
+GEL,981,2,lari georgiano,laris georgianos,,₾,0,,,GE
+GHS,936,2,cedi ghanés,cedis ghaneses,,GH₵,0,,,GH
+GIP,292,2,libra gibraltareña,libras gibraltareñas,,£,0,,,GI
+GMD,270,2,dalasi gambiano,dalasis gambianos,,,0,,,GM
+GNF,324,0,franco guineano,francos guineanos,,FG,0,,,GN
+GTQ,320,2,quetzal guatemalteco,quetzales guatemaltecos,,Q,0,,,GT
+GYD,328,2,dólar guyanés,dólares guyaneses,,$,0,0,,GY
+HKD,344,2,dólar hongkonés,dólares hongkoneses,,$,0,,,HK
+HNL,340,2,lempira hondureño,lempiras hondureños,,L,0,,,HN
+HTG,332,2,gurde haitiano,gurdes haitianos,,,0,,,HT
+HUF,348,2,forinto húngaro,forintos húngaros,,Ft,0,0,5,HU
+IDR,360,2,rupia indonesia,rupias indonesias,,Rp,0,0,,ID
+ILS,376,2,nuevo séquel israelí,nuevos séqueles israelíes,,₪,0,,,IL|PS
+INR,356,2,rupia india,rupias indias,,₹,0,,,BT|IN
+IQD,368,3,dinar iraquí,dinares iraquíes,,,0,0,,IQ
+IRR,364,2,rial iraní,riales iraníes,,,0,0,,IR
+ISK,352,0,corona islandesa,coronas islandesas,,kr,0,,,IS
+JMD,388,2,dólar jamaicano,dólares jamaicanos,,$,0,,,JM
+JOD,400,3,dinar jordano,dinares jordanos,,,0,,,JO|PS
+JPY,392,0,yen japonés,yenes japoneses,,¥,0,,,JP
+KES,404,2,chelín keniano,chelines kenianos,,,0,,,KE
+KGS,417,2,som kirguís,soms kirguises,,⃀,0,,,KG
+KHR,116,2,riel camboyano,rieles camboyanos,,៛,0,,,KH
+KMF,174,0,franco comorense,francos comorenses,,CF,0,,,KM
+KPW,408,2,won norcoreano,wons norcoreanos,,₩,0,0,,KP
+KRW,410,0,won surcoreano,wons surcoreanos,,₩,0,,,KR
+KWD,414,3,dinar kuwaití,dinares kuwaitíes,,,0,,,KW
+KYD,136,2,dólar de las Islas Caimán,dólares de las Islas Caimán,,$,0,,,KY
+KZT,398,2,tengue kazajo,tengues kazajos,,₸,0,,,KZ
+LAK,418,2,kip laosiano,kips laosianos,,₭,0,0,,LA
+LBP,422,2,libra libanesa,libras libanesas,,L£,0,0,,LB
+LKR,144,2,rupia esrilanquesa,rupias esrilanquesas,,Rs,0,,,LK
+LRD,430,2,dólar liberiano,dólares liberianos,,$,0,,,LR
+LSL,426,2,loti lesotense,lotis lesotenses,,,0,,,LS
+LYD,434,3,dinar libio,dinares libios,,,0,,,LY
+MAD,504,2,dírham marroquí,dírhams marroquíes,,,0,,,EH|MA
+MDL,498,2,leu moldavo,leus moldavos,,,0,,,MD
+MGA,969,2,ariari malgache,ariaris malgaches,,Ar,0,0,,MG
+MKD,807,2,dinar macedonio,dinares macedonios,,,0,,,MK
+MMK,104,2,kiat de Myanmar,kiats de Myanmar,,K,0,0,,MM
+MNT,496,2,tugrik mongol,tugriks mongoles,,₮,0,0,,MN
+MOP,446,2,pataca macaense,patacas macaenses,,,0,,,MO
+MRU,929,2,uguiya mauritano,uguiyas mauritanos,,,0,,0.20,MR
+MUR,480,2,rupia mauriciana,rupias mauricianas,,Rs,0,0,,MU
+MVR,462,2,rufiya maldiva,rufiyas maldivas,,,0,,,MV
+MWK,454,2,kuacha malauí,kuachas malauíes,,,0,,,MW
+MXN,484,2,peso mexicano,pesos mexicanos,,$,0,,,MX
+MXV,979,2,unidad de inversión (UDI) mexicana,unidades de inversión (UDI) mexicanas,,,1,,,
+MYR,458,2,ringit malasio,ringits malasios,,RM,0,,,MY
+MZN,943,2,metical mozambiqueño,meticales mozambiqueños,,,0,,,MZ
+NAD,516,2,dólar namibio,dólares namibios,,$,0,,,NA
+NGN,566,2,naira nigeriano,nairas nigerianos,,₦,0,,,NG
+NIO,558,2,córdoba oro,córdobas oro,,C$,0,,,NI
+NOK,578,2,corona noruega,coronas noruegas,,kr,0,0,,BV|NO|SJ
+NPR,524,2,rupia nepalí,rupias nepalíes,,Rs,0,,,NP
+NZD,554,2,dólar neozelandés,dólares neozelandeses,,$,0,,,CK|NU|NZ|PN|TK
+OMR,512,3,rial omaní,riales omaníes,,,0,,,OM
+PAB,590,2,balboa panameño,balboas panameños,,,0,,,PA
+PEN,604,2,sol peruano,soles peruanos,,,0,,,PE
+PGK,598,2,kina papú,kinas papúes,,,0,,,PG
+PHP,608,2,peso filipino,pesos filipinos,,₱,0,,,PH
+PKR,586,2,rupia pakistaní,rupias pakistaníes,,Rs,0,0,,PK
+PLN,985,2,esloti polaco,eslotis polacos,,zł,0,,,PL
+PYG,600,0,guaraní paraguayo,guaraníes paraguayos,,₲,0,,,PY
+QAR,634,2,rial catarí,riales cataríes,,,0,,,QA
+RON,946,2,leu rumano,leus rumanos,,L,0,,,RO
+RSD,941,2,dinar serbio,dinares serbios,,,0,0,,RS
+RUB,643,2,rublo ruso,rublos rusos,,₽,0,,,RU
+RWF,646,0,franco ruandés,francos ruandeses,,RF,0,,,RW
+SAR,682,2,rial saudí,riales saudíes,,,0,,,SA
+SBD,090,2,dólar salomonense,dólares salomonenses,,$,0,,,SB
+SCR,690,2,rupia seychellense,rupias seychellenses,,,0,,,SC
+SDG,938,2,libra sudanesa,libras sudanesas,,,0,,,SD
+SEK,752,2,corona sueca,coronas suecas,,kr,0,0,,SE
+SGD,702,2,dólar singapurense,dólares singapurenses,,$,0,,,SG
+SHP,654,2,libra de Santa Elena,libras de Santa Elena,,£,0,,,SH
+SLE,925,2,leona sierraleonesa,leonas sierraleonesas,,,0,,,SL
+SOS,706,2,chelín somalí,chelines somalíes,,,0,0,,SO
+SRD,968,2,dólar surinamés,dólares surinameses,,$,0,,,SR
+SSP,728,2,libra sursudanesa,libras sursudanesas,,£,0,,,SS
+STN,930,2,dobra santotomense,dobras santotomenses,,Db,0,,,ST
+SVC,222,2,colón salvadoreño,colones salvadoreños,,,0,,,
+SYP,760,2,libra siria,libras sirias,,£,0,0,,SY
+SZL,748,2,lilangeni esuatiní,lilangenis esuatiníes,,,0,,,SZ
+THB,764,2,bat tailandés,bats tailandeses,฿,฿,0,,,TH
+TJS,972,2,somoni tayiko,somonis tayikos,,,0,,,TJ
+TMT,934,2,manat turcomano,manats turcomanos,,,0,,,TM
+TND,788,3,dinar tunecino,dinares tunecinos,,,0,,,TN
+TOP,776,2,paanga tongano,paangas tonganos,,T$,0,,,TO
+TRY,949,2,lira turca,liras turcas,,₺,0,,,TR
+TTD,780,2,dólar de Trinidad y Tobago,dólares de Trinidad y Tobago,,$,0,,,TT
+TWD,901,2,nuevo dólar taiwanés,nuevos dólares taiwaneses,,NT$,0,0,,TW
+TZS,834,2,chelín tanzano,chelines tanzanos,,,0,0,,TZ
+UAH,980,2,grivna ucraniana,grivnas ucranianas,,₴,0,,,UA
+UGX,800,0,chelín ugandés,chelines ugandeses,,,0,,,UG
+USD,840,2,dólar estadounidense,dólares estadounidenses,US$,$,0,,,AS|BQ|EC|FM|GU|HT|IO|MH|MP|PA|PR|PW|SV|TC|TL|UM|US|VG|VI|ZW
+USN,997,2,dólar estadounidense (día siguiente),dólares estadounidenses (día siguiente),,,1,,,
+UYI,940,0,peso uruguayo en unidades indexadas,pesos uruguayos en unidades indexadas,,,1,,,
+UYU,858,2,peso uruguayo,pesos uruguayos,,$,0,,,UY
+UYW,927,4,unidad previsional uruguayo,unidades previsionales uruguayos,,,1,,,
+UZS,860,2,sum uzbeko,sums uzbekos,,,0,0,,UZ
+VED,926,2,,,,,0,,,
+VES,928,2,bolívar venezolano,bolívares venezolanos,,,0,,,VE
+VND,704,0,dong vietnamita,dongs vietnamitas,₫,₫,0,,,VN
+VUV,548,0,vatu vanuatense,vatus vanuatenses,,,0,,,VU
+WST,882,2,tala samoano,talas samoanos,,,0,,,WS
+XAD,396,2,,,,,1,,,
+XAF,950,0,franco CFA de África Central,francos CFA de África Central,,,0,,,CF|CG|CM|GA|GQ|TD
+XAG,961,,plata,plata,,,1,,,
+XAU,959,,oro,oro,,,1,,,
+XBA,955,,unidad compuesta europea,unidades compuestas europeas,,,1,,,
+XBB,956,,unidad monetaria europea,unidades monetarias europeas,,,1,,,
+XBC,957,,unidad de cuenta europea (XBC),unidades de cuenta europeas (XBC),,,1,,,
+XBD,958,,unidad de cuenta europea (XBD),unidades de cuenta europeas (XBD),,,1,,,
+XCD,951,2,dólar del Caribe Oriental,dólares del Caribe Oriental,,$,0,,,AG|AI|DM|GD|KN|LC|MS|VC
+XCG,532,2,florín caribeño,florines caribeños,Cg.,Cg.,0,,,CW|SX
+XDR,960,,derechos especiales de giro,derechos especiales de giro,,,1,,,
+XOF,952,0,franco CFA de África Occidental,francos CFA de África Occidental,,,0,,,BF|BJ|CI|GW|ML|NE|SN|TG
+XPD,964,,paladio,paladio,,,1,,,
+XPF,953,0,franco CFP,francos CFP,CFPF,CFPF,0,,,NC|PF|WF
+XPT,962,,platino,platino,,,1,,,
+XSU,994,,,,,,1,,,
+XTS,963,,código reservado para pruebas,código reservado para pruebas,,,1,,,
+XUA,965,,,,,,1,,,
+XXX,999,,moneda desconocida,(moneda desconocida),¤,¤,1,,,
+YER,886,2,rial yemení,riales yemeníes,,,0,0,,YE
+ZAR,710,2,rand sudafricano,rands sudafricanos,,R,0,,,LS|NA|ZA
+ZMW,967,2,kuacha zambiano,kuachas zambianos,,ZK,0,,,ZM
+ZWG,924,2,oro zimbabuense,oro zimbabuense,,,0,,,ZW

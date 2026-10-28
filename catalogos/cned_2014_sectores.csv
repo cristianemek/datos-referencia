@@ -1,0 +1,144 @@
+code,level,name,parent_code
+00,1,"Formación general, formación básica de adultos y habilidades personales",
+001,2,Formación general,00
+0011,3,Formación general,001
+002,2,Formación básica de adultos en competencias lingüísticas y matemáticas,00
+0021,3,Formación básica de adultos en competencias lingüísticas y matemáticas,002
+003,2,Habilidades personales,00
+0031,3,Habilidades personales,003
+01,1,Educación,
+011,2,Formación de docentes y ciencias de la educación,01
+0111,3,Ciencias de la educación,011
+0112,3,Formación de docentes de enseñanza infantil,011
+0113,3,Formación de docentes de enseñanza primaria,011
+0114,3,Formación de docentes de educación secundaria y formación profesional,011
+018,2,"Educación, sin sector detallado predominante",01
+0188,3,"Educación, sin sector detallado predominante",018
+02,1,"Artes, humanidades y lenguas",
+021,2,Artes,02
+0211,3,Técnicas audiovisuales y medios de comunicación,021
+0212,3,"Diseño de moda, industrial e interiorismo",021
+0213,3,Bellas artes,021
+0214,3,Artesanía,021
+0215,3,Música y artes del espectáculo,021
+022,2,Humanidades,02
+0221,3,Religión,022
+0222,3,Historia y arqueología,022
+0223,3,Filosofía y ética,022
+023,2,Lenguas,02
+0231,3,Aprendizaje de segundas lenguas,023
+0232,3,Literatura y lingüística,023
+028,2,"Artes, humanidades y lenguas, sin sector detallado predominante",02
+0288,3,"Artes, humanidades y lenguas, sin sector detallado predominante",028
+03,1,"Ciencias sociales, periodismo y documentación",
+031,2,Ciencias sociales y del comportamiento,03
+0311,3,Economía,031
+0312,3,Ciencias políticas,031
+0313,3,Psicología,031
+0314,3,"Sociología, antropología y geografía social y cultural",031
+032,2,Periodismo y documentación,03
+0321,3,Periodismo,032
+0322,3,"Biblioteconomía, documentación y archivos",032
+038,2,"Ciencias sociales, periodismo y documentación, sin sector detallado predominante",03
+0388,3,"Ciencias sociales, periodismo y documentación, sin sector detallado predominante",038
+04,1,"Negocios, administración y derecho",
+041,2,Negocios y administración,04
+0411,3,Contabilidad y gestión de impuestos,041
+0412,3,"Finanzas, banca y seguros",041
+0413,3,Administración y gestión,041
+0414,3,Marketing y publicidad,041
+0415,3,Secretariado y trabajo administrativo,041
+0416,3,Ventas al por mayor y al por menor,041
+0417,3,Otros estudios de adaptación al puesto de trabajo,041
+042,2,Derecho,04
+0421,3,Derecho,042
+048,2,"Negocios, administración y derecho, sin sector detallado predominante",04
+0488,3,"Negocios, administración y derecho, sin sector detallado predominante",048
+05,1,"Ciencias naturales, químicas, físicas y matemáticas",
+051,2,Biología y bioquímica,05
+0511,3,Biología,051
+0512,3,Bioquímica,051
+052,2,"Medio ambiente, entornos naturales y vida silvestre",05
+0521,3,Ciencias del medio ambiente,052
+0522,3,Entornos naturales y vida silvestre,052
+053,2,"Ciencias químicas, físicas y geológicas",05
+0531,3,Química,053
+0532,3,Geología y meteorología,053
+0533,3,Física,053
+054,2,Matemáticas y estadística,05
+0541,3,Matemáticas,054
+0542,3,Estadística,054
+058,2,"Ciencias naturales, químicas, físicas y matemáticas, sin sector detallado predominante",05
+0588,3,"Ciencias naturales, químicas, físicas y matemáticas, sin sector detallado predominante",058
+06,1,Tecnologías de la información y las comunicaciones (TIC),
+061,2,Tecnologías de la información y las comunicaciones (TIC),06
+0611,3,Uso de ordenadores,061
+0612,3,Diseño y administración de bases de datos y redes,061
+0613,3,Desarrollo y análisis de software y aplicaciones,061
+0619,3,Tecnologías de la información y las comunicaciones (TIC); sectores no clasificados en otra parte,061
+068,2,"Tecnologías de la información y las comunicaciones (TIC), sin sector detallado predominante",06
+0688,3,"Tecnologías de la información y las comunicaciones (TIC), sin sector detallado predominante",068
+07,1,"Mecánica, electrónica y otra formación técnica; industria y construcción",
+071,2,"Mecánica, electrónica y otra formación técnica",07
+0711,3,Procesos químicos,071
+0712,3,Control y tecnología medioambiental,071
+0713,3,Electricidad y energía,071
+0714,3,Electrónica y automática,071
+0715,3,Maquinaria y metalurgia,071
+0716,3,"Vehículos de motor, barcos y aeronaves",071
+0719,3,"Mecánica, electrónica y otra formación técnica; sectores no clasificados en otra parte",071
+072,2,Industria manufacturera y producción,07
+0721,3,Industria de la alimentación,072
+0722,3,"Industrias de otros materiales (madera, papel, plástico, vidrio)",072
+0723,3,"Industria textil, confección, del calzado y piel",072
+0724,3,Minería y extracción,072
+073,2,Construcción,07
+0731,3,Arquitectura y urbanismo,073
+0732,3,Construcción e ingeniería civil,073
+078,2,"Mecánica, electrónica y otra formación técnica; industria y construcción, sin sector detallado predominante",07
+0788,3,"Mecánica, electrónica y otra formación técnica; industria y construcción, sin sector detallado predominante",078
+08,1,"Agricultura, ganadería, pesca, silvicultura y veterinaria",
+081,2,Agricultura y ganadería,08
+0811,3,Producción agrícola y explotación ganadera,081
+0812,3,"Producción de plantas ornamentales, jardinería y viveros",081
+082,2,Silvicultura,08
+0821,3,Silvicultura,082
+083,2,Pesca,08
+0831,3,Pesca,083
+084,2,Veterinaria,08
+0841,3,Veterinaria,084
+088,2,"Agricultura, ganadería, pesca, silvicultura y veterinaria, sin sector detallado predominante",08
+0888,3,"Agricultura, ganadería, pesca, silvicultura y veterinaria, sin sector detallado predominante",088
+09,1,Salud y servicios sociales,
+091,2,Salud,09
+0911,3,Estudios dentales,091
+0912,3,Medicina,091
+0913,3,Enfermería,091
+0914,3,Tecnología de diagnóstico y tratamiento médico,091
+0915,3,Terapia y rehabilitación,091
+0916,3,Farmacia,091
+0917,3,Terapias naturales relacionadas con la salud y el bienestar,091
+0919,3,Salud; sectores no clasificados en otra parte,091
+092,2,Servicios sociales,09
+0921,3,Atención de personas mayores y adultos discapacitados,092
+0922,3,Atención de niños y servicios para jóvenes,092
+0923,3,Trabajo social y orientación,092
+098,2,"Salud y servicios sociales, sin sector detallado predominante",09
+0988,3,"Salud y servicios sociales, sin sector detallado predominante",098
+10,1,Servicios,
+101,2,Servicios personales,10
+1011,3,Servicios domésticos,101
+1012,3,Peluquería y servicios de belleza,101
+1013,3,Hostelería,101
+1014,3,Actividades físicas y deportivas,101
+1015,3,"Viajes, turismo y ocio",101
+102,2,Servicios de saneamiento a la comunidad; y de seguridad y salud laboral,10
+1021,3,Servicios de saneamiento a la comunidad,102
+1022,3,Seguridad y salud laboral,102
+103,2,Servicios de seguridad,10
+1031,3,Enseñanza militar,103
+1032,3,Protección de la propiedad y las personas,103
+104,2,Servicios de transporte,10
+1041,3,Servicios de transporte,104
+108,2,"Servicios, sin sector detallado predominante",10
+1088,3,"Servicios, sin sector detallado predominante",108

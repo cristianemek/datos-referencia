@@ -1,0 +1,50 @@
+code,level,name,parent_code
+A,1,Primera etapa de educación secundaria e inferior,
+0,2,Menos que primaria,A
+AA,3,Menos que primaria,0
+01,4,Analfabetos,AA
+02,4,Estudios primarios incompletos,AA
+1,2,Educación primaria,A
+AB,3,Educación primaria,1
+10,4,Educación primaria,AB
+2,2,Primera etapa de educación secundaria y similar,A
+AC,3,"Primera etapa de educación secundaria y similar, con orientación general",2
+21,4,Primera etapa de educación secundaria sin título de graduado en ESO y similar,AC
+22,4,Primera etapa de educación secundaria con título de graduado en ESO y equivalentes,AC
+AD,3,"Primera etapa de educación secundaria y similar, con orientación profesional",2
+23,4,Certificados de profesionalidad de nivel 1 y similares,AD
+24,4,Certificados de profesionalidad de nivel 2 y similares,AD
+B,1,Segunda etapa de educación secundaria y educación postsecundaria no superior,
+3,2,Segunda etapa de educación secundaria y similar,B
+BE,3,"Segunda etapa de educación secundaria, con orientación general",3
+32,4,Bachillerato y similares,BE
+BF,3,"Segunda etapa de educación secundaria, con orientación profesional (y continuidad en la educación superior)",3
+33,4,"Enseñanzas de formación profesional, artes plásticas y diseño y deportivas de grado medio y similares",BF
+BG,3,"Segunda etapa de educación secundaria, con orientación profesional (sin continuidad en la educación superior)",3
+34,4,Enseñanzas profesionales de música y danza y similares,BG
+35,4,"Certificados de las escuelas oficiales de idiomas de niveles B2, C1 y C2, y similares",BG
+38,4,Formación profesional básica,BG
+4,2,Educación postsecundaria no superior,B
+BH,3,Educación postsecundaria no superior,4
+41,4,Certificados de profesionalidad de nivel 3; programas de corta duración que requieren segunda etapa de secundaria y similares,BH
+C,1,Educación superior,
+5,2,"Enseñanzas de formación profesional, artes plásticas y diseño y deportivas de grado superior y equivalentes; títulos propios universitarios que precisan del título de bachiller, de duración igual o superior a 2 años",C
+CI,3,"Enseñanzas de formación profesional, artes plásticas y diseño y deportivas de grado superior y equivalentes; títulos propios universitarios que precisan del título de bachiller, de duración igual o superior a 2 años",5
+51,4,"Enseñanzas de formación profesional, artes plásticas y diseño y deportivas de grado superior y equivalentes",CI
+52,4,"Títulos propios universitarios que precisan del título de bachiller, de duración igual o superior a 2 años",CI
+6,2,"Grados universitarios de hasta 240 créditos ECTS, diplomados universitarios, títulos propios universitarios de experto o especialista, y similares",C
+CJ,3,"Grados universitarios de hasta 240 créditos ECTS, diplomados universitarios, títulos propios universitarios de experto o especialista, y similares",6
+61,4,Grados universitarios de hasta 240 créditos ECTS y equivalentes,CJ
+62,4,Diplomados universitarios y equivalentes,CJ
+63,4,"Títulos propios universitarios de experto o especialista, de menos de 60 créditos ECTS, cuyo acceso requiera ser titulado universitario",CJ
+7,2,"Grados universitarios de más de 240 créditos ECTS, licenciados, másteres y especialidades en Ciencias de la Salud por el sistema de residencia, y similares",C
+CK,3,"Grados universitarios de más de 240 créditos ECTS, licenciados y equivalentes",7
+71,4,Grados universitarios de más de 240 créditos ECTS y equivalentes,CK
+72,4,Licenciados y equivalentes,CK
+CL,3,"Másteres, especialidades en Ciencias de la Salud por el sistema de residencia y similares",7
+73,4,Másteres oficiales universitarios y equivalentes,CL
+74,4,Especialidades en Ciencias de la Salud por el sistema de residencia y similares,CL
+75,4,"Títulos propios universitarios de máster (maestrías), de 60 o más crédito ECTS cuyo acceso requiera ser titulado universitario",CL
+8,2,Enseñanzas de doctorado,C
+CM,3,Doctorado universitario,8
+81,4,Doctorado universitario,CM
