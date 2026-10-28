@@ -18,7 +18,7 @@ MERGES = {
         ],
         "order": [
             "country_code", "bank_code", "bic", "bank_name", "nif", "lei", "entity_type", "active",
-            "deregistered_on", "successor_code", "logo",
+            "deregistered_on", "successor_code", "logo_on_dark", "logo",
         ],
     },
     "direcciones/municipios_es.csv": {

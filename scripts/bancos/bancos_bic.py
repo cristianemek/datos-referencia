@@ -10,6 +10,7 @@ from pathlib import Path
 from typing import NamedTuple
 
 import bancos_bde as bde
+import bancos_gleif as gleif
 
 REPO = Path(__file__).resolve().parents[2]
 GLEIF_LIST_URL = "https://mapping.gleif.org/api/v2/bic-lei?page%5Bnumber%5D=1&page%5Bsize%5D=100"
@@ -18,7 +19,14 @@ ECB_BASE_URL = "https://www.ecb.europa.eu"
 ECB_FILE = re.compile(r'href="(/stats/money/mfi/general/html/dla/mfi_MID/mfi_csv_\d{6}\.csv\.gz)"')
 GLEIF_DATE = re.compile(r"(\d{4})(\d{2})(\d{2})")
 BRANCH_TYPES = ("sucursal_ue", "sucursal_extracomunitaria")
-HEADER = ["bank_code", "bic", "lei", "bic_source_date", "match"]
+HEADER = ["bank_code", "bic", "lei", "bic_source_date", "match", "bic_origin"]
+
+LEI_SEARCHES = {
+    "1581": ("MORGAN STANLEY EUROPE SE SUCURSAL EN ESPAÑA", "ES"),
+    "1582": ("Citigroup Global Markets Europe AG", "DE"),
+    "1590": ("MONZO BANK EUROPE DESIGNATED ACTIVITY COMPANY", "IE"),
+    "8640": ("CA AUTO BANK SPA BRANCH IN SPAIN", "ES"),
+}
 
 
 class Target(NamedTuple):
@@ -30,13 +38,19 @@ class Target(NamedTuple):
     is_new: bool
 
 
+class Leis(NamedTuple):
+    own: str
+    head: str
+
+
 class Result(NamedTuple):
     target: Target
     bic: str
     lei: str
     match: str
+    origin: str
     candidates: tuple
-    foreign: tuple
+    holder: str
 
 
 def gleif_date(name: str) -> str:
@@ -94,6 +108,11 @@ def read_mfi(data: bytes) -> dict:
     return {row["RIAD_CODE"]: (row["LEI"].strip(), row["HEAD_LEI"].strip()) for row in rows if row["RIAD_CODE"].startswith("ES")}
 
 
+def read_local_mfi(path: Path) -> bytes:
+    data = path.read_bytes()
+    return gzip.decompress(data) if path.suffix == ".gz" else data
+
+
 def current_targets(banks: list, index: bde.Index) -> list:
     targets = []
 
@@ -111,47 +130,81 @@ def current_targets(banks: list, index: bde.Index) -> list:
 
 
 def new_targets(entries: tuple, banks: list) -> list:
-    return [
-        Target(row[0], row[1], row[3], row[4] in BRANCH_TYPES, "", True)
-        for row in bde.new_bank_rows(entries, banks)
-    ]
+    return [Target(row[0], row[1], row[3], row[4] in BRANCH_TYPES, "", True) for row in bde.new_bank_rows(entries, banks)]
 
 
-def is_spanish(bic: str) -> bool:
-    return bic[4:6] == "ES"
+def searched_leis(targets: list, mfi: dict) -> dict:
+    pending = [t for t in targets if t.code in LEI_SEARCHES and not t.lei and not any(mfi.get("ES" + t.code, ("", "")))]
+    found = {}
+
+    for target in pending:
+        record = gleif.search(*LEI_SEARCHES[target.code])
+        print(f"LEI de {target.code} en GLEIF: {record.lei} {record.name!r} ({record.country}, {record.status}, {record.category})")
+
+        if record.category == "BRANCH" and record.country == "ES":
+            head = gleif.related(record.lei, "head-office")
+            found = {**found, target.code: Leis(record.lei, head.lei if head else "")}
+        else:
+            found = {**found, target.code: Leis("", record.lei)}
+
+    return found
 
 
-def candidates(target: Target, by_lei: dict, mfi: dict) -> tuple:
+def target_leis(target: Target, mfi: dict, found: dict) -> Leis:
     mfi_lei, head_lei = mfi.get("ES" + target.code, ("", ""))
-    own_lei = target.lei or mfi_lei
-    own = by_lei.get(own_lei, ()) if own_lei else ()
-
-    if own or not target.branch or not head_lei:
-        return own_lei, own, ()
-
-    head = by_lei.get(head_lei, ())
-    return head_lei, tuple(bic for bic in head if is_spanish(bic)), tuple(bic for bic in head if not is_spanish(bic))
+    searched = found.get(target.code, Leis("", ""))
+    own = target.lei or mfi_lei or searched.own
+    head = head_lei or searched.head
+    return Leis(own, head if target.branch else "")
 
 
-def choose(bics: tuple) -> tuple:
-    if not bics:
-        return "", "none"
+def country_of(bic: str) -> str:
+    return bic[4:6]
 
+
+def choose(bics: tuple, country: str) -> tuple:
     if len(bics) == 1:
         return bics[0], "unique"
 
-    main = [bic for bic in bics if is_spanish(bic) and bic.endswith("XXX")]
+    main = [bic for bic in bics if country_of(bic) == country and bic.endswith("XXX")]
     return (main[0] if len(main) == 1 else ""), "multiple"
 
 
-def resolve(target: Target, by_lei: dict, mfi: dict) -> Result:
-    lei, bics, foreign = candidates(target, by_lei, mfi)
-    bic, match = choose(bics)
-    return Result(target, bic, lei, match, bics, foreign)
+def result(target: Target, lei: str, bics: tuple, country: str, origin: str, holder: str = "") -> Result:
+    bic, match = choose(bics, country)
+    return Result(target, bic, lei, match, origin if bic else "none", bics, holder)
+
+
+def select(target: Target, leis: Leis, by_lei: dict, heads: dict) -> Result:
+    own = by_lei.get(leis.own, ()) if leis.own else ()
+
+    if own:
+        return result(target, leis.own, own, "ES", "own")
+
+    head_bics = by_lei.get(leis.head, ()) if leis.head else ()
+    spanish = tuple(bic for bic in head_bics if country_of(bic) == "ES")
+
+    if spanish:
+        return result(target, leis.head, spanish, "ES", "own")
+
+    head = heads.get(leis.head)
+    home = tuple(bic for bic in head_bics if head and head.status == "ACTIVE" and country_of(bic) == head.country)
+
+    if home:
+        return result(target, leis.head, home, head.country, "parent", f"{head.name} ({head.country})")
+
+    return Result(target, "", leis.head or leis.own, "none", "none", (), "")
+
+
+def resolve_all(targets: list, by_lei: dict, mfi: dict) -> list:
+    found = searched_leis(targets, mfi)
+    leis = [(target, target_leis(target, mfi, found)) for target in targets]
+    heads = gleif.records([pair.head for _, pair in leis if pair.head])
+    return [select(target, pair, by_lei, heads) for target, pair in leis]
 
 
 def write_csv(path: Path, results: list, source_date: str) -> None:
-    rows = [[r.target.code, r.bic, r.lei, source_date, r.match] for r in sorted(results, key=lambda r: r.target.code)]
+    rows = [[r.target.code, r.bic, r.lei, source_date, r.match, r.origin] for r in sorted(results, key=lambda r: r.target.code)]
     buffer = io.StringIO()
     writer = csv.writer(buffer, lineterminator="\n")
     writer.writerow(HEADER)
@@ -162,11 +215,9 @@ def write_csv(path: Path, results: list, source_date: str) -> None:
 
 
 def summary(results: list) -> str:
-    unique = sum(1 for r in results if r.match == "unique")
-    chosen = sum(1 for r in results if r.match == "multiple" and r.bic)
+    counts = {origin: sum(1 for r in results if r.origin == origin) for origin in ("own", "parent", "none")}
     ambiguous = sum(1 for r in results if r.match == "multiple" and not r.bic)
-    none = sum(1 for r in results if r.match == "none")
-    return f"{len(results)} filas: {unique} con BIC único, {chosen} elegidos entre varios, {ambiguous} ambiguos, {none} sin BIC"
+    return f"{len(results)} filas: {counts['own']} con BIC propio, {counts['parent']} con BIC de la matriz, {counts['none']} sin BIC ({ambiguous} ambiguos)"
 
 
 def report_current(results: list, by_bic: dict) -> None:
@@ -179,21 +230,40 @@ def report_current(results: list, by_bic: dict) -> None:
         known = by_bic.get(r.target.current_bic)
         where = f"en GLEIF con LEI {', '.join(known)}" if known else "no está en GLEIF"
         current = r.target.current_bic or "(vacío)"
-        print(f"  {r.target.code} {r.target.name!r}: actual {current} ({where}); GLEIF {r.bic or '-'} [{r.match}, LEI {r.lei or '-'}]")
+        print(f"  {r.target.code} {r.target.name!r}: actual {current} ({where}); GLEIF {r.bic or '-'} [{r.match}, {r.origin}, LEI {r.lei or '-'}]")
 
 
-def report_pending(results: list) -> None:
-    print("Sin BIC en las entidades nuevas:")
+def report_new(results: list) -> None:
+    print("Entidades nuevas:")
+
+    for r in results:
+        flag = " (no acaba en XXX)" if r.origin == "parent" and not r.bic.endswith("XXX") else ""
+        holder = f", matriz {r.holder}" if r.holder else ""
+        print(f"  {r.target.code} {r.target.name[:60]!r}: {r.bic or '-'} [{r.origin}, {r.match}{holder}]{flag}")
+
+
+def missing_reason(r: Result, by_lei: dict) -> str:
+    if not r.lei:
+        return "sin LEI en el registro del BdE, en el BCE ni en LEI_SEARCHES"
+
+    if r.match == "multiple":
+        return f"varios BIC posibles para el LEI {r.lei}: {', '.join(r.candidates)}"
+
+    parent = gleif.related(r.lei, "direct-parent")
+
+    if parent is None:
+        return f"el LEI {r.lei} no tiene BIC en GLEIF ni matriz declarada"
+
+    parent_bic, _ = choose(by_lei.get(parent.lei, ()), parent.country) if by_lei.get(parent.lei) else ("", "")
+    return f"el LEI {r.lei} no tiene BIC; su matriz es {parent.name} ({parent.country}, {parent.lei}), con BIC {parent_bic or '-'}, otra entidad jurídica"
+
+
+def report_missing(results: list, by_lei: dict) -> None:
+    print("Sin BIC:")
 
     for r in results:
         if not r.bic:
-            foreign = f", BIC de la matriz fuera de España: {len(r.foreign)}" if r.foreign else ""
-            print(f"  {r.target.code} {r.target.name!r}: {r.match}, LEI {r.lei or '-'}, candidatos {', '.join(r.candidates) or '-'}{foreign}")
-
-
-def read_local_mfi(path: Path) -> bytes:
-    data = path.read_bytes()
-    return gzip.decompress(data) if path.suffix == ".gz" else data
+            print(f"  {r.target.code} {r.target.name[:60]!r}: {missing_reason(r, by_lei)}")
 
 
 def main() -> None:
@@ -211,15 +281,17 @@ def main() -> None:
     gleif_data, source_date = (args.gleif.read_bytes(), gleif_date(args.gleif.name)) if args.gleif else latest_gleif()
     by_lei, by_bic = read_gleif(gleif_data)
     mfi = read_mfi(read_local_mfi(args.mfi) if args.mfi else latest_mfi())
-    print(f"Fichero BIC-LEI de GLEIF del {source_date}: {len(by_bic)} BIC")
+    print(f"Fichero BIC-LEI de GLEIF del {source_date}: {len(by_bic)} BIC; API de GLEIF del {gleif.publish_date()}")
 
-    current = [resolve(target, by_lei, mfi) for target in current_targets(banks, index)]
-    new = [resolve(target, by_lei, mfi) for target in new_targets(entries, banks)]
-    write_csv(args.out, current + new, source_date)
+    results = resolve_all(current_targets(banks, index) + new_targets(entries, banks), by_lei, mfi)
+    current = [r for r in results if not r.target.is_new]
+    new = [r for r in results if r.target.is_new]
+    write_csv(args.out, results, source_date)
     print(f"Actuales: {summary(current)}")
     print(f"Nuevas: {summary(new)}")
     report_current(current, by_bic)
-    report_pending(new)
+    report_new(new)
+    report_missing(new, by_lei)
 
 
 if __name__ == "__main__":

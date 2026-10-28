@@ -4,7 +4,7 @@ Datos de España en CSV (UTF-8, separados por comas y con cabecera) para reutili
 
 ## [bancos/](bancos/)
 
-- [`bancos_es.csv`](bancos/bancos_es.csv): bancos con código de entidad, BIC, nombre, NIF, LEI, tipo, situación (con fecha de baja y entidad sucesora) y logo en SVG.
+- [`bancos_es.csv`](bancos/bancos_es.csv): entidades de crédito con código de entidad, BIC, nombre, NIF, LEI, tipo, situación (con fecha de baja y entidad sucesora) y logo en SVG (`logo_on_dark` indica los que solo se ven sobre fondo oscuro).
 - [`bancos_historicos_es.csv`](bancos/bancos_historicos_es.csv): códigos de entidad dados de baja, con motivo y sucesora.
 - [`entidades_pago_es.csv`](bancos/entidades_pago_es.csv): entidades de pago, de dinero electrónico y establecimientos financieros de crédito.
 - [`tipos_entidad_bde.csv`](bancos/tipos_entidad_bde.csv): tipos de entidad del registro del Banco de España.
