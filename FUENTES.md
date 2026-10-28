@@ -3,7 +3,7 @@
 ## Bancos
 
 - **Datos de registro de las entidades** (NIF, LEI, tipo, bajas y sucesoras, históricos, entidades de pago): [Registro de Entidades](https://www.bde.es/f/webbe/SGE/regis/ficheros/es/Registro_Entidades.xlsx) del Banco de España, con datos a 22 de octubre de 2026. Fuente: Banco de España. Según su [aviso legal](https://www.bde.es/wbe/es/pie/aviso-legal/), se reproduce sin alterar, así que los nombres y los motivos de baja van tal como los publica, erratas incluidas. El cambio de código de Openbank (de 0224 a 0073) sale de la resolución [BOE-A-2026-11394](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11394).
-- **BIC de las entidades añadidas en octubre de 2026 y de Open Bank:** [fichero de relaciones BIC-LEI](https://www.gleif.org/en/lei-data/lei-mapping/download-bic-to-lei-relationship-files) de GLEIF y SWIFT (septiembre de 2026, CC0), cruzado por el LEI del registro del Banco de España, de la lista de entidades del BCE o de la [API de GLEIF](https://api.gleif.org/). Las sucursales de entidades extranjeras sin BIC español llevan el de la sede central de su matriz, que se reconoce por el país (posiciones 5 y 6 del BIC). Las filiales sin BIC propio, como las financieras de consumo o de leasing, lo llevan vacío.
+- **BIC de las entidades añadidas en octubre de 2026 y de Open Bank:** [fichero de relaciones BIC-LEI](https://www.gleif.org/en/lei-data/lei-mapping/download-bic-to-lei-relationship-files) de GLEIF y SWIFT (septiembre de 2026, CC0), cruzado por el LEI del registro del Banco de España, de la lista de entidades del BCE o de la [API de GLEIF](https://api.gleif.org/). Las sucursales de entidades extranjeras sin BIC español llevan el de la sede central de su matriz, que se reconoce por el país (posiciones 5 y 6 del BIC). Las filiales sin BIC propio, como las financieras de consumo o de leasing, lo llevan vacío. En las entidades activas cuyo propio LEI tiene un BIC español en ese fichero, se usa ese BIC (el de la oficina principal).
 - **Estructura del IBAN:** IBAN Registry de SWIFT.
 
 ## Direcciones
@@ -20,8 +20,9 @@
 - **Coordenadas y altitud:**
   - Municipios: posición de la capital municipal en el [IGN](https://api-features.ign.es/collections/nuc/items) (núcleos y otras entidades de población). Los 27 municipios cuya capital no está marcada en el IGN conservan las coordenadas de [Wikidata](https://www.wikidata.org/) (CC0).
   - Entidades de población: las del IGN para los núcleos.
+  - Provincias: posición de la capital de provincia en el IGN (en Ceuta y Melilla, la de su único municipio).
   - Comunidades y subdivisiones: Wikidata, por código INE o ISO 3166-2.
-  - Provincias (capital) y países: [FacturaScripts](https://github.com/NeoRazorX/facturascripts), con los signos de Angola, Argentina y Kenia corregidos.
+  - Países: [FacturaScripts](https://github.com/NeoRazorX/facturascripts), con los signos de Angola, Argentina y Kenia corregidos.
 - **Tipos de vía:** [tabla de tipos de vía](https://www.ine.es/prodyser/callejero/TiposVia.csv) del callejero del INE, con sus sinónimos.
 - **Matrículas provinciales:** anexo XVIII del [Reglamento General de Vehículos](https://www.boe.es/buscar/act.php?id=BOE-A-1999-1826) (Real Decreto 2822/1998). Los códigos anteriores (GE, PM, OR) salen de los Reales Decretos 567/1992, 1209/1997 y 1735/1998.
 - **Prefijos telefónicos:** [Plan Nacional de Numeración Telefónica](https://www.boe.es/buscar/act.php?id=BOE-A-2004-21841) (Real Decreto 2296/2004) y las resoluciones de atribución publicadas en el BOE, contrastados con el registro de numeración de la CNMC.

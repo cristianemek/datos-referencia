@@ -63,7 +63,10 @@ MERGES = {
     },
     "direcciones/provincias_es.csv": {
         "key": "province_code",
-        "sources": [{"file": "provincias_timezone.csv", "columns": ["timezone"]}],
+        "sources": [
+            {"file": "provincias_timezone.csv", "columns": ["timezone"]},
+            {"file": "provincias_capital_coords.csv", "columns": ["latitude", "longitude"]},
+        ],
         "order": [
             "province_code", "province", "ccaa_code", "iso_code", "plate_code", "plate_code_old", "phone_prefixes",
             "timezone", "latitude", "longitude",

@@ -14,6 +14,7 @@ REPO = Path(__file__).resolve().parents[2]
 MUNICIPALITIES = REPO / "direcciones" / "municipios_es.csv"
 ENTITIES_OUTPUT = REPO / "direcciones" / "entidades_poblacion_es.csv"
 CAPITALS_OUTPUT = REPO / "build" / "municipios_capital_coords.csv"
+PROVINCES_OUTPUT = REPO / "build" / "provincias_capital_coords.csv"
 USER_AGENT = "datos-referencia (https://github.com/cristianemek/datos-referencia)"
 NOMENCLATOR_URL = "https://www.ine.es/nomen_files/nacional/es/Nacional_{year}.zip"
 NOMENCLATOR_MEMBER = "Nomdef{year}_sex.txt"
@@ -21,7 +22,9 @@ IGN_ITEMS_URL = "https://api-features.ign.es/collections/{collection}/items?f=js
 IGN_PAGE_SIZE = 1000
 ENTITIES_HEADER = ["code", "municipality_code", "type", "name", "population", "latitude", "longitude", "altitude"]
 CAPITALS_HEADER = ["municipality_code", "latitude", "longitude", "altitude"]
+PROVINCES_HEADER = ["province_code", "latitude", "longitude"]
 DISSEMINATED_PREFIX = "*DISEMINADO* "
+PROVINCIAL_CAPITAL_FLAG = 2
 MUNICIPAL_CAPITAL_FLAG = 3
 COORDINATE_DECIMALS = 6
 
@@ -164,6 +167,37 @@ def capital_points(features: list[dict], municipalities: set) -> tuple[dict, dic
     return unique, ambiguous
 
 
+def provincial_capitals(features: list[dict], capitals: dict, municipalities: set) -> dict:
+    found = defaultdict(list)
+
+    for feature in features:
+        flags = feature.get("capital") or ""
+
+        if len(flags) > MUNICIPAL_CAPITAL_FLAG and flags[PROVINCIAL_CAPITAL_FLAG] == "1" and flags[MUNICIPAL_CAPITAL_FLAG] == "1":
+            found[feature["codine"][:2]].append(feature)
+
+    repeated = sorted(province for province, items in found.items() if len(items) > 1)
+
+    if repeated:
+        raise ValueError(f"Provincias con varias capitales en el IGN: {repeated}")
+
+    result = {province: point(items[0]) for province, items in found.items()}
+    per_province = Counter(code[:2] for code in municipalities)
+
+    for province, count in per_province.items():
+        only = next(code for code in municipalities if code[:2] == province) if count == 1 else None
+
+        if province not in result and only in capitals:
+            result[province] = capitals[only]
+
+    missing = sorted(set(per_province) - set(result))
+
+    if missing:
+        raise ValueError(f"Provincias sin capital en el IGN: {missing}")
+
+    return result
+
+
 def read_municipalities(path: Path) -> set:
     with path.open(encoding="utf-8", newline="") as handle:
         return {row["municipality_code"] for row in csv.DictReader(handle)}
@@ -184,6 +218,7 @@ def main() -> None:
     parser.add_argument("--municipalities", type=Path, default=MUNICIPALITIES)
     parser.add_argument("--output", type=Path, default=ENTITIES_OUTPUT)
     parser.add_argument("--capitals-output", type=Path, default=CAPITALS_OUTPUT)
+    parser.add_argument("--provinces-output", type=Path, default=PROVINCES_OUTPUT)
     args = parser.parse_args()
 
     municipalities = read_municipalities(args.municipalities)
@@ -205,13 +240,19 @@ def main() -> None:
 
     capitals, ambiguous = capital_points(nuclei + others, municipalities)
     capital_rows = [{"municipality_code": code, **capitals[code]} for code in sorted(capitals)]
+    provinces = provincial_capitals(nuclei + others, capitals, municipalities)
+    province_rows = [
+        {"province_code": code, "latitude": provinces[code]["latitude"], "longitude": provinces[code]["longitude"]}
+        for code in sorted(provinces)
+    ]
     write_csv(args.output, ENTITIES_HEADER, rows)
     write_csv(args.capitals_output, CAPITALS_HEADER, capital_rows)
+    write_csv(args.provinces_output, PROVINCES_HEADER, province_rows)
 
     located = sum(1 for row in rows if row["latitude"])
     print(f"Entidades: {len(rows)} ({dict(Counter(row['type'] for row in rows))}), {located} con coordenadas del IGN")
     print(f"Núcleos IGN sin unidad en el nomenclátor: {sorted(set(points) - {row['code'] for row in rows})}")
-    print(f"Capitales: {len(capital_rows)} de {len(municipalities)} municipios")
+    print(f"Capitales: {len(capital_rows)} de {len(municipalities)} municipios; {len(province_rows)} capitales de provincia")
     print(f"Capitales ambiguas descartadas: {sorted(ambiguous)}")
     print(f"Municipios sin capital en el IGN: {sorted(municipalities - set(capitals) - set(ambiguous))}")
 
