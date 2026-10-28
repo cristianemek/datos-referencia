@@ -1,6 +1,42 @@
 # Datos de referencia
 
-Datos de España en CSV (UTF-8, separados por comas y con cabecera) para reutilizar en cualquier proyecto. Los códigos van como texto para conservar los ceros a la izquierda.
+Datos de España en CSV para reutilizar en cualquier proyecto: bancos, territorio, calendario, catálogos oficiales, facturación, fiscalidad, lugares y telecomunicaciones. Todo sale de fuentes oficiales, citadas en [FUENTES.md](FUENTES.md), y se regenera con los scripts del repo.
+
+## Formato
+
+- UTF-8 sin BOM, separado por comas, saltos de línea LF y una fila de cabecera con nombres en inglés (`snake_case`).
+- Los códigos son texto: hay que leerlos como cadenas para no perder los ceros a la izquierda (`01001`, `0049`).
+- Fechas en ISO 8601 (`2026-10-12`), decimales con punto y booleanos como `1` y `0`.
+- Si una celda tiene varios valores, van separados por `|`.
+- Coordenadas en grados decimales WGS84.
+- Logos, banderas y escudos van incrustados como SVG en una sola línea. Algunos pasan de 128 KB, el límite por defecto del módulo `csv` de Python (ver [FUENTES.md](FUENTES.md#nota-sobre-python)).
+
+## Uso
+
+Python:
+
+```python
+import csv
+
+with open("direcciones/municipios_es.csv", encoding="utf-8", newline="") as f:
+    municipios = {fila["municipality_code"]: fila for fila in csv.DictReader(f)}
+
+print(municipios["28079"]["municipality"])  # Madrid
+```
+
+Con pandas, `pd.read_csv(ruta, dtype=str)` mantiene los códigos como texto.
+
+PHP:
+
+```php
+$fichero = fopen('bancos/bancos_es.csv', 'r');
+$cabecera = fgetcsv($fichero);
+while (($fila = fgetcsv($fichero)) !== false) {
+    $banco = array_combine($cabecera, $fila);
+}
+```
+
+Las tablas se relacionan por sus códigos: `municipality_code`, `province_code` y `ccaa_code` son los del INE, y los países usan ISO 3166-1 alfa-2.
 
 ## [bancos/](bancos/)
 
@@ -99,16 +135,45 @@ Datos de España en CSV (UTF-8, separados por comas y con cabecera) para reutili
 - [`operadores_telecom_es.csv`](telecomunicaciones/operadores_telecom_es.csv): operadores de telecomunicaciones registrados en la CNMC (solo personas jurídicas).
 - [`mnc_es.csv`](telecomunicaciones/mnc_es.csv): códigos de red móvil (MCC y MNC).
 
-## Actualización
+## Cómo funciona
 
-Cada CSV se regenera desde su fuente con los scripts de [`scripts/`](scripts/), que se ejecutan desde la raíz del repo y sin argumentos:
+Cada CSV sale de un script de [`scripts/`](scripts/) que descarga su fuente oficial, la procesa y la valida. Si el formato de la fuente cambia o algo no cuadra (códigos que no existen, totales que no suman, filas repetidas…), el script falla con un mensaje y no escribe nada, para que nunca entre un dato dudoso sin revisarlo.
 
-- [`scripts/festivos_boe.py`](scripts/festivos_boe.py) y [`scripts/festivos_locales/`](scripts/festivos_locales/): festivos nacionales, autonómicos y locales. Dos acciones de GitHub los ejecutan periódicamente ([BOE](.github/workflows/festivos.yml), los lunes de octubre a enero; [fiestas locales](.github/workflows/festivos_locales.yml), los días 1 y 15 de cada mes) y abren un PR cuando hay datos nuevos. Los portales de Asturias, Castilla y León y Galicia no responden desde GitHub, así que sus fiestas locales hay que actualizarlas en local: `python3 scripts/festivos_locales/festivos_locales.py --ccaa 03,07,12`.
-- [`scripts/redsys_codigos.py`](scripts/redsys_codigos.py), [`scripts/bancos/`](scripts/bancos/), [`scripts/poblacion/`](scripts/poblacion/), [`scripts/territorio/`](scripts/territorio/), [`scripts/banderas/`](scripts/banderas/), [`scripts/divisas/`](scripts/divisas/), [`scripts/rrhh/`](scripts/rrhh/), [`scripts/empresa/`](scripts/empresa/), [`scripts/comercio_exterior/`](scripts/comercio_exterior/), [`scripts/facturacion/`](scripts/facturacion/), [`scripts/fiscal/`](scripts/fiscal/), [`scripts/lugares/`](scripts/lugares/) y [`scripts/telecomunicaciones/`](scripts/telecomunicaciones/): el resto de los datos.
-- Los scripts que añaden columnas a un CSV existente las dejan en `build/`; [`scripts/unir_columnas.py`](scripts/unir_columnas.py) las une después.
-- [`scripts/actualizar_datos.py`](scripts/actualizar_datos.py) ejecuta todos los anteriores y une las columnas. Una [acción de GitHub](.github/workflows/actualizacion.yml) lo hace el día 3 de cada mes y abre un PR con los cambios y un informe (pasos que fallan y entidades nuevas del Banco de España).
-- [`scripts/vigilancia_normas.py`](scripts/vigilancia_normas.py) comprueba que los tipos impositivos, el canon digital, las menciones de factura y los demás datos tomados de normas siguen coincidiendo con el BOE. Una [acción de GitHub](.github/workflows/vigilancia_normas.yml) lo ejecuta los lunes y abre un issue cuando algo cambia, por ejemplo un tipo nuevo del IGIC.
+- **Ficheros nuevos:** cada script escribe directamente su CSV.
+- **Columnas de ficheros existentes:** los scripts que amplían un CSV, como los que añaden la superficie de Eurostat a `municipios_es.csv`, dejan esas columnas en `build/` (fuera del repo), y [`scripts/unir_columnas.py`](scripts/unir_columnas.py) las une por su código con un orden de columnas fijo.
+- **Datos tomados de normas:** los tipos de IVA, el canon digital o las menciones de factura van escritos en el script junto con la frase literal de la norma que los respalda, y el script comprueba esa frase contra el texto vigente del BOE.
 
-Necesitan Python 3.10 o posterior con las librerías de [`scripts/requirements.txt`](scripts/requirements.txt), `pdftotext` (poppler-utils) y, para las banderas, Node.js (`npm ci` en `scripts/banderas/`).
+### Acciones de GitHub
 
-El origen de cada dato está en [FUENTES.md](FUENTES.md) y las licencias de terceros, en [`LICENSES/`](LICENSES/).
+| Acción | Cuándo | Qué hace |
+|---|---|---|
+| [Festivos del BOE](.github/workflows/festivos.yml) | Lunes de octubre a enero | Busca la resolución de fiestas laborales del año siguiente y abre un PR. |
+| [Fiestas locales](.github/workflows/festivos_locales.yml) | Días 1 y 15 de cada mes | Descarga las fiestas locales de los portales autonómicos y abre un PR. |
+| [Actualización de los datos](.github/workflows/actualizacion.yml) | Día 3 de cada mes | Ejecuta [`scripts/actualizar_datos.py`](scripts/actualizar_datos.py), que regenera todos los datos y une las columnas, y abre un PR con un informe de los pasos que fallan, las entidades nuevas del Banco de España y los ficheros cambiados. |
+| [Vigilancia de normas](.github/workflows/vigilancia_normas.yml) | Lunes | Ejecuta [`scripts/vigilancia_normas.py`](scripts/vigilancia_normas.py) y abre un issue si el BOE cambia algo de lo que dependen los datos, por ejemplo un tipo nuevo del IGIC. |
+
+Los PR no se fusionan solos: hay que revisar el diff. Algunas fuentes no responden desde GitHub (los portales de fiestas locales de Asturias, Castilla y León y Galicia, y los boletines de Ceuta); en ese caso se conservan sus datos anteriores y el PR lo indica.
+
+### Ejecutar en local
+
+Hace falta Python 3.10 o posterior con las librerías de [`scripts/requirements.txt`](scripts/requirements.txt), `pdftotext` (poppler-utils) y, para las banderas, Node.js. Desde la raíz del repo:
+
+```sh
+pip install -r scripts/requirements.txt
+npm ci --prefix scripts/banderas
+python3 scripts/actualizar_datos.py        # todo
+python3 scripts/territorio/zonas_horarias.py  # o un script suelto
+python3 scripts/unir_columnas.py           # tras un script que deja columnas en build/
+python3 scripts/festivos_locales/festivos_locales.py --ccaa 03,07,12
+```
+
+Los scripts no necesitan argumentos.
+
+## Licencia
+
+- Los scripts tienen licencia [MIT](LICENSE).
+- La selección, la limpieza y las correcciones de los datos tienen licencia [CC BY 4.0](LICENSES/CC-BY-4.0.txt): se pueden reutilizar citando este repositorio.
+- Los datos de terceros conservan la licencia de su fuente, indicada en [FUENTES.md](FUENTES.md); las que exigen incluir su texto están en [`LICENSES/`](LICENSES/). Hay que tener en cuenta sobre todo:
+  - las banderas y los escudos, que llevan la licencia de cada fichero de Wikimedia Commons;
+  - las fiestas locales de Galicia (CC BY-SA 4.0) y de la Región de Murcia (no comercial en 2026);
+  - los datos del Banco de España, que se pueden reproducir sin alterarlos y citando la fuente.
