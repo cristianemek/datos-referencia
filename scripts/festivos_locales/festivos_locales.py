@@ -4,6 +4,7 @@ import datetime
 import io
 import sys
 from collections import Counter, defaultdict
+from pathlib import Path
 
 from adaptadores_ine import cataluna, euskadi, galicia, madrid, murcia
 from adaptadores_mixtos import aragon, castilla_leon
@@ -126,13 +127,31 @@ def report(year: int, label: str, rows: list[Holiday], context: Context, detail:
         print(f"    · … y {len(context.notes) - len(shown)} avisos más (usa --detalle)")
 
 
-def parse_arguments() -> tuple[list[int], set[str], bool]:
+def write_report(path: Path, results: dict, errors: list[str], missing: list[int]) -> None:
+    lines = [
+        "El script `scripts/festivos_locales/festivos_locales.py` ha descargado las fiestas locales de los portales de datos abiertos autonómicos y ha actualizado `calendario/festivos_locales_es.csv`.",
+        "",
+        "Revisa el diff y el registro de la acción (cruces por nombre y filas descartadas) antes de fusionar.",
+        "",
+        "| Año | Comunidad | Filas |",
+        "|---|---|---|",
+        *[f"| {year} | {ccaa} | {len(rows)} |" for (year, ccaa), rows in sorted(results.items())],
+    ]
+    if errors:
+        lines += ["", "## Fuentes que no han respondido", "", "Se conservan sus filas anteriores:", "", *[f"- {error}" for error in errors]]
+    if missing:
+        lines += ["", f"Todavía sin publicar en ninguna fuente: {', '.join(map(str, missing))}."]
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def parse_arguments() -> tuple[list[int], set[str], bool, Path | None]:
     today = datetime.date.today()
     parser = Parser(description="Actualiza calendario/festivos_locales_es.csv con las fiestas locales de los portales de datos abiertos autonómicos.")
     parser.add_argument("years", nargs="*", type=int, help="años (por defecto, el actual y el siguiente)")
     parser.add_argument("--ccaa", help="códigos de comunidad separados por comas (por defecto, todas las que tienen adaptador)")
     parser.add_argument("--excluir", help="códigos de comunidad separados por comas que no se actualizan")
     parser.add_argument("--detalle", action="store_true", help="muestra todos los avisos de cruce y validación")
+    parser.add_argument("--informe", type=Path, help="fichero Markdown donde resumir lo actualizado y las fuentes que fallan")
     args = parser.parse_args()
 
     available = {code for code, _, _ in ADAPTERS}
@@ -143,11 +162,11 @@ def parse_arguments() -> tuple[list[int], set[str], bool]:
     if unknown:
         parser.error(f"no hay adaptador para las comunidades {sorted(unknown)}")
 
-    return args.years or [today.year, today.year + 1], wanted, args.detalle
+    return args.years or [today.year, today.year + 1], wanted, args.detalle, args.informe
 
 
 def main() -> None:
-    years, wanted, detail = parse_arguments()
+    years, wanted, detail, report_path = parse_arguments()
     reference = Reference()
     results, errors = {}, []
 
@@ -171,19 +190,22 @@ def main() -> None:
             results[(year, ccaa)] = validate(rows, context)
             report(year, label, results[(year, ccaa)], context, detail)
 
-    if errors:
-        print("\nNo se ha actualizado el CSV porque algunas fuentes han fallado:", file=sys.stderr)
-
-        for error in errors:
-            print(f"  - {error}", file=sys.stderr)
-
-        sys.exit(1)
-
     if results:
         total = write(results)
         print(f"\n{sum(len(rows) for rows in results.values())} filas actualizadas ({total} en total en {OUTPUT.relative_to(REPO)})")
 
     missing = [year for year in years if not any(key[0] == year for key in results)]
+
+    if report_path:
+        write_report(report_path, results, errors, missing)
+
+    if errors:
+        print("\nAlgunas fuentes han fallado; se conservan sus filas anteriores:", file=sys.stderr)
+
+        for error in errors:
+            print(f"  - {error}", file=sys.stderr)
+
+        sys.exit(3)
 
     if missing:
         print(f"Las fiestas locales de {', '.join(map(str, missing))} todavía no están publicadas en ninguna fuente.")

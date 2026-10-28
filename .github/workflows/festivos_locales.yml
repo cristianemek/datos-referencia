@@ -16,6 +16,7 @@ permissions:
 jobs:
   festivos-locales:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v7
 
@@ -26,19 +27,16 @@ jobs:
       - name: Descargar las fiestas locales y actualizar el CSV
         run: |
           set +e
-          python3 scripts/festivos_locales/festivos_locales.py ${{ inputs.year }}
+          python3 scripts/festivos_locales/festivos_locales.py ${{ inputs.year }} --informe informe.md
           status=$?
           set -e
-          if [ "$status" -ne 0 ] && [ "$status" -ne 2 ]; then exit "$status"; fi
+          if [ "$status" -ne 0 ] && [ "$status" -ne 2 ] && [ "$status" -ne 3 ]; then exit "$status"; fi
 
       - uses: peter-evans/create-pull-request@v8
         with:
           branch: festivos-locales
           commit-message: "feat: fiestas locales actualizadas"
           title: Fiestas locales actualizadas
-          body: |
-            El script `scripts/festivos_locales/festivos_locales.py` ha descargado las fiestas locales de los portales de datos abiertos autonómicos y ha actualizado `calendario/festivos_locales_es.csv`.
-
-            Revisa el diff y el registro de la acción (cruces por nombre y filas descartadas) antes de fusionar.
+          body-path: informe.md
           add-paths: calendario/festivos_locales_es.csv
           delete-branch: true
