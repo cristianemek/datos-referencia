@@ -1,0 +1,68 @@
+name: Actualización de los datos
+
+on:
+  schedule:
+    - cron: "0 5 3 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+          python3 -m pip install -q -r scripts/requirements.txt
+          npm ci --prefix scripts/banderas
+
+      - name: Regenerar los datos desde sus fuentes
+        id: actualizar
+        run: |
+          set +e
+          python3 scripts/actualizar_datos.py --informe informe.md
+          status=$?
+          set -e
+          if [ "$status" -ne 0 ]; then echo "fallos=true" >> "$GITHUB_OUTPUT"; fi
+
+      - uses: peter-evans/create-pull-request@v8
+        id: pr
+        with:
+          branch: actualizacion-datos
+          commit-message: "feat: datos actualizados desde sus fuentes"
+          title: Actualización de los datos
+          body-path: informe.md
+          add-paths: |
+            bancos/*.csv
+            catalogos/*.csv
+            comercio_exterior/*.csv
+            direcciones/*.csv
+            facturacion/*.csv
+            lugares/*.csv
+            pagos/*.csv
+            telecomunicaciones/*.csv
+          delete-branch: true
+
+      - name: Avisar de los fallos si no hay PR
+        if: steps.actualizar.outputs.fallos == 'true' && steps.pr.outputs.pull-request-number == ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TITULO: Actualización de los datos con errores
+        run: |
+          numero=$(gh issue list --state open --search "in:title \"$TITULO\"" --json number,title --jq ".[] | select(.title == \"$TITULO\") | .number" | head -n 1)
+          if [ -n "$numero" ]; then
+            gh issue comment "$numero" --body-file informe.md
+          else
+            gh issue create --title "$TITULO" --body-file informe.md
+          fi

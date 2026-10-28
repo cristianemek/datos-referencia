@@ -55,8 +55,8 @@ def check_zone_table(version: str, table: list[str]) -> None:
             spain[fields[2]] = fields[3] if len(fields) > 3 else ""
     fail_if([] if spain == ES_ZONES else [f"{spain}"], f"Zonas de España inesperadas en zone1970.tab {version}")
     system = system_tzdata_version()
-    fail_if([] if system == version else [f"sistema {system}, IANA {version}"],
-            "La versión de tzdata del sistema (zoneinfo) no coincide con la publicada por IANA")
+    if system != version:
+        print(f"Aviso: tzdata del sistema {system}, IANA {version}; los cambios de hora se contrastan con las fechas oficiales")
 
 
 def system_tzdata_version() -> str:

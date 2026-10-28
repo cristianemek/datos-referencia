@@ -242,11 +242,17 @@ def main() -> None:
 
     csv.field_size_limit(FIELD_SIZE_LIMIT)
 
-    try:
-        for target in targets or MERGES:
+    failed = []
+
+    for target in targets or MERGES:
+        try:
             print(merge_target(target, MERGES[target]))
-    except MergeError as error:
-        sys.exit(f"Error: {error}")
+        except MergeError as error:
+            print(f"Error en {target}: {error}", file=sys.stderr)
+            failed.append(target)
+
+    if failed:
+        sys.exit(1)
 
 
 if __name__ == "__main__":
