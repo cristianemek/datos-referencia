@@ -1,0 +1,178 @@
+list,code,description_es,description_en
+tax_type,01,IVA: Impuesto sobre el valor añadido,Value-Added Tax
+tax_type,02,"IPSI: Impuesto sobre la producción, los servicios y la importación","Taxes on production, services and imports in Ceuta and Melilla"
+tax_type,03,IGIC: Impuesto general indirecto de Canarias,IGIC:Canaries General Indirect Tax
+tax_type,04,IRPF: Impuesto sobre la Renta de las personas físicas,IRPF:Personal Income Tax
+tax_type,05,Otro,Other
+tax_type,06,ITPAJD: Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados,ITPAJD:Tax on wealth transfers and stamp duty
+tax_type,07,IE: Impuestos especiales,IE: Excise duties and consumption taxes
+tax_type,08,Ra: Renta aduanas,Ra: Customs duties
+tax_type,09,IGTECM: Impuesto general sobre el tráfico de empresas que se aplica en Ceuta y Melilla,IGTECM: Sales tax in Ceuta and Melilla
+tax_type,10,IECDPCAC: Impuesto especial sobre los combustibles derivados del petróleo en la Comunidad Autonoma Canaria,IECDPCAC: Excise duties on oil derivates in Canaries
+tax_type,11,IIIMAB: Impuesto sobre las instalaciones que inciden sobre el medio ambiente en las Baleares,IIIMAB: Tax on premises that affect the environment in the Balearic Islands
+tax_type,12,"ICIO: Impuesto sobre las construcciones, instalaciones y obras","ICIO: Tax on construction, installation and works"
+tax_type,13,IMVDN: Impuesto municipal sobre las viviendas desocupadas en Navarra,IMVDN: Local tax on unoccupied homes in Navarre
+tax_type,14,IMSN: Impuesto municipal sobre solares en Navarra,IMSN: Local tax on building plots in Navarre
+tax_type,15,IMGSN: Impuesto municipal sobre gastos suntuarios en Navarra,IMGSN: Local sumptuary tax in Navarre
+tax_type,16,IMPN: Impuesto municipal sobre publicidad en Navarra,IMPN: Local tax on advertising in Navarre
+tax_type,17,REIVA: Régimen especial de IVA para agencias de viajes,REIVA: Special VAT for travel agencies
+tax_type,18,REIGIC: Régimen especial de IGIC: para agencias de viajes,REIGIC: Special IGIC: for travel agencies
+tax_type,19,REIPSI: Régimen especial de IPSI para agencias de viajes,REIPSI: Special IPSI for travel agencies
+tax_type,20,IPS: Impuestos sobre las primas de seguros,IPS: Insurance premiums Tax
+tax_type,21,RLEA: Recargo destinado a financiar las funciones de liquidación de entidades aseguradoras,SWUA: Surcharge for Winding Up Activity
+tax_type,22,IVPEE: Impuesto sobre el valor de la producción de la energía eléctrica,IVPEE: Tax on the value of electricity generation
+tax_type,23,Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica,Tax on the production of spent nuclear fuel and radioactive waste from the generation of nuclear electric power
+tax_type,24,Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radioactivos en instalaciones centralizadas,Tax on the storage of spent nuclear energy and radioactive waste in centralised facilities
+tax_type,25,IDEC: Impuesto sobre los Depósitos en las Entidades de Crédito,IDEC: Tax on bank deposits
+tax_type,26,Impuesto sobre las labores del tabaco en la Comunidad Autónoma de Canarias,Excise duty applied to manufactured tobacco in Canaries
+tax_type,27,IGFEI: Impuesto sobre los Gases Fluorados de Efecto Invernadero,IGFEI: Tax on Fluorinated Greenhouse Gases
+tax_type,28,IRNR: Impuesto sobre la Renta de No Residentes,IRNR: Non-resident Income Tax
+tax_type,29,Impuesto sobre Sociedades,Corporation Tax
+special_taxable_event,01,Operación sujeta y exenta,Taxable (transaction) and exempt from tax
+special_taxable_event,02,Operación no sujeta,Non-taxable transaction
+payment_means,01,Al contado,In cash
+payment_means,02,Recibo Domiciliado,Direct debit
+payment_means,03,Recibo,Receipt
+payment_means,04,Transferencia,Credit transfer
+payment_means,05,Letra Aceptada,Accepted bill of exchange
+payment_means,06,Crédito Documentario,Documentary credit
+payment_means,07,Contrato Adjudicación,Contract award
+payment_means,08,Letra de cambio,Bill of exchange
+payment_means,09,Pagaré a la Orden,Transferable promissory note
+payment_means,10,Pagaré No a la Orden,Non transferable promissory note
+payment_means,11,Cheque,Cheque
+payment_means,12,Reposición,Open account reimbursement
+payment_means,13,Especiales,Special payment
+payment_means,14,Compensación,Set-off by reciprocal credits
+payment_means,15,Giro postal,Payment by postgiro
+payment_means,16,Cheque conformado,Certified cheque
+payment_means,17,Cheque bancario,Banker’s draft
+payment_means,18,Pago contra reembolso,Cash on delivery
+payment_means,19,Pago mediante tarjeta,Payment by card
+invoice_document_type,FC,Factura Completa.,Complete Invoice.
+invoice_document_type,FA,Factura abreviada.,Abbreviated.
+invoice_document_type,AF,AutoFactura.,Self invoice.
+invoice_class,OO,Original.,Original Invoice.
+invoice_class,OR,Original rectificativa,Corrective.
+invoice_class,OC,Original recapitulativa.,Summary.
+invoice_class,CO,Copia original.,Copy of the Original.
+invoice_class,CR,Copia rectificativa.,Copy of the Corrective.
+invoice_class,CC,Copia recapitulativa.,Copy of the Summary.
+correction_reason,01,Número de la factura,Invoice number
+correction_reason,02,Serie de la factura,Invoice serial number
+correction_reason,03,Fecha expedición,Issue date
+correction_reason,04,Nombre y apellidos/Razón social - Emisor,Name and surnames/Corporate name – Issuer (Sender)
+correction_reason,05,Nombre y apellidos/Razón social - Receptor,Name and surnames/Corporate name - Receiver
+correction_reason,06,Identificación fiscal Emisor/Obligado,Issuer’s Tax Identification Number
+correction_reason,07,Identificación fiscal Receptor,Receiver’s Tax Identification Number
+correction_reason,08,Domicilio Emisor/Obligado,Issuer’s address
+correction_reason,09,Domicilio Receptor,Receiver’s address
+correction_reason,10,Detalle Operación,Item line
+correction_reason,11,Porcentaje impositivo a aplicar,Applicable Tax Rate
+correction_reason,12,Cuota tributaria a aplicar,Applicable Tax Amount
+correction_reason,13,Fecha/Periodo a aplicar,Applicable Date/Period
+correction_reason,14,Clase de factura,Invoice Class
+correction_reason,15,Literales legales,Legal literals
+correction_reason,16,Base imponible,Taxable Base
+correction_reason,80,Cálculo de cuotas repercutidas,Calculation of tax outputs
+correction_reason,81,Cálculo de cuotas retenidas,Calculation of tax inputs
+correction_reason,82,Base imponible modificada por devolución de envases/embalajes,Taxable Base modified due to return of packages and packaging materials
+correction_reason,83,Base imponible modificada por descuentos y bonificaciones,Taxable Base modified due to discounts and rebates
+correction_reason,84,"Base imponible modificada por resolución firme, judicial o administrativa",Taxable Base modified due to firm court ruling or administrative decision
+correction_reason,85,Base imponible modificada cuotas repercutidas no satisfechas. Auto de declaración de concurso,Taxable Base modified due to unpaid outputs where there is a judgement opening insolvency proceedings
+correction_method,01,Rectificación íntegra,Full items
+correction_method,02,Rectificación por diferencias,Corrected items only
+correction_method,03,Rectificación por descuento por volumen de operaciones durante un periodo,Bulk deal in a given period
+correction_method,04,Autorizadas por la Agencia Tributaria,Authorized by the Tax Agency
+unit_of_measure,01,Unidades,Units
+unit_of_measure,02,Horas-HUR,Hours-HUR
+unit_of_measure,03,Kilogramos-KGM,Kilograms-KGM
+unit_of_measure,04,Litros-LTR,Liters-LTR
+unit_of_measure,05,Otros,Other
+unit_of_measure,06,Cajas-BX,Boxes-BX
+unit_of_measure,07,Bandejas-DS,"Trays, one layer no cover, plastic-DS"
+unit_of_measure,08,Barriles-BA,Barrels-BA
+unit_of_measure,09,Bidones-JY,"Jerricans, cylindrical-JY"
+unit_of_measure,10,Bolsas-BG,Bags-BG
+unit_of_measure,11,Bombonas-CO,"Carboys, non-protected-CO"
+unit_of_measure,12,Botellas-BO,"Bottles, non-protected, cylindrical-BO"
+unit_of_measure,13,Botes-CI,Canisters-CI
+unit_of_measure,14,Tetra Briks,Tetra Briks
+unit_of_measure,15,Centilitros-CLT,Centiliters-CLT
+unit_of_measure,16,Centímetros-CMT,Centimeters-CMT
+unit_of_measure,17,Cubos-BI,Bins-BI
+unit_of_measure,18,Docenas,Dozens
+unit_of_measure,19,Estuches-CS,Cases-CS
+unit_of_measure,20,Garrafas-DJ,"Demijohns, non-protected-DJ"
+unit_of_measure,21,Gramos-GRM,Grams-GRM
+unit_of_measure,22,Kilómetros-KMT,Kilometers-KMT
+unit_of_measure,23,Latas-CA,"Cans, rectangular-CA"
+unit_of_measure,24,Manojos-BH,Bunches-BH
+unit_of_measure,25,Metros-MTR,Meters-MTR
+unit_of_measure,26,Milímetros-MMT,Milimeters-MMT
+unit_of_measure,27,6-Packs,6-Packs
+unit_of_measure,28,Paquetes-PK,Packages-PK
+unit_of_measure,29,Raciones,Portions
+unit_of_measure,30,Rollos-RO,Rolls-RO
+unit_of_measure,31,Sobres-EN,Envelopes-EN
+unit_of_measure,32,Tarrinas-TB,Tubs-TB
+unit_of_measure,33,Metro cúbico-MTQ,Cubic meter-MTQ
+unit_of_measure,34,Segundo-SEC,Second-SEC
+unit_of_measure,35,Vatio-WTT,Watt-WTT
+unit_of_measure,36,Kilovatio por hora-KWh,Kilowatt per hora-KWh
+invoice_issuer_type,EM,Proveedor (Emisor).,Seller (Sender).
+invoice_issuer_type,RE,Cliente (Receptor).,Buyer (Receiver).
+invoice_issuer_type,TE,Tercero.,Third Party.
+person_type,F,Persona física.,Individual.
+person_type,J,Persona jurídica.,Legal Entity.
+residence_type,E,Extranjero (Fuera Unión Europea).,Foreigner (outside the European Union).
+residence_type,R,Residente (en España).,Resident (in Spain).
+residence_type,U,Residente en la Unión Europea (excepto España).,European Union resident (except Spain).
+administrative_centre_role,01,Fiscal,Fiscal
+administrative_centre_role,02,Receptor,Receiver
+administrative_centre_role,03,Pagador,Payer
+administrative_centre_role,04,Comprador,Buyer
+administrative_centre_role,05,Cobrador,Collector
+administrative_centre_role,06,Vendedor,Seller
+administrative_centre_role,07,Receptor del pago,Payment receiver
+administrative_centre_role,08,Receptor del cobro,Collection receiver
+administrative_centre_role,09,Emisor,Issuer
+modality,I,Individual,Individual
+modality,L,Lote,Batch
+language,ar,Arabe,Arabic
+language,be,Bielorruso,Belarussian
+language,bg,Búlgaro,Bulgarian
+language,ca,Catalán,Catalan
+language,cs,Checo,Czech
+language,da,Danés,Danish
+language,de,Alemán,German
+language,el,Griego moderno,"Greek, Modern"
+language,en,Inglés,English
+language,es,Español,Spanish
+language,et,Estonio,Estonian
+language,eu,Vascuence,Basque
+language,fi,Finlandés,Finnish
+language,fr,Francés,French
+language,ga,Gaélico de Irlanda,Irish
+language,gl,Gallego,Galician
+language,hr,Croata,Croatian
+language,hu,Húngaro,Hungarian
+language,is,Islandés,Icelandic
+language,it,Italiano,Italian
+language,lv,Letón,Latvian
+language,lt,Lituano,Lithuanian
+language,mk,Macedonio,Macedonian
+language,mt,Maltés,Maltese
+language,nl,Neerlandés,Dutch
+language,no,Noruego,Norwegian
+language,pl,Polaco,Polish
+language,pt,Portugués,Portuguese
+language,ro,Rumano,Romanian
+language,ru,Ruso,Russian
+language,sk,Eslovaco,Slovak
+language,sl,Esloveno,Slovenian
+language,sq,Albanés,Albanian
+language,sr,Serbio,Serbian
+language,sv,Sueco,Swedish
+language,tr,Turco,Turkish
+language,uk,Ucraniano,Ukrainian

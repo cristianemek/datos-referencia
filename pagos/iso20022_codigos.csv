@@ -1,0 +1,1077 @@
+list,code,name,definition
+ExternalServiceLevel1Code,BKTR,BookTransaction,Payment through internal book transfer.
+ExternalServiceLevel1Code,EAPS,EastAfricanPaymentSystem,"Identifies payments executed under the East African Payment System (EAPS), the regional cross-border settlement scheme operated by EAC central banks."
+ExternalServiceLevel1Code,EOLO,EuroOneLegOut,Payment is executed following a Euro One-Leg Out Scheme.
+ExternalServiceLevel1Code,G001,TrackedCustomerCreditTransfer,Tracked Customer Credit Transfer.
+ExternalServiceLevel1Code,G002,TrackedStopAndRecall,Tracked Stop and Recall.
+ExternalServiceLevel1Code,G003,TrackedOutboundCorporateTransfer,Tracked Outbound Corporate Transfer.
+ExternalServiceLevel1Code,G004,TrackedFinancialInstitutionTransfer,Tracked Financial Institution Transfer.
+ExternalServiceLevel1Code,G005,TrackedInstantCustomerCreditTransfer,Tracked Instant Customer Credit Transfer.
+ExternalServiceLevel1Code,G006,TrackedCaseManagement,Specifies the service conditions applicable to a tracked exceptions and investigations case.
+ExternalServiceLevel1Code,G007,TrackedInboundCustomerCreditTransfer,Specifies the service level for a tracked inbound customer credit transfer.
+ExternalServiceLevel1Code,G009,TrackedLowValueCrossBorderCustomerCreditTransfer,Specifies the service level for a tracked low-value cross-border customer credit transfer.
+ExternalServiceLevel1Code,INST,InstantCreditTransferOrInstantDirectDebit,Used for payment initiation to identify that a Payment or Direct Debit initiation must be executed as an instant or real-time payment instrument.
+ExternalServiceLevel1Code,IRCA,IcelandicRulebookCouncilArea,Payment must be executed following the Icelandic Rulebook Council Area (IRCA) scheme.
+ExternalServiceLevel1Code,NOLO,NPCOneLegOut,Payment is executed following the NPC One-Leg Out Scheme.
+ExternalServiceLevel1Code,NPCA,NordicPaymentsCouncilAreaTransfer,Payments must be executed following the NPC Area Payment scheme.
+ExternalServiceLevel1Code,NUGP,NonurgentPriorityPayment,Payment must be executed as a non-urgent transaction with priority settlement.
+ExternalServiceLevel1Code,NURG,NonurgentPayment,"Payment must be executed as a non-urgent transaction, which is typically identified as an ACH or low value transaction."
+ExternalServiceLevel1Code,PRPT,EBAPriorityService,Transaction must be processed according to the EBA Priority Service.
+ExternalServiceLevel1Code,SD01,SwiftDigitalServiceSwiftLedger,Digital asset transactions must be processed according to the Swift Ledger rules.
+ExternalServiceLevel1Code,SDVA,SameDayValue,Payment must be executed with same day value to the creditor.
+ExternalServiceLevel1Code,SEPA,SingleEuroPaymentsArea,Payment must be executed following the Single Euro Payments Area scheme.
+ExternalServiceLevel1Code,SPLI,SplitPayment,"A split payment is a payment that is split into several payments of lower value, namely with the purpose to comply with maximum amount thresholds applicable to some domestic Payment Market Infrastructures or to reduce counterparty liquidity risk."
+ExternalServiceLevel1Code,SPSC,SwiftScheme,Transaction must be processed according to the Swift Scheme rulebook.
+ExternalServiceLevel1Code,SRTP,ServiceRequestToPay,Request to Pay (RTP) transaction refers to an RTP scheme (such as for example the SEPA Request to Pay (SRTP) scheme).
+ExternalServiceLevel1Code,SVAT,ScheckVerarbeitungAustria,Scheck Verarbeitung Austria (Cheque Processing).
+ExternalServiceLevel1Code,SVDE,DomesticChequeClearingAndSettlement,Payment execution following the cheque agreement and traveller cheque agreement of the German Banking Industry Committee (Die Deutsche Kreditwirtschaft - DK) and Deutsche Bundesbank – Scheck Verrechnung Deutschland
+ExternalServiceLevel1Code,URGP,UrgentPayment,"Payment must be executed as an urgent transaction cleared through a real-time gross settlement system, which is typically identified as a wire or high value transaction."
+ExternalServiceLevel1Code,URNS,UrgentPaymentNetSettlement,"Payment must be executed as an urgent transaction cleared through a real-time net settlement system, which is typically identified as a wire or high value transaction."
+ExternalServiceLevel1Code,WFSM,WaitForSettlement,Transaction is to be treated as an advice and only applied to the account of the creditor or next agent after settlement of the cover has been confirmed.
+ExternalLocalInstrument1Code,04,PreauthorisedDirectDebitDE,Transaction is related to a direct debit that is pre authorised (Abbuchungsauftrag).
+ExternalLocalInstrument1Code,05,NonPreauthorisedDirectDebitDE,Transaction is related to a direct debit that is not pre authorised (Einzugsermächtigung).
+ExternalLocalInstrument1Code,08,PreauthorisedDirectDebitOrdinaireNormalClearing4Day,Transaction is related to a direct debit that is pre authorised (Avis de Prélèvement).
+ExternalLocalInstrument1Code,19,BusinessToCustomerDirectDebit,Transaction is related to a business-to-customer direct debit (CSB19).
+ExternalLocalInstrument1Code,58,BusinessToBusinessDirectDebit,Transaction is related to a business-to-business direct debit (CSB58).
+ExternalLocalInstrument1Code,60,RecoveredBillofExchangeorPromissoryNote,LCR - Lettre de Change Relevé (Recovered Bill of Exchange) and BOR - Billet à Orde Relevé (Promissory Note)
+ExternalLocalInstrument1Code,82,NonPreauthorisedDirectDebitAT,Transaction is related to a direct debit that is not pre authorised (Einzugsermächtigung).
+ExternalLocalInstrument1Code,83,PreauthorisedDirectDebitAT,Transaction is related to a direct debit that is pre authorised (Abbuchungsauftrag).
+ExternalLocalInstrument1Code,85,PreauthorisedDirectDebitAccéléréAcceleratedClearing2DayOrdinaireNormalClearing4Day,Transaction is related to an urgent direct debit that is pre authorised (Avis de Prélèvement accéléré).
+ExternalLocalInstrument1Code,89,PreauthorisedDirectDebitVérifiéVerifiedClearing,Transaction is related to an urgent direct debit that is pre authorised (Avis de Prélèvement vérifié).
+ExternalLocalInstrument1Code,ACCEPT,PaymentViaAcceptgiroOwnedByCurrence,Transaction is related to payments via Acceptgiro owned by Currence.
+ExternalLocalInstrument1Code,ADD,AuthenticatedDirectDebit,Transaction is authenticated direct debit for domestic use.
+ExternalLocalInstrument1Code,ARC,AccountsReceivableCheck,Transaction is related to accounts receivable check.
+ExternalLocalInstrument1Code,ASTI,AncillarySystemTransferInitiation,Indicates that the payment is sent by an authorized third party on behalf of the participant.
+ExternalLocalInstrument1Code,B2B,SEPABusinessToBusinessDirectDebit,Transaction is related to SEPA business to business direct debit.
+ExternalLocalInstrument1Code,B2BAMIPM,SEPAB2BDirectDebitAMI,SEPA B2B Direct Debit AMI based on a paper mandate
+ExternalLocalInstrument1Code,BACP,BackupPayment,Indicates that the payment was initiated manually using a GUI (Graphical User Interface).
+ExternalLocalInstrument1Code,BPA,BatchPaymentsAruba,"Transaction is related to an Instant Credit Transfer under the rules of the Centrale Bank van Aruba, based on the EPC SCT Inst scheme, with a specific batch time-out delay."
+ExternalLocalInstrument1Code,BSE,PaperlessChequeCollection,Transaction is related to the German Paperless Cheque Collection procedure “Belegloser Scheckeinzug - BSE”
+ExternalLocalInstrument1Code,CARD,CardClearing,Transaction is related to card clearing.
+ExternalLocalInstrument1Code,CCD,CashConcentrationOrDisbursementCorporateCounterparty,Transaction is related to cash concentration or disbursement corporate counterparty.
+ExternalLocalInstrument1Code,CCI,CashConcentrationIntragroup,Transaction is related to an intra-group bank initiated cash management payment
+ExternalLocalInstrument1Code,CHN,TruncatedChecks,Transaction is related to truncated checks. Conversion of physical instrument to electonric form for transmission to the paying bank and where the original paper document does not continue in the clearing process..The original instrument rules are retained throughout the life of the instrument.
+ExternalLocalInstrument1Code,CIE,CustomerInitiatedEntry,A credit entry initiated by or on behalf of the holder of a consumer account
+ExternalLocalInstrument1Code,CLSCCPERX,CLSClearedFXForEurex,Transaction is related to the CLSClearedFX service for Eurex. Usage: The code is mandatory for all pacs.009 payments to this service.
+ExternalLocalInstrument1Code,CLSCCPLCH,CLSClearedFXForLCH,Transaction is related to the CLSClearedFX service for London Exchange Clearing House. Usage: The code is mandatory for all pacs.009 payments to this service.
+ExternalLocalInstrument1Code,COR1,SEPADirectDebit1DaySettlement,Optional shorter time cycle (D-1) for SEPA Core Direct Debit
+ExternalLocalInstrument1Code,CORAMIPM,SEPACoreDirectDebitAMI,SEPA Core Direct Debit AMI based on a paper mandate
+ExternalLocalInstrument1Code,CORE,SEPADirectDebitCore,Transaction is related to SEPA direct debit -core.
+ExternalLocalInstrument1Code,CPP,CashPerPost,Transaction is related to cash per post. Transaction to ultimate recipient having no bank account. Primary beneficiary is a postal service provider. Funds are paid out by cash. Additional necessary information for address and delivery options need to be attached.
+ExternalLocalInstrument1Code,CR1AMIPM,SEPACoreD1DirectDebitAMI,Optional shorter time cycle (D-1) for SEPA Core Direct Debit AMI based on a paper mandate
+ExternalLocalInstrument1Code,CTP,CreditTransferPreferred,Payment via Credit Transfer but Instant Credit Transfer is also possible.
+ExternalLocalInstrument1Code,CTX,CorporateTradeExchange,Transaction is related to corporate trade exchange.
+ExternalLocalInstrument1Code,DDFA,DirectDebitFixedAmount,SEPA Fixed Amount Direct Debit
+ExternalLocalInstrument1Code,DDMC,DirectDebitConfirmedElectronicMandate,Transaction is related to a direct debit instruction authorized under a confirmed electronic mandate.
+ExternalLocalInstrument1Code,DDMP,DirectDebitPaperMandateWithPaperAuthorization,"Transaction is related to a direct debit instruction authorized under a paper based mandate, supported by paper authorization signed by the debtor."
+ExternalLocalInstrument1Code,DDMU,DirectDebitUnconfirmedElectronicMandate,Transaction is related to a direct debit instruction authorized under an unconfirmed electronic mandate requiring confirmation by the debtor.
+ExternalLocalInstrument1Code,DDNR,CoreNoRefund,SEPA Core Direct Debit with ‘no refund’ option
+ExternalLocalInstrument1Code,DDT,DirectDebits,Transaction is related to direct debits.
+ExternalLocalInstrument1Code,FADAMIPM,SEPAFADirectDebitAMI,SEPA Fixed Amount Direct Debit AMI based on a paper mandate
+ExternalLocalInstrument1Code,FDP,ForwardDatedPayment,"Type of Payment used within the New Payments Architecture (UK). Forward-dated payments are one-off payments sent and received on a pre-arranged date, set-up by the customer in advance, for example, to pay a bill."
+ExternalLocalInstrument1Code,GST,TruncatedCreditTransfers,Transaction is related to truncated credit transfers. Conversion of physical instrument to electonric form for transmission to the paying bank and where the original paper document does not continue in the clearing process..The original instrument rules are retained throughout the life of the instrument. Transaction triggered by specific marked and populated paper slip. Reconciliation reference is secured by check digits supporting secure optical recognition. All other remittance information is truncated prior transmission.
+ExternalLocalInstrument1Code,IAT,InternationalACH,Transaction is related to international ACH.
+ExternalLocalInstrument1Code,ICMC,IncidentManagementCorrection,Transaction is related to an Incident Management Correction procedure based on the DD infrastructure.
+ExternalLocalInstrument1Code,IDEAL,PaymentsViaInternetOwnedByCurrence,Transaction is related to payments via internet owned by Currence.
+ExternalLocalInstrument1Code,IMD,ImmediatePayment,"Type of Payment used within the New Payments Architecture (UK). Immediate Payments are used for payments initiated by customers using channels such as internet, mobile or telephone banking, where the customer wants the payment to be effected immediately."
+ExternalLocalInstrument1Code,IMPS,IMPSClearing,Instant payment via the Indian IMPS clearing system.
+ExternalLocalInstrument1Code,IN,CrossBorderCustomerCreditTransfer,Transaction is related to cross border customer credit transfer.
+ExternalLocalInstrument1Code,INST,InstantCreditTransfer,Transaction is related to an Instant Credit Transfer. Use case example: SEPA Instant Credit Transfer (SCT Inst)
+ExternalLocalInstrument1Code,INSTIDEAL,PaymentsViaInternetOwnedByCurrenceUsingInstantCreditTransfer,Transaction is related to payments via internet owned by Currence which uses an Instant Credit Transfer.
+ExternalLocalInstrument1Code,INSTNT01,InstantCreditTransferNotTimeCritical,The transaction is related to a regular Credit Transfer and will be instantly processed under the Dutch AOS on top of the EPC SCT scheme.
+ExternalLocalInstrument1Code,INSTNT01IDEAL,PaymentsViaInternetOwnedByCurrenceUsingInstantCreditTransferNotTimeCritical,Transaction is related to payments via internet owned by Currence which uses a regular Credit Transfer and will be instantly processed under the Dutch AOS on top of the EPC SCT scheme.
+ExternalLocalInstrument1Code,INSTTC01,InstantCreditTransferTimeCritical,The transaction is related to an Instant Credit Transfer under the rules of the Dutch AOS on top of the EPC SCT Inst scheme.
+ExternalLocalInstrument1Code,INSTTC01IDEAL,PaymentsViaInternetOwnedByCurrenceUsingInstantCreditTransferTimeCritical,Transaction is related to payments via internet owned by Currence which uses an Instant Credit Transfer under the rules of the Dutch AOS on top of the EPC SCT Inst scheme.
+ExternalLocalInstrument1Code,IPA,InstantPaymentsAruba,"Transaction is related to an Instant Credit Transfer under the rules of the Centrale Bank van Aruba, based on the EPC SCT Inst scheme."
+ExternalLocalInstrument1Code,ISE,ImageBasedChequeCollection,Transaction is related to the German Image-based Cheque Collection Procedure “Imagegestützter Scheckeinzug - ISE”
+ExternalLocalInstrument1Code,ITP,InstantCreditTransferPreferred,Payment via Instant Credit Transfer but Credit Transfer is also possible.
+ExternalLocalInstrument1Code,IUPI,UPIClearing,Instant payment via the Indian UPI clearing system.
+ExternalLocalInstrument1Code,MANP,MandatedPayment,Indicates that the payment is sent by responsible Central Bank on behalf of the participant in case of contingency.
+ExternalLocalInstrument1Code,MDP,MultiDayPayment,Type of New Payments Architecture (NPA) payment. Payments are processed over a three-day cycle and available to customers early in the morning of Day 3.
+ExternalLocalInstrument1Code,NACH,NACHClearing,Payment via the Indian NACH clearing (net settlement).
+ExternalLocalInstrument1Code,NEFT,NEFTClearing,Payment via the Indian NEFT clearing (net settlement).
+ExternalLocalInstrument1Code,NLDO,DutchDomesticBulkPayment,Transaction is related to a Domestic payment initiated by PAIN.001
+ExternalLocalInstrument1Code,NLGOV,DirectDebitInitiatedByTheGovernmentWithSpecialConditions,Transaction is related to direct debit scheme owned by the NVB.
+ExternalLocalInstrument1Code,NLUP,DutchUrgentPayment,Transaction is related to a Domestic payment initiated by PAIN.001
+ExternalLocalInstrument1Code,ONCL,Overnight,Transaction is related to overnight clearing.
+ExternalLocalInstrument1Code,PERI,PaymentWithERI,Credit transfer contains Extended Remittance Information (ERI) as defined within the applicable scheme.
+ExternalLocalInstrument1Code,POP,PointOfPurchase,Transaction is related to point-of-purchase.
+ExternalLocalInstrument1Code,POS,PointOfSale,Transaction is related to point-of-sale.
+ExternalLocalInstrument1Code,PPD,PrearrangedPaymentOrDepositConsumerCounterparty,Transaction is related to prearranged payment or deposit consumer counterparty.
+ExternalLocalInstrument1Code,RCK,RepresentedCheckEntry,Transaction is related to re-presented check entry.
+ExternalLocalInstrument1Code,RDD,ReturnedDirectDebits,Transaction is related to returned direct debits.
+ExternalLocalInstrument1Code,RIBA,NonPreauthorisedDirectDebitRIBA,Transaction is related to a non-pre authorised collection (RIBA).
+ExternalLocalInstrument1Code,RIDO,PreauthorisedRevocableDirectDebit,Transaction is related to a direct debit that is pre authorised and revocable (RID Ordinario).
+ExternalLocalInstrument1Code,RIDV,PreauthorisedRevocableUrgentDirectDebit,Transaction is related to an urgent direct debit that is pre authorised and revocable (RID Veloce).
+ExternalLocalInstrument1Code,RTR,ReturnedCreditTransfers,Transaction is related to returned credit transfers.
+ExternalLocalInstrument1Code,SBTI,SettlementBankTransferInitiation,Indicates that the payment is submitted to move liquidity to the technical account - dedicated to real-time settlement in an external system (for example ancillary system) . The payment is processed in a separate payment queue besides the normal processing.
+ExternalLocalInstrument1Code,SCN,RevokedTruncatedChecks,Transaction is related to revoked truncated checks.
+ExternalLocalInstrument1Code,SDCL,SameDayClearedPayments,Transaction is related to New Zealand High Value Clearing System (HVCS) same day clearing payments.
+ExternalLocalInstrument1Code,SDD,RevokedDirectDebits,Transaction is related to revoked direct debits.
+ExternalLocalInstrument1Code,SDN,PaymentsViaStandaardDigitaleNota,Transaction is related to payments via a ‘Standaard Digitale Nota’ InvoiceAcceptgiro payment.
+ExternalLocalInstrument1Code,SGT,RevokedTruncatedCreditTransfers,Transaction is related to revoked truncated credit transfers.
+ExternalLocalInstrument1Code,SOP,StandingOrderPayment,"Standing Orders are regular payments of a fixed amount paid to the same recipient on a specified date, for example, to pay rent."
+ExternalLocalInstrument1Code,SRD,RevokedReturnedDirectDebits,Transaction is related to revoked returned direct debits.
+ExternalLocalInstrument1Code,SRT,RevokedReturnedCreditTransfers,Transaction is related to revoked returned credit transfers
+ExternalLocalInstrument1Code,STR,RevokedCreditTransfers,Transaction is related to revoked credit transfers
+ExternalLocalInstrument1Code,TEL,TelephoneInitiatedEntry,Transaction is related to telephone initiated entry.
+ExternalLocalInstrument1Code,TRF,CreditTransfers,Transaction is related to credit transfers
+ExternalLocalInstrument1Code,UDD,UnauthenticatedDirectDebit,Transaction is unauthenticated direct debit for domestic use.
+ExternalLocalInstrument1Code,WEB,InternetInitiatedEntry,Transaction is related to internet initiated entry.
+ExternalCategoryPurpose1Code,BONU,BonusPayment,Transaction is the payment of a bonus.
+ExternalCategoryPurpose1Code,CASH,CashManagementTransfer,Transaction is a general cash management instruction.
+ExternalCategoryPurpose1Code,CBLK,CardBulkClearing,"A service that is settling money for a bulk of card transactions, while referring to a specific transaction file or other information like terminal ID, card acceptor ID or other transaction details."
+ExternalCategoryPurpose1Code,CCRD,CreditCardPayment,Transaction is related to a payment of credit card.
+ExternalCategoryPurpose1Code,CDIS,AdditionalClaimDisposition,Additional disposition following a claim payment made through a claim payment system.
+ExternalCategoryPurpose1Code,CGWV,CarrierGuardedWholesaleValuables,Transaction is a payment towards a Party for the collection of cash by the Cash in Transit company.
+ExternalCategoryPurpose1Code,CIPC,CashInPreCredit,Transaction is a direct debit for a cash order of notes and/or coins.
+ExternalCategoryPurpose1Code,CONC,CashOutNotesCoins,Transaction is a direct debit for a cash order of notes and/or coins.
+ExternalCategoryPurpose1Code,CORT,TradeSettlementPayment,"Transaction is related to settlement of a trade, eg a foreign exchange deal or a securities transaction."
+ExternalCategoryPurpose1Code,CPAY,ClaimPayment,Transaction is related to the payment of a claim though a claim payment system.
+ExternalCategoryPurpose1Code,CRYP,CryptoAssets,Transaction is related to the purchase or sale of crypto assets.
+ExternalCategoryPurpose1Code,CTDF,DoddFrank1073Payment,Cross border transaction initiated by US natural person that is subject to compliance with Dodd Frank 1073.
+ExternalCategoryPurpose1Code,DCRD,DebitCardPayment,Transaction is related to a payment of debit card.
+ExternalCategoryPurpose1Code,DIVI,Dividend,Transaction is the payment of dividends.
+ExternalCategoryPurpose1Code,DVPM,DeliverAgainstPayment,Code used to pre-advise the account servicer of a forthcoming deliver against payment instruction.
+ExternalCategoryPurpose1Code,EPAY,Epayment,Transaction is related to ePayment.
+ExternalCategoryPurpose1Code,FCDT,ForeignCurrencyDomesticTransfer,Foreign Currency Transaction that is processed between two domestic financial institutions.
+ExternalCategoryPurpose1Code,FCIN,FeeCollectionAndInterest,Transaction is related to the payment of a fee and interest.
+ExternalCategoryPurpose1Code,FCOL,FeeCollection,A service that is settling card transaction related fees between two parties.
+ExternalCategoryPurpose1Code,GOVT,GovernmentPayment,Transaction is a payment to or from a government department.
+ExternalCategoryPurpose1Code,GP2P,PersontoPersonPayment,General Person-to-Person Payment. Debtor and Creditor are natural persons.
+ExternalCategoryPurpose1Code,HEDG,Hedging,Transaction is related to the payment of a hedging operation.
+ExternalCategoryPurpose1Code,ICCP,IrrevocableCreditCardPayment,Transaction is reimbursement of credit card payment.
+ExternalCategoryPurpose1Code,IDCP,IrrevocableDebitCardPayment,Transaction is reimbursement of debit card payment.
+ExternalCategoryPurpose1Code,INTC,IntraCompanyPayment,"Transaction is an intra-company payment, ie, a payment between two companies belonging to the same group."
+ExternalCategoryPurpose1Code,INTE,Interest,Transaction is the payment of interest.
+ExternalCategoryPurpose1Code,LBOX,LockboxTransactions,Transaction is related to identify cash handling via Night Safe or Lockbox by bank or vendor on behalf of a physical store.
+ExternalCategoryPurpose1Code,LOAN,Loan,Transaction is related to the transfer of a loan to a borrower.
+ExternalCategoryPurpose1Code,MP2B,Commercial,Mobile P2B Payment
+ExternalCategoryPurpose1Code,MP2P,Consumer,Mobile P2P Payment
+ExternalCategoryPurpose1Code,OTHR,OtherPayment,Other payment purpose.
+ExternalCategoryPurpose1Code,PENS,PensionPayment,Transaction is the payment of pension.
+ExternalCategoryPurpose1Code,RPRE,Represented,Collection used to re-present previously reversed or returned direct debit transactions.
+ExternalCategoryPurpose1Code,RRCT,ReimbursementReceivedCreditTransfer,Transaction is related to a reimbursement for commercial reasons of a correctly received credit transfer.
+ExternalCategoryPurpose1Code,RVPM,ReceiveAgainstPayment,Code used to pre-advise the account servicer of a forthcoming receive against payment instruction.
+ExternalCategoryPurpose1Code,SALA,SalaryPayment,Transaction is the payment of salaries.
+ExternalCategoryPurpose1Code,SAVG,Savings,Transfer to / from savings or to retirement account.
+ExternalCategoryPurpose1Code,SECU,Securities,Transaction is the payment of securities.
+ExternalCategoryPurpose1Code,SSBE,SocialSecurityBenefit,"Transaction is a social security benefit, ie payment made by a government to support individuals."
+ExternalCategoryPurpose1Code,SUPP,SupplierPayment,Transaction is related to a payment to a supplier.
+ExternalCategoryPurpose1Code,SWEP,CashManagementSweepAccount,"Classification: Cash Management. Transaction relates to a cash management instruction, requesting a sweep of the account of the Debtor above an agreed floor amount, up to a target or zero balance. The purpose is to move the funds from multiple accounts to a single bank account. Funds can move domestically or across border and more than one bank can be used."
+ExternalCategoryPurpose1Code,TAXS,TaxPayment,Transaction is the payment of taxes.
+ExternalCategoryPurpose1Code,TOPG,CashManagementTopAccount,"Classification: Cash Management. Transaction relates to a cash management instruction, requesting to top the account of the Creditor above a certain floor amount, up to a target or zero balance. The floor amount, if not pre-agreed by the parties involved, may be specified."
+ExternalCategoryPurpose1Code,TRAD,Trade,Transaction is related to the payment of a trade finance transaction.
+ExternalCategoryPurpose1Code,TREA,TreasuryPayment,Transaction is related to treasury operations. E.g. financial contract settlement.
+ExternalCategoryPurpose1Code,VATX,ValueAddedTaxPayment,Transaction is the payment of value added tax.
+ExternalCategoryPurpose1Code,VOST,CrossborderMIPayments,Transaction to be processed as a domestic payment instruction originated from a foreign bank.
+ExternalCategoryPurpose1Code,WHLD,WithHolding,Transaction is the payment of withholding tax.
+ExternalCategoryPurpose1Code,ZABA,CashManagementZeroBalanceAccount,"Transaction relates to a cash management instruction, requesting to zero balance the account of the Debtor. Zero Balance Accounts empty or fill the balances in accounts at the same bank, in the same country into or out of a main account each day."
+ExternalPurpose1Code,ACCT,AccountManagement,Transaction moves funds between 2 accounts of same account holder at the same bank.
+ExternalPurpose1Code,ACTF,AccountFunding,Account transfer funding a bank account (Demand Deposit (DDA) and savings accounts).
+ExternalPurpose1Code,ADCS,AdvisoryDonationCopyrightServices,"Payments for donation, sponsorship, advisory, intellectual and other copyright services."
+ExternalPurpose1Code,ADMG,AdministrativeManagement,Transaction is related to a payment associated with administrative management.
+ExternalPurpose1Code,ADVA,AdvancePayment,Transaction is an advance payment.
+ExternalPurpose1Code,AEMP,ActiveEmploymentPolicy,Payment concerning active employment policy.
+ExternalPurpose1Code,AGRT,AgriculturalTransfer,Transaction is related to the agricultural domain.
+ExternalPurpose1Code,AIRB,Air,Transaction is a payment for air transport related business.
+ExternalPurpose1Code,ALDS,AutoLoanDisbursement,"Disbursement of funds for vehicle purchases including cars, trucks, motorcycles, boats, RVs/motorhomes, ATVs/UTVs, jet skis, snowmobiles, commercial vehicles, and trailers."
+ExternalPurpose1Code,ALLW,Allowance,Transaction is the payment of allowances.
+ExternalPurpose1Code,ALMY,AlimonyPayment,Transaction is the payment of alimony.
+ExternalPurpose1Code,AMEX,Amex,Card Settlement-Settlement of AMEX transactions.
+ExternalPurpose1Code,ANNI,Annuity,"Transaction settles annuity related to credit, insurance, investments, other.n"
+ExternalPurpose1Code,ANTS,AnesthesiaServices,Transaction is a payment for anesthesia services.
+ExternalPurpose1Code,AREN,AccountsReceivablesEntry,Transaction is related to a payment associated with an Account Receivable Entry
+ExternalPurpose1Code,AUCO,AuthenticatedCollections,Utilities-Settlement of Authenticated Collections transactions.
+ExternalPurpose1Code,B112,TrailerFeePayment,US mutual fund trailer fee (12b-1) payment
+ExternalPurpose1Code,BBSC,BabyBonusScheme,Transaction is related to a payment made as incentive to encourage parents to have more children
+ExternalPurpose1Code,BCDM,BearerChequeDomestic,Transaction is the payment of a domestic bearer cheque.
+ExternalPurpose1Code,BCFG,BearerChequeForeign,Transaction is the payment of a foreign bearer cheque.
+ExternalPurpose1Code,BECH,ChildBenefit,Transaction is related to a payment made to assist parent/guardian to maintain child.
+ExternalPurpose1Code,BENE,UnemploymentDisabilityBenefit,Transaction is related to a payment to a person who is unemployed/disabled.
+ExternalPurpose1Code,BEXP,BusinessExpenses,Transaction is related to a payment of business expenses.
+ExternalPurpose1Code,BFWD,BondForward,"Cash collateral related to any securities traded out beyond 3 days which include treasury notes, JGBs and Gilts."
+ExternalPurpose1Code,BKDF,BankLoanDelayedDrawFunding,Delayed draw funding. Certain issuers may utilize delayed draw loans whereby the lender is committed to fund cash within a specified period once a call is made by the issuer. The lender receives a fee for entering into such a commitment.
+ExternalPurpose1Code,BKFE,BankLoanFees,"Bank loan fees. Cash activity related to specific bank loan fees, including (a) agent / assignment fees; (b) amendment fees; (c) commitment fees; (d) consent fees; (e) cost of carry fees; (f) delayed compensation fees; (g) facility fees; (h) fronting fees; (i) funding fees; (j) letter of credit assignment fees."
+ExternalPurpose1Code,BKFM,BankLoanFundingMemo,Bank loan funding memo. Net cash movement for the loan contract final notification when sent separately from the loan contract final notification instruction.
+ExternalPurpose1Code,BKIP,BankLoanAccruedInterestPayment,Accrued interest payments. Specific to bank loans.
+ExternalPurpose1Code,BKPP,BankLoanPrincipalPaydown,Principal paydowns. Specific to bank loans
+ExternalPurpose1Code,BLDM,BuildingMaintenance,Transaction is related to a payment associated with building maintenance.
+ExternalPurpose1Code,BLDS,BusinessLoanDisbursement,"Business Loan Disbursement, e.g., disbursing capital for business expansion, equipment purchase, or operational expenses."
+ExternalPurpose1Code,BNET,BondForwardNetting,Bond Forward pair-off cash net movement.
+ExternalPurpose1Code,BNPL,BuyNowPayLater,"Buy Now Pay Later Payments, e.g., point-of-sale financing options allowing installment payments for retail purchases."
+ExternalPurpose1Code,BOCE,BackOfficeConversionEntry,Transaction is related to a payment associated with a Back Office Conversion Entry
+ExternalPurpose1Code,BOND,Bonds,Securities Lending-Settlement of Bond transaction.
+ExternalPurpose1Code,BONU,BonusPayment.,Transaction is related to payment of a bonus.
+ExternalPurpose1Code,BR12,TrailerFeeRebate,US mutual fund trailer fee (12b-1) rebate payment
+ExternalPurpose1Code,BROK,BrokerageFunding,Account transfer funding a brokerage account.
+ExternalPurpose1Code,BUSB,Bus,Transaction is a payment for bus transport related business.
+ExternalPurpose1Code,CABD,CorporateActions-Bonds,Securities Lending-Settlement of Corporate Actions: Bonds transactions.
+ExternalPurpose1Code,CAEQ,CorporateActions-Equities,Securities Lending-Settlement of Corporate Actions: Equities transactions.
+ExternalPurpose1Code,CAFI,CustodianManagementFeeInhouse,Transaction is the payment of custodian account management fee where custodian bank and current account servicing bank coincide.
+ExternalPurpose1Code,CARL,CarLeaseRental,"Car Rentals, e.g., short-term vehicle rentals."
+ExternalPurpose1Code,CASH,CashManagementTransfer,Transaction is a general cash management instruction.
+ExternalPurpose1Code,CBCR,CreditCard,Card Settlement-Settlement of Credit Card transactions.
+ExternalPurpose1Code,CBFF,CapitalBuilding,"Transaction is related to capital building fringe fortune, ie capital building in general."
+ExternalPurpose1Code,CBFR,CapitalBuildingRetirement,Transaction is related to capital building fringe fortune for retirement.
+ExternalPurpose1Code,CBLK,CardBulkClearing,"A Service that is settling money for a bulk of card transactions, while referring to a specific transaction file or other information like terminal ID, card acceptor ID or other transaction details."
+ExternalPurpose1Code,CBTV,CableTVBill,Transaction is related to a payment of cable TV bill.
+ExternalPurpose1Code,CCHD,CashCompensationHelplessnessDisability,"Payments made by Government institute related to cash compensation, helplessness, disability. These payments are made by the Government institution as a social benefit in addition to regularly paid salary or pension."
+ExternalPurpose1Code,CCIR,CrossCurrencyIRS,"Cash Collateral related to a Cross Currency Interest Rate Swap, indicating the exchange of fixed interest payments in one currency for those in another."
+ExternalPurpose1Code,CCPC,CCPClearedInitialMargin,Cash Collateral associated with an ISDA or Central Clearing Agreement that is covering the initial margin requirements for OTC trades clearing through a CCP.
+ExternalPurpose1Code,CCPM,CCPClearedVariationMargin,Cash Collateral associated with an ISDA or Central Clearing Agreement that is covering the variation margin requirements for OTC trades clearing through a CCP.
+ExternalPurpose1Code,CCRD,CreditCardPayment,Transaction is related to a payment of credit card account.
+ExternalPurpose1Code,CCSM,CCPClearedInitialMarginSegregatedCash,CCP Segregated initial margin: Initial margin on OTC Derivatives cleared through a CCP that requires segregation.
+ExternalPurpose1Code,CDBL,CreditCardBill,Transaction is related to a payment of credit card bill.
+ExternalPurpose1Code,CDCB,CardPaymentWithCashBack,Purchase of Goods and Services with additional Cash disbursement at the POI (Cashback).
+ExternalPurpose1Code,CDCD,CashDisbursementCashSettlement,ATM Cash Withdrawal in an unattended or Cash Advance in an attended environment (POI or bank counter).
+ExternalPurpose1Code,CDCS,CashDisbursementWithSurcharging,ATM Cash Withdrawal in an unattended or Cash Advance in an attended environment (POI or bank counter) with surcharging.
+ExternalPurpose1Code,CDDP,CardDeferredPayment,A combined service which enables the card acceptor to perform an authorisation for a temporary amount and a completion for the final amount within a limited time frame. Deferred Payment is only available in the unattended environment. Examples where this service is widely used are unattended petrol pumps and phone booths.
+ExternalPurpose1Code,CDEP,CreditDefaultEventPayment,Payment related to a credit default event.
+ExternalPurpose1Code,CDOC,OriginalCredit,"A service which allows the card acceptor to effect a credit to a cardholder' account. Unlike a Merchant Refund, an Original Credit is not preceded by a card payment. This service is used for example for crediting winnings from gaming."
+ExternalPurpose1Code,CDQC,QuasiCash,Purchase of Goods which are equivalent to cash like coupons in casinos.
+ExternalPurpose1Code,CFDI,CapitalFallingDueInhouse,Transaction is the payment of capital falling due where custodian bank and current account servicing bank coincide.
+ExternalPurpose1Code,CFEE,CancellationFee,Transaction is related to a payment of cancellation fee.
+ExternalPurpose1Code,CGDD,CardGeneratedDirectDebit,Transaction is related to a direct debit where the mandate was generated by using data from a payment card at the point of sale.
+ExternalPurpose1Code,CHAR,CharityPayment,Transaction is a payment for charity reasons.
+ExternalPurpose1Code,CHCP,CharitableDonationCorporate,Charitable donation being processed on behalf of a Corporate entity.
+ExternalPurpose1Code,CHDF,CharitableDonationDAF,Charitable donation being processed on behalf of a Donor Advised Fund (DAF).
+ExternalPurpose1Code,CHFN,CharitableDonationFoundation,Charitable donation being processed on behalf of a Foundation (purpose-driven entity).
+ExternalPurpose1Code,CLDS,ConstructionLoanDisbursement,"Construction Loan Disbursement, e.g., phased disbursements for construction projects based on completion milestones."
+ExternalPurpose1Code,CLPR,CarLoanPrincipalRepayment,Transaction is a payment of car loan principal payment.
+ExternalPurpose1Code,CMDT,CommodityTransfer,Transaction is payment of commodities.
+ExternalPurpose1Code,COLL,CollectionPayment,Transaction is a collection of funds initiated via a credit transfer or direct debit.
+ExternalPurpose1Code,COMC,CommercialPayment,Transaction is related to a payment of commercial credit or debit. (formerly CommercialCredit).
+ExternalPurpose1Code,COMM,Commission,Transaction is payment of commission.
+ExternalPurpose1Code,COMP,CompensationPayment,Transaction is related to the payment of a compensation relating to interest loss/value date adjustment and can include fees.
+ExternalPurpose1Code,COMT,ConsumerThirdPartyConsolidatedPayment,"Transaction is a payment used by a third party who can collect funds to pay on behalf of consumers, ie credit counseling or bill payment companies."
+ExternalPurpose1Code,CORT,TradeSettlementPayment,"Transaction is related to settlement of a trade, e.g. a foreign exchange deal or a securities transaction."
+ExternalPurpose1Code,COST,Costs,Transaction is related to payment of costs.
+ExternalPurpose1Code,CPEN,CashPenalties,"Cash penalties related to securities transaction, including CSDR Settlement Discipline Regime."
+ExternalPurpose1Code,CPKC,CarparkCharges,Transaction is related to carpark charges.
+ExternalPurpose1Code,CPYR,Copyright,Transaction is payment of copyright.
+ExternalPurpose1Code,CRDS,CreditDefaultSwap,Cash collateral related to trading of credit default swap.
+ExternalPurpose1Code,CRPR,CrossProduct,Cash collateral related to a combination of various types of trades.
+ExternalPurpose1Code,CRSP,CreditSupport,Cash collateral related to cash lending/borrowing; letter of Credit; signing of master agreement.
+ExternalPurpose1Code,CRTL,CreditLine,Cash collateral related to opening of a credit line before trading.
+ExternalPurpose1Code,CRYP,CryptoAssets,Transaction is related to the purchase or sale of crypto assets.
+ExternalPurpose1Code,CSDB,CashDisbursementCashManagement,Transaction is related to cash disbursement.
+ExternalPurpose1Code,CSLP,CompanySocialLoanPaymentToBank,Transaction is a payment by a company to a bank for financing social loans to employees.
+ExternalPurpose1Code,CVCF,ConvalescentCareFacility,Transaction is a payment for convalescence care facility services.
+ExternalPurpose1Code,DBCR,DebitCard,Card Settlement-Settlement of Debit Card transactions.
+ExternalPurpose1Code,DBTC,DebitCollectionPayment,Collection of funds initiated via a debit transfer.
+ExternalPurpose1Code,DCRD,DebitCardPayment,Transaction is related to a debit card payment.
+ExternalPurpose1Code,DEBT,ChargesBorneByDebtor,Purpose of payment is the settlement of charges payable by the debtor in relation to an underlying customer credit transfer.
+ExternalPurpose1Code,DEPD,DependentSupportPayment,"Transaction is related to a payment concerning dependent support, for example child support or support for a person substantially financially dependent on the support provider."
+ExternalPurpose1Code,DEPT,Deposit,Transaction is releted to a payment of deposit.
+ExternalPurpose1Code,DERI,Derivatives,Transaction is related to a derivatives transaction.
+ExternalPurpose1Code,DICL,Diners,Card Settlement-Settlement of Diners transactions.
+ExternalPurpose1Code,DIVD,Dividend,Transaction is payment of dividends.
+ExternalPurpose1Code,DMEQ,DurableMedicaleEquipment,Transaction is a payment is for use of durable medical equipment.
+ExternalPurpose1Code,DNTS,DentalServices,Transaction is a payment for dental services.
+ExternalPurpose1Code,DSMT,PrintedOrderDisbursement,"Transaction is the payment of a disbursement due to a specific type of printed order for a payment of a specified sum, issued by a bank or a post office (Zahlungsanweisung zur Verrechnung)"
+ExternalPurpose1Code,DVPM,DeliverAgainstPayment,Code used to pre-advise the account servicer of a forthcoming deliver against payment instruction.
+ExternalPurpose1Code,ECPG,GuaranteedEPayment,E-Commerce payment with payment guarantee of the issuing bank.
+ExternalPurpose1Code,ECPR,EPaymentReturn,E-Commerce payment return.
+ExternalPurpose1Code,ECPU,NonGuaranteedEPayment,E-Commerce payment without payment guarantee of the issuing bank.
+ExternalPurpose1Code,EDUC,Education,Transaction is related to a payment of study/tuition fees.
+ExternalPurpose1Code,EFTC,LowValueCredit,Utilities-Settlement of Low value Credit transactions.
+ExternalPurpose1Code,EFTD,LowValueDebit,Utilities-Settlement of Low value Debit transactions.
+ExternalPurpose1Code,ELEC,ElectricityBill,Transaction is related to a payment of electricity bill.
+ExternalPurpose1Code,ENRG,Energies,Transaction is related to a utility operation.
+ExternalPurpose1Code,EPAY,Epayment,Transaction is related to ePayment.
+ExternalPurpose1Code,EQPT,EquityOption,Cash collateral related to trading of equity option (Also known as stock options).
+ExternalPurpose1Code,EQTS,Equities,Securities Lending-Settlement of Equities transactions.
+ExternalPurpose1Code,EQUS,EquitySwap,Cash collateral related to equity swap trades where the return of an equity is exchanged for either a fixed or a floating rate of interest.
+ExternalPurpose1Code,ERPM,EmergencyReliefPayment,"Emergency relief payments, e.g., receiving assistance after natural disasters, COVID relief payments, or emergency aid disbursements."
+ExternalPurpose1Code,ESCR,EscrowPayment,"Financial intermediation services via an escrow account, e.g., real estate transactions, online marketplace purchases, business acquisitions, construction projects, legal settlements."
+ExternalPurpose1Code,ESTX,EstateTax,Transaction is related to a payment of estate tax.
+ExternalPurpose1Code,ETUP,EPurseTopUp,Transaction is related to a Service that is first reserving money from a card account and then is loading an e-purse application by this amount.
+ExternalPurpose1Code,EXPT,ExoticOption,Cash collateral related to trading of an exotic option for example a non-standard option.
+ExternalPurpose1Code,EXTD,ExchangeTradedDerivatives,Cash collateral related to trading of exchanged traded derivatives in general (Opposite to Over the Counter (OTC)).
+ExternalPurpose1Code,FACT,FactorUpdateRelatedPayment,Payment related to a factor update
+ExternalPurpose1Code,FAND,FinancialAidInCaseOfNaturalDisaster,Financial aid by State authorities for abolition of consequences of natural disasters.
+ExternalPurpose1Code,FCOL,FeeCollection,A Service that is settling card transaction related fees between two parties.
+ExternalPurpose1Code,FCPM,LatePaymentOfFeesAndCharges,Transaction is the payment for late fees & charges. E.g Credit card charges
+ExternalPurpose1Code,FEES,PaymentOfFees,Payment of fees/charges.
+ExternalPurpose1Code,FERB,Ferry,Transaction is a payment for ferry related business.
+ExternalPurpose1Code,FGDL,FoodGroceryDelivery,"Food/Grocery Delivery, e.g., delivery fees and payments through app-based food delivery services."
+ExternalPurpose1Code,FIXI,FixedIncome,Cash collateral related to a fixed income instrument
+ExternalPurpose1Code,FLCR,FleetCard,Card Settlement-Settlement of Fleet transactions.
+ExternalPurpose1Code,FNET,FuturesNettingPayment,Cash associated with a netting of futures payments. Refer to CCPM codeword for netting of initial and variation margin through a CCP
+ExternalPurpose1Code,FORW,ForwardForeignExchange,FX trades with a value date in the future.
+ExternalPurpose1Code,FREX,ForeignExchange,Transaction is related to a foreign exchange operation.
+ExternalPurpose1Code,FUEL,Fuel,"Fuel/Gas, e.g., purchases at gas stations for vehicle fuel or at charging stations for electric vehicles."
+ExternalPurpose1Code,FUTR,Futures,Cash related to futures trading activity.
+ExternalPurpose1Code,FWBC,ForwardBrokerOwnedCashCollateral,"Cash collateral payment against a Master Forward Agreement (MFA) where the cash is held in a segregated account and is not available for use by the client. Includes any instruments with a forward settling date such TBAs, repurchase agreements and bond forwards"
+ExternalPurpose1Code,FWCC,ForwardClientOwnedCashCollateral,"Cash collateral payment against a Master Forward Agreement (MFA) where the cash is owned and may be used by the client when returned. Includes any instruments with a forward settling date such TBAs, repurchase agreements and bond forwards"
+ExternalPurpose1Code,FWLV,ForeignWorkerLevy,Transaction is related to a payment of Foreign Worker Levy
+ExternalPurpose1Code,FWSB,ForwardBrokerOwnedCashCollateralSegregated,"Any cash payment related to the collateral for a Master Agreement forward, which is segregated, and not available for use by the client. Example master agreement forwards include TBA, repo and Bond Forwards."
+ExternalPurpose1Code,FWSC,ForwardClientOwnedSegregatedCashCollateral,"Any cash payment related to the collateral for a Master agreement forward, which is owned by the client and is available for use by the client when it is returned to them from the segregated account. Example master agreement forwards include TBA, repo and Bond Forwards."
+ExternalPurpose1Code,FXNT,ForeignExchangeRelatedNetting,FX netting if cash is moved by separate wire instead of within the closing FX instruction
+ExternalPurpose1Code,GAFA,GovernmentFamilyAllowance,Salary and Benefits-Allowance from government to support family.
+ExternalPurpose1Code,GAHO,GovernmentHousingAllowance,Salary and Benefits-Allowance from government to individuals to support payments of housing.
+ExternalPurpose1Code,GAMB,GamblingOrWageringPayment,"General-Payments towards a purchase or winnings received from gambling, betting or other wagering activities."
+ExternalPurpose1Code,GASB,GasBill,Transaction is related to a payment of gas bill.
+ExternalPurpose1Code,GDDS,PurchaseSaleOfGoods,Transaction is related to purchase and sale of goods.
+ExternalPurpose1Code,GDSV,PurchaseSaleOfGoodsAndServices,Transaction is related to purchase and sale of goods and services.
+ExternalPurpose1Code,GFRP,GuaranteeFundRightsPayment,Compensation to unemployed persons during insolvency procedures.
+ExternalPurpose1Code,GIFT,Gift,Payment with no commercial or statutory purpose.
+ExternalPurpose1Code,GOVG,GovernmentGrants,"Government Grants, e.g., receiving funds for academic research, small business development, educational programs, or community initiatives."
+ExternalPurpose1Code,GOVI,GovernmentInsurance,Transaction is related to a payment of government insurance.
+ExternalPurpose1Code,GOVT,GovernmentPayment,Transaction is a payment to or from a government department.
+ExternalPurpose1Code,GSCB,PurchaseSaleOfGoodsAndServicesWithCashBack,Transaction is related to purchase and sale of goods and services with cash back.
+ExternalPurpose1Code,GSTX,GoodsServicesTax,Transaction is the payment of Goods & Services Tax
+ExternalPurpose1Code,GVEA,AustrianGovernmentEmployeesCategoryA,Transaction is payment to category A Austrian government employees.
+ExternalPurpose1Code,GVEB,AustrianGovernmentEmployeesCategoryB,Transaction is payment to category B Austrian government employees.
+ExternalPurpose1Code,GVEC,AustrianGovernmentEmployeesCategoryC,Transaction is payment to category C Austrian government employees.
+ExternalPurpose1Code,GVED,AustrianGovernmentEmployeesCategoryD,Transaction is payment to category D Austrian government employees.
+ExternalPurpose1Code,GWLT,GovermentWarLegislationTransfer,Payment to victims of war violence and to disabled soldiers.
+ExternalPurpose1Code,GYMM,GymMembership,"Gym Membership, e.g., monthly or annual fees for fitness centers or health clubs."
+ExternalPurpose1Code,HEDG,Hedging,Transaction is related to a hedging operation.
+ExternalPurpose1Code,HLRP,PropertyLoanRepayment,Transaction is related to a payment of property loan.
+ExternalPurpose1Code,HLST,PropertyLoanSettlement,Transaction is related to the settlement of a property loan.
+ExternalPurpose1Code,HLTC,HomeHealthCare,Transaction is a payment for home health care services.
+ExternalPurpose1Code,HLTI,HealthInsurance,Transaction is a payment of health insurance.
+ExternalPurpose1Code,HMMS,HomeMaintenanceServices,"Home Maintenance Related, e.g., regular services for home cleaning, lawn care, pest control, or pool maintenance."
+ExternalPurpose1Code,HREC,HousingRelatedContribution,"Transaction is a contribution by an employer to the housing expenditures (purchase, construction, renovation) of the employees within a tax free fringe benefit system."
+ExternalPurpose1Code,HRPS,HomeRepairServices,"Home Repair, e.g., one-time or emergency repairs for washer/dryer, damaged floors, plumbing issues, or electrical problems."
+ExternalPurpose1Code,HSPC,HospitalCare,Transaction is a payment for hospital care services.
+ExternalPurpose1Code,HSTX,HousingTax,Transaction is related to a payment of housing tax.
+ExternalPurpose1Code,ICCP,IrrevocableCreditCardPayment,Transaction is reimbursement of credit card payment.
+ExternalPurpose1Code,ICRF,IntermediateCareFacility,Transaction is a payment for intermediate care facility services.
+ExternalPurpose1Code,IDCP,IrrevocableDebitCardPayment,Transaction is reimbursement of debit card payment.
+ExternalPurpose1Code,IHRP,InstalmentHirePurchaseAgreement,Transaction is payment for an installment/hire-purchase agreement.
+ExternalPurpose1Code,INBC,InterbankCharges,Settlement of charges in response to a prior interbank charge request.
+ExternalPurpose1Code,INPC,InsurancePremiumCar,Transaction is a payment of car insurance premium.
+ExternalPurpose1Code,INPR,InsurancePremiumRefund,Transaction is related to an insurance premium refund.
+ExternalPurpose1Code,INSC,PaymentOfInsuranceClaim,Transaction is related to the payment of an insurance claim.
+ExternalPurpose1Code,INSM,Installment,Transaction is related to a payment of an installment.
+ExternalPurpose1Code,INSU,InsurancePremium,Transaction is payment of an insurance premium.
+ExternalPurpose1Code,INTC,IntraCompanyPayment,"Transaction is an intra-company payment, ie, a payment between two companies belonging to the same group."
+ExternalPurpose1Code,INTE,Interest,Transaction is payment of interest.
+ExternalPurpose1Code,INTP,IntraPartyPayment,"Transaction is a payment between two accounts belonging to the same party (intra-party payment), where party is a natural person (identified by a private ID, not organisation ID)."
+ExternalPurpose1Code,INTX,IncomeTax,Transaction is related to a payment of income tax.
+ExternalPurpose1Code,INVS,InvestmentAndSecurities,"Transaction is for the payment of mutual funds, investment products and shares"
+ExternalPurpose1Code,IPAY,InstantPayments,Transaction in which the amount is available to the payee immediately.
+ExternalPurpose1Code,IPCA,InstantPaymentsCancellation,Transaction in which the Return of the amount is fully returned.
+ExternalPurpose1Code,IPDO,InstantPaymentsForDonations,"Transaction in which the amount is available to the payee immediately, done for donations, with sending the address data of the payer."
+ExternalPurpose1Code,IPEA,InstantPaymentsInECommerceWithoutAddressData,"Transaction in which the amount is available to the payee immediately, done in E-commerce, without sending the address data of the payer."
+ExternalPurpose1Code,IPEC,InstantPaymentsInECommerceWithAddressData,"Transaction in which the amount is available to the payee immediately, done in E-commerce, with sending the address data of the payer."
+ExternalPurpose1Code,IPEW,InstantPaymentsInECommerce,"Transaction in which the amount is available to the payee immediately, done in E-commerce."
+ExternalPurpose1Code,IPPS,InstantPaymentsAtPOS,"Transaction in which the amount is available to the payee immediately, done at POS."
+ExternalPurpose1Code,IPRT,InstantPaymentsReturn,Transaction in which the Return of the amount is fully or partial returned.
+ExternalPurpose1Code,IPU2,InstantPaymentsUnattendedVendingMachineWith2FA,Transaction is made via an unattending vending machine by using 2-factor-authentification.
+ExternalPurpose1Code,IPUW,InstantPaymentsUnattendedVendingMachineWithout2FA,Transaction is made via an unattending vending machine by without using 2-factor-authentification.
+ExternalPurpose1Code,IVPT,InvoicePayment,Transaction is the payment for invoices.
+ExternalPurpose1Code,LBIN,LendingBuyInNetting,"Net payment related to a buy-in. When an investment manager is bought in on a sell trade that fails due to a failed securities lending recall, the IM may seize the underlying collateral to pay for the buy-in. Any difference between the value of the collateral and the sell proceeds would be paid or received under this code"
+ExternalPurpose1Code,LBRI,LaborInsurance,Transaction is a payment of labor insurance.
+ExternalPurpose1Code,LBXX,LongBoxTransfer,Transaction is related to a cash transfer from an underlying fund to a holding collateralization account (ie. Longbox) for potential further use as collateral or back to the fund in case it is not required anymore.
+ExternalPurpose1Code,LCOL,LendingCashCollateralFreeMovement,Free movement of cash collateral. Cash collateral paid by the borrower is done separately from the delivery of the shares at loan opening or return of collateral done separately from return of the loaned security. Note: common when the currency of the security is different the currency of the cash collateral.
+ExternalPurpose1Code,LFEE,LendingFees,"Fee payments, other than rebates, for securities lending. Includes (a) exclusive fees; (b) transaction fees; (c) custodian fees; (d) minimum balance fees"
+ExternalPurpose1Code,LICF,LicenseFee,Transaction is payment of a license fee.
+ExternalPurpose1Code,LIFI,LifeInsurance,Transaction is a payment of life insurance.
+ExternalPurpose1Code,LIMA,LiquidityManagement,"Bank initiated account transfer to support zero target balance management, pooling or sweeping."
+ExternalPurpose1Code,LMEQ,LendingEquityMarkedToMarketCashCollateral,Cash collateral payments resulting from the marked-to-market of a portfolio of loaned equity securities
+ExternalPurpose1Code,LMFI,LendingFixedIncomeMarkedToMarketCashCollateral,Cash collateral payments resulting from the marked-to-market of a portfolio of loaned fixed income securities
+ExternalPurpose1Code,LMRK,LendingUnspecifiedTypeOfMarkedToMarketCashCollateral,Cash collateral payments resulting from the marked-to-market of a portfolio of loaned securities where the instrument types are not specified
+ExternalPurpose1Code,LOAN,Loan,Transaction is related to transfer of loan to borrower.
+ExternalPurpose1Code,LOAR,LoanRepayment,Transaction is related to repayment of loan to lender.
+ExternalPurpose1Code,LOTT,LotteryPayment,General-Payment towards a purchase or winnings received from lottery activities.
+ExternalPurpose1Code,LREB,LendingRebatePayments,Securities lending rebate payments
+ExternalPurpose1Code,LREV,LendingRevenuePayments,Revenue payments made by the lending agent to the client
+ExternalPurpose1Code,LSFL,LendingClaimPayment,Payments made by a borrower to a lending agent to satisfy claims made by the investment manager related to sell fails from late loan recall deliveries
+ExternalPurpose1Code,LTCF,LongTermCareFacility,Transaction is a payment for long-term care facility services.
+ExternalPurpose1Code,MAFC,MedicalAidFundContribution,Transaction is contribution to medical aid fund.
+ExternalPurpose1Code,MARF,MedicalAidRefund,Transaction is related to a medical aid refund.
+ExternalPurpose1Code,MARG,DailyMarginOnListedDerivatives,Daily margin on listed derivatives – not segregated as collateral associated with an FCM agreement. Examples include listed futures and options margin payments; premiums for listed options not covered in the MT54X message.
+ExternalPurpose1Code,MBSB,MBSBrokerOwnedCashCollateral,"MBS Broker Owned Segregated (40Act/Dodd Frank) Cash Collateral - Any cash payment related to the collateral for a Mortgage Back Security, which is segregated, and not available for use by the client."
+ExternalPurpose1Code,MBSC,MBSClientOwnedCashCollateral,"MBS Client Owned Cash Segregated (40Act/Dodd Frank) Cash Collateral - Any cash payment related to the collateral for a Mortgage Back Security, which is owned by the client and is available for use by the client when it is returned to them from the segregated account"
+ExternalPurpose1Code,MCDM,MultiCurrenyChequeDomestic,Transaction is the payment of a domestic multi-currency cheque
+ExternalPurpose1Code,MCFG,MultiCurrenyChequeForeign,Transaction is the payment of a foreign multi-currency cheque
+ExternalPurpose1Code,MDCS,MedicalServices,Transaction is a payment for medical care services.
+ExternalPurpose1Code,MDEP,MicroDeposit,"Transaction is a small deposit, e.g., for account verification purposes."
+ExternalPurpose1Code,MFSR,MutualFundSubscriptionRedemption,Payment related to shares settlement of a subscription or redemption order.
+ExternalPurpose1Code,MGCC,FuturesInitialMargin,Initial futures margin. Where such payment is owned by the client and is available for use by them on return
+ExternalPurpose1Code,MGSC,FuturesInitialMarginClientOwnedSegregatedCashCollateral,"Margin Client Owned Segregated Cash Collateral - Any cash payment related to the collateral for initial futures margin, which is owned by the client and is available for use by the client when it is returned to them from the segregated account."
+ExternalPurpose1Code,MOMA,MoneyMarket,Securities Lending-ettlement of Money Market PCH.
+ExternalPurpose1Code,MP2B,MobileP2BPayment,"A service which enables a user to use an app on its mobile to pay a merchant or other business payees by initiating a payment message. Within this context, the account information or an alias of the payee might be transported through different channels to the app, for example QR Code, NFC, Bluetooth, other Networks."
+ExternalPurpose1Code,MP2P,MobileP2PPayment,A service which enables a user to use an app on its mobile to initiate moving funds from his/her bank account to another person’s bank account while not using the account number but an alias information like an MSISDN as account addressing information in his/her app.
+ExternalPurpose1Code,MSVC,MultipleServiceTypes,Transaction is related to a payment for multiple service types.
+ExternalPurpose1Code,MTUP,MobileTopUp,A Service that is first reserving money from a card account and then is loading a prepaid mobile phone amount by this amount.
+ExternalPurpose1Code,NETT,Netting,Transaction is related to a netting operation.
+ExternalPurpose1Code,NITX,NetIncomeTax,Transaction is related to a payment of net income tax.
+ExternalPurpose1Code,NOWS,NotOtherwiseSpecified,Transaction is related to a payment for type of services not specified elsewhere.
+ExternalPurpose1Code,NWCH,NetworkCharge,Transaction is related to a payment of network charges.
+ExternalPurpose1Code,NWCM,NetworkCommunication,Transaction is related to a payment of network communication.
+ExternalPurpose1Code,OCCC,ClientOwnedOCCPledgedCollateral,Client owned collateral identified as eligible for OCC pledging.
+ExternalPurpose1Code,OCDM,OrderChequeDomestic,Transaction is the payment of a domestic order cheque
+ExternalPurpose1Code,OCFG,OrderChequeForeign,Transaction is the payment of a foreign order cheque
+ExternalPurpose1Code,ODPY,OnDemandPayment,"On demand/Real-time payments, e.g., Same-day wage access, gig economy payouts."
+ExternalPurpose1Code,OFEE,OpeningFee,Transaction is related to a payment of opening fee.
+ExternalPurpose1Code,OPBC,OTCOptionBrokerOwnedCashCollateral,Cash collateral payment for OTC options associated with an FCM agreement. Where such payment is segregated and not available for use by the client
+ExternalPurpose1Code,OPCC,OTCOptionClientOwnedCashCollateral,Cash collateral payment for OTC options associated with an FCM agreement. Where such payment is not segregated and is available for use by the client upon return
+ExternalPurpose1Code,OPSB,OTCOptionBrokerOwnedSegregatedCashCollateral,"Option Broker Owned Segregated Cash Collateral - Any cash payment related to the collateral for an OTC option, which is segregated, and not available for use by the client."
+ExternalPurpose1Code,OPSC,OTCOptionClientOwnedCashSegregatedCashCollateral,"Option Client Owned Cash Segregated Cash Collateral - Any cash payment related to the collateral for an OTC option, which is owned by the client and is available for use by the client when it is returned to them from the segregated account"
+ExternalPurpose1Code,OPTN,FXOption,Cash collateral related to trading of option on Foreign Exchange.
+ExternalPurpose1Code,OTCD,OTCDerivatives,Cash collateral related to Over-the-counter (OTC) Derivatives in general for example contracts which are traded and privately negotiated.
+ExternalPurpose1Code,OTHR,Other,Other payment purpose.
+ExternalPurpose1Code,OTLC,OtherTelecomRelatedBill,Transaction is related to a payment of other telecom related bill.
+ExternalPurpose1Code,PADD,PreauthorizedDebit,Transaction is related to a pre-authorized debit origination
+ExternalPurpose1Code,PAYR,Payroll,Transaction is related to the payment of payroll.
+ExternalPurpose1Code,PCOM,PropertyCompletionPayment,Final payment to complete the purchase of a property.
+ExternalPurpose1Code,PDEP,PropertyDeposit,Payment of the deposit required towards purchase of a property.
+ExternalPurpose1Code,PDLN,PayDayLoan,"Pay Day Loan, e.g., short-term, high-interest loans typically due on borrower's next payday."
+ExternalPurpose1Code,PEFC,PensionFundContribution,Transaction is contribution to pension fund.
+ExternalPurpose1Code,PENO,PaymentBasedOnEnforcementOrder,Payment based on enforcement orders except those arising from judicial alimony decrees.
+ExternalPurpose1Code,PENS,PensionPayment,Transaction is the payment of pension.
+ExternalPurpose1Code,PHON,TelephoneBill,Transaction is related to a payment of telephone bill.
+ExternalPurpose1Code,PLDS,PropertyLoanDisbursement,Payment of funds from a lender as part of the issuance of a property loan.
+ExternalPurpose1Code,PLRF,PropertyLoanRefinancing,"Transfer or extension of a property financing arrangement to a new deal or loan provider, without change of ownership of property."
+ExternalPurpose1Code,POPE,PointOfPurchaseEntry,Transaction is related to a payment associated with a Point of Purchase Entry.
+ExternalPurpose1Code,PPTI,PropertyInsurance,Transaction is a payment of property insurance.
+ExternalPurpose1Code,PRCP,PricePayment,Transaction is related to a payment of a price.
+ExternalPurpose1Code,PRME,PreciousMetal,Transaction is related to a precious metal operation.
+ExternalPurpose1Code,PSDS,PersonalLoanDisbursement,"Personal Loan Disbursement, e.g., disbursing funds for debt consolidation, home improvement, or major purchases."
+ExternalPurpose1Code,PTSP,PaymentTerms,Transaction is related to payment terms specifications
+ExternalPurpose1Code,PTXP,PropertyTax,Transaction is related to a payment of property tax.
+ExternalPurpose1Code,RAPI,RapidPaymentInstruction,Instant Payments-Settlement of Rapid Payment Instruction (RPI) transactions.
+ExternalPurpose1Code,RCKE,RepresentedCheckEntry,Transaction is related to a payment associated with a re-presented check entry
+ExternalPurpose1Code,RCPT,ReceiptPayment,Transaction is related to a payment of receipt.
+ExternalPurpose1Code,RDTX,RoadTax,Transaction is related to a payment of road tax.
+ExternalPurpose1Code,REBT,Rebate,Transaction is the payment of a rebate.
+ExternalPurpose1Code,REFU,Refund,Transaction is the payment of a refund.
+ExternalPurpose1Code,RELG,RentalLeaseGeneral,Transaction is for general rental/lease.
+ExternalPurpose1Code,RENT,Rent,Transaction is the payment of rent.
+ExternalPurpose1Code,REOD,AccountOverdraftRepayment,Transaction is for account overdraft repayment
+ExternalPurpose1Code,REPO,RepurchaseAgreement,Cash collateral related to a repurchase agreement transaction.
+ExternalPurpose1Code,RETL,RetailPayment,Retail payment including e-commerce and online shopping.
+ExternalPurpose1Code,RHBS,RehabilitationSupport,Benefit for the duration of occupational rehabilitation.
+ExternalPurpose1Code,RHSV,RideHailingServices,"Ride-hailing/Delivery Service, e.g., payments for app-based rides."
+ExternalPurpose1Code,RIMB,ReimbursementOfAPreviousErroneousTransaction,Transaction is related to a reimbursement of a previous erroneous transaction.
+ExternalPurpose1Code,RINP,RecurringInstallmentPayment,Transaction is related to a payment of a recurring installment made at regular intervals.
+ExternalPurpose1Code,RLWY,Railway,Transaction is a payment for railway transport related business.
+ExternalPurpose1Code,RMCO,RegisteredMandate,Utilities-Settlement of Unauthenticated Collections transactions.
+ExternalPurpose1Code,ROYA,Royalties,Transaction is the payment of royalties.
+ExternalPurpose1Code,RPBC,BilateralRepoBrokerOwnedCollateral,Bi-lateral repo broker owned collateral associated with a repo master agreement – GMRA or MRA Master Repo Agreements.
+ExternalPurpose1Code,RPCC,RepoClientOwnedCollateral,Repo client owned collateral associated with a repo master agreement – GMRA or MRA Master Repo Agreements
+ExternalPurpose1Code,RPNT,BilateralRepoInternetNetting,Bi-lateral repo interest net/bulk payment at rollover/pair-off or other closing scenarios where applicable.
+ExternalPurpose1Code,RPSB,BilateralRepoBrokerOwnedSegregatedCashCollateral,Bi-lateral repo broker owned segregated cash collateral associated with a repo master agreement.
+ExternalPurpose1Code,RPSC,BilateralRepoClientOwnedSegregatedCashCollateral,Repo client owned segregated collateral associated with a repo master agreement.
+ExternalPurpose1Code,RRBN,RoundRobin,Cash payment resulting from a Round Robin
+ExternalPurpose1Code,RRCT,ReimbursementReceivedCreditTransfer,Transaction is related to a reimbursement for commercial reasons of a correctly received credit transfer.
+ExternalPurpose1Code,RRTP,RelatedRequestToPay,Transaction is related to a Request to Pay.
+ExternalPurpose1Code,RVPM,ReceiveAgainstPayment,Code used to pre-advise the account servicer of a forthcoming receive against payment instruction.
+ExternalPurpose1Code,RVPO,ReverseRepurchaseAgreement,Cash collateral related to a reverse repurchase agreement transaction.
+ExternalPurpose1Code,SALA,SalaryPayment,Transaction is the payment of salaries.
+ExternalPurpose1Code,SASW,ATM,Card Settlement-Settlement of ATM transactions.
+ExternalPurpose1Code,SAVG,Savings,Transfer to / from savings or to retirement account.
+ExternalPurpose1Code,SBSC,SecuritiesBuySellSellBuyBack,Cash collateral related to a Securities Buy Sell Sell Buy Back
+ExternalPurpose1Code,SCAC,SchoolActivities,"Transaction is related to payment for school activities, extracurricular programs."
+ExternalPurpose1Code,SCIE,SingleCurrencyIRSExotic,Cash collateral related to Exotic single currency interest rate swap.
+ExternalPurpose1Code,SCIR,SingleCurrencyIRS,Cash collateral related to Single Currency Interest Rate Swap.
+ExternalPurpose1Code,SCRP,SecuritiesCrossProducts,Cash collateral related to Combination of securities-related exposure types.
+ExternalPurpose1Code,SCVE,PurchaseSaleOfServices,Transaction is related to purchase and sale of services.
+ExternalPurpose1Code,SECU,Securities,Transaction is the payment of securities.
+ExternalPurpose1Code,SEPI,SecuritiesPurchaseInhouse,Transaction is the payment of a purchase of securities where custodian bank and current account servicing bank coincide
+ExternalPurpose1Code,SERV,ServiceCharges,Transaction is related to service charges charged by a service provider.
+ExternalPurpose1Code,SHBC,BrokerOwnedCollateralShortSale,Short Sale broker owned collateral associated with a prime broker agreement.
+ExternalPurpose1Code,SHCC,ClientOwnedCollateralShortSale,Short Sale client owned collateral associated with a prime brokerage agreement.
+ExternalPurpose1Code,SHSL,ShortSell,Cash Collateral related to a Short Sell
+ExternalPurpose1Code,SLDS,StudentLoanDisbursement,"Student Loan Disbursement, e.g., disbursing tuition funds to educational institutions or directly to students."
+ExternalPurpose1Code,SLEB,SecuritiesLendingAndBorrowing,Cash collateral related to Securities lending and borrowing.
+ExternalPurpose1Code,SLOA,SecuredLoan,Cash collateral related to a Secured loan.
+ExternalPurpose1Code,SLPI,PaymentSlipInstruction,Transaction is payment of a well formatted payment slip.
+ExternalPurpose1Code,SPLT,SplitPayments,Split payments. To be used when cash and security movements for a security trade settlement are instructed separately.
+ExternalPurpose1Code,SPSP,SalaryPensionSumPayment,Salary or pension payment for more months in one amount or a delayed payment of salaries or pensions.
+ExternalPurpose1Code,SSBE,SocialSecurityBenefit,"Transaction is a social security benefit, ie payment made by a government to support individuals."
+ExternalPurpose1Code,STDY,Study,Transaction is related to a payment of study/tuition costs.
+ExternalPurpose1Code,STRM,StreamingServices,"Streaming Services, e.g., monthly subscriptions to digital content platforms."
+ExternalPurpose1Code,SUBS,Subscription,Transaction is related to a payment of information or entertainment services either in printed or electronic form.
+ExternalPurpose1Code,SUPP,SupplierPayment,Transaction is related to a payment to a supplier.
+ExternalPurpose1Code,SWBC,SwapBrokerOwnedCashCollateral,Cash collateral payment for swaps associated with an ISDA agreement. . Where such payment is segregated and not available for use by the client. Includes any cash collateral payments made under the terms of a CSA agreement for instruments such as swaps and FX forwards.
+ExternalPurpose1Code,SWCC,SwapClientOwnedCashCollateral,Cash collateral payment for swaps associated with an ISDA agreement. Where such payment is not segregated and is available for use by the client upon return. Includes any cash collateral payments made under the terms of a CSA agreement for instruments such as swaps and FX forwards.
+ExternalPurpose1Code,SWFP,SwapContractFinalPayment,Final payments for a swap contract
+ExternalPurpose1Code,SWPP,SwapContractPartialPayment,Partial payment for a swap contract
+ExternalPurpose1Code,SWPT,Swaption,Cash collateral related to an option on interest rate swap.
+ExternalPurpose1Code,SWRS,SwapContractResetPayment,Reset payment for a swap contract
+ExternalPurpose1Code,SWSB,SwapsBrokerOwnedSegregatedCashCollateral,"Swaps Broker Owned Segregated Cash Collateral - Any cash payment related to the collateral for Swap margin , which is segregated, and not available for use by the client. This includes any collateral identified in a CSA agreement such as Swap or FX Forward collateral."
+ExternalPurpose1Code,SWSC,SwapsClientOwnedSegregatedCashCollateral,"Swaps Client Owned Segregated Cash Collateral - Any cash payment related to the collateral for Swap margin, which is owned by the client and is available for use by the client when returned from the segregated account. This includes any collateral identified in a CSA agreement such as Swap or FX Forward collateral."
+ExternalPurpose1Code,SWUF,SwapContractUpfrontPayment,Upfront payment for a swap contract
+ExternalPurpose1Code,TAXR,TaxRefund,Transaction is the refund of a tax payment or obligation.
+ExternalPurpose1Code,TAXS,TaxPayment,Transaction is the payment of taxes.
+ExternalPurpose1Code,TBAN,TBAPairOffNetting,TBA pair-off cash wire net movement
+ExternalPurpose1Code,TBAS,ToBeAnnounced,Cash collateral related to a To Be Announced (TBA)
+ExternalPurpose1Code,TBBC,TBABrokerOwnedCashCollateral,Cash collateral payment (segregated) for TBA securities associated with a TBA Master Agreement. Where such payment is segregated and not available for use by the client.
+ExternalPurpose1Code,TBCC,TBAClientOwnedCashCollateral,Cash collateral payment (for use by client)for TBA securities associated with a TBA Master Agreement. Where such payment is not segregated and is available for use by the client upon return.
+ExternalPurpose1Code,TBIL,TelecommunicationsBill,Transaction is related to a payment of telecommunications related bill.
+ExternalPurpose1Code,TCSC,TownCouncilServiceCharges,Transaction is related to a payment associated with charges levied by a town council.
+ExternalPurpose1Code,TELI,TelephoneInitiatedTransaction,Transaction is related to a payment initiated via telephone.
+ExternalPurpose1Code,TIPS,TipsGratuity,"Tip/Gratuity, e.g., additional payments for service workers at restaurants, hotels, salons, or through digital tipping platforms."
+ExternalPurpose1Code,TLRF,NonUSMutualFundTrailerFeePayment,Any non-US mutual fund trailer fee (retrocession) payment (use ISIN to determine onshore versus offshore designation)
+ExternalPurpose1Code,TLRR,NonUSMutualFundTrailerFeeRebatePayment,Any non-US mutual fund trailer fee (retrocession) rebate payment (use ISIN to determine onshore versus offshore designation)
+ExternalPurpose1Code,TMPG,TMPGClaimPayment,Cash payment resulting from a TMPG Claim
+ExternalPurpose1Code,TNTP,TaxNeutralPensionTransfer,Transaction is a tax-neutral transfer of existing pension balance.
+ExternalPurpose1Code,TOLL,Tolls,"Tolls, e.g., payments for road tolls, bridges, tunnels, or electronic toll collection systems."
+ExternalPurpose1Code,TPRI,TriPartyRepoInterest,Tri-Party Repo related interest
+ExternalPurpose1Code,TPRP,TriPartyRepoNetting,Tri-party Repo related net gain/loss cash movement
+ExternalPurpose1Code,TRAD,Commercial,Transaction is related to a trade services operation.
+ExternalPurpose1Code,TRCP,TreasuryCrossProduct,Cash collateral related to a combination of treasury-related exposure types.
+ExternalPurpose1Code,TREA,TreasuryPayment,Transaction is related to treasury operations.
+ExternalPurpose1Code,TRFD,TrustFund,Transaction is related to a payment of a trust fund.
+ExternalPurpose1Code,TRNC,TruncatedPaymentSlip,Transaction is payment of a beneficiary prefilled payment slip where beneficiary to payer information is truncated.
+ExternalPurpose1Code,TRPT,RoadPricing,Transaction is for the payment to top-up pre-paid card and electronic road pricing for the purpose of transportation
+ExternalPurpose1Code,TRVC,TravellerCheque,Transaction is the payment of a travellers cheque
+ExternalPurpose1Code,TRVL,TravelAndHospitality,"Generic code for travel and hospitality related transactions, e.g., hotel bookings, vacation rentals, travel packages, or direct hotel reservations."
+ExternalPurpose1Code,UBIL,Utilities,"Transaction is for the payment to common utility provider that provide gas, water and/or electricity."
+ExternalPurpose1Code,UNIT,UnitTrustPurchase,Transaction is purchase of Unit Trust
+ExternalPurpose1Code,VATX,ValueAddedTaxPayment,Transaction is the payment of value added tax.
+ExternalPurpose1Code,VIEW,VisionCare,Transaction is a payment for vision care services.
+ExternalPurpose1Code,WALM,WalletFundingMultiUse,Account transfer funding a multi-use wallet.
+ExternalPurpose1Code,WALS,WalletFundingSingle,Account transfer funding a single purpose wallet.
+ExternalPurpose1Code,WALT,WalletTransactions,Transaction is related to digital wallet funding or defunding.
+ExternalPurpose1Code,WEBI,InternetInitiatedTransaction,Transaction is related to a payment initiated via internet.
+ExternalPurpose1Code,WHLD,WithHolding,Transaction is related to a payment of withholding tax.
+ExternalPurpose1Code,WTER,WaterBill,Transaction is related to a payment of water bill.
+ExternalPaymentGroupStatus1Code,ACCC,AcceptedSettlementCompletedCreditorAccount,Settlement on the creditor's account has been completed.
+ExternalPaymentGroupStatus1Code,ACCP,AcceptedCustomerProfile,Preceding check of technical validation was successful. Customer profile check was also successful.
+ExternalPaymentGroupStatus1Code,ACSC,AcceptedSettlementCompletedDebitorAccount,"Settlement on the debtor's account has been completed. Usage : this can be used by the first agent to report to the debtor that the transaction has been completed. Warning : this status is provided for transaction status reasons, not for financial information. It can only be used after bilateral agreement"
+ExternalPaymentGroupStatus1Code,ACSP,AcceptedSettlementInProcess,All preceding checks such as technical validation and customer profile were successful and therefore the payment initiation has been accepted for execution.
+ExternalPaymentGroupStatus1Code,ACTC,AcceptedTechnicalValidation,Authentication and syntactical and semantical validation are successful
+ExternalPaymentGroupStatus1Code,ACWC,AcceptedWithChange,"Instruction is accepted but a change will be made, such as date or remittance not sent."
+ExternalPaymentGroupStatus1Code,PART,PartiallyAccepted,"A number of transactions have been accepted, whereas another number of transactions have not yet achieved 'accepted' status."
+ExternalPaymentGroupStatus1Code,PDNG,Pending,Payment initiation or individual transaction included in the payment initiation is pending. Further checks and status update will be performed.
+ExternalPaymentGroupStatus1Code,RCVC,ReceivedVerificationCompleted,Verification of Payee check have been applied to received transactions stating to be complete without mismatching data.
+ExternalPaymentGroupStatus1Code,RCVD,Received,Payment initiation has been received by the receiving agent
+ExternalPaymentGroupStatus1Code,RJCT,Rejected,Payment initiation or individual transaction included in the payment initiation has been rejected.
+ExternalPaymentGroupStatus1Code,RVCM,ReceivedVerificationCompletedWithMismatches,Verification of Payee checks have been applied to received transactions stating to be complete containing mismatching data.
+ExternalPaymentGroupStatus1Code,RVNC,ReceivedVerificationNotCompleted,Verification of party check on transactions received is not yet completed.
+ExternalPaymentTransactionStatus1Code,ACCC,AcceptedSettlementCompletedCreditorAccount,Settlement on the creditor's account has been completed.
+ExternalPaymentTransactionStatus1Code,ACCP,AcceptedCustomerProfile,Preceding check of technical validation was successful. Customer profile check was also successful.
+ExternalPaymentTransactionStatus1Code,ACFC,AcceptedFundsChecked,Preceding check of technical validation and customer profile was successful and an automatic funds check was positive.
+ExternalPaymentTransactionStatus1Code,ACFW,AcceptedFundsCheckedWaitingConfirmation,"Preceding check of technical validation and customer profile was successful, and an automatic funds check was positive, but an explicit confirmation by the initiating party is outstanding."
+ExternalPaymentTransactionStatus1Code,ACIS,AcceptedandChequeIssued,"Payment instruction to issue a cheque has been accepted, and the cheque has been issued but not yet been deposited or cleared."
+ExternalPaymentTransactionStatus1Code,ACPD,AcceptedClearingProcessed,Status of transaction released from the Debtor Agent and accepted by the clearing.
+ExternalPaymentTransactionStatus1Code,ACSC,AcceptedSettlementCompletedDebitorAccount,"Settlement completed. Usage : this can be used by a Market Infrastructure reporting to Infrastructure Participant or an Account Servicer to Account Owner to report that the transaction account entry has been completed. Warning : this status is provided for transaction status reasons, not for financial information. It can only be used after bilateral agreement"
+ExternalPaymentTransactionStatus1Code,ACSP,AcceptedSettlementInProcess,All preceding checks such as technical validation and customer profile were successful and therefore the payment instruction has been accepted for execution.
+ExternalPaymentTransactionStatus1Code,ACTC,AcceptedTechnicalValidation,Authentication and syntactical and semantical validation are successful
+ExternalPaymentTransactionStatus1Code,ACWC,AcceptedWithChange,"Instruction is accepted but a change will be made, such as date or remittance not sent."
+ExternalPaymentTransactionStatus1Code,ACWP,AcceptedWithoutPosting,Payment instruction included in the credit transfer is accepted without being posted to the creditor customer’s account.
+ExternalPaymentTransactionStatus1Code,BLCK,Blocked,"Payment transaction previously reported with status 'ACWP' is blocked, for example, funds will neither be posted to the Creditor's account, nor be returned to the Debtor."
+ExternalPaymentTransactionStatus1Code,CANC,Cancelled,Payment initiation has been successfully cancelled after having received a request for cancellation. Usage: code to be used in the context of APIs only.
+ExternalPaymentTransactionStatus1Code,CPUC,CashPickedUpByCreditor,Cash has been picked up by the Creditor.
+ExternalPaymentTransactionStatus1Code,PATC,PartiallyAcceptedTechnicalCorrect,"Payment initiation needs multiple authentications, where some but not yet all have been performed. Syntactical and semantical validations are successful."
+ExternalPaymentTransactionStatus1Code,PDNG,Pending,Payment instruction is pending. Further checks and status update will be performed.
+ExternalPaymentTransactionStatus1Code,PRES,Presented,Request for Payment has been presented to the Debtor.
+ExternalPaymentTransactionStatus1Code,RCVC,ReceivedVerificationCompleted,Verification of Payee check has been applied to received transaction stating to be complete without mismatching data.
+ExternalPaymentTransactionStatus1Code,RCVD,Received,Payment instruction has been received.
+ExternalPaymentTransactionStatus1Code,RJCT,Rejected,Payment instruction has been rejected.
+ExternalPaymentTransactionStatus1Code,RVCM,ReceivedVerificationCompletedWithMismatches,Verification of Payee checks have been applied to received transaction stating to be completed containing mismatching data.
+ExternalPaymentTransactionStatus1Code,RVMC,ReceivedVerificationCompletedMatchClosely,Verification of Payee check has been applied to received transaction stating to be complete with data matching closely.
+ExternalPaymentTransactionStatus1Code,RVNA,ReceivedVerificationCompletedNotApplicable,Verification of Payee check has been applied to received transaction stating to be complete with not applicable data.
+ExternalPaymentTransactionStatus1Code,RVNC,ReceivedVerificationNotCompleted,Verification of party check on the transaction is not yet completed.
+ExternalPaymentTransactionStatus1Code,RVNM,ReceivedVerificationCompletedNoMatch,Verification of Payee check has been applied to received transaction stating to be complete with mismatching data.
+ExternalStatusReason1Code,AB01,AbortedClearingTimeout,Clearing process aborted due to timeout.
+ExternalStatusReason1Code,AB02,AbortedClearingFatalError,Clearing process aborted due to a fatal error.
+ExternalStatusReason1Code,AB03,AbortedSettlementTimeout,Settlement aborted due to timeout.
+ExternalStatusReason1Code,AB04,AbortedSettlementFatalError,Settlement process aborted due to a fatal error.
+ExternalStatusReason1Code,AB05,TimeoutCreditorAgent,Transaction stopped due to timeout at the Creditor Agent.
+ExternalStatusReason1Code,AB06,TimeoutInstructedAgent,Transaction stopped due to timeout at the Instructed Agent.
+ExternalStatusReason1Code,AB07,OfflineAgent,Agent of message is not online. Generic usage if it cannot be determined who exactly is not online.
+ExternalStatusReason1Code,AB08,OfflineCreditorAgent,Creditor Agent is not online.
+ExternalStatusReason1Code,AB09,ErrorCreditorAgent,Transaction stopped due to error at the Creditor Agent.
+ExternalStatusReason1Code,AB10,ErrorInstructedAgent,Transaction stopped due to error at the Instructed Agent.
+ExternalStatusReason1Code,AB11,TimeoutDebtorAgent,Transaction stopped due to timeout at the Debtor Agent.
+ExternalStatusReason1Code,AB12,InvalidConcurrentBatch,Duplicate Concurrent Batch Sequence number– for Settlement Instructions.
+ExternalStatusReason1Code,AB13,InvalidRoutingCodeUtilised,Wrong Message Routing Type for Return-of-Funds.
+ExternalStatusReason1Code,AB15,InvalidAccountNumberForSettlementType,Instruction may not be placed on the Continuous Processing Line settlement processor.
+ExternalStatusReason1Code,AB21,InvalidSettlementAgreementNumberSpecified,Agreement number not valid (beneficiary).
+ExternalStatusReason1Code,AB26,InvalidBatchSettlementInstruction,Settlement Instruction does not exist.
+ExternalStatusReason1Code,AC01,IncorrectAccountNumber,Account number is invalid or missing.
+ExternalStatusReason1Code,AC02,InvalidDebtorAccountNumber,Debtor account number invalid or missing
+ExternalStatusReason1Code,AC03,InvalidCreditorAccountNumber,Creditor account number invalid or missing
+ExternalStatusReason1Code,AC04,ClosedAccountNumber,Account number specified has been closed on the bank of account's books.
+ExternalStatusReason1Code,AC05,ClosedDebtorAccountNumber,Debtor account number closed.
+ExternalStatusReason1Code,AC06,BlockedAccount,"Account specified is blocked, prohibiting posting of transactions against it."
+ExternalStatusReason1Code,AC07,ClosedCreditorAccountNumber,Creditor account number closed
+ExternalStatusReason1Code,AC08,InvalidBranchCode,Branch code is invalid or missing
+ExternalStatusReason1Code,AC09,InvalidAccountCurrency,Account currency is invalid or missing
+ExternalStatusReason1Code,AC10,InvalidDebtorAccountCurrency,Debtor account currency is invalid or missing
+ExternalStatusReason1Code,AC11,InvalidCreditorAccountCurrency,Creditor account currency is invalid or missing
+ExternalStatusReason1Code,AC12,InvalidAccountType,Account type missing or invalid. Generic usage if cannot specify between group and payment information levels
+ExternalStatusReason1Code,AC13,InvalidDebtorAccountType,Debtor account type missing or invalid
+ExternalStatusReason1Code,AC14,InvalidCreditorAccountType,Creditor account type missing or invalid
+ExternalStatusReason1Code,AC15,AccountDetailsChanged,The account details for the counterparty have changed.
+ExternalStatusReason1Code,AC16,CardNumberInvalid,Credit or debit card number is invalid.
+ExternalStatusReason1Code,AEML,AmountExceedsMaxLimit,Requested amount exceeds the limit set by Debtor (Agent)
+ExternalStatusReason1Code,AEXR,AlreadyExpiredRTP,Request-to-pay Expiry Date and Time has already passed.
+ExternalStatusReason1Code,AG01,TransactionForbidden,Transaction forbidden on this type of account (formerly NoAgreement)
+ExternalStatusReason1Code,AG02,InvalidBankOperationCode,Bank Operation code specified in the message is not valid for receiver
+ExternalStatusReason1Code,AG03,TransactionNotSupported,Transaction type not supported/authorized on this account.
+ExternalStatusReason1Code,AG04,InvalidAgentCountry,Agent country code is missing or invalid. Generic usage if cannot specify between group and payment information levels.
+ExternalStatusReason1Code,AG05,InvalidDebtorAgentCountry,Debtor agent country code is missing or invalid
+ExternalStatusReason1Code,AG06,InvalidCreditorAgentCountry,Creditor agent country code is missing or invalid
+ExternalStatusReason1Code,AG07,UnsuccesfulDirectDebit,Debtor account cannot be debited for a generic reason. Code value may be used in general purposes and as a replacement for AM04 if debtor bank does not reveal its customer's insufficient funds for privacy reasons
+ExternalStatusReason1Code,AG08,InvalidAccessRights,Transaction failed due to invalid or missing user or access right
+ExternalStatusReason1Code,AG09,PaymentNotReceived,Original payment never received.
+ExternalStatusReason1Code,AG10,AgentSuspended,Agent of message is suspended from the Real Time Payment system. Generic usage if it cannot be determined who exactly is suspended.
+ExternalStatusReason1Code,AG11,CreditorAgentSuspended,Creditor Agent of message is suspended from the Real Time Payment system.
+ExternalStatusReason1Code,AG12,NotAllowedBookTransfer,Payment orders made by transferring funds from one account to another at the same financial institution (bank or payment institution) are not allowed.
+ExternalStatusReason1Code,AG13,ForbiddenReturnPayment,Returned payments derived from previously returned transactions are not allowed.
+ExternalStatusReason1Code,AGNT,IncorrectAgent,Agent in the payment workflow is incorrect
+ExternalStatusReason1Code,ALAC,AlreadyAcceptedRTP,Request-to-pay has already been accepted by the Debtor.
+ExternalStatusReason1Code,AM01,ZeroAmount,Specified message amount is equal to zero
+ExternalStatusReason1Code,AM02,NotAllowedAmount,Specific transaction/message amount is greater than allowed maximum
+ExternalStatusReason1Code,AM03,NotAllowedCurrency,Specified message amount is an non processable currency outside of existing agreement
+ExternalStatusReason1Code,AM04,InsufficientFunds,Amount of funds available to cover specified message amount is insufficient.
+ExternalStatusReason1Code,AM05,Duplication,Duplication
+ExternalStatusReason1Code,AM06,TooLowAmount,Specified transaction amount is less than agreed minimum.
+ExternalStatusReason1Code,AM07,BlockedAmount,Amount specified in message has been blocked by regulatory authorities.
+ExternalStatusReason1Code,AM09,WrongAmount,Amount received is not the amount agreed or expected
+ExternalStatusReason1Code,AM10,InvalidControlSum,Sum of instructed amounts does not equal the control sum.
+ExternalStatusReason1Code,AM11,InvalidTransactionCurrency,Transaction currency is invalid or missing
+ExternalStatusReason1Code,AM12,InvalidAmount,Amount is invalid or missing
+ExternalStatusReason1Code,AM13,AmountExceedsClearingSystemLimit,Transaction amount exceeds limits set by clearing system
+ExternalStatusReason1Code,AM14,AmountExceedsAgreedLimit,Transaction amount exceeds limits agreed between bank and client
+ExternalStatusReason1Code,AM15,AmountBelowClearingSystemMinimum,Transaction amount below minimum set by clearing system
+ExternalStatusReason1Code,AM16,InvalidGroupControlSum,Control Sum at the Group level is invalid
+ExternalStatusReason1Code,AM17,InvalidPaymentInfoControlSum,Control Sum at the Payment Information level is invalid
+ExternalStatusReason1Code,AM18,InvalidNumberOfTransactions,Number of transactions is invalid or missing. Generic usage if cannot specify between group and payment information levels.
+ExternalStatusReason1Code,AM19,InvalidGroupNumberOfTransactions,Number of transactions at the Group level is invalid or missing
+ExternalStatusReason1Code,AM20,InvalidPaymentInfoNumberOfTransactions,Number of transactions at the Payment Information level is invalid
+ExternalStatusReason1Code,AM21,LimitExceeded,Transaction amount exceeds limits agreed between bank and client.
+ExternalStatusReason1Code,AM22,ZeroAmountNotApplied,"Unable to apply zero amount to designated account. For example, where the rules of a service allow the use of zero amount payments, however the back-office system is unable to apply the funds to the account. If the rules of a service prohibit the use of zero amount payments, then code AM01 is used to report the error condition."
+ExternalStatusReason1Code,AM23,AmountExceedsSettlementLimit,Transaction amount exceeds settlement limit.
+ExternalStatusReason1Code,AMSE,AttachmentMaximumSize,Size of the attachment exceeds the allowed maximum.
+ExternalStatusReason1Code,APAR,AlreadyPaidRTP,Request To Pay has already been paid by the Debtor.
+ExternalStatusReason1Code,ARFR,AlreadyRefusedRTP,Request-to-pay has already been refused by the Debtor.
+ExternalStatusReason1Code,ARJR,AlreadyRejectedRTP,Request-to-pay has already been rejected.
+ExternalStatusReason1Code,ATNS,AttachementsNotSupported,Attachments to the request-to-pay are not supported.
+ExternalStatusReason1Code,BDAY,NotBusinessDay,Settlement Cycle Day and Calendar day should be the same.
+ExternalStatusReason1Code,BE01,InconsistentWithEndCustomer,Identification of end customer is not consistent with associated account number. (formerly CreditorConsistency).
+ExternalStatusReason1Code,BE04,MissingCreditorAddress,"Specification of creditor's address, which is required for payment, is missing/not correct (formerly IncorrectCreditorAddress)."
+ExternalStatusReason1Code,BE05,UnrecognisedInitiatingParty,Party who initiated the message is not recognised by the end customer
+ExternalStatusReason1Code,BE06,UnknownEndCustomer,End customer specified is not known at associated Sort/National Bank Code or does no longer exist in the books
+ExternalStatusReason1Code,BE07,MissingDebtorAddress,"Specification of debtor's address, which is required for payment, is missing/not correct."
+ExternalStatusReason1Code,BE08,MissingDebtorName,Debtor name is missing
+ExternalStatusReason1Code,BE09,InvalidCountry,Country code is missing or Invalid. Generic usage if cannot specifically identify debtor or creditor
+ExternalStatusReason1Code,BE10,InvalidDebtorCountry,Debtor country code is missing or invalid
+ExternalStatusReason1Code,BE11,InvalidCreditorCountry,Creditor country code is missing or invalid
+ExternalStatusReason1Code,BE12,InvalidCountryOfResidence,Country code of residence is missing or Invalid. Generic usage if cannot specifically identify debtor or creditor
+ExternalStatusReason1Code,BE13,InvalidDebtorCountryOfResidence,Country code of debtor's residence is missing or Invalid
+ExternalStatusReason1Code,BE14,InvalidCreditorCountryOfResidence,Country code of creditor's residence is missing or Invalid
+ExternalStatusReason1Code,BE15,InvalidIdentificationCode,Identification code missing or invalid. Generic usage if cannot specifically identify debtor or creditor.
+ExternalStatusReason1Code,BE16,InvalidDebtorIdentificationCode,Debtor or Ultimate Debtor identification code missing or invalid
+ExternalStatusReason1Code,BE17,InvalidCreditorIdentificationCode,Creditor or Ultimate Creditor identification code missing or invalid
+ExternalStatusReason1Code,BE18,InvalidContactDetails,Contact details missing or invalid
+ExternalStatusReason1Code,BE19,InvalidChargeBearerCode,Charge bearer code for transaction type is invalid
+ExternalStatusReason1Code,BE20,InvalidNameLength,Name length exceeds local rules for payment type.
+ExternalStatusReason1Code,BE21,MissingName,Name missing or invalid. Generic usage if cannot specifically identify debtor or creditor.
+ExternalStatusReason1Code,BE22,MissingCreditorName,Creditor name is missing
+ExternalStatusReason1Code,BE23,AccountProxyInvalid,"Phone number or email address, or any other proxy, used as the account proxy is unknown or invalid."
+ExternalStatusReason1Code,CERI,CheckERI,Credit transfer is not tagged as an Extended Remittance Information (ERI) transaction but contains ERI.
+ExternalStatusReason1Code,CH03,RequestedExecutionDateOrRequestedCollectionDateTooFarInFuture,Value in Requested Execution Date or Requested Collection Date is too far in the future
+ExternalStatusReason1Code,CH04,RequestedExecutionDateOrRequestedCollectionDateTooFarInPast,Value in Requested Execution Date or Requested Collection Date is too far in the past
+ExternalStatusReason1Code,CH07,ElementIsNotToBeUsedAtB-andC-Level,Element is not to be used at B- and C-Level
+ExternalStatusReason1Code,CH09,MandateChangesNotAllowed,Mandate changes are not allowed
+ExternalStatusReason1Code,CH10,InformationOnMandateChangesMissing,Information on mandate changes are missing
+ExternalStatusReason1Code,CH11,CreditorIdentifierIncorrect,Value in Creditor Identifier is incorrect
+ExternalStatusReason1Code,CH12,CreditorIdentifierNotUnambiguouslyAtTransaction-Level,Creditor Identifier is ambiguous at Transaction Level
+ExternalStatusReason1Code,CH13,OriginalDebtorAccountIsNotToBeUsed,Original Debtor Account is not to be used
+ExternalStatusReason1Code,CH14,OriginalDebtorAgentIsNotToBeUsed,Original Debtor Agent is not to be used
+ExternalStatusReason1Code,CH15,ElementContentIncludesMoreThan140Characters,Content Remittance Information/Structured includes more than 140 characters
+ExternalStatusReason1Code,CH16,ElementContentFormallyIncorrect,Content is incorrect
+ExternalStatusReason1Code,CH17,ElementNotAdmitted,Element is not allowed
+ExternalStatusReason1Code,CH19,ValuesWillBeSetToNextTARGETday,Values in Interbank Settlement Date or Requested Collection Date will be set to the next TARGET day
+ExternalStatusReason1Code,CH20,DecimalPointsNotCompatibleWithCurrency,Number of decimal points not compatible with the currency
+ExternalStatusReason1Code,CH21,RequiredCompulsoryElementMissing,Mandatory element is missing.
+ExternalStatusReason1Code,CH22,COREandB2BwithinOnemessage,SDD CORE and B2B not permitted within one message.
+ExternalStatusReason1Code,CHCO,UnacceptedChargeCodeType,Related to a Charge message to convey that the code in Charge Breakdown / Type / Code is not accepted by the receiving party.
+ExternalStatusReason1Code,CHQC,ChequeSettledOnCreditorAccount,Cheque has been presented in cheque clearing and settled on the creditor’s account.
+ExternalStatusReason1Code,CHRG,UnderlyingChargeBearerWasNotDebt,Related to a Charge message to convey that the charge bearer code used in the corresponding Payment message was not debt.
+ExternalStatusReason1Code,CN01,AuthorisationCancelled,Authorisation is cancelled.
+ExternalStatusReason1Code,CNNS,CreditNotesNotSupported,Credit notes are not supported.
+ExternalStatusReason1Code,CNOR,CreditorBankIsNotRegistered,Creditor bank is not registered under this BIC in the CSM
+ExternalStatusReason1Code,CURR,IncorrectCurrency,Currency of the payment is incorrect
+ExternalStatusReason1Code,CUST,RequestedByCustomer,Cancellation requested by the Debtor
+ExternalStatusReason1Code,DC02,SettlementNotReceived,Rejection of a payment due to covering FI settlement not being received.
+ExternalStatusReason1Code,DNOR,DebtorBankIsNotRegistered,Debtor bank is not registered under this BIC in the CSM
+ExternalStatusReason1Code,DS01,ElectronicSignaturesCorrect,The electronic signature(s) is/are correct
+ExternalStatusReason1Code,DS02,OrderCancelled,An authorized user has cancelled the order
+ExternalStatusReason1Code,DS03,OrderNotCancelled,The user’s attempt to cancel the order was not successful.
+ExternalStatusReason1Code,DS04,OrderRejected,The order was rejected by the bank side (for reasons concerning content)
+ExternalStatusReason1Code,DS05,OrderForwardedForPostprocessing,The order was correct and could be forwarded for postprocessing
+ExternalStatusReason1Code,DS06,TransferOrder,The order was transferred to VEU
+ExternalStatusReason1Code,DS07,ProcessingOK,All actions concerning the order could be done by the EBICS bank server
+ExternalStatusReason1Code,DS08,DecompressionError,The decompression of the file was not successful
+ExternalStatusReason1Code,DS09,DecryptionError,The decryption of the file was not successful
+ExternalStatusReason1Code,DS0A,DataSignRequested,Data signature is required.
+ExternalStatusReason1Code,DS0B,UnknownDataSignFormat,Data signature for the format is not available or invalid.
+ExternalStatusReason1Code,DS0C,SignerCertificateRevoked,The signer certificate is revoked.
+ExternalStatusReason1Code,DS0D,SignerCertificateNotValid,The signer certificate is not valid (revoked or not active).
+ExternalStatusReason1Code,DS0E,IncorrectSignerCertificate,The signer certificate is not present.
+ExternalStatusReason1Code,DS0F,SignerCertificationAuthoritySignerNotValid,The authority of the signer certification sending the certificate is unknown.
+ExternalStatusReason1Code,DS0G,NotAllowedPayment,Signer is not allowed to sign this operation type.
+ExternalStatusReason1Code,DS0H,NotAllowedAccount,Signer is not allowed to sign for this account.
+ExternalStatusReason1Code,DS0K,NotAllowedNumberOfTransaction,The number of transaction is over the number allowed for this signer.
+ExternalStatusReason1Code,DS10,Signer1CertificateRevoked,The certificate is revoked for the first signer.
+ExternalStatusReason1Code,DS11,Signer1CertificateNotValid,The certificate is not valid (revoked or not active) for the first signer.
+ExternalStatusReason1Code,DS12,IncorrectSigner1Certificate,The certificate is not present for the first signer.
+ExternalStatusReason1Code,DS13,SignerCertificationAuthoritySigner1NotValid,The authority of signer certification sending the certificate is unknown for the first signer.
+ExternalStatusReason1Code,DS14,UserDoesNotExist,The user is unknown on the server
+ExternalStatusReason1Code,DS15,IdenticalSignatureFound,The same signature has already been sent to the bank
+ExternalStatusReason1Code,DS16,PublicKeyVersionIncorrect,The public key version is not correct. This code is returned when a customer sends signature files to the financial institution after conversion from an older program version (old ES format) to a new program version (new ES format) without having carried out re-initialisation with regard to a public key change.
+ExternalStatusReason1Code,DS17,DifferentOrderDataInSignatures,Order data and signatures don’t match
+ExternalStatusReason1Code,DS18,RepeatOrder,"File cannot be tested, the complete order has to be repeated. This code is returned in the event of a malfunction during the signature check, e.g. not enough storage space."
+ExternalStatusReason1Code,DS19,ElectronicSignatureRightsInsufficient,The user’s rights (concerning his signature) are insufficient to execute the order
+ExternalStatusReason1Code,DS20,Signer2CertificateRevoked,The certificate is revoked for the second signer.
+ExternalStatusReason1Code,DS21,Signer2CertificateNotValid,The certificate is not valid (revoked or not active) for the second signer.
+ExternalStatusReason1Code,DS22,IncorrectSigner2Certificate,The certificate is not present for the second signer.
+ExternalStatusReason1Code,DS23,SignerCertificationAuthoritySigner2NotValid,The authority of signer certification sending the certificate is unknown for the second signer.
+ExternalStatusReason1Code,DS24,WaitingTimeExpired,Waiting time expired due to incomplete order
+ExternalStatusReason1Code,DS25,OrderFileDeleted,The order file was deleted by the bank server (for multiple reasons)
+ExternalStatusReason1Code,DS26,UserSignedMultipleTimes,The same user has signed multiple times
+ExternalStatusReason1Code,DS27,UserNotYetActivated,The user is not yet activated (technically)
+ExternalStatusReason1Code,DS28,ReturnForTechnicalReason,Message routed to the wrong environment.
+ExternalStatusReason1Code,DT01,InvalidDate,"Invalid date (eg, wrong or missing settlement date)"
+ExternalStatusReason1Code,DT02,InvalidCreationDate,"Invalid creation date and time in Group Header (eg, historic date)"
+ExternalStatusReason1Code,DT03,InvalidNonProcessingDate,"Invalid non bank processing date (eg, weekend or local public holiday)"
+ExternalStatusReason1Code,DT04,FutureDateNotSupported,Future date not supported
+ExternalStatusReason1Code,DT05,InvalidCutOffDate,"Associated message, payment information block or transaction was received after agreed processing cut-off date, i.e., date in the past."
+ExternalStatusReason1Code,DT06,ExecutionDateChanged,Execution Date has been modified in order for transaction to be processed
+ExternalStatusReason1Code,DU01,DuplicateMessageID,Message Identification is not unique.
+ExternalStatusReason1Code,DU02,DuplicatePaymentInformationID,Payment Information Block is not unique.
+ExternalStatusReason1Code,DU03,DuplicateTransaction,Transaction is not unique.
+ExternalStatusReason1Code,DU04,DuplicateEndToEndID,End To End ID is not unique.
+ExternalStatusReason1Code,DU05,DuplicateInstructionID,Instruction ID is not unique.
+ExternalStatusReason1Code,DUPL,DuplicatePaymentOrCharge,Payment or charge is a duplicate of another payment or charge.
+ExternalStatusReason1Code,ED01,CorrespondentBankNotPossible,Correspondent bank not possible.
+ExternalStatusReason1Code,ED03,BalanceInfoRequest,Balance of payments complementary info is requested
+ExternalStatusReason1Code,ED05,SettlementFailed,Settlement of the transaction has failed.
+ExternalStatusReason1Code,ED06,SettlementSystemNotAvailable,Interbank settlement system not available.
+ExternalStatusReason1Code,EDNA,ExecutionDateNotAccepted,Requested execution date of the payment is not accepted.
+ExternalStatusReason1Code,EDTL,ExpiryDateTooLong,Expiry date time of the request-to-pay is too far in the future.
+ExternalStatusReason1Code,EDTR,ExpiryDateTimeReached,Expiry date time of the request-to-pay is already reached.
+ExternalStatusReason1Code,EOL1,EndOfLife,Expiration of the payment authorisation due to no use for too long.
+ExternalStatusReason1Code,ERIN,ERIOptionNotSupported,Extended Remittance Information (ERI) option is not supported.
+ExternalStatusReason1Code,FF01,InvalidFileFormat,File Format incomplete or invalid
+ExternalStatusReason1Code,FF02,SyntaxError,Syntax error reason is provided as narrative information in the additional reason information.
+ExternalStatusReason1Code,FF03,InvalidPaymentTypeInformation,Payment Type Information is missing or invalid. Generic usage if cannot specify Service Level or Local Instrument code
+ExternalStatusReason1Code,FF04,InvalidServiceLevelCode,Service Level code is missing or invalid
+ExternalStatusReason1Code,FF05,InvalidLocalInstrumentCode,Local Instrument code is missing or invalid
+ExternalStatusReason1Code,FF06,InvalidCategoryPurposeCode,Category Purpose code is missing or invalid
+ExternalStatusReason1Code,FF07,InvalidPurpose,Purpose is missing or invalid
+ExternalStatusReason1Code,FF08,InvalidEndToEndId,End to End Id missing or invalid
+ExternalStatusReason1Code,FF09,InvalidChequeNumber,Cheque number missing or invalid
+ExternalStatusReason1Code,FF10,BankSystemProcessingError,File or transaction cannot be processed due to technical issues at the bank side
+ExternalStatusReason1Code,FF11,ClearingRequestAborted,Clearing request rejected due it being subject to an abort operation.
+ExternalStatusReason1Code,FF12,OriginalTransactionNotEligibleForRequestedReturn,Original payment is not eligible to be returned given its current status.
+ExternalStatusReason1Code,FF13,RequestForCancellationNotFound,No record of request for cancellation found.
+ExternalStatusReason1Code,FOCR,FollowingCancellationRequest,Return following a cancellation request.
+ExternalStatusReason1Code,FR01,Fraud,Returned as a result of fraud.
+ExternalStatusReason1Code,FRAD,FraudulentOrigin,Cancellation requested following a transaction that was originated fraudulently. The use of the FraudulentOrigin code should be governed by jurisdictions.
+ExternalStatusReason1Code,G000,PaymentTransferredAndTracked,In an FI To FI Customer Credit Transfer: The Status Originator transferred the payment to the next Agent or to a Market Infrastructure. The payment transfer is tracked. No further updates will follow from the Status Originator. In a Financial Institution Credit Transfer with cover: The Status Originator performed the account booking and transferred the cover transaction to the next Reimbursement Agent or to a Market Infrastructure. The payment transfer is tracked. No further updates will follow from the Status Originator.
+ExternalStatusReason1Code,G001,PaymentTransferredAndNotTracked,In an FI To FI Customer Credit Transfer: The Status Originator transferred the payment to the next Agent or to a Market Infrastructure. The payment transfer is not tracked. No further updates will follow from the Status Originator. In a Financial Institution Credit Transfer with cover: The Status Originator performed the account booking and transferred the cover transaction to the next Reimbursement Agent or to a Market Infrastructure. The payment transfer is not tracked. No further updates will follow from the Status Originator.
+ExternalStatusReason1Code,G002,CreditDebitNotConfirmed,In a FIToFI Customer Credit Transfer: Credit to the creditor’s account may not be confirmed same day. Update will follow from the Status Originator. In a Financial Institution Credit Transfer with cover: Debit/credit to nostro account may not be confirmed same day or Financial Institution Credit Transfer may not be transferred same day. Update will follow from the Status Originator.
+ExternalStatusReason1Code,G003,CreditPendingDocuments,In a FIToFI Customer Credit Transfer: Credit to creditor’s account is pending receipt of required documents. The Status Originator has requested creditor to provide additional documentation. Update will follow from the Status Originator. In a Financial Institution Credit Transfer with cover: Status Originator has requested a previous Agent to provide additional information/correct information. Update will follow from the Status Originator.
+ExternalStatusReason1Code,G004,CreditPendingFunds,"In a FIToFI Customer Credit Transfer: Credit to the creditor’s account is pending, status Originator is waiting for funds provided via a cover. Update will follow from the Status Originator."
+ExternalStatusReason1Code,G005,DeliveredWithServiceLevel,Payment has been delivered to creditor agent with service level.
+ExternalStatusReason1Code,G006,DeliveredWIthoutServiceLevel,Payment has been delivered to creditor agent without service level.
+ExternalStatusReason1Code,G007,PaymentPassedByPaymentMarketInfrastructure,The payment has been passed by the Payment Market Infrastructure to the next agent in the payment chain; receipt has not yet been confirmed.
+ExternalStatusReason1Code,G008,PaymentReceivedByNextAgentViaPaymentMarketInfrastructure,The payment has been received by the next agent via the Payment Market Infrastructure.
+ExternalStatusReason1Code,GUAG,GuaranteedAgreementBreached,"Guaranteed Agreement with Correspondent, therefore Correspondent is the liable party"
+ExternalStatusReason1Code,ID01,CorrespondingOriginalFileStillNotSent,Signature file was sent to the bank but the corresponding original file has not been sent yet.
+ExternalStatusReason1Code,IEDT,IncorrectExpiryDateTime,Expiry date time of the request-to-pay is incorrect.
+ExternalStatusReason1Code,IMCC,InvalidMerchantCategoryCode,Invalid Merchant Category Code
+ExternalStatusReason1Code,INAR,InvalidActivationReference,Payer’s activation reference is invalid.
+ExternalStatusReason1Code,INCT,InvalidChannelType,Invalid Channel Type
+ExternalStatusReason1Code,INDT,InvalidDetails,Details not valid for this field.
+ExternalStatusReason1Code,IPNS,InstalmentPaymentsNotSupported,Payments in instalments are not supported.
+ExternalStatusReason1Code,IRNR,InitialRTPNeverReceived,No initial request-to-pay has been received.
+ExternalStatusReason1Code,ISWS,InvalidSettlementWindow,Cannot schedule instruction for Night Window.
+ExternalStatusReason1Code,IUCT,InvalidUseCaseType,Invalid Use Case Type
+ExternalStatusReason1Code,MD01,NoMandate,No Mandate
+ExternalStatusReason1Code,MD02,MissingMandatoryInformationInMandate,Mandate related information data required by the scheme is missing.
+ExternalStatusReason1Code,MD05,CollectionNotDue,Creditor or creditor's agent should not have collected the direct debit
+ExternalStatusReason1Code,MD06,RefundRequestByEndCustomer,Return of funds requested by end customer
+ExternalStatusReason1Code,MD07,EndCustomerDeceased,End customer is deceased.
+ExternalStatusReason1Code,MICT,MultipleIdenticalChargeTypes,Multiple identical Charge Types in Charge Breakdown
+ExternalStatusReason1Code,MINF,MissingInformation,Information missing for the field or cannot be empty.
+ExternalStatusReason1Code,MS02,NotSpecifiedReasonCustomerGenerated,Reason has not been specified by end customer
+ExternalStatusReason1Code,MS03,NotSpecifiedReasonAgentGenerated,Reason has not been specified by agent.
+ExternalStatusReason1Code,NARR,Narrative,Reason is provided as narrative information in the additional reason information.
+ExternalStatusReason1Code,NERI,NoERI,Credit transfer is tagged as an Extended Remittance Information (ERI) transaction but does not contain ERI.
+ExternalStatusReason1Code,NOAR,NonAgreedRTP,No existing agreement for receiving request-to-pay messages.
+ExternalStatusReason1Code,NOAS,NoAnswerFromCustomer,No response from Beneficiary.
+ExternalStatusReason1Code,NOCM,NotCompliantGeneric,"Customer account is not compliant with regulatory requirements, for example FICA (in South Africa) or any other regulatory requirements which render an account inactive for certain processing."
+ExternalStatusReason1Code,NOFR,OutstandingFundingForSettlement,Continuous Processing Line on Hold Instruction.
+ExternalStatusReason1Code,NOPG,NoPaymentGuarantee,Requested payment guarantee (by Creditor) related to a request-to-pay cannot be provided.
+ExternalStatusReason1Code,NRCH,PayerOrPayerRTPSPNotReachable,Recipient side of the request-to-pay (payer or its request-to-pay service provider) is not reachable.
+ExternalStatusReason1Code,OBO1,SettlementCompletedReportedOnBehalfOfCreditorAgentWithAmount,Settlement of the transaction has been completed and is reported by an intermediary agent or Payment Market Infrastructure on behalf of the Creditor Agent. The credited amount is known.
+ExternalStatusReason1Code,OBO2,SettlementCompletedReportedOnBehalfOfCreditorAgentWithoutAmount,Settlement of the transaction has been completed and is reported by an intermediary agent or Payment Market Infrastructure on behalf of the Creditor Agent. The credited amount is not known.
+ExternalStatusReason1Code,OSNS,OptionalServiceNotSupported,Requested optional service (for example instalment payments) is not supported.
+ExternalStatusReason1Code,PINS,TypeOfPaymentInstrumentNotSupported,Type of payment requested in the request-to-pay is not supported by the payer.
+ExternalStatusReason1Code,PNRT,PaymentNotAlignedWithRTPRequest,Error code used for RTP-initiated CTR when the pacs.008 details are not aligned with the pain.013 request.
+ExternalStatusReason1Code,RC01,BankIdentifierIncorrect,Bank identifier code specified in the message has an incorrect format (formerly IncorrectFormatForRoutingCode).
+ExternalStatusReason1Code,RC02,InvalidBankIdentifier,Bank identifier is invalid or missing. Generic usage if cannot specify between debit or credit account
+ExternalStatusReason1Code,RC03,InvalidDebtorBankIdentifier,Debtor bank identifier is invalid or missing
+ExternalStatusReason1Code,RC04,InvalidCreditorBankIdentifier,Creditor bank identifier is invalid or missing
+ExternalStatusReason1Code,RC05,InvalidBICIdentifier,BIC identifier is invalid or missing. Generic usage if cannot specify between debit or credit account.
+ExternalStatusReason1Code,RC06,InvalidDebtorBICIdentifier,Debtor BIC identifier is invalid or missing
+ExternalStatusReason1Code,RC07,InvalidCreditorBICIdentifier,Creditor BIC identifier is invalid or missing
+ExternalStatusReason1Code,RC08,InvalidClearingSystemMemberIdentifier,ClearingSystemMemberidentifier is invalid or missing. Generic usage if cannot specify between debit or credit account
+ExternalStatusReason1Code,RC09,InvalidDebtorClearingSystemMemberIdentifier,Debtor ClearingSystemMember identifier is invalid or missing
+ExternalStatusReason1Code,RC10,InvalidCreditorClearingSystemMemberIdentifier,Creditor ClearingSystemMember identifier is invalid or missing
+ExternalStatusReason1Code,RC11,InvalidIntermediaryAgent,Intermediary Agent is invalid or missing
+ExternalStatusReason1Code,RC12,MissingCreditorSchemeId,Creditor Scheme Id is invalid or missing
+ExternalStatusReason1Code,RC13,ParticipantNotAnActiveMemberofRTGS,Originator not active any more.
+ExternalStatusReason1Code,RC15,ParticipantNotActiveMemberSettlementType,Settlement agreement required.
+ExternalStatusReason1Code,RC16,ParticipantNotActiveMemberofSADCRTGS,Participant blocked from SADC-RTGS.
+ExternalStatusReason1Code,RCON,RMessageConflict,Conflict with R-Message
+ExternalStatusReason1Code,RECI,ReceiverCustomerInformation,Further information regarding the intended recipient.
+ExternalStatusReason1Code,REPR,RTPReceivedCanBeProcessed,Request-to-pay has been received and can be processed further.
+ExternalStatusReason1Code,RF01,NotUniqueTransactionReference,Transaction reference is not unique within the message.
+ExternalStatusReason1Code,RQNR,RequestNotRecognized,"Payer did not recognize the request from Payee Participant,"
+ExternalStatusReason1Code,RR01,MissingDebtorAccountOrIdentification,Specification of the debtor’s account or unique identification needed for reasons of regulatory requirements is insufficient or missing
+ExternalStatusReason1Code,RR02,MissingDebtorNameOrAddress,Specification of the debtor’s name and/or address needed for regulatory requirements is insufficient or missing.
+ExternalStatusReason1Code,RR03,MissingCreditorNameOrAddress,Specification of the creditor’s name and/or address needed for regulatory requirements is insufficient or missing.
+ExternalStatusReason1Code,RR04,RegulatoryReason,Regulatory Reason
+ExternalStatusReason1Code,RR05,RegulatoryInformationInvalid,"Regulatory or Central Bank Reporting information missing, incomplete or invalid."
+ExternalStatusReason1Code,RR06,TaxInformationInvalid,"Tax information missing, incomplete or invalid."
+ExternalStatusReason1Code,RR07,RemittanceInformationInvalid,Remittance information structure does not comply with rules for payment type.
+ExternalStatusReason1Code,RR08,RemittanceInformationTruncated,Remittance information truncated to comply with rules for payment type.
+ExternalStatusReason1Code,RR09,InvalidStructuredCreditorReference,Structured creditor reference invalid or missing.
+ExternalStatusReason1Code,RR10,InvalidCharacterSet,Character set supplied not valid for the country and payment type.
+ExternalStatusReason1Code,RR11,InvalidDebtorAgentServiceID,Invalid or missing identification of a bank proprietary service.
+ExternalStatusReason1Code,RR12,InvalidPartyID,Invalid or missing identification required within a particular country or payment type.
+ExternalStatusReason1Code,RTNS,RTPNotSupportedForDebtor,Debtor does not support request-to-pay transactions.
+ExternalStatusReason1Code,RUTA,ReturnUponUnableToApply,Return following investigation request and no remediation possible.
+ExternalStatusReason1Code,S000,ValidRequestForCancellationAcknowledged,Request for Cancellation is acknowledged following validation.
+ExternalStatusReason1Code,S001,UETRFlaggedForCancellation,Unique End-to-end Transaction Reference (UETR) relating to a payment has been identified as being associated with a Request for Cancellation.
+ExternalStatusReason1Code,S002,NetworkStopOfUETR,Unique End-to-end Transaction Reference (UETR) relating to a payment has been prevent from traveling across a messaging network.
+ExternalStatusReason1Code,S003,RequestForCancellationForwarded,Request for Cancellation has been forwarded to the payment processing/last payment processing agent.
+ExternalStatusReason1Code,S004,RequestForCancellationDeliveryAcknowledgement,Request for Cancellation has been acknowledged as delivered to payment processing/last payment processing agent.
+ExternalStatusReason1Code,SBRN,SettlementBatchRemovalNotification,Remove Concurrent Batch Processing Line on hold instruction.
+ExternalStatusReason1Code,SL01,SpecificServiceOfferedByDebtorAgent,Due to specific service offered by the Debtor Agent.
+ExternalStatusReason1Code,SL02,SpecificServiceOfferedByCreditorAgent,Due to specific service offered by the Creditor Agent.
+ExternalStatusReason1Code,SL03,ServiceofClearingSystem,Due to a specific service offered by the clearing system.
+ExternalStatusReason1Code,SL11,CreditorNotOnWhitelistOfDebtor,Whitelisting service offered by the Debtor Agent; Debtor has not included the Creditor on its “Whitelist” (yet). In the Whitelist the Debtor may list all allowed Creditors to debit Debtor bank account.
+ExternalStatusReason1Code,SL12,CreditorOnBlacklistOfDebtor,Blacklisting service offered by the Debtor Agent; Debtor included the Creditor on his “Blacklist”. In the Blacklist the Debtor may list all Creditors not allowed to debit Debtor bank account.
+ExternalStatusReason1Code,SL13,MaximumNumberOfDirectDebitTransactionsExceeded,Due to Maximum allowed Direct Debit Transactions per period service offered by the Debtor Agent.
+ExternalStatusReason1Code,SL14,MaximumDirectDebitTransactionAmountExceeded,Due to Maximum allowed Direct Debit Transaction amount service offered by the Debtor Agent.
+ExternalStatusReason1Code,SL15,MaximumNumberOfCreditTransactionsExceeded,Maximum number of credit transactions allowed by the account servicer per service period exceeded.
+ExternalStatusReason1Code,SL16,MaximumCreditTransactionsAmountExceeded,Maximum total credit amount allowed by the account servicer per service period exceeded.
+ExternalStatusReason1Code,SL17,DebtorNotOnWhitelistOfCreditorSide,Whitelisting service offered by payment system operator or financial institution. Debtor is not included on the Creditor side whitelist.
+ExternalStatusReason1Code,SL18,DebtorOnBlacklistOfCreditorSide,Blacklisting service offered by payment system operator or financial institution. Debtor included on the Creditor side blacklist.
+ExternalStatusReason1Code,SNRD,ServiceNotRendered,Services are not yet rendered by the Payee Participant (Creditor).
+ExternalStatusReason1Code,SPII,RTPServiceProviderIdentifierIncorrect,Identifier of the request-to-pay service provider is incorrect.
+ExternalStatusReason1Code,TA01,TransmissonAborted,The transmission of the file was not successful – it had to be aborted (for technical reasons)
+ExternalStatusReason1Code,TD01,NoDataAvailable,There is no data available (for download)
+ExternalStatusReason1Code,TD02,FileNonReadable,The file cannot be read (e.g. unknown format)
+ExternalStatusReason1Code,TD03,IncorrectFileStructure,The file format is incomplete or invalid
+ExternalStatusReason1Code,TK01,TokenInvalid,Token is invalid.
+ExternalStatusReason1Code,TK02,SenderTokenNotFound,Token used for the sender does not exist.
+ExternalStatusReason1Code,TK03,ReceiverTokenNotFound,Token used for the receiver does not exist.
+ExternalStatusReason1Code,TK09,TokenMissing,Token required for request is missing.
+ExternalStatusReason1Code,TKCM,TokenCounterpartyMismatch,Token found with counterparty mismatch.
+ExternalStatusReason1Code,TKSG,TokenSingleUse,Single Use Token already used.
+ExternalStatusReason1Code,TKSP,TokenSuspended,Token found with suspended status.
+ExternalStatusReason1Code,TKVE,TokenValueLimitExceeded,Token found with value limit rule violation.
+ExternalStatusReason1Code,TKXP,TokenExpired,Token expired.
+ExternalStatusReason1Code,TM01,InvalidCutOffTime,"Associated message, payment information block, or transaction was received after agreed processing cut-off time."
+ExternalStatusReason1Code,TS01,TransmissionSuccessful,The (technical) transmission of the file was successful.
+ExternalStatusReason1Code,TS04,TransferToSignByHand,The order was transferred to pass by accompanying note signed by hand
+ExternalStatusReason1Code,UCRD,UnknownCreditor,Unknown Creditor.
+ExternalStatusReason1Code,UPAY,UnduePayment,Payment is not justified.
+ExternalStatusReason1Code,UTNV,UnderlyingTransactionNotValid,Referenced transaction not found
+ExternalStatusReason1Code,WGDA,WrongDebtorAgent,Wrong Debtor Agent in charge request message
+ExternalStatusReason1Code,WGDB,WrongDebtor,Wrong Debtor in charge request message
+ExternalReturnReason1Code,AC01,IncorrectAccountNumber,Format of the account number specified is not correct
+ExternalReturnReason1Code,AC02,InvalidDebtorAccountNumber,Debtor account number invalid or missing.
+ExternalReturnReason1Code,AC03,InvalidCreditorAccountNumber,Wrong IBAN in SCT
+ExternalReturnReason1Code,AC04,ClosedAccountNumber,Account number specified has been closed on the bank of account's books
+ExternalReturnReason1Code,AC06,BlockedAccount,"Account specified is blocked, prohibiting posting of transactions against it."
+ExternalReturnReason1Code,AC07,ClosedCreditorAccountNumber,Creditor account number closed.
+ExternalReturnReason1Code,AC13,InvalidDebtorAccountType,Debtor account type is missing or invalid
+ExternalReturnReason1Code,AC14,InvalidAgent,An agent in the payment chain is invalid.
+ExternalReturnReason1Code,AC15,AccountDetailsChanged,Account details have changed.
+ExternalReturnReason1Code,AC16,AccountInSequestration,Account is in sequestration.
+ExternalReturnReason1Code,AC17,AccountInLiquidation,Account is in liquidation.
+ExternalReturnReason1Code,AG01,TransactionForbidden,Transaction forbidden on this type of account (formerly NoAgreement)
+ExternalReturnReason1Code,AG02,InvalidBankOperationCode,Bank Operation code specified in the message is not valid for receiver
+ExternalReturnReason1Code,AG07,UnsuccesfulDirectDebit,Debtor account cannot be debited for a generic reason. Usage: Code value may be used in general purposes and as a replacement for AM04 if debtor bank does not reveal its customer's insufficient funds for privacy reasons.
+ExternalReturnReason1Code,AGNT,IncorrectAgent,Agent in the payment workflow is incorrect.
+ExternalReturnReason1Code,AM01,ZeroAmount,Specified message amount is equal to zero
+ExternalReturnReason1Code,AM02,NotAllowedAmount,Specific transaction/message amount is greater than allowed maximum
+ExternalReturnReason1Code,AM03,NotAllowedCurrency,Specified message amount is an non processable currency outside of existing agreement
+ExternalReturnReason1Code,AM04,InsufficientFunds,Amount of funds available to cover specified message amount is insufficient.
+ExternalReturnReason1Code,AM05,Duplication,Duplication
+ExternalReturnReason1Code,AM06,TooLowAmount,Specified transaction amount is less than agreed minimum.
+ExternalReturnReason1Code,AM07,BlockedAmount,Amount specified in message has been blocked by regulatory authorities.
+ExternalReturnReason1Code,AM09,WrongAmount,Amount received is not the amount agreed or expected
+ExternalReturnReason1Code,AM10,InvalidControlSum,Sum of instructed amounts does not equal the control sum.
+ExternalReturnReason1Code,ARDT,AlreadyReturnedTransaction,Already returned original SCT
+ExternalReturnReason1Code,BE01,InconsistentWithEndCustomer,"Identification of end customer is not consistent with associated account number, organisation ID or private ID."
+ExternalReturnReason1Code,BE04,MissingCreditorAddress,"Specification of creditor's address, which is required for payment, is missing/not correct (formerly IncorrectCreditorAddress)."
+ExternalReturnReason1Code,BE05,UnrecognisedInitiatingParty,Party who initiated the message is not recognised by the end customer
+ExternalReturnReason1Code,BE06,UnknownEndCustomer,End customer specified is not known at associated Sort/National Bank Code or does no longer exist in the books
+ExternalReturnReason1Code,BE07,MissingDebtorAddress,"Specification of debtor's address, which is required for payment, is missing/not correct."
+ExternalReturnReason1Code,BE08,BankError,Returned as a result of a bank error.
+ExternalReturnReason1Code,BE10,InvalidDebtorCountry,Debtor country code is missing or invalid.
+ExternalReturnReason1Code,BE11,InvalidCreditorCountry,Creditor country code is missing or invalid.
+ExternalReturnReason1Code,BE16,InvalidDebtorIdentificationCode,Debtor or Ultimate Debtor identification code missing or invalid.
+ExternalReturnReason1Code,BE17,InvalidCreditorIdentificationCode,Creditor or Ultimate Creditor identification code missing or invalid.
+ExternalReturnReason1Code,CN01,AuthorisationCancelled,Authorisation is cancelled.
+ExternalReturnReason1Code,CNOR,CreditorBankIsNotRegistered,Creditor bank is not registered under this BIC in the CSM
+ExternalReturnReason1Code,CNPC,CashNotPickedUp,Cash not picked up by Creditor or cash could not be delivered to Creditor
+ExternalReturnReason1Code,CURR,IncorrectCurrency,Currency of the payment is incorrect
+ExternalReturnReason1Code,CUST,RequestedByCustomer,Cancellation requested by the Debtor
+ExternalReturnReason1Code,DC04,NoCustomerCreditTransferReceived,Return of Covering Settlement due to the underlying Credit Transfer details not being received.
+ExternalReturnReason1Code,DNOR,DebtorBankIsNotRegistered,Debtor bank is not registered under this BIC in the CSM
+ExternalReturnReason1Code,DS28,ReturnForTechnicalReason,Return following technical problems resulting in erroneous transaction.
+ExternalReturnReason1Code,DT01,InvalidDate,"Invalid date (eg, wrong settlement date)"
+ExternalReturnReason1Code,DT02,ChequeExpired,Cheque has been issued but not deposited and is considered expired.
+ExternalReturnReason1Code,DT04,FutureDateNotSupported,Future date not supported.
+ExternalReturnReason1Code,DUPL,DuplicatePayment,Payment is a duplicate of another payment.
+ExternalReturnReason1Code,ED01,CorrespondentBankNotPossible,Correspondent bank not possible.
+ExternalReturnReason1Code,ED03,BalanceInfoRequest,Balance of payments complementary info is requested
+ExternalReturnReason1Code,ED05,SettlementFailed,Settlement of the transaction has failed.
+ExternalReturnReason1Code,EMVL,EMVLiabilityShift,The card payment is fraudulent and was not processed with EMV technology for an EMV card.
+ExternalReturnReason1Code,ERIN,ERIOptionNotSupported,The Extended Remittance Information (ERI) option is not supported.
+ExternalReturnReason1Code,FF03,InvalidPaymentTypeInformation,Payment Type Information is missing or invalid. Generic usage if cannot specify Service Level or Local Instrument code.
+ExternalReturnReason1Code,FF04,InvalidServiceLevelCode,Service Level code is missing or invalid.
+ExternalReturnReason1Code,FF05,InvalidLocalInstrumentCode,Local Instrument code is missing or invalid
+ExternalReturnReason1Code,FF06,InvalidCategoryPurposeCode,Category Purpose code is missing or invalid.
+ExternalReturnReason1Code,FF07,InvalidPurpose,Purpose is missing or invalid.
+ExternalReturnReason1Code,FOCR,FollowingCancellationRequest,Return following a cancellation request
+ExternalReturnReason1Code,FR01,Fraud,Returned as a result of fraud.
+ExternalReturnReason1Code,FRTR,FinalResponseMandateCancelled,Final response/tracking is recalled as mandate is cancelled.
+ExternalReturnReason1Code,G004,CreditPendingFunds,"In a FIToFI Customer Credit Transfer: Credit to the creditor’s account is pending, status Originator is waiting for funds provided via a cover. Update will follow from the Status Originator."
+ExternalReturnReason1Code,MD01,NoMandate,No Mandate
+ExternalReturnReason1Code,MD02,MissingMandatoryInformationInMandate,Mandate related information data required by the scheme is missing.
+ExternalReturnReason1Code,MD05,CollectionNotDue,Creditor or creditor's agent should not have collected the direct debit.
+ExternalReturnReason1Code,MD06,RefundRequestByEndCustomer,Return of funds requested by end customer
+ExternalReturnReason1Code,MD07,EndCustomerDeceased,End customer is deceased.
+ExternalReturnReason1Code,MS02,NotSpecifiedReasonCustomerGenerated,Reason has not been specified by end customer
+ExternalReturnReason1Code,MS03,NotSpecifiedReasonAgentGenerated,Reason has not been specified by agent.
+ExternalReturnReason1Code,NARR,Narrative,Reason is provided as narrative information in the additional reason information.
+ExternalReturnReason1Code,NOAS,NoAnswerFromCustomer,No response from Beneficiary
+ExternalReturnReason1Code,NOCM,NotCompliant,"Customer account is not compliant with regulatory requirements, for example FICA (in South Africa) or any other regulatory requirements which render an account inactive for certain processing."
+ExternalReturnReason1Code,NOOR,NoOriginalTransactionReceived,Original SCT never received
+ExternalReturnReason1Code,PINL,PINLiabilityShift,The card payment is fraudulent (lost and stolen fraud) and was processed as EMV transaction without PIN verification.
+ExternalReturnReason1Code,RC01,BankIdentifierIncorrect,Bank Identifier code specified in the message has an incorrect format (formerly IncorrectFormatForRoutingCode).
+ExternalReturnReason1Code,RC03,InvalidDebtorBankIdentifier,Debtor bank identifier is invalid or missing.
+ExternalReturnReason1Code,RC04,InvalidCreditorBankIdentifier,Creditor bank identifier is invalid or missing.
+ExternalReturnReason1Code,RC07,InvalidCreditorBICIdentifier,Incorrrect BIC of the beneficiary Bank in the SCTR
+ExternalReturnReason1Code,RC08,InvalidClearingSystemMemberIdentifier,ClearingSystemMemberidentifier is invalid or missing. Generic usage if cannot specify between debit or credit account.
+ExternalReturnReason1Code,RC11,InvalidIntermediaryAgent,Intermediary Agent is invalid or missing.
+ExternalReturnReason1Code,RF01,NotUniqueTransactionReference,Transaction reference is not unique within the message.
+ExternalReturnReason1Code,RR01,MissingDebtorAccountOrIdentification,Specification of the debtor’s account or unique identification needed for reasons of regulatory requirements is insufficient or missing
+ExternalReturnReason1Code,RR02,MissingDebtorNameOrAddress,Specification of the debtor’s name and/or address needed for regulatory requirements is insufficient or missing.
+ExternalReturnReason1Code,RR03,MissingCreditorNameOrAddress,Specification of the creditor’s name and/or address needed for regulatory requirements is insufficient or missing.
+ExternalReturnReason1Code,RR04,RegulatoryReason,Regulatory Reason
+ExternalReturnReason1Code,RR05,RegulatoryInformationInvalid,"Regulatory or Central Bank Reporting information missing, incomplete or invalid."
+ExternalReturnReason1Code,RR06,TaxInformationInvalid,"Tax information missing, incomplete or invalid."
+ExternalReturnReason1Code,RR07,RemittanceInformationInvalid,Remittance information structure does not comply with rules for payment type.
+ExternalReturnReason1Code,RR08,RemittanceInformationTruncated,Remittance information truncated to comply with rules for payment type.
+ExternalReturnReason1Code,RR09,InvalidStructuredCreditorReference,Structured creditor reference invalid or missing.
+ExternalReturnReason1Code,RR11,InvalidDebtorAgentServiceIdentification,Invalid or missing identification of a bank proprietary service.
+ExternalReturnReason1Code,RR12,InvalidPartyIdentification,Invalid or missing identification required within a particular country or payment type.
+ExternalReturnReason1Code,RUTA,ReturnUponUnableToApply,Return following investigation request and no remediation possible.
+ExternalReturnReason1Code,SL01,SpecificServiceOfferedByDebtorAgent,Due to specific service offered by the Debtor Agent
+ExternalReturnReason1Code,SL02,SpecificServiceOfferedByCreditorAgent,Due to specific service offered by the Creditor Agent
+ExternalReturnReason1Code,SL11,CreditorNotOnWhitelistOfDebtor,Whitelisting service offered by the Debtor Agent; Debtor has not included the Creditor on its “Whitelist” (yet). In the Whitelist the Debtor may list all allowed Creditors to debit Debtor bank account.
+ExternalReturnReason1Code,SL12,CreditorOnBlacklistOfDebtor,Blacklisting service offered by the Debtor Agent; Debtor included the Creditor on his “Blacklist”. In the Blacklist the Debtor may list all Creditors not allowed to debit Debtor bank account.
+ExternalReturnReason1Code,SL13,MaximumNumberOfDirectDebitTransactionsExceeded,Due to Maximum allowed Direct Debit Transactions per period service offered by the Debtor Agent.
+ExternalReturnReason1Code,SL14,MaximumDirectDebitTransactionAmountExceeded,Due to Maximum allowed Direct Debit Transaction amount service offered by the Debtor Agent.
+ExternalReturnReason1Code,SP01,PaymentStopped,Payment is stopped by account holder.
+ExternalReturnReason1Code,SP02,PreviouslyStopped,Previously stopped by means of a stop payment advise.
+ExternalReturnReason1Code,SVNR,ServiceNotRendered,"The card payment is returned since a cash amount rendered was not correct or goods or a service was not rendered to the customer, e.g. in an e-commerce situation."
+ExternalReturnReason1Code,TM01,CutOffTime,Associated message was received after agreed processing cut-off time.
+ExternalReturnReason1Code,TRAC,RemovedFromTracking,Return following direct debit being removed from tracking process.
+ExternalReturnReason1Code,UPAY,UnduePayment,Payment is not justified.
+ExternalReversalReason1Code,AC03,InvalidCreditorAccountNumber,Wrong IBAN in SCT
+ExternalReversalReason1Code,AC04,ClosedAccountNumber,Account number specified has been closed on the Receiver's books
+ExternalReversalReason1Code,AG02,InvalidBankOperationCode,Bank Operation code specified in the message is not valid for receiver
+ExternalReversalReason1Code,AM05,Duplication,Duplication
+ExternalReversalReason1Code,AM09,WrongAmount,Wrong amount in SCT
+ExternalReversalReason1Code,MD01,NoMandate,No Mandate
+ExternalReversalReason1Code,MD05,CollectionNotDue,Creditor or creditor's agent should not have collected the direct debit
+ExternalReversalReason1Code,MS02,NotSpecifiedReasonCustomerGenerated,Reason has not been specified by end customer
+ExternalReversalReason1Code,MS03,NotSpecifiedReasonAgentGenerated,Reason has not been specified by agent.
+ExternalReversalReason1Code,RC07,InvalidCreditorBICIdentifier,Wrong BIC in SCT
+ExternalReversalReason1Code,TM01,CutOffTime,Associated message was received after agreed processing cut-off time.
+ExternalCancellationReason1Code,AC02,InvalidDebtorAccountNumber,Debtor account number invalid or missing.
+ExternalCancellationReason1Code,AC03,InvalidCreditorAccountNumber,Wrong account number in Credit Transfer.
+ExternalCancellationReason1Code,AGNT,IncorrectAgent,Agent in the payment workflow is incorrect.
+ExternalCancellationReason1Code,AM09,WrongAmount,Amount is not the amount agreed or expected.
+ExternalCancellationReason1Code,BE16,InvalidDebtorIdentificationCode,Debtor or Ultimate Debtor identification code missing or invalid.
+ExternalCancellationReason1Code,BIAS,BatchInstructionAlreadySettled,Process a cancellation request but batch already settled.
+ExternalCancellationReason1Code,COVR,CoverCancelledOrReturned,Cover payments has either been returned or cancelled.
+ExternalCancellationReason1Code,CURR,IncorrectCurrency,Currency of the payment is incorrect.
+ExternalCancellationReason1Code,CUST,RequestedByCustomer,Cancellation requested by the Debtor.
+ExternalCancellationReason1Code,CUTA,CancelUponUnableToApply,Cancellation requested because an investigation request has been received and no remediation is possible.
+ExternalCancellationReason1Code,DRTP,DuplicationRequestToPay,Duplication of a request-to-pay message.
+ExternalCancellationReason1Code,DS24,TimeOut,Cancellation requested because the original payment order expired due to time-out.
+ExternalCancellationReason1Code,DT01,InvalidDate,"Invalid date (for example, wrong or missing settlement date)."
+ExternalCancellationReason1Code,DUPL,DuplicatePayment,Payment is a duplicate of another payment.
+ExternalCancellationReason1Code,ECAG,ErrorCreditorAgent,Payee (Creditor) cancels the Request To Pay (RTP) request due to error or adjustment agreement with Payer/Debtor.
+ExternalCancellationReason1Code,ENUE,EndUserError,Cancellation or request for return requested by the Debtor specifically due to one or more errors by debtor in the original Credit Transfer. Usage: This code can be used for any error in the original Credit Transfer made by the Debtor. Can also be used if multiple errors were made in the original Credit Transfer.
+ExternalCancellationReason1Code,FRAD,FraudulentOrigin,Cancellation requested following a transaction that was originated fraudulently. The use of the FraudulentOrigin code should be governed by jurisdictions.
+ExternalCancellationReason1Code,FRNA,ForwardToNextAgent,"To complement a rejection response, suggesting the request for cancelation should be forwarded to the next agent in the payment transaction chain."
+ExternalCancellationReason1Code,FRTR,FinalResponse,Direct Debit Tracking recalled as Mandate Cancelled.
+ExternalCancellationReason1Code,INCR,InvalidCancellationRequest,Process a cancellation request with incorrect reference to original batch.
+ExternalCancellationReason1Code,INDM,IndemnityRequired,To express the wish to establish a bilateral indemnity agreement.
+ExternalCancellationReason1Code,MD06,RefundRequestByEndCustomer,Return of funds requested by end customer.
+ExternalCancellationReason1Code,MODT,ModifiedTransaction,The underlying transaction in relation to an RTP was modified.
+ExternalCancellationReason1Code,NARR,Narrative,Reason is provided as narrative information in the additional reason information.
+ExternalCancellationReason1Code,NFNA,NeverForwardToNextAgent,"To complement a cancellation request, instructing the market infrastructure that the request for cancelation should not be forwarded to the next agent in the payment transaction chain."
+ExternalCancellationReason1Code,PAID,TransactionAlreadyPaid,The underlying transaction in relation to an RTP was already paid (via other means).
+ExternalCancellationReason1Code,PPRC,PayeeParticipantRTPCancellation,Request to Pay cancellation initiated because the Payee is not in good standing.
+ExternalCancellationReason1Code,SVNR,ServiceNotRendered,"The payment is cancelled since a cash amount rendered was not correct or goods or a service was not rendered to the customer, e.g. in an e-commerce situation."
+ExternalCancellationReason1Code,SYAD,RequestToSettlementSystemAdministrator,Cancellation requested by System Member to Settlement System Administrator to indicate that the cancellation request must not be forwarded further in the chain.
+ExternalCancellationReason1Code,TECH,TechnicalProblem,Cancellation requested following technical problems resulting in an erroneous transaction.
+ExternalCancellationReason1Code,UAPA,UnauthorizedPayment,The Debtor is requesting a return of the payment because the payment was not properly authorized. Usage: This code can be used in the case where a Credit Transfer was made without proper authorization from the Debtor. This could be due to compromised end user credentials.
+ExternalCancellationReason1Code,UPAY,UnduePayment,Payment is not justified.
+ExternalCancellationReason1Code,WNTB,WarrantyBreach,Breach of warranty provided in connection with a request for payment.
+ExternalPaymentCancellationRejection1Code,AACR,AlreadyAcceptedRTP,Request-to-pay (RTP) has already been accepted.
+ExternalPaymentCancellationRejection1Code,AC04,ClosedAccountNumber,Account number specified has been closed on the receiver’s books.
+ExternalPaymentCancellationRejection1Code,ACLR,AlreadyCancelledRTP,Request-to-pay has already been cancelled.
+ExternalPaymentCancellationRejection1Code,ADAC,AwaitingDebitAuthorityFromCustomer,Reported when the cancellation request cannot be processed because customer has not yet provided the debit authority on its account.
+ExternalPaymentCancellationRejection1Code,AEXR,AlreadyExpiredRTP,Request-to-pay Expiry Date and Time has already passed.
+ExternalPaymentCancellationRejection1Code,AGNT,AgentDecision,Reported when the cancellation cannot be accepted because of an agent refuses to cancel.
+ExternalPaymentCancellationRejection1Code,AM04,InsufficientFunds,Amount of funds available to cover specified message amount is insufficient.
+ExternalPaymentCancellationRejection1Code,ARDT,AlreadyReturned,Cancellation not accepted as the transaction has already been returned.
+ExternalPaymentCancellationRejection1Code,ARFR,AlreadyRefusedRTP,Request-to-pay has already been refused by the Debtor.
+ExternalPaymentCancellationRejection1Code,ARJR,AlreadyRejectedRTP,Request-to-pay has already been rejected.
+ExternalPaymentCancellationRejection1Code,ARJT,AlreadyRejectedTransaction,Underlying transaction already rejected.
+ExternalPaymentCancellationRejection1Code,ARPL,AwaitinReply,Reported when the cancellation request cannot be processed because no reply has been received yet from the receiver of the request message.
+ExternalPaymentCancellationRejection1Code,CUST,CustomerDecision,Reported when the cancellation cannot be accepted because of a customer decision (Creditor).
+ExternalPaymentCancellationRejection1Code,INDM,CancellationIndemnityRequired,Complementing a Pending or Reject Status. Payment cancellation request cannot be accepted until an indemnity agreement is established.
+ExternalPaymentCancellationRejection1Code,LEGL,LegalDecision,Reported when the cancellation cannot be accepted because of regulatory rules.
+ExternalPaymentCancellationRejection1Code,NARR,Narrative,Reason is provided as narrative information in the additional reason information.
+ExternalPaymentCancellationRejection1Code,NOAS,NoAnswerFromCustomer,No response from beneficiary (to the cancellation request).
+ExternalPaymentCancellationRejection1Code,NOOR,NoOriginalTransactionReceived,Original transaction (subject to cancellation) never received.
+ExternalPaymentCancellationRejection1Code,PATE,PaymentAlreadyTransmittedExecution,Payment related to the request-to-pay has already been transmitted for execution.
+ExternalPaymentCancellationRejection1Code,PTNA,PassedToTheNextAgent,Reported when the cancellation request cannot be accepted because the payment instruction has been passed to the next agent.
+ExternalPaymentCancellationRejection1Code,RCAR,RfCAlreadyRejected,Request for cancellation of the request-to-pay has already been rejected.
+ExternalPaymentCancellationRejection1Code,RCNR,RfCNeverReceived,Request for cancellation of the request-to-pay has never been received.
+ExternalPaymentCancellationRejection1Code,RCPR,RfCReceivedAndProcessed,Request for cancellation of the request-to-pay has already been received and processed.
+ExternalPaymentCancellationRejection1Code,RQDA,RequestingDebitAuthority,Reported when authority is required by the Creditor to return the payment.
+ExternalPaymentCancellationRejection1Code,RR04,RegulatoryReason,Regulatory Reason.
+ExternalPaymentCancellationRejection1Code,URTP,UnknownRTP,Request-to-pay is unknown.
+ExternalPaymentCancellationRejection1Code,WSEQ,WrongSequence,Reported when the cancellation request cannot be processed because the sequence referred to in the request is not valid.
+ExternalEntryStatus1Code,BOOK,Booked,"Booked means that the transfer of money has been completed between account servicer and account owner. Usage: Status Booked does not necessarily imply finality of money as this depends on other factors such as the payment system used, the completion of the end-to-end transaction and the terms agreed between account servicer and owner. Status Booked is the only status that can be reversed."
+ExternalEntryStatus1Code,FUTR,Future,Entry is on the books of the account servicer and value will be applied to the account owner at a future date and time.
+ExternalEntryStatus1Code,INFO,Information,"Entry is only provided for information, and no booking on the account owner's account in the account servicer's ledger has been performed."
+ExternalEntryStatus1Code,PDNG,Pending,"Booking on the account owner's account in the account servicer's ledger has not been completed. Usage: this can be used for expected items, or for items for which some conditions still need to be fulfilled before they can be booked. If booking takes place, the entry will be included with status Booked in subsequent account report or statement. Status Pending cannot be reversed."
+ExternalBalanceType1Code,CLAV,ClosingAvailable,Closing balance of amount of money that is at the disposal of the account owner on the date specified.
+ExternalBalanceType1Code,CLBD,ClosingBooked,Balance of the account at the end of the pre-agreed account reporting period. It is the sum of the opening booked balance at the beginning of the period and all entries booked to the account during the pre-agreed account reporting period.
+ExternalBalanceType1Code,FWAV,ForwardAvailable,Forward available balance of money that is at the disposal of the account owner on the date specified.
+ExternalBalanceType1Code,INFO,Information,Balance for informational purposes.
+ExternalBalanceType1Code,ITAV,InterimAvailable,"Available balance calculated in the course of the account servicer's business day, at the time specified, and subject to further changes during the business day. The interim balance is calculated on the basis of booked credit and debit items during the calculation time/period specified."
+ExternalBalanceType1Code,ITBD,InterimBooked,"Balance calculated in the course of the account servicer's business day, at the time specified, and subject to further changes during the business day. The interim balance is calculated on the basis of booked credit and debit items during the calculation time/period specified."
+ExternalBalanceType1Code,OPAV,OpeningAvailable,Opening balance of amount of money that is at the disposal of the account owner on the date specified.
+ExternalBalanceType1Code,OPBD,OpeningBooked,Book balance of the account at the beginning of the account reporting period. It always equals the closing book balance from the previous report.
+ExternalBalanceType1Code,PRCD,PreviouslyClosedBooked,Balance of the account at the previously closed account reporting period. The opening booked balance for the new period has to be equal to this balance. Usage: the previously booked closing balance should equal (inclusive date) the booked closing balance of the date it references and equal the actual booked opening balance of the current date.
+ExternalBalanceType1Code,XPCD,Expected,"Balance, composed of booked entries and pending items known at the time of calculation, which projects the end of day balance if everything is booked on the account and no other entry is posted."
