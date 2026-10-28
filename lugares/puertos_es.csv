@@ -1,0 +1,597 @@
+port_code,name,unlocode,is_general_interest,status,province_code,municipality_code,latitude,longitude
+030140000001,Puerto de Alicante,ESALC,1,operativo,03,03014,38.336476,-0.492814
+030140000002,Puerto del Real Club de Regatas,,0,operativo,03,03014,38.351473,-0.466533
+030140000003,Puerto de Costa Blanca,,0,operativo,03,03014,38.361300,-0.439913
+030140000004,Puerto de Isla deTabarca,,0,operativo,03,03014,38.167046,-0.478082
+030180000001,Puerto de Altea,,0,operativo,03,03018,38.588248,-0.057507
+030180000002,Puerto de El Portet de L'Olla,,0,operativo,03,03018,38.614704,-0.032109
+030180000003,Puerto de Marina Greenwich,,0,operativo,03,03018,38.628665,-0.000978
+030180000004,Puerto de La Galera,,0,operativo,03,03018,38.623504,-0.018225
+030310000001,Puerto de Benidorm,ESBEM,0,operativo,03,03031,38.534723,-0.132727
+030470000001,Puerto de Puerto Blanco,,0,operativo,03,03047,38.635125,0.034452
+030470000002,Puerto de Les Bassetes,,0,operativo,03,03041,38.659335,0.084888
+030470000003,Puerto de Calpe,,0,operativo,03,03047,38.639263,0.069085
+030500000001,Puerto de El Campello,,0,operativo,03,03050,38.430590,-0.386932
+030630000001,Puerto de Denia,ESDNA,0,operativo,03,03063,38.845463,0.113795
+030760000001,Puerto de Marina de Las Dunas,,0,operativo,03,03076,38.109838,-0.645010
+030820000002,Puerto de Jávea,ESJAV,0,operativo,03,03082,38.797188,0.184221
+030820000003,Puerto de Nou Fontana,,0,operativo,03,03082,38.774996,0.186369
+030820000004,Canal de La Fontana,,0,operativo,03,03082,38.774955,0.188334
+030990000001,Puerto de Dehesa de Campoamor,ESCPA,0,operativo,03,03099,37.899109,-0.749152
+030990000002,Puerto de Cabo Roig,ESCRG,0,operativo,03,03099,37.912602,-0.726967
+031210000002,Puerto de Santa Pola,ESSPO,0,operativo,03,03121,38.189373,-0.560560
+031210000003,Puerto Salinero del Tamarit,,0,operativo,03,03121,38.188909,-0.592476
+031210000004,Puerto de Salinas,,0,operativo,03,03121,38.166138,-0.618516
+031280000001,Puerto de Moraira,,0,operativo,03,03128,38.686577,0.134830
+031330000001,Puerto de Torrevieja,ESTOR,0,operativo,03,03133,37.970258,-0.680754
+031390000001,Puerto de Villajoyosa,,0,operativo,03,03139,38.509121,-0.216650
+039020000001,Puerto de Torre de la Horadada,ESTHO,0,operativo,03,03902,37.867540,-0.758867
+040030000002,Puerto Deportivo de Adra,ESADR,0,operativo,04,04003,36.745325,-3.023456
+040130000003,Puerto de la Isla de Alaboran,,0,operativo,04,04013,35.938347,-3.034277
+040130000008,Muelle de Poniente,,0,operativo,04,04013,35.938083,-3.036479
+040130000009,Puerto de Almería,ESLEI,1,operativo,04,04013,36.833333,-2.466667
+040320000006,Puerto de Carboneras,ESCRS,1,operativo,04,04032,36.975635,-1.900800
+040320000013,Puerto Pesquero de Carboneras,ESCRS,0,operativo,04,04032,36.988078,-1.898142
+040350000004,Puerto Deportivo de Villaricos,,0,operativo,04,04035,37.250328,-1.767139
+040350000012,Puerto de Villaricos,,0,operativo,04,04035,37.245350,-1.771978
+040490000005,Puerto Deportivo de Garrucha,ESGAR,0,operativo,04,04049,37.178844,-1.816500
+040660000010,Puerto Deportivo de San José,,0,operativo,04,04066,36.762512,-2.103936
+040790000001,Puerto Deportivo de Roquetas de Mar,,0,operativo,04,04079,36.757558,-2.603133
+040790000011,Puerto Deportivo de Aguadulce,,0,operativo,04,04079,36.813100,-2.562328
+049020000007,Puerto Deportivo de Almerimar,,0,operativo,04,04902,36.696594,-2.797739
+060360000001,Embarcadero Isla de Zújar,,0,operativo,06,06036,38.910524,-5.430196
+060970000006,Puerto deportivo Orellana La Vieja,,0,operativo,06,06097,38.995735,-5.523453
+070030000021,Puerto de Alcúdia,,1,operativo,07,07003,39.832356,3.141111
+070030000022,Puerto Instal·lació Portuària des Barcarès,,0,operativo,07,07003,39.863354,3.117980
+070030000023,Puerto Ponset,,0,operativo,07,07003,39.837697,3.157815
+070030000037,Puerto Deportivo El Cocodrilo de Bonaire,,0,operativo,07,07003,39.866026,3.145921
+070050000046,Port d'Andratx,,0,operativo,07,07005,39.546142,2.384369
+070050000047,Puerto Instal·lació Portuària de Sant Elm,,0,operativo,07,07005,39.578892,2.349984
+070050000048,Puerto Instal·lació Portuària de Cala Lledó,,0,operativo,07,07005,39.587688,2.328490
+070060000031,Club Nàutic Colònia de Sant Pere,,0,operativo,07,07006,39.737573,3.275942
+070060000032,Instal·lació Portuària de Cala Moltó,,0,operativo,07,07006,39.774195,3.332873
+070070000001,Instal·lació Portuària de Banyalbufar,,0,operativo,07,07007,39.691245,2.516713
+070110000042,Escuela Nacional de Vela Calanova,,0,operativo,07,07040,39.549497,2.598045
+070110000043,Port Esportiu de Portals Vells,,0,operativo,07,07011,39.475093,2.522937
+070110000047,Port Esportiu de Santa Ponça,,0,operativo,07,07011,39.508849,2.467247
+070110000048,Port Adriano,,0,operativo,07,07011,39.487504,2.477582
+070110000049,Port Portals,,0,operativo,07,07011,39.529414,2.569658
+070110000050,Port de Palmanova,,0,operativo,07,07011,39.524895,2.541352
+070130000030,Club Nàutic Sa Ràpita,,0,operativo,07,07013,39.361263,2.951029
+070140000040,Port de Cala Ratjada,,0,operativo,07,07014,39.709977,3.463974
+070150000033,Port de Ciutadella,,0,operativo,07,07015,40.002643,3.835962
+070150000034,Puerto de Cala'n Bosch,,0,operativo,07,07015,39.927679,3.834994
+070150000035,Puerto Galdana,,0,operativo,07,07015,39.939598,3.958730
+070180000001,Puerto de Deiá,,0,operativo,07,07018,39.760176,2.640941
+070190000001,Puerto Instal·lació Portuària de sa Calobra,,0,operativo,07,07019,39.850966,2.799992
+070210000001,Puerto Instal·lació Portuària d'Estallencs,,0,operativo,07,07021,39.658837,2.472027
+070220000052,Port de Portocolom,,0,operativo,07,07022,39.425915,3.263754
+070240000024,Puerto de La Savina,,1,operativo,07,07024,38.734494,1.415957
+070240000025,Puerto Es Caló,,0,operativo,07,07024,38.677527,1.516830
+070240000026,Puerto Saona,,0,operativo,07,07024,38.692768,1.387904
+070240000027,Puerto,,0,operativo,07,07024,38.727311,1.417041
+070240000028,Puerto Fomentara,,0,operativo,07,07024,38.684166,1.466906
+070260000023,Puerto de Eivissa,,1,operativo,07,07026,38.910314,1.442143
+070260000024,Puerto,,0,operativo,07,07026,38.912870,1.452315
+070260000025,Puerto Ses Figueres,,0,operativo,07,07026,38.917800,1.460589
+070260000026,Puerto Punta d'Abaix,,0,operativo,07,07026,38.896537,1.415141
+070310000045,Club Nàutic S'Arenal,,0,operativo,07,07031,39.500530,2.749562
+070310000046,Instal·lació Portuària de s'Estanyol II,,0,operativo,07,07031,39.356072,2.914586
+070310000051,Club Nàutic s'Estanyol,,0,operativo,07,07031,39.359702,2.917370
+070320000026,Puerto de Maó,,1,operativo,07,07032,39.892944,4.279666
+070320000030,Puerto de Es Grau,,0,operativo,07,07032,39.951023,4.269347
+070320000031,Canutells,,0,operativo,07,07032,39.851876,4.168463
+070330000038,Port de Porto Cristo,,0,operativo,07,07033,39.537758,3.332604
+070370000035,Port de Fornells,,0,operativo,07,07037,40.054574,4.130386
+070370000036,Port de Addaya,,0,operativo,07,07037,40.007054,4.197637
+070400000020,Puerto de Palma,,1,operativo,07,07040,39.564546,2.641367
+070400000021,Puerto Instal·lació Portuària de Cabrera (Cabrera),,0,operativo,07,07040,39.151174,2.933370
+070400000041,Club Náutico de Es Portixol,,0,operativo,07,07040,39.559475,2.670228
+070400000043,Club Náutico de Cala Gamba,,0,operativo,07,07040,39.547067,2.693886
+070400000044,Port de Can Pastilla,,0,operativo,07,07040,39.533242,2.714360
+070400000073,Club Marítimo Molinar,,0,operativo,07,07040,39.557925,2.675103
+070420000036,Port de Pollença,,0,operativo,07,07042,39.903879,3.085221
+070420000037,Base de Hidros de Pollensa,,0,operativo,07,07042,39.907847,3.101906
+070420000038,Instal·lació Portuària de Formentor,,0,operativo,07,07042,39.927938,3.135932
+070460000032,Port de Sant Antoni,ESPNY,0,operativo,07,07046,38.978533,1.302143
+070480000001,Puerto de Coralmar,,0,operativo,07,07048,38.944395,1.234232
+070480000002,Puerto Sa Caleta,,0,operativo,07,07048,38.868460,1.334586
+070480000003,Puerto Es Boldado,,0,operativo,07,07048,38.890534,1.221671
+070480000004,Puerto de Vedella,,0,operativo,07,07048,38.914439,1.223489
+070480000005,Puerto Sant Josep de sa Talaia,,0,operativo,07,07048,38.839139,1.381683
+070500000001,Puerto Es Canaret,,0,operativo,07,07050,39.102652,1.485119
+070520000001,Cala Alcaufar,,0,operativo,07,07052,39.829064,4.292941
+070520000002,Son Ganxxo,,0,operativo,07,07052,39.812443,4.263583
+070520000003,Club Marítim Binisafua Roters,,0,operativo,07,07052,39.824770,4.224212
+070540000025,Port de Santa Eulalia del Río,ESSTE,0,operativo,07,07054,38.984550,1.541250
+070540000027,Embarcadero Sa Punta,,0,operativo,07,07054,38.914905,1.463265
+070540000028,Puerto Mastella,,0,operativo,07,07054,39.024289,1.596706
+070540000029,Puerto Pou d'es Lleo,,0,operativo,07,07054,39.034987,1.609655
+070550000028,Puerto Deportivo Ca'n Picafort,,0,operativo,07,07055,39.764844,3.161899
+070550000029,Club Nàutic de Serra Nova,,0,operativo,07,07055,39.738938,3.222034
+070570000053,Puerto Deportivo Marina de Cala d'Or,,0,operativo,07,07057,39.369049,3.223418
+070570000054,Porto Petro,,0,operativo,07,07057,39.360892,3.210332
+070570000055,Port de Cala Figuera,,0,operativo,07,07057,39.331991,3.167210
+070570000056,Puerto Calo d' en Boira,,0,operativo,07,07057,39.333493,3.169394
+070590000029,Port de sa Colònia de Sant Jordi,ESSJ2,0,operativo,07,07059,39.315063,2.998148
+070590000030,Instal·lació Portuària des Coto,,0,operativo,07,07059,39.325936,2.986878
+070610000027,Port de Sóller,,0,operativo,07,07061,39.795936,2.693176
+070620000039,Port de Cala Bona,,0,operativo,07,07062,39.613701,3.392350
+070620000040,Puerto Son Servera,,0,operativo,07,07062,39.635472,3.413404
+070630000026,Port de Valdemossa,,0,operativo,07,07063,39.718282,2.587423
+070630000027,Calo de s'Estaca,,0,operativo,07,07063,39.735593,2.604408
+080060000005,Port de El Portinyol (Arenys de Mar),ESARN,0,operativo,08,08006,41.579492,2.558697
+080150000010,Port de Badalona,,0,operativo,08,08015,41.432500,2.243056
+080190000012,Port Olímpic,,0,operativo,08,08019,41.386667,2.201667
+080190000014,Puerto de Barcelona,ESBCN,1,operativo,08,08019,41.358302,2.168305
+080350000001,Club Nautico Calella,ESLEL,0,operativo,08,08035,41.614466,2.668605
+080560000001,Club Marítim Castelldefels,,0,operativo,08,08056,41.264811,1.997370
+081180000009,Port de Masnou,ESMSN,0,operativo,08,08118,41.476768,2.312167
+081210000007,Port de Mataró,,0,operativo,08,08121,41.530132,2.444273
+081720000008,Port de Premià de Mar,,0,operativo,08,08172,41.490104,2.367732
+081940000011,Port Fòrum (Sant Adrià de Besòs),,0,operativo,08,08194,41.413800,2.225521
+081970000006,Port de Balís,,0,operativo,08,08197,41.558434,2.506106
+082190000001,Club Náutic Vilassar de Mar,,0,operativo,08,08219,41.504521,2.398574
+082700000001,Port de Aiguadolç (Sitges),ESSIT,0,operativo,08,08270,41.234784,1.826417
+082700000002,Port de Vallcarca,ESVCC,0,operativo,08,08270,41.237755,1.867235
+082700000003,Club Nàutic Garraf,,0,operativo,08,08270,41.250000,1.900000
+082700000004,Port Ginesta,,0,operativo,08,08270,41.260066,1.923876
+082700000005,Puerto Sirena Sitges,ESSIT,0,operativo,08,08270,41.233899,1.810563
+083070000013,Port Vilanova Grand Marina - Barcelona,,0,operativo,08,08307,41.215574,1.731984
+110070000013,Puerto de Barbate,ESBDF,0,operativo,11,11007,36.183168,-5.927838
+110120000003,Estación Naval de Puntales,,0,operativo,11,11012,36.507623,-6.262724
+110120000007,Puerto de Cádiz y su bahía,ESCAD,1,operativo,11,11012,36.533588,-6.283699
+110120000015,Club Náutico Viento de Levante,,0,operativo,11,11012,36.519838,-6.274009
+110140000012,Puerto Deportivo Conil,,0,operativo,11,11014,36.292858,-6.134597
+110150000027,Club Naútico Sancti Petri,,0,operativo,11,11015,36.395042,-6.209078
+110160000005,Puerto de Chipiona,,0,operativo,11,11016,36.749311,-6.428467
+110220000019,Puerto de la Atunara,,0,operativo,11,11022,36.179069,-5.331878
+110280000019,Club Nautico El Trocadero,,0,operativo,11,11028,36.524851,-6.190681
+110300000018,Puerto Deportivo de Rota,ESROT,0,operativo,11,11030,36.614364,-6.350681
+110300000022,Puerto de la Base Aeronaval de Rota,ESROT,0,operativo,11,11030,36.619432,-6.334474
+110310000026,Arsenal de la Carraca,,0,operativo,11,11031,36.495697,-6.179154
+110310000027,Puerto Pesquero de Gallineras,,0,operativo,11,11031,36.438922,-6.205025
+110310000028,Club Náutico Municipal Puente de Hierro,,0,operativo,11,11031,36.483604,-6.178454
+110310000029,Club Nautico Casería de Ossio,,0,operativo,11,11031,36.485110,-6.198374
+110320000006,Puerto de Olaso,,0,operativo,11,11032,36.789972,-6.352768
+110320000009,Puerto de Bonanza,,0,operativo,11,11032,36.802269,-6.338153
+110330000011,Puerto Deportivo de Sotogrande,,0,operativo,11,11033,36.285903,-5.269808
+110330000016,Puerto de Bahía de Algeciras,ESALG,1,operativo,11,11033,36.178463,-5.398233
+110350000021,Puerto de Tarifa,ESTRF,1,operativo,11,11035,36.009090,-5.605971
+120040000001,Puerto de Las Fuentes,,0,operativo,12,12004,40.250714,0.286988
+120270000001,Puerto de Benicarló,,0,operativo,12,12027,40.412686,0.431794
+120320000001,Puerto de Burriana,ESBRX,0,operativo,12,12032,39.864681,-0.069865
+120400000001,Puerto de Castellón,ESCAS,1,operativo,12,12040,39.954154,0.010808
+120850000001,Puerto de Oropesa,,0,operativo,12,12085,40.077627,0.134126
+120890000001,Puerto de Peñíscola,,0,operativo,12,12089,40.357150,0.405694
+121170000001,Puerto Deportivo Torre Nostra,,0,operativo,12,12117,40.191623,0.222272
+121380000001,Puerto de Vinaroz,ESVZR,0,operativo,12,12138,40.465834,0.474217
+150040000001,Porto de Redes,,0,operativo,15,15004,43.424122,-8.203305
+150040000053,Porto de Ares,,0,operativo,15,15004,43.421231,-8.239733
+150050000001,Porto de Suevos,,0,operativo,15,15005,43.355153,-8.488671
+150090000001,Porto de Betanzos,,0,operativo,15,15009,43.286734,-8.215466
+150110000001,Porto de Ancados,,0,operativo,15,15011,42.617764,-8.860250
+150110000002,Puerto Muelle de Area Basta,,0,operativo,15,15011,42.659709,-8.851308
+150110000003,Muella de Agañan,,0,operativo,15,15011,42.642836,-8.858646
+150110000004,Astilleros Triñanes Domínguez,,0,operativo,15,15011,42.611117,-8.858027
+150110000005,Puerto de Esteiro,,0,operativo,15,15011,42.626162,-8.882618
+150110000030,Porto de Cabo de Cruz,,0,operativo,15,15011,42.613231,-8.889755
+150110000031,Porto de Escarabote,,0,operativo,15,15011,42.635508,-8.901573
+150110000033,Porto de Bodión,,0,operativo,15,15011,42.648244,-8.858242
+150160000001,Porto de Arou,,0,operativo,15,15016,43.187398,-9.101003
+150160000002,Porto de Camelle,,0,operativo,15,15016,43.185325,-9.090371
+150160000003,Porto de Santa Mariña,,0,operativo,15,15016,43.193423,-9.135325
+150160000047,Porto de Camariñas,ESIAS,0,operativo,15,15016,43.125294,-9.182682
+150190000001,Porto de Razo,,0,operativo,15,15019,43.292255,-8.721551
+150200000040,Porto de Portocubelo,,0,operativo,15,15020,42.805146,-9.137835
+150200000041,Porto de O Pindo,,0,operativo,15,15020,42.898468,-9.134594
+150220000061,Porto de Cedeira,ESCED,0,operativo,15,15022,43.658598,-8.070363
+150230000043,Porto de Cee,ESCEE,0,en_construccion,15,15023,42.944416,-9.179915
+150280000001,Porto de Quenxe,,0,operativo,15,15028,42.940320,-9.190048
+150280000044,Porto de Corcubión,ESCCN,0,operativo,15,15028,42.944520,-9.190343
+150300000001,Porto de San Pedro de Visma,,0,operativo,15,15030,43.372750,-8.447601
+150300000002,Puerto As Xubias,,0,operativo,15,15030,43.345196,-8.383293
+150300000052,Puerto de A Coruña,ESLCG,1,operativo,15,15030,43.358666,-8.396977
+150340000001,Porto de O Ézaro,,0,operativo,15,15034,42.910692,-9.135692
+150340000002,Puerto Deportivo de Erazo,,0,operativo,15,15034,42.912044,-9.124107
+150350000001,Porto de Maniños-Barallobre,,0,operativo,15,15035,43.463989,-8.198044
+150350000003,Porto de Barallobre,,0,operativo,15,15035,43.463900,-8.195874
+150360000001,Porto do Club Naval de Oficiais El Montón,,0,operativo,15,15036,43.481099,-8.193400
+150360000003,Puerto Deportiva de Carranza,,0,operativo,15,15036,43.482100,-8.209170
+150360000004,Puerto San felipe,,0,operativo,15,15036,43.468656,-8.277502
+150360000005,Escuela Naval de La Graña,,0,operativo,15,15036,43.476316,-8.261222
+150370000001,Porto de Sardiñeiro,,0,operativo,15,15037,42.938250,-9.233530
+150370000042,Porto de Fisterra,,0,operativo,15,15037,42.907280,-9.261475
+150400000048,Porto de Laxe,,0,operativo,15,15040,43.223676,-9.002030
+150410000001,Porto de Caión,,0,operativo,15,15041,43.320495,-8.603497
+150430000001,Porto da Illa Sisarga Grande (Illas Sisargas),,0,operativo,15,15043,43.357733,-8.838436
+150430000002,Porto de Barizo,,0,operativo,15,15043,43.315272,-8.879946
+150430000049,Porto de Malpica,ESMAI,0,operativo,15,15043,43.323291,-8.805990
+150440000001,Porto de O Barqueiro,,0,operativo,15,15044,43.737655,-7.699827
+150440000002,Porto de Bares,,0,operativo,15,15044,43.771536,-7.667877
+150480000001,Porto de Miño,,0,operativo,15,15048,43.351742,-8.216756
+150510000001,Porto de O Seixo,,0,operativo,15,15051,43.459969,-8.219498
+150510000002,Puerto de Ferrol y su ría,ESFRO,1,operativo,15,15051,43.461863,-8.238920
+150510000003,Puerto Da Redonda,,0,operativo,15,15051,43.462734,-8.269788
+150510000054,Porto de Mugardos,ESMGR,0,operativo,15,15051,43.464793,-8.256275
+150520000046,Porto de Muxía,ESMGA,0,operativo,15,15052,43.106249,-9.216158
+150530000001,Porto da Illa da Creba,,0,operativo,15,15053,42.776433,-8.964969
+150530000002,Porto de Esteiro,,0,operativo,15,15053,42.788367,-8.978216
+150530000003,Porto de Os Muíños,,0,operativo,15,15053,42.786394,-9.061124
+150530000004,Puerto A Pernella,,0,operativo,15,15053,42.789938,-8.980882
+150530000037,Porto de Muros,ESMRS,0,operativo,15,15053,42.775554,-9.053092
+150540000001,Puerto Club Remo Narón,,0,operativo,15,15054,43.491601,-8.186470
+150550000001,Porto de Neda,,0,operativo,15,15055,43.501905,-8.160676
+150570000002,Porto de A Barquiña (Noia),,0,operativo,15,15057,42.800390,-8.899320
+150570000003,Porto de Noia,,0,operativo,15,15057,42.790559,-8.897955
+150570000004,Puerto Pantalán da Barquiña,,0,operativo,15,15057,42.802403,-8.901314
+150570000038,Porto de Testal,,0,operativo,15,15057,42.790789,-8.909911
+150580000001,Porto de Lorbé,,0,operativo,15,15058,43.390828,-8.297467
+150580000002,Porto de Mera,,0,operativo,15,15058,43.377384,-8.338325
+150580000003,Porto de Santa Cruz,,0,operativo,15,15058,43.350447,-8.347549
+150610000001,Porto de Espasante,,0,operativo,15,15061,43.721772,-7.813290
+150610000063,Porto de Ortigueira,ESOTG,0,operativo,15,15061,43.682840,-7.854540
+150620000001,Porto de A Barquiña (Outes),ESOUT,0,operativo,15,15062,42.803777,-8.907374
+150620000002,Porto de O Conchido,,0,operativo,15,15062,42.838481,-8.902595
+150620000039,Porto de O Freixo,,0,operativo,15,15062,42.799912,-8.943944
+150670000029,Porto de A Pobra do Caramiñal,,0,operativo,15,15067,42.609553,-8.932439
+150680000001,Porto de Corme,,0,operativo,15,15068,43.262660,-8.965586
+150680000002,Porto de Ponteceso,,0,operativo,15,15068,43.294133,-8.917670
+150690000001,Porto de Perbes,,0,operativo,15,15069,43.378283,-8.216808
+150690000002,Porto de Pontedeume,,0,operativo,15,15069,43.407859,-8.171236
+150710000001,Porto de Boa,,0,operativo,15,15071,42.778065,-8.935897
+150710000035,Porto de Porto do Son,ESPTN,0,operativo,15,15071,42.727330,-9.003405
+150710000036,Porto de Portosín,ESPRT,0,operativo,15,15071,42.762600,-8.948870
+150720000001,Porto de Taragoña-O Porto,,0,operativo,15,15072,42.669982,-8.831811
+150720000002,Porto de Rañó,,0,operativo,15,15072,42.645811,-8.774149
+150720000032,Porto de Rianxo,,0,operativo,15,15072,42.648212,-8.821238
+150730000001,Porto da Illa de Sálvora,,0,operativo,15,15073,42.470902,-9.002063
+150730000002,Porto de Corrubedo,,0,operativo,15,15073,42.572725,-9.071188
+150730000003,Porto de Castiñeiras,,0,operativo,15,15073,42.530447,-8.997058
+150730000004,Porto de Ameixida,,0,operativo,15,15073,42.538457,-8.986945
+150730000005,Porto de Insuela,,0,operativo,15,15073,42.572324,-8.963232
+150730000006,Porto de Palmeira,,0,operativo,15,15073,42.578894,-8.957147
+150730000023,Porto de Aguiño,,0,operativo,15,15073,42.519311,-9.019342
+150730000025,Porto de Ribeira,ESRBI,0,operativo,15,15073,42.557543,-8.988066
+150750000050,Porto de Sada-Fontán,,0,operativo,15,15075,43.362778,-8.245903
+159010000066,Porto de Cariño,ESCNO,0,operativo,15,15901,43.735014,-7.864171
+170130000001,Puerto de Aiguablava,,0,operativo,17,17013,41.938312,3.216787
+170130000002,Port d'Esclanyá,,0,operativo,17,17013,41.936069,3.214148
+170130000003,Puerto de aiguafreda,,0,operativo,17,17013,41.964462,3.227386
+170130000004,Port des Pi,,0,operativo,17,17013,41.973451,3.213132
+170230000001,Port de Blanes,ESBLA,0,operativo,17,17023,41.673822,2.796634
+170320000001,Puerto Portlligat,,0,operativo,17,17032,42.293087,3.286421
+170470000001,Castelló d'Empùries,,0,operativo,17,17047,42.205851,3.102940
+170470000002,Puerto Marina de Empuriabrava,ESEMP,0,operativo,17,17047,42.251245,3.131581
+170480000001,Puerto Marina Port d'Aro,,0,operativo,17,17048,41.801655,3.065487
+170480000002,Marina de S'Agaró,,0,operativo,17,17048,41.790417,3.054195
+170540000011,Club Nàutic Sant Miguel de Colera,,0,operativo,17,17054,42.403907,3.158029
+170540000012,Port de JOan,,0,operativo,17,17054,42.396434,3.157414
+170620000007,Port de la Clota (L´Escala),ESGLE,0,operativo,17,17062,42.118755,3.148277
+170920000010,Port de Llançà,,0,operativo,17,17092,42.373245,3.163409
+170950000001,Puerto de Cala Canyelles,,0,operativo,17,17095,41.703885,2.881306
+171170000005,Club Náutic Llafranc,,0,operativo,17,17117,41.892450,3.196502
+171180000003,Port de Palamós,ESPAL,0,operativo,17,17118,41.842023,3.124397
+171180000004,Port Marina de Palamós,ESPAL,0,operativo,17,17118,41.844167,3.135556
+171180000005,Puerto Alguer,,0,operativo,17,17118,41.862112,3.151890
+171380000012,Port de Portbou,,0,operativo,17,17138,42.425496,3.165350
+171400000009,Port del Port de la Selva,,0,operativo,17,17140,42.342224,3.201275
+171520000008,Port de Roses,,0,operativo,17,17152,42.251526,3.180599
+171520000009,Puerto Pirata Club,,0,operativo,17,17152,42.244231,3.198016
+171520000010,Puerto Marina de los Canales de Santa Margarida,,0,operativo,17,17152,42.259622,3.150491
+171600000002,Club Nàutic Sant Feliú de Guixols,ESSFU,0,operativo,17,17160,41.777756,3.037102
+171780000001,Port Natura,,0,operativo,17,17178,42.201679,3.105355
+171990000006,Port de l'Estartit,,0,operativo,17,17199,42.053778,3.206944
+180170000002,Puerto Punta de la Mona,,0,operativo,18,18017,36.728067,-3.725664
+181400000001,Puerto de Motril,ESMOT,1,operativo,18,18140,36.718489,-3.513895
+200290000001,Puerto de Deba (Guipúzcoa),ESDBA,0,operativo,20,20029,43.293931,-2.355937
+200360000013,Puerto Nuevo de Hondarribi/Hondarribiko Portu Berria,,0,operativo,20,20036,43.385896,-1.792947
+200360000014,Puerto de Hondarribi/Hondarribiko Portua,,0,operativo,20,20036,43.377696,-1.795031
+200360000015,Puerto Kaizarra,,0,operativo,20,20036,43.367515,-1.792191
+200360000016,Dársena de Veteranos / Beteranoen kaia,,0,operativo,20,20036,43.360121,-1.789072
+200390000010,Puerto de Getaria/Getariako Portua,,0,operativo,20,20039,43.305906,-2.198110
+200450000001,Puerto Irun,,0,operativo,20,20045,43.346658,-1.785574
+200560000008,Puerto de Mutriku/Mutrikuko Portua,ESMTU,0,operativo,20,20056,43.309013,-2.382321
+200560000009,Puerto,,0,operativo,20,20056,43.292268,-2.357903
+200610000011,Puerto de Orio/Orioko Portua,,0,operativo,20,20061,43.283502,-2.128574
+200640000017,Puerto de Pasaia,,1,operativo,20,20064,43.329365,-1.925593
+200690000012,Puerto de San Sebastián/Donostiako Portua,ESEAS,0,operativo,20,20069,43.323124,-1.987852
+200790000001,Puerto Zarautz,,0,operativo,20,20079,43.289002,-2.178798
+200810000009,Puerto de Zumaia/Zumaiako Portua,,0,operativo,20,20081,43.295848,-2.251944
+210040000008,Puerto,,0,operativo,21,21004,37.712948,-6.817230
+210100000002,Puerto Deportivo de Ayamonte,ESAYA,0,operativo,21,21010,37.211264,-7.405500
+210100000003,Puerto de Marina Isla Canela,,0,operativo,21,21010,37.188348,-7.340934
+210100000004,Puerto Pesquero de Ayamonte,ESAYA,0,operativo,21,21010,37.215890,-7.409941
+210100000017,Puerto Deportivo Marina Isla Canela,,0,operativo,21,21010,37.186957,-7.340255
+210210000016,Club Naútico Río Piedras,,0,operativo,21,21021,37.214857,-7.116050
+210210000018,Puerto Deportivo de San Miguel,,0,operativo,21,21021,37.214681,-7.099687
+210210000022,Puerto Marina de Nuevo Portil,,0,operativo,21,21021,37.213578,-7.081208
+210210000025,Puerto de El Rompido,ESROM,0,operativo,21,21021,37.216667,-7.128962
+210420000001,Puerto Pesquero de Isla Cristina,,0,operativo,21,21042,37.203714,-7.329408
+210420000007,Puerto Deportivo de Isla Cristina,,0,operativo,21,21042,37.196612,-7.326823
+210440000019,Puerto del Terrón,,0,operativo,21,21044,37.224783,-7.174877
+210550000006,Puerto Deportivo de Mazagón,,0,operativo,21,21055,37.131567,-6.836197
+210550000009,Muelle del Vigía,,0,operativo,21,21055,37.143221,-6.859015
+210550000010,Puerto de Huelva,ESHUV,1,operativo,21,21055,37.177002,-6.914883
+210600000005,Puerto Pesquero de Punta Umbría,,0,operativo,21,21060,37.182592,-6.960451
+210600000020,Club Deportivo Náutico Punta Umbría,,0,operativo,21,21060,37.193504,-6.967355
+210600000021,Puerto de Punta Umbría,,0,operativo,21,21060,37.179572,-6.956544
+210600000023,Real Club Marítimo y Tenis de Punta Umbría,,0,operativo,21,21041,37.176139,-6.950948
+210650000001,Puerto de Sanlúcar de Guadiana,,0,operativo,21,21065,37.473261,-7.468444
+270130000001,Porto de San Cibrao,,1,operativo,27,27013,43.699426,-7.439697
+270130000064,Puerto de San Cibrao,,1,operativo,27,27013,43.707402,-7.461169
+270190000001,Porto de Nois,,0,operativo,27,27019,43.614163,-7.309412
+270190000059,Porto de Foz,,0,operativo,27,27019,43.565708,-7.256191
+270250000001,Porto de Portocelo,,0,operativo,27,27025,43.721766,-7.515055
+270250000002,Porto de Morás,,0,operativo,27,27025,43.718923,-7.471186
+270510000001,Porto de Rinlo,,0,operativo,27,27051,43.558221,-7.104635
+270510000058,Porto de Ribadeo,ESRIB,0,operativo,27,27051,43.537497,-7.035531
+270640000065,Porto de O Vicedo,,0,operativo,27,27064,43.738123,-7.674791
+270660000062,Porto de Viveiro-Celeiro,ESVIV,0,operativo,27,27066,43.677980,-7.598520
+279020000060,Porto de Burela,ESBRL,0,operativo,27,27902,43.658476,-7.351628
+290250000008,Puerto Deportivo de Benalmádena,,0,operativo,29,29025,36.592769,-4.513608
+290510000006,Puerto de Estepona,,0,operativo,29,29051,36.411703,-5.158272
+290540000002,Puerto Deportivo de Fuengirola,,0,operativo,29,29054,36.543067,-4.614061
+290670000005,Puerto del Candado,,0,operativo,29,29067,36.714186,-4.346486
+290670000009,Puerto de Málaga,ESAGP,1,operativo,29,29067,36.709006,-4.423796
+290680000007,Puerto Deportivo de la Duquesa,,0,operativo,29,29068,36.353656,-5.228414
+290690000001,Puerto de Marina La Bajadilla,,0,operativo,29,29069,36.505719,-4.877011
+290690000003,Puerto José Banús,,0,operativo,29,29069,36.483039,-4.954786
+290690000004,Puerto Deportivo de Cabo Pino,,0,operativo,29,29069,36.482717,-4.740442
+290690000011,Puerto Deportivo de Marbella,,0,operativo,29,29069,36.504953,-4.891539
+290940000010,Puerto de la Caleta de Vélez,,0,operativo,29,29094,36.746586,-4.070892
+300030000001,Puerto Pesquero-Deportivo de Águilas,ESAGU,0,operativo,30,30003,37.405162,-1.577936
+300030000002,Puerto de Calabardina,,0,operativo,30,30003,37.430953,-1.501290
+300030000016,Puerto Deportivo Juan Montiel,,0,operativo,30,30003,37.396415,-1.598414
+300030000019,Embarcadero del Hornillo,,0,operativo,30,30003,37.408848,-1.560941
+300030000021,Puerto Deportivo de Águilas,ESAGU,0,operativo,30,30003,37.407740,-1.572663
+300160000004,Puerto de Cartagena,ESCAR,1,operativo,30,30016,37.595530,-0.973716
+300160000006,Puerto,,0,operativo,30,30016,37.573497,-1.210844
+300160000007,Puerto Los Alemanes,,0,operativo,30,30016,37.639392,-0.724296
+300160000008,Puerto Deportivo de Islas Menores,,0,operativo,30,30016,37.646587,-0.767040
+300160000009,Estación Naval de Algameca,,0,operativo,30,30016,37.586118,-1.008031
+300160000012,Puerto Deportivo de Cabo de Palos,ESCBP,0,operativo,30,30016,37.633105,-0.702327
+300160000013,Puerto Mar de Cristal,,0,operativo,30,30016,37.644029,-0.761445
+300160000014,Puerto Deportivo de los Urrutias,,0,operativo,30,30016,37.678137,-0.824883
+300160000015,Puerto de La Azohía,,0,operativo,30,30016,37.553185,-1.170301
+300160000024,Puerto Deportivo Dos Mares,,0,operativo,30,30016,37.663220,-0.732805
+300160000028,Puerto Deportivo La Isleta,,0,operativo,30,30016,37.650227,-0.721747
+300160000029,Puerto Deportivo Los Nietos,,0,operativo,30,30016,37.651141,-0.783149
+300160000030,Arsenal de Cartagena,ESCAR,0,operativo,30,30016,37.601131,-0.992468
+300260000005,Puerto Deportivo de Mazarrón,,0,operativo,30,30026,37.557456,-1.273737
+300260000017,Puerto Pesquero de Mazarrón,,0,operativo,30,30026,37.563080,-1.257024
+300350000002,Embarcadero-Fondeadero de La Ribera,,0,operativo,30,30035,37.799004,-0.800429
+300350000003,Puerto El Pedruchillo,,0,operativo,30,30035,37.706184,-0.743346
+300350000011,Ferry Mar Menor Línea Regular,,0,operativo,30,30035,37.796466,-0.802907
+300350000018,Puerto,,0,operativo,30,30035,37.804771,-0.798205
+300350000022,Puerto Deportivo Tomás Maestre,,0,operativo,30,30035,37.750175,-0.742154
+300350000025,Instalaciones Aeroportuarias,,0,operativo,30,30035,37.786376,-0.801186
+300350000027,Club Militar Fernandez Tudela,,0,operativo,30,30035,37.809692,-0.797162
+300350000031,Caleta del Estacio,,0,operativo,30,30035,37.744643,-0.725089
+300360000003,Puerto Deportivo de Lo Pagan,,0,operativo,30,30036,37.815973,-0.784332
+300360000030,Puerto Deportivo de San Pedro del Pinatar,ESSPP,0,operativo,30,30036,37.820834,-0.757869
+300410000001,Puerto Deportivo de Portmán,,0,operativo,30,30041,37.580647,-0.842315
+309020000007,Puerto Deportivo Los Alcáceres,,0,operativo,30,30902,37.735635,-0.848285
+309020000008,Puerto El Espejo,,0,operativo,30,30902,37.744324,-0.846704
+309020000009,Puerto Los Alcázares,,0,operativo,30,30902,37.732662,-0.851829
+309020000010,Mar Acuatic Resort,,0,operativo,30,30902,37.752113,-0.837953
+330040000009,Puerto de Avilés,ESAVS,1,operativo,33,33004,43.583019,-5.918090
+330140000022,Puerto deportivo de Candás,,0,operativo,33,33014,43.590442,-5.760892
+330170000001,Puerto,,0,operativo,33,33017,43.474928,-7.049485
+330170000002,Puerto de Castropol,ESCSO,0,operativo,33,33017,43.526705,-7.032232
+330170000003,Puerto deportivo de Figueras,,0,operativo,33,33017,43.538377,-7.024534
+330180000001,Ortiguera,,0,operativo,33,33018,43.560361,-6.741269
+330180000002,El Espín,,0,operativo,33,33018,43.542020,-6.726213
+330190000001,Lastres,,0,operativo,33,33019,43.516436,-5.266143
+330210000004,Puerto de Castrillón,,0,operativo,33,33021,43.584667,-6.225176
+330210000021,Puerto de Cudillero,,0,operativo,33,33021,43.566457,-6.151630
+330230000023,Puerto de Viavélez,,0,operativo,33,33023,43.564324,-6.839762
+330240000019,Puerto de Gijón-Musel,ESGIJ,1,operativo,33,33024,43.549628,-5.693785
+330250000025,Puerto de Luanco,,0,operativo,33,33025,43.622696,-5.782389
+330250000026,Bañugues,,0,operativo,33,33025,43.633079,-5.812227
+330250000027,Llumeres,,0,operativo,33,33025,43.640522,-5.830623
+330340000015,Puerto de Luarca,,0,operativo,33,33034,43.546510,-6.534919
+330360000012,Puerto de Llanes,,0,operativo,33,33036,43.420579,-4.750471
+330360000013,Club Marítimo de Celorio,,0,operativo,33,33036,43.434390,-4.808230
+330390000020,Puerto de San Esteban de Pravia,ESSEO,0,operativo,33,33039,43.555389,-6.083057
+330410000001,Navia,,0,operativo,33,33041,43.542967,-6.723217
+330410000002,Puerto Vega,ESPVG,0,operativo,33,33041,43.565675,-6.646184
+330550000005,Embarcadero de Bustio,,0,operativo,33,33055,43.383928,-4.514717
+330560000006,Puerto de Ribadesella,ESRBS,0,operativo,33,33056,43.462718,-5.063671
+330690000007,Embarcaderos de Soto del Barco,,0,operativo,33,33069,43.535380,-6.080498
+330690000008,Puerto Norte,,0,operativo,33,33069,43.557287,-6.076965
+330700000024,Puerto Tapia de Casariego,,0,operativo,33,33070,43.571827,-6.945796
+330760000008,Puerto deportivo de El Puntal,,0,operativo,33,33076,43.525108,-5.391828
+330760000013,Puerto de Tazones,,0,operativo,33,33076,43.545751,-5.398971
+350010000071,Puerto de Las Nieves,,0,operativo,35,35001,28.098977,-15.712210
+350020000055,Puerto de Las Palmas,,1,operativo,35,35002,27.846813,-15.400623
+350030000064,Puerto Deportivo del Castillo,,0,operativo,35,35003,28.392760,-13.854939
+350040000019,Puerto de Arrecife,,1,operativo,35,35004,28.966177,-13.534412
+350040000020,Federación Insular de Vela Latina de Lanzarote,ESACE,0,operativo,35,35004,28.954165,-13.571545
+350090000001,Sardina del Norte,,0,operativo,35,35009,28.154079,-15.699517
+350100000001,Puerto de Orzola,ESOZL,0,operativo,35,35010,29.223629,-13.452249
+350100000002,Muelle Punta Mujeres,,0,operativo,35,35010,29.143453,-13.447396
+350120000058,Puerto de Mogán,,0,operativo,35,35012,27.815963,-15.766336
+350120000059,Puerto de Arguineguín,ESARI,0,operativo,35,35012,27.756226,-15.684379
+350120000060,Puerto Anfi,,0,operativo,35,35012,27.771136,-15.698565
+350120000061,Puerto Deportivo Puerto Rico,,0,operativo,35,35012,27.782621,-15.711422
+350140000072,Puerto de Corralejo,ESQFU,0,operativo,35,35014,28.740637,-13.862075
+350140000073,El Cotillo,,0,operativo,35,35014,28.681624,-14.012505
+350150000062,Puerto de Morro Jable,ESCUT,0,operativo,35,35015,28.047892,-14.360785
+350160000003,Puerto de Las Palmas,ESLPA,1,operativo,35,35016,28.133969,-15.414820
+350160000004,San Cristóbal,,0,operativo,35,35016,28.076189,-15.413836
+350170000057,Puerto del Rosario,ESPRO,1,operativo,35,35017,28.498768,-13.856257
+350190000060,Puerto de Pasito Blanco,,0,operativo,35,35019,27.745990,-15.623213
+350190000061,Castillo del Romeral,,0,operativo,35,35019,27.795080,-15.463266
+350200000070,Puerto de la Aldea,,0,operativo,35,35020,28.006731,-15.818813
+350240000001,Puerto Pedro Barba,,0,operativo,35,35024,29.261109,-13.480084
+350240000068,Puerto de Caleta de Sebo,ESCHR,0,operativo,35,35024,29.229809,-13.502702
+350260000001,Puerto de Salinetas,ESSAT,1,operativo,35,35026,27.976764,-15.377474
+350260000069,Puerto de Taliarte,,0,operativo,35,35026,27.991167,-15.368182
+350280000001,Puerto del Carmen,ESPUC,0,operativo,35,35028,28.920679,-13.673206
+350290000001,Puerto La Santa - Tinajo,,0,operativo,35,35029,29.109399,-13.665561
+350300000063,Puerto de Gran Tarajal,ESGTL,0,operativo,35,35030,28.206324,-14.025648
+350300000064,San Pedro,,0,operativo,35,35030,28.227982,-13.983727
+350340000065,Puerto de Playa Blanca,ESQLY,0,operativo,35,35034,28.858670,-13.834728
+350340000066,Puerto Deportivo Marina Rubicón,,0,operativo,35,35034,28.857561,-13.816663
+350340000067,Puerto Calero,ESPRE,0,operativo,35,35028,28.915736,-13.705239
+360030000002,Porto de Baiona,,0,operativo,36,36003,42.118031,-8.845495
+360030000004,Porto de Santa Marta,,0,operativo,36,36003,42.114858,-8.835529
+360040000001,Porto da Illa de Ons,,0,operativo,36,36004,42.377110,-8.930806
+360040000012,Porto de Bueu,,0,operativo,36,36004,42.327176,-8.785969
+360040000014,Porto de Beluso,,0,operativo,36,36004,42.333413,-8.799917
+360060000022,"Porto de Cambados ""Tragove""",ESCBD,0,operativo,36,36006,42.520225,-8.824940
+360080000001,Porto de Aldán,,0,operativo,36,36008,42.282077,-8.821617
+360080000002,Puerto de Vilariño,,0,operativo,36,36008,42.276053,-8.824902
+360080000005,Porto de Cangas,,0,operativo,36,36008,42.259336,-8.785319
+360220000001,Porto de A Toxa,,0,operativo,36,36022,42.489960,-8.842105
+360220000002,Museo das Salgadeiras de Moreiras,,0,operativo,36,36022,42.486025,-8.890030
+360220000003,Club de Remo Mecos,,0,operativo,36,36022,42.499806,-8.873021
+360220000019,Porto de Pedras Negras,,0,operativo,36,36022,42.456958,-8.919018
+360220000020,Porto de Meloxo,,0,operativo,36,36022,42.490051,-8.889783
+360220000021,Porto de Grove,ESEGR,0,operativo,36,36022,42.495403,-8.859443
+360230000001,Porto de A Guarda,,0,operativo,36,36023,41.898561,-8.877926
+360230000003,Porto de A Pasaxe Camposancos,,0,operativo,36,36023,41.889255,-8.850578
+360260000001,Porto de Aguete,,0,operativo,36,36026,42.375809,-8.736566
+360290000001,Porto de Domaio,,0,operativo,36,36029,42.284723,-8.683612
+360290000002,Puerto Deportivo de Domaio,,0,operativo,36,36029,42.286983,-8.678413
+360290000004,Puerto de Vigo,ESVGO,1,operativo,36,36029,42.280460,-8.703596
+360290000007,Porto de Moaña,ESMOA,0,operativo,36,36029,42.274330,-8.736409
+360290000008,Porto de Meira,,0,operativo,36,36029,42.281559,-8.719565
+360350000001,Porto de Panxón,,0,operativo,36,36035,42.142876,-8.824959
+360360000001,Porto de Santa María de Oia,,0,operativo,36,36036,42.001845,-8.877042
+360380000001,Porto de Pontevedra (Náutico),ESPEV,0,operativo,36,36038,42.435580,-8.649179
+360380000002,Porto de Pontevedra (As Corbaceiras),ESPEV,0,operativo,36,36038,42.428490,-8.652373
+360380000016,Puerto de Marín y ría de Pontevedra,ESPEV,1,operativo,36,36038,42.401670,-8.690756
+360410000001,Porto de Covelo,,0,operativo,36,36041,42.416839,-8.731218
+360410000002,Porto de Raxó,,0,operativo,36,36041,42.402576,-8.754966
+360410000003,Porto de Campelo,,0,operativo,36,36041,42.426802,-8.685853
+360410000005,Muelle de Rua,,0,operativo,36,36041,42.432318,-8.704398
+360410000018,Porto de Combarro,,0,operativo,36,36041,42.427304,-8.706612
+360440000001,Porto de Pontecesures,,0,operativo,36,36044,42.720332,-8.654207
+360450000006,Puerto de Vigo y su ría,ESVGO,1,operativo,36,36045,42.274373,-8.670014
+360450000011,Porto de Cesantes,,0,operativo,36,36045,42.294088,-8.616370
+360510000015,Porto de Portonovo,,0,operativo,36,36051,42.393738,-8.821508
+360510000016,Puerto de Arnosa,,0,operativo,36,36051,42.457706,-8.840580
+360510000017,Porto de Sanxenxo,ESHVC,0,operativo,36,36051,42.397854,-8.804598
+360530000013,Porto de Arcade,,0,operativo,36,36053,42.340499,-8.614506
+360540000001,Porto de Goián,,0,operativo,36,36054,41.941417,-8.750964
+360550000001,Porto de Tui,,0,operativo,36,36055,42.047220,-8.640436
+360570000001,Porto de Canido,,0,operativo,36,36057,42.193840,-8.800771
+360570000002,Illa de toralla,,0,operativo,36,36057,42.202080,-8.799457
+360570000005,Porto da Illa de Monteagudo (Illas Cíes),,0,operativo,36,36057,42.226637,-8.899438
+360570000006,Porto da Illa do Faro (Illas Cíes),,0,operativo,36,36057,42.213980,-8.905987
+360570000007,Porto da Illa de San Martiño (Illas Cíes),,0,operativo,36,36057,42.196982,-8.893614
+360580000001,Porto de Santa Cristina,,0,operativo,36,36058,42.319401,-8.649553
+360580000002,Porto de San Adrián,,0,operativo,36,36058,42.302056,-8.656196
+360600000001,Porto de Carril,,0,operativo,36,36060,42.614460,-8.777346
+360600000027,Porto de Vilaxoán,,0,operativo,36,36060,42.588841,-8.790715
+360600000028,Puerto de Vilagarcía de Arousa y su ría,,1,operativo,36,36060,42.593607,-8.776812
+360610000001,Porto de San Miguel de Deiro,,0,operativo,36,36061,42.538503,-8.826937
+360610000002,Porto de As Sinas,,0,operativo,36,36061,42.577007,-8.809619
+360610000024,Porto de Vilanova,,0,operativo,36,36061,42.564340,-8.832829
+369010000001,Porto de A Illa (O Campo),,0,operativo,36,36901,42.563212,-8.872876
+369010000002,Porto de A Illa (Cabodeiro),,0,operativo,36,36901,42.563443,-8.858887
+369010000003,Peirao dos Carcamans,,0,operativo,36,36901,42.567386,-8.862169
+369010000026,Porto de A Illa (O Xufre),,0,operativo,36,36901,42.564371,-8.867323
+380010000014,Puerto Colón,,0,operativo,38,38001,28.076825,-16.736020
+380030000012,Puerto de Playa de Santiago,ESPPS,0,operativo,38,38003,28.026106,-17.197509
+380050000001,Tajao,,0,operativo,38,38005,28.109267,-16.469619
+380060000007,Puerto de Los Cristianos,ESLCR,1,operativo,38,38006,28.048563,-16.720024
+380060000013,Puerto Deportivo de Las Galletas,,0,operativo,38,38006,28.007076,-16.658892
+380110000001,La Galera,,0,operativo,38,38011,28.360660,-16.365051
+380110000002,Candelaria,,0,operativo,38,38011,28.357702,-16.367854
+380130000001,Punta Grande,,0,operativo,38,38013,27.797302,-17.992272
+380150000001,Puerto de Garachico,ESGRC,0,operativo,38,38015,28.373321,-16.755801
+380170000001,Puerto de Santa Cruz de Tenerife,,1,operativo,38,38017,28.078136,-16.492377
+380170000002,Los Abrigos,,0,operativo,38,38017,28.027743,-16.592392
+380170000003,Puerto del Médano,ESMED,0,operativo,38,38017,28.042741,-16.534805
+380190000001,Puerto de Playa San Juan (Guía de Isora),ESPSJ,0,operativo,38,38019,28.179874,-16.815558
+380190000002,Puerto de Alcalá,,0,operativo,38,38019,28.201453,-16.829345
+380200000017,Puerto Deportivo de Güimar,,0,operativo,38,38020,28.288379,-16.379397
+380200000018,Puertito de Güímar,,0,operativo,38,38020,28.295668,-16.373075
+380220000001,San Marcos,,0,operativo,38,38022,28.379335,-16.725158
+380280000001,Puerto de la Cruz,ESRUZ,0,operativo,38,38028,28.418451,-16.550736
+380320000018,Puerto de Radazul,,0,operativo,38,38032,28.400945,-16.320670
+380330000001,Puerto Espíndola,,0,operativo,38,38033,28.811428,-17.763809
+380350000015,Puerto Deportivo Marina San Miguel,,0,operativo,38,38035,28.022064,-16.610737
+380360000006,Puerto de San Sebastián de la Gomera,ESSSG,1,operativo,38,38036,28.085868,-17.107883
+380370000005,Puerto de Santa Cruz de la Palma,ESSPC,1,operativo,38,38037,28.677919,-17.766250
+380380000008,Puerto de Santa Cruz de Tenerife,ESSCT,1,operativo,38,38038,28.487420,-16.230252
+380380000010,Puerto Cofradía de Pescadores San Andrés,,0,operativo,38,38038,28.504997,-16.189324
+380400000016,Puerto del Acantilado de los Gigantes,,0,operativo,38,38040,28.246959,-16.841735
+380400000017,Puerto de Santiago,,0,operativo,38,38040,28.237158,-16.843777
+380430000001,Puerto Cofradía Pescadores El Pris - Tacoronte,,0,operativo,38,38043,28.508665,-16.421760
+380450000011,Puerto de Tazacorte,ESTAZ,0,operativo,38,38045,28.642389,-17.944551
+380480000004,Puerto de la Estaca (Valverde),ESHIE,1,operativo,38,38048,27.784623,-17.900737
+380490000010,Puerto de Vueltas,,0,operativo,38,38049,28.080619,-17.333634
+389010000009,Puerto de La Restinga,ESLRT,0,operativo,38,38901,27.639828,-17.978930
+390080000006,Puerto de la Orconera,,0,operativo,39,39008,43.399716,-3.815261
+390080000007,Astilleros Santander,ESSDR,0,operativo,39,39008,43.405729,-3.818598
+390080000008,Sociedad Deportiva Remo Astillero,ESATO,0,operativo,39,39008,43.398168,-3.813843
+390160000001,Embarcadero de Peña Hermosa,,0,operativo,39,39016,43.421546,-3.810707
+390160000002,Embarcadero El Carmen,,0,operativo,39,39016,43.414143,-3.822699
+390200000004,Puerto de Castro-Urdiales,ESCUR,0,operativo,39,39020,43.382537,-3.217346
+390230000001,Puerto de Colindres,,0,operativo,39,39023,43.395713,-3.460786
+390240000001,Puerto de Comillas,,0,operativo,39,39024,43.392709,-4.289515
+390350000001,Puerto de Laredo,,0,operativo,39,39035,43.418825,-3.413761
+390400000007,Puerto de Pedreña,,0,operativo,39,39040,43.448661,-3.770588
+390400000008,Espigon de Pontejos,,0,operativo,39,39040,43.404254,-3.813081
+390400000009,Sociedad Deportiva de Remo Pedreña,,0,operativo,39,39040,43.447728,-3.756550
+390540000001,Puerto de Requejada,,0,operativo,39,39054,43.397142,-4.027887
+390750000003,Puerto de Santander,ESSDR,1,operativo,39,39075,43.449169,-3.825831
+390790000002,Puerto de Santoña,,0,operativo,39,39079,43.442021,-3.462290
+390800000005,Puerto de San Vicente de la Barquera,ESSVB,0,operativo,39,39080,43.385677,-4.397800
+390850000001,Puerto de Suances,,0,operativo,39,39085,43.431114,-4.035135
+410440000001,Puerto Gelves,,0,operativo,41,41044,37.340136,-6.023268
+410910000002,Puerto,,0,operativo,41,41091,37.411998,-5.992095
+410910000003,Puerto de Sevilla y su ría,ESSVQ,1,operativo,41,41091,37.346704,-5.996515
+430040000009,Cargadero de Alcanar,ESACA,0,operativo,43,43004,40.572154,0.550822
+430040000010,Port de les Cases d'Alcanar,ESACA,0,operativo,43,43004,40.552714,0.532436
+430130000004,Port de Calafat,,0,operativo,43,43013,40.929460,0.851958
+430130000005,Club Nàutic Sant Jordi d'Alfama,,0,operativo,43,43013,40.915279,0.836129
+430130000013,Port de L'Ametlla de Mar,ESKLL,0,operativo,43,43013,40.882007,0.802114
+430140000001,Embarcadero de Amposta,,0,operativo,43,43014,40.712574,0.584246
+430140000002,Puerto Racó de la Fortalesa,,0,operativo,43,43014,40.636423,0.684000
+430370000012,Port de Segur Calafell,,0,operativo,43,43037,41.185556,1.608056
+430380000002,Port de Cambrils,ESCBL,0,operativo,43,43038,41.065397,1.062506
+431310000015,Port de Roda de Berà,,0,operativo,43,43131,41.169335,1.487361
+431360000008,Port de Sant Carles de la Ràpita,,0,operativo,43,43136,40.617823,0.600763
+431360000009,Port de la Unió de productors de molluscos del Delta de l'Ebre,,0,operativo,43,43136,40.623921,0.642774
+431360000010,Puerto Salines de la Trinitat,,0,operativo,43,43136,40.589388,0.687043
+431480000011,Puerto de Tarragona,ESTAR,1,operativo,43,43148,41.104413,1.232551
+431530000014,Port Torredembarra,ESTRR,0,operativo,43,43153,41.136506,1.403833
+431550000001,Embarcadero de Tortosa,ESTOT,0,operativo,43,43155,40.807660,0.517296
+431620000003,Port de L`Hospitalet de L´Infant,,0,operativo,43,43162,40.989722,0.927778
+431630000016,Club Puerto Náutico Coma-ruga,,0,operativo,43,43163,41.176905,1.526468
+439010000007,Port d'Illa de Mar,,0,operativo,43,43901,40.767423,0.738810
+439010000008,Port de Deltebre,,0,operativo,43,43901,40.717079,0.843313
+439010000009,Embarcadero de Deltebre,,0,operativo,43,43901,40.711514,0.736152
+439010000010,Port Petit,,0,operativo,43,43901,40.763591,0.750132
+439020000001,Embarcadero de Sant Jaume d'Enveja,,0,operativo,43,43902,40.712083,0.716420
+439050000001,Port Esportiu de Salou,,0,operativo,43,43905,41.073170,1.131963
+439060000006,Port de l'Ampolla,,0,operativo,43,43906,40.810829,0.709771
+460130000001,Puerto de Port Saplaya,,0,operativo,46,46013,39.510419,-0.320731
+460820000001,Puerto de Canet d'En Berenguer,,0,operativo,46,46082,39.673972,-0.203328
+461050000001,Puerto de Cullera,,0,operativo,46,46105,39.162251,-0.256354
+461050000002,Puerto L'Estany De Cullera,,0,operativo,46,46105,39.131648,-0.244333
+461310000001,Puerto de Gandía,ESGAN,1,operativo,46,46131,38.993652,-0.155804
+461810000001,Puerto de La Goleta,,0,operativo,46,46181,38.931716,-0.094399
+461990000001,Puerto de Pobla Marina,,0,operativo,46,46199,39.561823,-0.284454
+462200000001,Puerto de Sagunto,ESPDS,1,operativo,46,46220,39.651244,-0.220082
+462350000001,Puerto de El Perelló,,0,operativo,46,46235,39.278287,-0.274465
+462500000001,Puerto de Valencia,ESVLC,1,operativo,46,46250,39.459234,-0.331286
+480170000003,Puerto de Bermeo/Bermeoko Portua,ESBRM,0,operativo,48,48017,43.420773,-2.716811
+480280000001,Puerto de Ea,,0,operativo,48,48028,43.384654,-2.582955
+480310000005,Puerto de Elantxobe/Elantxobeko Portua,,0,operativo,48,48031,43.404752,-2.637965
+480440000001,Portu Zaharra,,0,operativo,48,48044,43.348713,-3.015049
+480440000018,Puerto de Bilbao,ESBIO,1,operativo,48,48044,43.340355,-3.015965
+480560000002,Puerto de Armintza/Armintzako Portua,,0,operativo,48,48056,43.433291,-2.898473
+480570000006,Puerto de Lekeitio/Lekeitioko Portua,ESLEK,0,operativo,48,48057,43.365931,-2.499920
+480680000004,Puerto de Mundaka/Mundakako Portua,,0,operativo,48,48068,43.407950,-2.697379
+480730000007,Puerto de Ondarroa/Ondarroako Portua,ESOND,0,operativo,48,48073,43.323106,-2.421050
+480770000016,Puerto de Plentzia/Plentziako Portua,,0,operativo,48,48077,43.407510,-2.945461
+489080000001,Puerto Astilleros de Murueta,,0,operativo,48,48908,43.364528,-2.684855
+489080000002,Puerto Murueta teileria,,0,operativo,48,48908,43.357540,-2.679615
+510010000001,Puerto de Ceuta,ESCEU,1,operativo,51,51001,35.894020,-5.301330
+520010000001,Puerto de Melilla,ESMLN,1,operativo,52,52001,35.292091,-2.926713

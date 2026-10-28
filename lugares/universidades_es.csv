@@ -1,0 +1,100 @@
+university_code,name,acronym,type,ccaa_code,oversight,tax_id,erasmus_code,address,postal_code,province_code,municipality_code,website
+001,Universidad de Alicante,UA,publica,10,autonomica,Q0332001G,E ALICANT01,"Carretera San Vicente del Raspeig, s/n",03690,03,03122,https://www.ua.es
+002,Universidad de Extremadura,UEX,publica,11,autonomica,Q0618001B,E BADAJOZ01,"Avenida de Elvas, s/n",06071,06,06015,https://www.unex.es
+003,Universitat de les Illes Balears,UIB,publica,04,autonomica,Q0718001A,E PALMA01,"Carretera de Valldemossa, km 7.5",07122,07,07040,https://www.uib.es
+004,Universidad de Barcelona,UBA,publica,09,autonomica,Q0818001J,E BARCELO01,"Gran Via de Les Corts Catalanes, 585",08007,08,08019,https://www.ub.es
+005,Universidad de Cádiz,UCA,publica,01,autonomica,Q1132001G,E CADIZ01,"Paseo Carlos III, nº9",11003,11,11012,https://www.uca.es
+006,Universidad de Córdoba,UCO,publica,01,autonomica,Q1418001B,E CORDOBA01,"Avenida de Medina Azahara, 5",14071,14,14067,https://www.uco.es
+007,Universidad de Santiago de Compostela,USC,publica,12,autonomica,Q1518001A,E SANTIAG01,"Plaza del Obradoiro, s/n",15782,15,15078,https://www.usc.es
+008,Universidad de Granada,UGR,publica,01,autonomica,Q1818002F,E GRANADA01,"Calle Cuesta del Hospicio, s/n",18015,18,18087,https://www.ugr.es
+009,Universidad de León,ULE,publica,07,autonomica,Q2432001B,E LEON01,"Avda. de la Facultad, 25",24071,24,24089,https://www.unileon.es
+010,Universidad Complutense de Madrid,UCM,publica,13,autonomica,Q2818014I,E MADRID03,"Ciudad Universitaria, s/n",28040,28,28079,https://www.ucm.es
+011,Universidad de Málaga,UMA,publica,01,autonomica,Q2918001E,E MALAGA01,"Avenida Cervantes, 2",29071,29,29067,https://www.uma.es
+012,Universidad de Murcia,UMU,publica,14,autonomica,Q3018001B,E MURCIA01,"Avda. Teniente Flomesta, nº 5",30003,30,30030,https://www.um.es
+013,Universidad de Oviedo,UOV,publica,03,autonomica,Q3318001I,E OVIEDO01,"Calle San Francisco, 3",33003,33,33044,https://www.uniovi.es
+014,Universidad de Salamanca,USAL,publica,07,autonomica,Q3718001E,E SALAMAN02,Patio de Escuelas 1,37008,37,37274,https://www.usal.es
+015,Universidad de La Laguna,ULL,publica,05,autonomica,Q3818001D,E TENERIF01,"Calle Molinos de Agua, s/n",38207,38,38023,https://www.ull.es
+016,Universidad de Cantabria,UCN,publica,06,autonomica,Q3918001C,E SANTAND01,"Avenida de los Castros, s/n",39005,39,39075,https://www.unican.es
+017,Universidad de Sevilla,USE,publica,01,autonomica,Q4118001I,E SEVILLA01,"Calle San Fernando, 4",41004,41,41091,https://www.us.es
+018,Universitat de València (Estudi General),UV,publica,10,autonomica,Q4618001D,E VALENCI01,"Avenida Blasco Ibáñez, 13",46010,46,46250,https://www.uv.es
+019,Universidad de Valladolid,UVA,publica,07,autonomica,Q4718001C,E VALLADO01,"Plaza de Sta. Cruz, nº 8",47002,47,47186,
+020,Universidad del País Vasco/Euskal Herriko Unibertsitatea,UPV / EHU,publica,16,autonomica,Q4818001B,E BILBAO01,"Bº de Sarriena, s/n",48940,48,48054,https://www.ehu.es
+021,Universidad de Zaragoza,UZA,publica,02,autonomica,Q5018001G,E ZARAGOZ01,"Calle Pedro Cerbuna, 12 - Ciudad Universitaria",50009,50,50297,
+022,Universidad Autónoma de Barcelona,UAB,publica,09,autonomica,Q0818002H,E BARCELO02,Campus de Bellaterra,08193,08,08266,https://www.uab.es
+023,Universidad Autónoma de Madrid,UAM,publica,13,autonomica,Q2818013A,E MADRID04,Ciudad Universitaria de Cantoblanco,28049,28,28079,https://www.uam.es
+024,Universidad Politécnica de Catalunya,UPC,publica,09,autonomica,Q0818003F,E BARCELO03,"Calle Jordi Girona, 31",08034,08,08019,https://www.upc.es
+025,Universidad Politécnica de Madrid,UPM,publica,13,autonomica,Q2818015F,E MADRID05,"Calle Ramiro de Maeztu, 7",28040,28,28079,https://www.upm.es
+026,Universidad de Las Palmas de Gran Canaria,UPGC,publica,05,autonomica,Q3518001G,E LAS-PAL01,"Calle Juan de Quesada, nº 30",35001,35,35016,https://www.ulpgc.es
+027,Universitat Politècnica de València,UPV,publica,10,autonomica,Q4618002B,E VALENCI02,"Camino de Vera, s/n. Edificio 3A",46022,46,46250,https://www.upv.es
+028,Universidad Nacional de Educación a Distancia,UNED,publica,13,estatal,Q2818016D,E MADRID01,"Calle Bravo Murillo, 38",28015,28,28079,https://www.uned.es
+029,Universidad de Alcalá,UAH,publica,13,autonomica,Q2818018J,E ALCAL-H01,"Plaza San Diego, s/n",28801,28,28005,https://www.uah.es
+030,Universidad de Deusto,UDE,privada,16,estatal,R4868004E,E BILBAO02,Avenida de las Universidades 24,48007,48,48020,https://www.deusto.es
+031,Universidad de Navarra,UN,privada,15,estatal,R3168001J,E PAMPLON01,Campus universitario,31080,31,31201,https://www.unav.es
+032,Universidad Pontificia de Salamanca,UPSA,privada,07,estatal,R3700047H,E SALAMAN01,"C/ Compañía, 5",37002,37,37274,https://www.upsa.es
+033,Universidad Pontificia Comillas,COMILLAS,privada,13,estatal,R2800395B,E MADRID02,"Calle Alberto Aguilera, 23",28015,28,28079,https://www.upcomillas.es
+034,Universidad de Castilla-La Mancha,UCLM,publica,08,autonomica,Q1368009E,E CIUDA-R01,"Calle Altagracia, 50",13071,13,13034,https://www.uclm.es
+035,Universidad Pública de Navarra,UPNA,publica,15,autonomica,Q3150012G,E PAMPLON02,Campus de Arrosadía,31006,31,31201,https://www.unavarra.es
+036,Universidad Carlos III de Madrid,UCAR,publica,13,autonomica,Q2818029G,E MADRID14,"Calle Madrid, 126-128",28903,28,28065,https://www.uc3m.es
+037,Universidad de A Coruña,UDC,publica,12,autonomica,Q6550005J,E LA-CORU01,"Calle Maestranza, 9",15001,15,15030,https://www.udc.es
+038,Universidad de Vigo,UVI,publica,12,autonomica,Q8650002B,E VIGO01,Campus Universitario,36310,36,36057,https://www.uvigo.es
+039,Universidad Pompeu Fabra,UPF,publica,09,autonomica,Q5850017D,E BARCELO15,"Plaça de la Mercè, 10-12",08002,08,08019,https://www.upf.edu
+040,Universidad Jaume I de Castellón,UJI,publica,10,autonomica,Q6250003H,E CASTELL01,"Avenida de Vicent Sos Baynat, s/n",12071,12,12040,https://www.uji.es
+041,Universidad Ramón Llull,URLL,privada,09,autonomica,G59069740,E BARCELO16,"Calle Claravall, 1-3",08022,08,08019,https://www.url.edu
+042,Universidad Rovira i Virgili,URV,publica,09,autonomica,Q9350003A,E TARRAGO01,"Calle del Escorxador, s/n",43003,43,43148,https://www.urv.cat/ca
+043,Universitat de Girona,UDG,publica,09,autonomica,Q6750002E,E GIRONA02,"Plaza Sant Domènec, 3. Edificio Les Àligues",17004,17,17079,
+044,Universidad de Lleida,UDL,publica,09,autonomica,Q7550001G,E LLEIDA01,"Plaza Víctor Siurana, 1",25003,25,25120,https://www.udl.es/ca/es
+045,Universidad de La Rioja,UR,publica,17,autonomica,Q2618002F,E LOGRONO01,"Avenida de La Paz , 93",26006,26,26089,https://www.unirioja.es
+046,Universidad San Pablo-CEU,UCEU,privada,13,autonomica,G28423275,E MADRID21,"Calle Julián Romea, 23",28003,28,28079,https://www.uspceu.com
+047,Universidad Alfonso X El Sabio,UAX,privada,13,autonomica,A78518529,E MADRID17,"Campus de Villanueva de la Cañada. Avenida de la Universidad, 1",28691,28,28176,https://www.uax.es
+048,Universidad de Almería,UAL,publica,01,autonomica,Q5450008G,E ALMERIA01,"Carretera Sacramento, s/n",04120,04,04013,https://www.ual.es
+049,Universidad de Huelva,UHU,publica,01,autonomica,Q7150008F,E HUELVA01,"Calle Doctor Cantero Cuadrado, 6",21004,21,21041,https://www.uhu.es
+050,Universidad de Jaén,UJA,publica,01,autonomica,Q7350006H,E JAEN01,"Campus de las Lagunillas, s/n",23071,23,23050,https://www.ujaen.es
+051,Universidad de Burgos,UBU,publica,07,autonomica,Q0968272E,E BURGOS01,Hospital del Rey s/n. Edificio de Rectorado,09001,09,09059,https://www.ubu.es
+052,Universidad Antonio de Nebrija,UANE,privada,13,autonomica,A78094158,E MADRID12,"Campus de La Berzosa. Calle Hostal, s/n",28240,28,28072,https://www.nebrija.com
+053,Universidad Europea de Madrid,UEM,privada,13,autonomica,A79122305,E MADRID18,"Calle Tajo, s/n. Urbanización El Bosque",28670,28,28181,https://madrid.universidadeuropea.es
+054,Universitat Oberta de Catalunya,UOC,privada,09,autonomica,G60667813,E BARCELO21,"Avenida Tibidabo, 39-43",08035,08,08019,https://www.uoc.es
+055,Universidad Miguel Hernández de Elche,UMH,publica,10,autonomica,Q5350015C,E ELCHE01,"Avenida de la Universidad, s/n",03202,03,03065,https://www.umh.es
+056,Universidad Rey Juan Carlos,URJC,publica,13,autonomica,Q2803011B,E MADRID26,"Calle Tulipán, s/n",28933,28,28092,https://www.urjc.es
+057,IE Universidad,IE,privada,07,autonomica,G40155384,,"C/ Cardenal Zúñiga, 12",40003,40,40194,https://www.ie.edu/universidad
+058,Universidad Pablo de Olavide,UPO,publica,01,autonomica,Q9150016E,E SEVILLA03,"Carretera de Utrera, km. 1",41013,41,41091,https://www.upo.es
+059,Universidad Católica Santa Teresa de Jesús de Ávila,UCAV,privada,07,autonomica,R0500336C,E AVILA01,"C/Canteros,s/n",05005,05,05019,https://www.ucavila.es
+060,Universidad de Vic-Universidad Central de Catalunya,UVIC,privada,09,autonomica,G58020124,E VIC01,"Campus de Miramarges. Carrer de la Sagrada Familia, 7",08500,08,08298,https://www.uvic-ucc.cat/es
+061,Mondragón Unibertsitatea,UMON,privada,16,autonomica,F20560991,E MONDRAG01,"Loramendi, 4. Apartado 23",20500,20,20055,https://www.mondragon.edu
+062,Universitat Internacional de Catalunya,UIC,privada,09,autonomica,G61737409,E BARCELO 24,"Calle Inmaculada, 22",08017,08,08019,https://www.uic.es
+063,Universidad Internacional de Andalucía,UNIA,publica,01,autonomica,Q7350007F,E SEVILLA 05,"Monasterio Santa María de las Cuevas. C/Américo Vespucio, 2, Isla de La Cartuja",41092,41,41091,
+064,Universidad Politécnica de Cartagena,UPCT,publica,14,autonomica,Q8050013E,E MURCIA04,"Pza. del Cronista Isidoro Valverde, Edif. La Milagrosa",30202,30,30016,https://www.upct.es
+065,Universidad Camilo José Cela,UCJC,privada,13,autonomica,A79336947,E MADRID33,"Castillo de Alarcón, 49. Urbanización Villafranca del Castillo",28692,28,28176,https://www.ucjc.edu
+066,Universidad Católica San Antonio,UCAM,privada,14,autonomica,G30626303,E MURCIA05,"Campus de los Jerónimos, s/n Guadalupe",30107,30,30030,https://www.ucam.edu
+067,Universidad Cardenal Herrera-CEU,UCH,privada,10,autonomica,G28423275,E VALENCI08,"C/Assegadors, 2",46115,46,46025,https://www.uchceu.es
+068,Universidad Francisco de Vitoria,UFV,privada,13,autonomica,G80480197,E MADRID28,"Ctra. M-515, Pozuelo-Majadahonda, Km. 1800",28223,28,28115,https://www.ufv.es
+069,Universidad Europea Miguel de Cervantes,UEMC,privada,07,autonomica,A47402821,E VALLADO03,"C/Padre Julio Chevalier, n°2",47012,47,47186,https://www.uemc.es
+070,Universitat Abat Oliba CEU,UAO,privada,09,autonomica,G63095848,E BARCELO 31,"Calle Bellesguard, 30",08022,08,08019,https://www.uao.es
+071,Universidad Internacional Menéndez Pelayo,UIMP,publica,13,estatal,Q2818022B,,"Calle Isaac Peral, 23",28040,28,28079,https://www.uimp.es
+072,Universidad Católica de Valencia San Vicente Mártir,UCV,privada,10,autonomica,G97025787,E VALENCI11,"Calle Guillem de Castro, 94",46001,46,46250,https://www.ucv.es
+073,Universidad San Jorge,USJ,privada,02,autonomica,G99047672,E ZARAGOZ 07,"Autovía A-23 Zaragoza-Huesca, km. 510",50830,50,50288,https://www.usj.es
+074,Universidad a Distancia de Madrid,UDIMA,privada,13,autonomica,A81618894,,"Carretera de La Coruña, KM.38,500 Vía de Servicio, nº 15",28400,28,28047,https://www.udima.es
+076,Universitat Internacional Valenciana,VIU,privada,10,autonomica,B98585797,,"Calle Pintor Sorolla, 21",46002,46,46250,https://www.viu.es
+077,Universidad Internacional de La Rioja,UNIR,privada,17,autonomica,A26430439,,"Avenida de la Paz, 137",26006,26,26089,https://www.unir.net
+079,Universidad Europea de Canarias,UEC,privada,05,autonomica,B57257263,,Casa Salazar. Calle Inocencio García 1,38311,38,38026,https://canarias.universidadeuropea.es
+080,Universidad Internacional Isabel I de Castilla,UI1,privada,07,autonomica,A09515412,,"Fernán González, 76",09003,09,09059,https://www.ui1.es
+081,Universidad Loyola Andalucía,ULA,privada,01,autonomica,G14894158,,"Avenida de las Universidades, s/n",41704,41,41038,https://www.uloyola.es
+082,Universidad Europea de Valencia,UEV,privada,10,autonomica,B97934467,,"Paseo de la Alameda, 7",46010,46,46250,https://valencia.universidadeuropea.es
+083,Universidad Europea del Atlántico,UA,privada,06,autonomica,G39764972,,C/ Isabel Torres 21,39011,39,39075,https://www.uneatlantico.es
+084,Universidad Fernando Pessoa-Canarias (UFP-C),UFPC,privada,05,autonomica,B76075647,,"Calle Alcalde Francisco Hernández González, 28",35001,35,35016,https://www.ufpcanarias.org
+085,Universidad del Atlántico Medio,UNAM,privada,05,autonomica,B09967399,,"Carretera de Quilmes,37",35017,35,35016,https://www.universidadatlanticomedio.es
+087,ESIC Universidad,ESIC,privada,13,autonomica,G87046124,,Avenida Valdenigrales s/n,28223,28,28115,https://www.esic.edu/university
+088,Universidad Internacional Villanueva,UV,privada,13,autonomica,A86787850,,C/ Costa Brava 2 y 6,28034,28,28079,https://www.villanueva.edu
+089,CUNEF Universidad,CUNEF,privada,13,autonomica,B86969235,,"Calle Almansa, 101",28040,28,28079,https://www.cunef.edu
+090,Universidad de las Hespérides,.h,privada,05,autonomica,B76260785,,"C/de los Balcones, 10",35001,35,35016,https://hesperides.edu.es
+094,Universidad Internacional de la Empresa,UNIE,privada,13,autonomica,B64719446,,Calle Arapiles nº 14,28015,28,28079,https://www.universidadunie.com
+097,Universidad Intercontinental de la Empresa,UIE,privada,12,autonomica,G70577747,,"Rua nova, 33",15705,15,15078,https://uie.edu
+098,Universidad Euneiz,,privada,16,autonomica,A01561505,,Paseo de la Biosfera nº 6,01013,01,01059,https://www.euneiz.com
+100,"Universidad de Diseño, Innovación y Tecnología (UDIT)",UDIT,privada,13,autonomica,B84014265,,Avenida de Alfonso XIII nº 97 y 99,28016,28,28079,https://udit.es
+102,Universidad CEU Fernando III,UF3,privada,01,autonomica,G90457367,,"Glorieta Angel Herrera Oria, s/n",41930,41,41017,https://uf3ceu.es
+103,Universidad Tecnológica Atlántico-Mediterráneo,UTAMED,privada,01,autonomica,B93675999,,"Calle de Marie Curie, 1",29590,29,29067,https://utamed.es
+104,Universidad Tecnológica de las Islas Canarias,,privada,05,autonomica,B16382814,,Avenida De Taco núm. 164,38108,38,38023,
+106,Universidad Alfonso X el Sabio Mare Nostrum,,privada,01,autonomica,A42792747,,"Cam. de la Térmica, 90",29004,29,29067,https://29004
+107,Universidad Europea de Andalucía,,privada,01,autonomica,B86130044,,"Calle Eolo, 10",29010,29,29067,
+108,Universidad Internacional para el Desarrollo UNINDE,UNINDE,privada,11,autonomica,,,,,06,06015,https://uninde.es
+109,IE Universidad Madrid,,privada,13,autonomica,,,,,28,28079,
+110,Universidad de Mallorca,,privada,04,autonomica,,,,07009,07,07040,

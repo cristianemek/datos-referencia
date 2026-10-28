@@ -1,0 +1,385 @@
+aerodrome_code,icao,iata,name,type,category,status,province_code,municipality_code,altitude,latitude,longitude
+010224000001,LEGO,,Helipuerto de Elciego,helipuerto,nacional,operativo,01,01022,525,42.516142,-2.637658
+010594000003,LEVT,VIT,Aeropuerto de Vitoria,aerodromo,internacional,operativo,01,01059,513,42.882837,-2.724469
+020034000002,,,Helipuerto Airbus Helicopters,helipuerto,nacional,operativo,02,02003,696,38.942761,-1.877244
+020034000003,LETY,,Aeródromo de Tinajeros,aerodromo,nacional,operativo,02,02003,680,39.098706,-1.720561
+020034000005,LEHE,,Helipuerto Babcock,helipuerto,nacional,operativo,02,02003,680,39.071078,-1.834581
+020034000019,LEAB,ABC,Base Aérea de Albacete,aerodromo,internacional,operativo,02,02003,701,38.948472,-1.863444
+020094000016,,,Aeródromo de Almansa,aerodromo,nacional,en_desuso,02,02009,706,38.894883,-1.113667
+020354000001,LEGI,,Aeródromo La Gineta,aerodromo,nacional,operativo,02,02035,694,39.105833,-2.016111
+020564000017,LEOT,,Aeródromo de Ontur,aerodromo,nacional,operativo,02,02056,660,38.616882,-1.528434
+029014000001,LEPZ,,Aeródromo Municipal de Pozo Cañada,aerodromo,nacional,operativo,02,02901,852,38.797778,-1.760556
+030144000001,LEUB,,Helipuerto del Hospital General Universitario Doctor Balmis,helipuerto,nacional,operativo,03,03014,55,38.363914,-0.487517
+030654000001,LEAL,ALC,Aeropuerto de Alicante-Elche Miguel Hernández,aerodromo,internacional,operativo,03,03065,43,38.282169,-0.558156
+030904000002,LEMU,,Aeródromo de Muchamiel,aerodromo_helipuerto,nacional,operativo,03,03090,145,38.440000,-0.473889
+040114000006,,,Helipuerto de Alhama de Almería,helipuerto,nacional,operativo,04,04011,366,36.959667,-2.539917
+040134000008,LEAM,LEI,Aeropuerto de Almería,aerodromo,internacional,operativo,04,04013,21,36.843937,-2.370097
+040834000003,LEON,,Helipuerto de Serón,helipuerto,nacional,operativo,04,04083,755,37.351083,-2.509306
+040984000001,LEVZ,,Helipuerto de Vélez Blanco,helipuerto,nacional,operativo,04,04098,1062,37.707806,-2.102639
+050214000001,LEBV,,Helipuerto del Barco de Ávila,helipuerto,nacional,operativo,05,05021,1014,40.355278,-5.519722
+050574000001,LEEB,,Helipuerto C.I. de Cebreros,helipuerto,nacional,operativo,05,05057,842,40.467312,-4.455371
+051874000001,LEPD,,Helipuerto C.I. de Piedralaves,helipuerto,nacional,operativo,05,05187,667,40.310833,-4.709722
+051974000005,LEDL,,Aeródromo Salobral,aerodromo,nacional,operativo,05,05197,1067,40.604678,-4.791564
+052624000004,LEPU,,Helipuerto BRIF Base de Puerto del Pico,helipuerto,nacional,operativo,05,05262,1284,40.340556,-5.013333
+060114000001,LELI,,Aeródromo El Molinillo,aerodromo,nacional,operativo,06,06011,320,38.740736,-6.394183
+060150000002,LEBN,,Helipuerto Hospital Universitario de Badajoz,helipuerto,nacional,operativo,06,06015,169,38.883356,-7.002344
+060154000007,LEBZ,BJZ,Base Aérea de Talavera la Real (Badajoz),aerodromo,internacional,operativo,06,06015,185,38.891250,-6.821333
+060154000011,LEEM,,Aeródromo del Manantío,aerodromo,nacional,operativo,06,06015,267,38.777778,-6.991111
+060154000012,LETE,,Aeródromo de Morante,aerodromo,nacional,operativo,06,06015,213,39.036944,-6.690556
+060154000015,LEPN,,Aeródromo de Casimiro Patiño,aerodromo,nacional,operativo,06,06015,262,38.705878,-7.000556
+060264000001,LELE,,Helipuerto C.I. de Calera de León,helipuerto,nacional,operativo,06,06026,,38.113789,-6.343386
+060624000001,LEML,,Aeródromo El Membrillar,aerodromo,nacional,operativo,06,06062,604,39.392333,-4.737317
+060634000001,LEDU,,Helipuerto C.I. Herrera del Duque,helipuerto,nacional,operativo,06,06063,457,39.166350,-5.066703
+060794000001,LEIT,,Helipuerto C.I Manchita,helipuerto,nacional,operativo,06,06079,311,38.824664,-6.027714
+060830000001,LEIJ,,Aeródromo de Cortijo Puerto,aerodromo,nacional,operativo,06,06083,280,38.937970,-6.266708
+060834000009,LEMY,,Aeródromo Mérida-Royanejos,aerodromo,nacional,operativo,06,06083,265,38.979917,-6.345167
+061084000001,LEVE,,Aeródromo Virgen de la Estrella,aerodromo,nacional,operativo,06,06108,564,38.420499,-6.357349
+061134000001,,,Aeródromo El Moral,aerodromo,nacional,operativo,06,06113,456,38.485972,-6.263611
+070084000067,LEIS,,Aeródromo de Binissalem,pista_aterrizaje,nacional,operativo,07,07008,106,39.681547,2.877848
+070244000001,LEFE,,Helipuerto del Hospital de Formentera,helipuerto,nacional,operativo,07,07024,15,38.707908,1.435206
+070264000059,LENM,,Heliport Hospital Can Misses,helipuerto,nacional,operativo,07,07026,26,38.917500,1.419444
+070324000069,LEMH,MAH,Aeroport de Menorca,aerodromo,internacional,operativo,07,07032,89,39.862596,4.218648
+070364000066,LESB,SBO,Aeròdrom de Son Bonet,aerodromo,nacional,operativo,07,07036,47,39.598917,2.702646
+070374000001,LEME,,Helipuerto de Es Mercadal,helipuerto,nacional,operativo,07,07037,,39.968300,4.093606
+070404000001,LEEH,,Helipuerto del Hospital Son Espases,helipuerto,nacional,operativo,07,07040,63,39.609292,2.645650
+070404000064,LEPA,PMI,Aeropuerto de Palma de Mallorca,aerodromo_helipuerto,internacional,operativo,07,07040,8,39.551674,2.738807
+070414000001,LEPT,,Aeródromo Petra-Pep Mercader,aerodromo_helipuerto,nacional,operativo,07,07041,70,39.576667,3.124444
+070424000068,LEPO,,Hidroaeródromo Mallorca/Pollensa,pista_aterrizaje,nacional,operativo,07,07042,0,39.908000,3.102000
+070484000058,LEIB,IBZ,Aeropuerto de Ibiza,aerodromo,internacional,operativo,07,07048,69,38.872857,1.373117
+070524000001,LESL,,Aeròdrom de San Luis,aerodromo,nacional,operativo,07,07052,60,39.862222,4.251944
+070544000001,LEOM,,Helipuerto de Sa Coma,helipuerto,nacional,operativo,07,07054,49,38.931694,1.414806
+070544000060,LECC,,Helipuerto de Cas Curredó,helipuerto,nacional,operativo,07,07054,86,38.929153,1.466328
+080154000024,LEJL,,Helipuerto Universitari Germans Trias i Pujol,helipuerto,nacional,operativo,08,08015,175,41.479700,2.238583
+080194000001,LEVU,,Helipuerto de Vall D'Hebrón Barcelona Hospital Campus,helipuerto,nacional,operativo,08,08019,176,41.427028,2.140139
+080194000025,LESP,,Helipuerto del Hospital San Pau,helipuerto,nacional,operativo,08,08019,64,41.414806,2.175417
+080194000031,LETK,,Helipuerto Hospitalario Teknon,helipuerto,nacional,operativo,08,08019,148,41.406619,2.127989
+080194000040,LEPB,,Helipuerto de la Autoridad Portuaria de Barcelona,helipuerto,nacional,operativo,08,08019,1,41.364167,2.183056
+080194000041,LEJC,,Helipuerto del Hotel Rey Juan Carlos I,helipuerto,nacional,operativo,08,08019,80,41.380700,2.108183
+080224000001,LERG,,Helipuerto Berga,helipuerto,nacional,operativo,08,08022,696,42.104722,1.858056
+080964000020,LERV,,Helipuerto del Servei d'Evacuacio del Circuit de Catalunya,helipuerto,nacional,operativo,08,08096,122,41.571944,2.261944
+080964000021,LETA,,Helipuerto del Serveis Generals del Circuit de Catalunya,helipuerto,nacional,operativo,08,08096,150,41.573893,2.256867
+081014000032,LEHB,,Helipuerto Universitario de Bellvitge,helipuerto,nacional,operativo,08,08101,7,41.345833,2.103611
+081014000035,LEJD,,Helipuerto del Hospital Sant Joan de Déu,helipuerto,nacional,operativo,08,08101,129,41.384389,2.102639
+081014000036,LEFR,,Helipuerto Fira M2 l’Hospitalet,helipuerto,nacional,operativo,08,08101,6,41.353889,2.129167
+081014000042,LERA,,Helipuerto del R.A.C.C.,helipuerto,nacional,operativo,08,08101,82,41.381389,2.107222
+081024000011,LEHI,,Helipuerto del Hospital de Igualada,helipuerto,nacional,operativo,08,08102,347,41.588333,1.620833
+081134000007,LEHM,,Helipuerto del Hospital General de Manresa,helipuerto,nacional,operativo,08,08113,285,41.720556,1.838889
+081194000015,LEBS,,Helipuerto del Hotel Can Bonastre Wine Resort Masquefa,helipuerto,nacional,operativo,08,08119,289,41.507704,1.787711
+081214000018,LENH,,Helipuerto del Nou Hospital de Mataro,helipuerto,nacional,operativo,08,08121,150,41.556111,2.430000
+081434000012,LEIG,,Aeródromo de Igualada-Ódena,aerodromo,nacional,operativo,08,08143,330,41.584167,1.652778
+081694000038,LEBL,BCN,Aeropuerto de Josep Tarradellas Barcelona-El Prat,aerodromo,internacional,operativo,08,08169,4,41.297077,2.078463
+081874000022,LEXE,,Helipuerto del Complejxegara,helipuerto,nacional,operativo,08,08187,244,41.553889,2.066389
+081874000023,LELL,QSA,Aeropuerto de Sabadell,aerodromo,nacional,operativo,08,08187,148,41.520902,2.105028
+081874000024,LERC,,Helipuerto Parc Taulí,helipuerto,nacional,operativo,08,08187,182,41.558028,2.108778
+081894000010,LECF,,Aeródromo de Calaf-Sallavinera,aerodromo,nacional,operativo,08,08189,718,41.744722,1.557778
+082054000026,LEHG,,Helipuerto Hospital General de Catalunya,helipuerto,nacional,operativo,08,08205,115,41.473807,2.042532
+082134000008,LEMS,,Aeródromo de Manresa,aerodromo,nacional,operativo,08,08213,276,41.764444,1.862222
+082544000002,LETM,,Helipuerto de Sant Martí de Sescorts,helipuerto,nacional,operativo,08,08254,499,42.013740,2.321416
+082704000014,LEGS,,Helipuerto Parque de Garraf-Sitges,helipuerto,nacional,operativo,08,08270,339,41.273889,1.914722
+082904000016,LEUL,,Helipuerto UllasTrell-Teresa Vilá,helipuerto,nacional,operativo,08,08290,281,41.524722,1.971389
+090594000013,LENU,,Helipuerto Nuevo Hospital de Burgos,helipuerto,nacional,operativo,09,09059,878,42.361614,-3.683786
+090594000015,LEBG,RGS,Aeropuerto de Burgos (Villafría),aerodromo,internacional,operativo,09,09059,897,42.357381,-3.613642
+091974000011,LEJO,,Aeródromo de Madrigalejo del Monte,aerodromo_helipuerto,nacional,en_desuso,09,09197,921,42.134180,-3.730093
+092094000016,LEDI,,Helipuerto de Medina de Pomar,aerodromo_helipuerto,nacional,operativo,09,09209,614,42.952342,-3.474386
+092744000009,LENG,,Helipuerto C.I. Pradoluengo,helipuerto,nacional,operativo,09,09274,938,42.331667,-3.213333
+094224000001,LEDB,,Aeródromo La Vid de Bureba,aerodromo,nacional,operativo,09,09422,693,42.632481,-3.311853
+100174000013,LEGU,,Aeródromo de Guadalupe,aerodromo,nacional,operativo,10,10017,417,39.345500,-5.197828
+100374000003,LEUH,,Helipuerto Hospital Universitario de Cáceres,helipuerto,nacional,operativo,10,10037,383,39.476717,-6.327853
+100874000001,LEGH,,Helipuerto de Guadalupe,helipuerto,nacional,operativo,10,10087,760,39.461228,-5.328286
+101004000001,LEHY,,Helipuerto de Hoyos,helipuerto,nacional,operativo,10,10100,454,40.170475,-6.707586
+101054000001,LEJA,,Helipuerto de Jarandilla de la Vera,helipuerto,nacional,operativo,10,10105,612,40.122500,-5.654167
+101464000006,LEPF,,Helipuerto de Pinofranqueado,helipuerto,nacional,operativo,10,10146,493,40.310161,-6.322206
+101484000005,LEPL,,Helipuerto de Plasencia,helipuerto,nacional,operativo,10,10148,412,39.989733,-6.133822
+101754000001,LERR,,Helipuerto C.I. de Serradilla,helipuerto,nacional,operativo,10,10175,399,39.819603,-6.127361
+101954000007,LEGP,,Aeródromo Cerro Lindo,aerodromo,nacional,operativo,10,10195,380,39.593889,-6.206111
+102034000005,LEIA,,Helipuerto de Valencia de Alcántara,helipuerto,nacional,operativo,10,10203,382,39.454411,-7.221747
+110044000007,LEAG,AEI,Helipuerto de Algeciras,helipuerto,internacional,operativo,11,11004,3,36.128802,-5.441120
+110134000001,LEAA,,Helipuerto La Almoraima,helipuerto,nacional,operativo,11,11013,36,36.285278,-5.434722
+110204000001,LEHZ,,Helipuerto del Hospital de Jerez,helipuerto,nacional,operativo,11,11020,49,36.699200,-6.151933
+110204000014,LEJR,XRY,Aeropuerto de Jerez,aerodromo,internacional,operativo,11,11020,28,36.744623,-6.060111
+110224000001,LENC,,Helipuerto Hospital La Línea de la Concepción,helipuerto,nacional,operativo,11,11022,,36.175175,-5.352592
+110234000011,LECX,,Aeródromo de Aerosidonia,aerodromo,nacional,operativo,11,11023,69,36.440544,-5.940278
+110304000009,LERT,,Aeródromo de Cádiz/Rota,aerodromo_helipuerto,nacional,operativo,11,11030,26,36.645211,-6.349481
+110314000001,LESF,,Helipuerto San Carlos,helipuerto,nacional,operativo,11,11031,2,36.483048,-6.186712
+110374000010,LETJ,,Aeródromo de Trebujena,aerodromo,nacional,operativo,11,11037,2,36.858611,-6.140606
+110414000008,LETF,,Aeródromo de Tomás Fernández Espada,aerodromo,nacional,operativo,11,11041,100,36.871944,-5.648611
+120404000001,LECN,,Aeródromo de Castellón,aerodromo_helipuerto,nacional,operativo,12,12040,5,40.000278,0.026667
+120404000002,,,Helipuerto Bp Oil España,helipuerto,nacional,operativo,12,12040,3,39.957898,-0.011636
+121114000001,LEIV,,Helipuerto Base de Extinción de Incendios de Tírig (Castellón),helipuerto,nacional,operativo,12,12111,477,40.404083,0.064583
+121324000001,LECH,CDT,Aeropuerto de Castellón/ Aeroport de Castelló,aerodromo,internacional,operativo,12,12132,360,40.214117,0.073578
+121384000001,LEVN,,Helipuerto de Vinaròs,helipuerto,nacional,operativo,12,12138,115,40.519664,0.390067
+121404000001,LEVY,,Aeródromo Vicente Huerta,aerodromo,nacional,operativo,12,12140,745,39.955086,-0.622932
+130064000001,LENT,,Helipuerto Alcoba de los Montes,helipuerto,nacional,operativo,13,13006,634,39.266944,-4.490556
+130134000006,LEAO,,Helipuerto Ciudad Real/Almagro,helipuerto,nacional,operativo,13,13013,622,38.953334,-3.741389
+130154000024,LESE,,Aeródromo de San Enrique,aerodromo,nacional,operativo,13,13015,688,38.730833,-4.313056
+130274000001,LEAY,,Helipuerto Bifor B La Atalaya,helipuerto,nacional,operativo,13,13027,939,38.634339,-3.789531
+130514000022,LECT,,Aeródromo el Castaño,aerodromo,nacional,operativo,13,13051,666,39.012547,-4.387117
+130574000001,LEDC,,Aeródromo de La Cuesta,aerodromo,nacional,operativo,13,13057,834,38.530925,-2.832511
+130674000020,,,Aeródromo Los Pozuelos de Calatrava,aerodromo,nacional,,13,13067,570,38.912586,-4.190925
+130844000001,LENE,,Aeródromo La Caminera,aerodromo,nacional,operativo,13,13084,766,38.669719,-3.303444
+130844000015,LEIZ,,Aeródromo La Perdiz-Torre de Juan Abad,aerodromo,nacional,operativo,13,13084,839,38.513172,-3.364546
+130874000014,LEVP,,Aerodromo Manuel Sánchez de Valdepeñas,aerodromo,nacional,operativo,13,13087,710,38.792219,-3.371814
+130874000016,LELA,,Aeródromo de la Calderera,aerodromo,nacional,operativo,13,13087,752,38.747403,-3.516272
+130894000001,LEVO,,Helipuerto Villahermosa,helipuerto,nacional,operativo,13,13089,966,38.750941,-2.842078
+130954000026,LERL,CQM,Aeropuerto de Ciudad Real,aerodromo,internacional,operativo,13,13095,646,38.856499,-3.970057
+140014000001,LEUZ,,Helipuerto de Adamuz,helipuerto,nacional,operativo,14,14001,613,38.169539,-4.570800
+140154000001,LECY,,Helipuerto de Carcabuey,helipuerto,nacional,operativo,14,14015,538,37.461111,-4.276750
+140214000002,LEDE,,Aeródromo Aerodel,aerodromo,nacional,operativo,14,14021,86,37.835056,-4.895778
+140214000009,LEBA,ODB,Aeropuerto de Córdoba,aerodromo_helipuerto,nacional,operativo,14,14021,94,37.842004,-4.848876
+140354000010,,,Aeródromo Hinojosa del Duque,pista_aterrizaje,nacional,en_desuso,14,14035,545,38.513012,-5.099842
+140364000002,LEIL,,Helipuerto El Cabril,helipuerto,nacional,operativo,14,14036,415,38.075992,-5.414753
+140494000014,LEPR,,Aeródromo Sebastián Almagro,aerodromo_helipuerto,nacional,operativo,14,14049,116,37.714073,-5.215740
+140674000001,LEVJ,,Aeródromos de Villafranca de Córdoba,aerodromo,nacional,operativo,14,14067,150,37.936681,-4.532914
+140734000001,LEIO,,Helipuerto de Villaviciosa,helipuerto,nacional,operativo,14,14073,735,38.075332,-5.003279
+150014000001,LECR,,Helipuerto de Castromaior,helipuerto,nacional,operativo,15,15001,457,43.172944,-8.330917
+150234000001,LESR,,Helipuerto Cee,helipuerto,nacional,operativo,15,15023,74,42.981667,-9.237236
+150304000049,LEUA,,Helipuerto del  Hospital Universitario de  A Coruña,helipuerto,nacional,operativo,15,15030,57,43.344717,-8.388894
+150314000047,LECO,LCG,Aeropuerto de A Coruña,aerodromo,internacional,operativo,15,15031,101,43.302061,-8.377256
+150454000038,LEMZ,,Aeródromo de Mazaricos,aerodromo,nacional,operativo,15,15045,290,42.982736,-9.005161
+150664000001,LEST,SCQ,Aeropuerto de Santiago-Rosalía de Castro,aerodromo,internacional,operativo,15,15066,369,42.896334,-8.415144
+150774000037,LELK,,Helipuerto de Lomba,helipuerto,nacional,operativo,15,15077,361,42.969131,-8.868878
+160064000001,LELB,,Helipuerto de Albendea,helipuerto,nacional,operativo,16,16006,746,40.475278,-2.383611
+160140000001,LEAK,,Aeródromo de Aliaguilla,aerodromo,nacional,operativo,16,16014,1067,39.758611,-1.336111
+160434000025,LEDP,,Aeródromo Campillos-Paravientos,aerodromo_helipuerto,nacional,operativo,16,16043,1221,39.941959,-1.530887
+160654000027,LEPI,,Aeródromo Casas de los Pinos,aerodromo,nacional,operativo,16,16065,722,39.297867,-2.378084
+160784000021,LEES,,Helipuerto de la la Base C.I. de Prado de los Esquiladores,helipuerto,nacional,operativo,16,16078,1343,40.160500,-1.910600
+161674000024,LEPC,,Aeródromo de Pozorrubio de Santiago,aerodromo,nacional,operativo,16,16167,786,39.825969,-2.952425
+169094000026,LESS,,Aeródromo Sotos,aerodromo,nacional,operativo,16,16909,970,40.204167,-2.143889
+170164000012,LEOR,,Helipuerto del Parque de Bomberos de Orriols,helipuerto,nacional,operativo,17,17016,157,42.132119,2.904113
+170394000001,LEDN,,Helipuerto Bombers de Campodón,helipuerto,nacional,operativo,17,17039,933,42.303497,2.358683
+170474000020,LEAP,,Aeròdrom d'Ampuriabrava,aerodromo,nacional,operativo,17,17047,2,42.260000,3.109722
+170484000004,LEBC,,Helipuerto de Costa Brava-Centro,helipuerto,nacional,operativo,17,17048,14,41.806389,3.037500
+170614000025,,,Aeròdrom de la Cerdanya,aerodromo,nacional,operativo,17,17061,1100,42.386389,1.863056
+170614000026,,,Helipuerto de la Cerdanya,helipuerto,nacional,operativo,17,17061,1100,42.386944,1.866389
+170794000007,LEJT,,Helipuerto del Hospital Doctor Josep Trueta,helipuerto,nacional,operativo,17,17079,65,41.997804,2.821272
+171034000003,LEMV,,Helipuerto Eventual del Parc de Bombers de Maçanet de la Selva,helipuerto,nacional,operativo,17,17103,100,41.779314,2.752275
+171144000001,LEOO,,Helipuerto Parc de Bombers d'Olot,helipuerto,nacional,operativo,17,17114,425,42.190381,2.474469
+171414000030,LENY,,Helipuerto del Hospital de Cerdanya,helipuerto,nacional,operativo,17,17141,1214,42.444167,1.930000
+171694000001,LEFS,,Helipuerto Fortalesa de Sant Juliá de Ramis,helipuerto,nacional,operativo,17,17169,145,42.030767,2.848783
+172334000006,LEGE,GRO,Aeroport de Girona,aerodromo,internacional,operativo,17,17233,143,41.900969,2.760549
+180594000028,LEGR,GRX,Aeropuerto de Federico García Lorca Granada-Jaén,aerodromo,internacional,operativo,18,18059,567,37.188731,-3.777356
+180624000030,LEGA,,Aeródromo de Granada/Armilla,aerodromo_helipuerto,nacional,operativo,18,18062,688,37.133251,-3.635779
+180874000002,LEUS,,Helipuerto del Hospital Universitario San Cecilio,helipuerto,nacional,operativo,18,18087,675,37.146903,-3.605278
+181084000001,LEMJ,,Helipuerto de los Moralillos,helipuerto,nacional,operativo,18,18108,,37.183742,-3.173256
+181404000007,,,Helipuerto de Tropicopter,helipuerto,nacional,operativo,18,18140,29,36.724262,-3.526423
+181474000021,LEHN,,Helipuerto de Sierra Nevada,helipuerto,nacional,operativo,18,18147,401,36.881750,-3.402206
+181854000001,LEJE,,Aeródromo Juan Espadafor,aerodromo,nacional,operativo,18,18185,775,37.089503,-3.788322
+181894000020,LEFO,,Helipuerto del CEDEFO de Puerto Lobo,helipuerto,nacional,operativo,18,18189,1274,37.238777,-3.536076
+191304000005,LENI,,Helipuerto Bifor B El Serranillo,helipuerto,nacional,operativo,19,19130,638,40.657778,-3.173056
+191354000024,LEEN,,Aeródromo de Hiendelaencina - Las Minas,aerodromo_helipuerto,nacional,operativo,19,19135,1128,41.105556,-2.989167
+192394000019,LERM,,Aeródromo Robledillo de Mohernando,aerodromo,nacional,operativo,19,19239,944,40.865278,-3.247778
+192574000020,LESZ,,Aeródromo de Sigüenza,aerodromo_helipuerto,nacional,operativo,19,19257,1050,41.044661,-2.628139
+192634000001,LETD,,Aeródromo Taragudo,aerodromo,nacional,operativo,19,19263,775,40.820708,-3.093122
+200364000014,LESO,EAS,Aeropuerto de San Sebastián,aerodromo,internacional,operativo,20,20036,0,43.356520,-1.790612
+210054000001,LEZU,,Helipuerto del CEDEFO de Cabezudos,helipuerto,nacional,operativo,21,21005,26,37.171356,-6.621991
+210344000001,LEGL,,Helipuerto de Galaroza,helipuerto,nacional,operativo,21,21034,620,37.923769,-6.686531
+210354000011,LEMF,,Aeródromo de Mafé-Gibraleón,aerodromo,nacional,operativo,21,21035,41,37.364174,-6.920926
+220154000033,LEHC,HSK,Aeropuerto de Huesca-Pirineos,aerodromo_helipuerto,internacional,operativo,22,22015,539,42.080927,-0.323469
+220534000032,LENA,,Aeródromo de Benabarre,aerodromo,nacional,operativo,22,22053,747,42.022147,0.482246
+220614000025,LEBF,,Aeródromo Binéfar,aerodromo,nacional,operativo,22,22061,427,41.854175,0.254706
+220664000001,LEOF,,Helipuerto de Boltaña forestal,helipuerto,nacional,operativo,22,22066,570,42.432500,0.092500
+220834000018,LECJ,,Aeródromo de Castejón de Monegros,aerodromo,nacional,en_desuso,22,22083,455,41.608855,-0.220377
+221704000001,LEPJ,,Helipuerto del Valle del Tena,helipuerto,nacional,operativo,22,22170,1100,42.716450,-0.300128
+222084000039,LECI,,Aeródromo de Santa Cilia de Jaca,aerodromo,nacional,operativo,22,22208,684,42.569722,-0.727778
+229044000001,LEFP,,Helipuerto de Plasencia  forestal,helipuerto,nacional,operativo,22,22904,498,42.207000,-0.568444
+229074000036,LEOJ,,Aeródromo de Ainsa-Coscojuela de Sobrarbe,aerodromo,nacional,operativo,22,22907,531,42.348031,0.185900
+230124000018,LEBE,,Aeródromo de Beas de Segura,aerodromo,nacional,operativo,23,23012,545,38.271111,-2.948889
+230284000012,LECZ,,Helipuerto del Cedefo de Cazorla,helipuerto,nacional,operativo,23,23028,980,37.915528,-3.042694
+230444000008,LEUE,,Helipuerto C.I. de Huelma,helipuerto,nacional,operativo,23,23044,1154,37.675278,-3.468611
+230554000015,,,Aeródromo de Linares,pista_aterrizaje,nacional,operativo,23,23055,484,38.132903,-3.642667
+230594000019,LENN,,Aeródromo La Centenera,aerodromo,nacional,operativo,23,23059,661,38.114892,-4.115108
+240634000001,LEHO,,Helipuerto de Sahechores,helipuerto,nacional,operativo,24,24063,914,42.619967,-5.192400
+240654000004,LEZS,,Aeródromo de Chozas de Abajo,aerodromo,nacional,operativo,24,24065,875,42.496444,-5.682844
+240914000001,LETB,,Helipuerto BRIF Tabuyo del Monte,helipuerto,nacional,operativo,24,24091,985,42.295368,-6.214650
+241074000001,LEOS,,Aeródromo Los Oteros,aerodromo,nacional,operativo,24,24107,801,42.333056,-5.449083
+241334000001,LEAD,,Helipuerto de Camposagrado,helipuerto,nacional,operativo,24,24133,1131,42.731944,-5.726389
+241434000013,LEET,,Helipuerto C.I. Cueto,helipuerto,nacional,operativo,24,24143,578,42.632900,-6.648553
+241524000005,LERB,,Helipuerto de la Base C.I. de Rabanal del Camino,helipuerto,nacional,operativo,24,24152,1113,42.480833,-6.271944
+241604000003,LEVL,,Aeródromo de Villamarco,aerodromo,nacional,operativo,24,24160,853,42.453611,-5.286667
+241894000007,LELN,LEN,Base Aérea de León,aerodromo,internacional,operativo,24,24189,916,42.588594,-5.656179
+242194000001,LEAT,,Aeródromo de Astorga,aerodromo,nacional,operativo,24,24219,951,42.504167,-6.027069
+250164000027,LEDA,ILD,Aeroport de Lleida-Alguaire,aerodromo,internacional,operativo,25,25016,349,41.727935,0.535407
+251404000020,LESU,LEU,Aeroport de la Seu D'Urgell,aerodromo,nacional,operativo,25,25140,802,42.346206,1.414744
+251850000001,LEAU,,Helipuerto Nocturno de L'Aeroport Seu d'Urgell,helipuerto,nacional,operativo,25,25185,801,42.337041,1.401745
+252214000008,LETV,,Helipuerto Tirvia,helipuerto,internacional,operativo,25,25221,915,42.518611,1.241944
+252344000013,LETR,,Helipuerto Tremp,helipuerto,nacional,operativo,25,25234,469,42.164444,0.889722
+252434000002,LEVH,,Helipuerto Viella,helipuerto,nacional,operativo,25,25243,1037,42.697222,0.801389
+252454000004,LEVR,,Helipuerto de Vilaller,helipuerto,nacional,operativo,25,25245,969,42.472222,0.712500
+260024000005,LERJ,RJL,Aeropuerto de Logroño-Agoncillo,aerodromo,internacional,operativo,26,26002,352,42.460526,-2.320489
+260024000006,LELO,,Helipuerto de Logroño-Agoncillo,helipuerto,nacional,operativo,26,26002,350,42.452334,-2.324995
+261394000006,LESN,,Aeródromo de San Torcuato,aerodromo,nacional,operativo,26,26139,627,42.474439,-2.872619
+270104000041,LERO,,Aeródromo de Rozas,aerodromo,nacional,operativo,27,27010,439,43.113175,-7.463518
+270314000020,LEXO,,Helipuerto C.I. de Marroxo,helipuerto,nacional,operativo,27,27031,615,42.472873,-7.501573
+270494000029,LEIN,,Helipuerto C.I. Portomarín,helipuerto,nacional,operativo,27,27049,436,42.813439,-7.619444
+270514000054,LEVF,,Aeródromo de Villaframil,aerodromo,nacional,operativo,27,27051,25,43.552500,-7.087778
+270664000058,LEPV,,Helipuerto Costa Nort-Puerto de Viveiro-Celeiro,helipuerto,nacional,operativo,27,27066,4,43.674722,-7.595000
+279024000057,LEUR,,Helipuerto del Hospital da Costa de Burela,helipuerto,nacional,operativo,27,27902,88,43.651069,-7.359317
+280074000077,LEHA,,Helipuerto del Hospital Alcorcón,helipuerto,nacional,operativo,28,28007,689,40.349694,-3.838203
+280134000001,LEHT,,Helipuerto Sanitario Hospital del Tajo,helipuerto,nacional,operativo,28,28013,505,40.058678,-3.611358
+280284000034,LEBU,,Helipuerto C.I. Bustarviejo,helipuerto,nacional,operativo,28,28028,1209,40.856942,-3.742150
+280304000001,LEER,,Helipuerto La Cabrera C.I.,helipuerto,nacional,operativo,28,28030,1028,40.855417,-3.617936
+280454000075,LECV,,Helipuerto Madrid/Colmenar Viejo,aerodromo_helipuerto,nacional,operativo,28,28045,994,40.697265,-3.763293
+280494000001,LEHH,,Helipuerto Sanitario del Hospital del Henares,helipuerto,nacional,operativo,28,28049,593,40.419533,-3.532325
+280654000074,LEGT,,Aeropuerto de Madrid/Getafe,aerodromo,nacional,operativo,28,28065,619,40.294067,-3.723733
+280794000003,LEDG,,Helipuerto elevado de la Dirección General de Tráfico,helipuerto,nacional,operativo,28,28079,690,40.447728,-3.639964
+280794000020,LETS,,Helipuerto de la Torre Picasso,helipuerto,nacional,operativo,28,28079,690,40.450596,-3.692986
+280794000069,LEDO,,Helipuerto del Hospital Doce de Octubre,helipuerto,nacional,operativo,28,28079,583,40.377692,-3.696936
+280794000079,LECU,MCV,Aeropuerto de Madrid-Cuatro Vientos,aerodromo_helipuerto,internacional,operativo,28,28079,692,40.370677,-3.785140
+280794000090,LEMD,MAD,Aeropuerto Adolfo Suárez Madrid-Barajas,aerodromo,internacional,operativo,28,28079,593,40.472230,-3.560945
+280794000091,LELV,,Helipuerto del Hospital Infanta Leonor  de Vallecas,helipuerto,nacional,operativo,28,28079,654,40.386581,-3.615842
+280804000001,LEPH,,Helipuerto del Hospital Universitario Puerta de Hierro,helipuerto,nacional,operativo,28,28080,725,40.450022,-3.870156
+280914000058,LEAJ,,Helipuerto Base C.I. de Morata de Tajuña,helipuerto,nacional,operativo,28,28091,690,40.247646,-3.480645
+280924000001,LERY,,Helipuerto del Hospital Rey Juan Carlos,helipuerto,nacional,operativo,28,28092,672,40.340428,-3.869500
+280934000001,LENV,,Helipuerto C.I. de Navacerrada,helipuerto,nacional,operativo,28,28093,1296,40.740564,-4.004250
+280994000001,LEEY,,Helipuerto Base C.I. Navas del Rey,helipuerto,nacional,operativo,28,28099,699,40.387111,-4.242028
+281274000001,LELR,,Helipuerto Base C.I. de Las Rozas,helipuerto,nacional,operativo,28,28127,730,40.520222,-3.882725
+281334000001,LEDV,,Helipuerto Base C.I San Martín de Valdeiglesias,helipuerto,nacional,operativo,28,28133,613,40.357742,-4.376114
+281484000089,LETO,TOJ,Aeropuerto de Madrid/Torrejón,aerodromo,internacional,operativo,28,28148,618,40.496747,-3.445877
+281604000037,LELD,,Helipuerto Base C.I. de Valdemorillo,helipuerto,nacional,operativo,28,28160,865,40.518133,-4.085000
+289014000017,LEZO,,Helipuerto Base C.I. de Lozoyuela,helipuerto,nacional,operativo,28,28901,1067,40.936029,-3.625055
+290384000001,LEVG,,Helipuerto de Hospital Valle del Guadalhorce,helipuerto,nacional,operativo,29,29038,56,36.720964,-4.671539
+290384000028,LEHR,,Helipuerto de Cártama,aerodromo_helipuerto,nacional,operativo,29,29038,46,36.722164,-4.703019
+290434000019,LEFC,,Helipuerto del CEDEFO de Colmenar,helipuerto,nacional,operativo,29,29043,673,36.912356,-4.356569
+290674000026,LEMG,AGP,Aeropuerto de Málaga-Costa del Sol,aerodromo,internacional,operativo,29,29067,16,36.674971,-4.499207
+290694000010,LEMB,,Helicópteros sanitarios de Marbella,helipuerto,nacional,operativo,29,29069,18,36.511431,-4.949136
+290844000017,LERD,,Helipuerto de Ronda,helipuerto,nacional,operativo,29,29084,605,36.761981,-5.173208
+290944000029,LEAX,,Aeródromo de la Axarquía-Leoni Benabú,aerodromo,nacional,operativo,29,29094,37,36.801667,-4.135556
+300084000028,LELH,,Aeródromo de Alhama de Murcia,aerodromo,nacional,operativo,30,30008,204,37.749000,-1.301169
+300154000001,LEQL,,Helipuerto La Alberquilla,helipuerto,nacional,operativo,30,30015,1085,38.126950,-1.917725
+300244000017,LEOL,,"Aeródromo de Lorca, Agustín Navarro",aerodromo,nacional,operativo,30,30024,834,37.927222,-1.776111
+300304000001,LEXA,,Helipuerto del Hospital Virgen de la Arrixaca,helipuerto,nacional,operativo,30,30030,86,37.932064,-1.163789
+300304000018,LEMI,RMU,Aeropuerto de la Región de Murcia,aerodromo,internacional,operativo,30,30030,196,37.803190,-1.124656
+300304000024,LERI,,Aeropuerto de Murcia/Alcantarilla,aerodromo,nacional,operativo,30,30030,8,37.952333,-1.230917
+300304000027,LEMP,,Aeródromo Los Martinez del Puerto,aerodromo,nacional,operativo,30,30030,191,37.835000,-1.097500
+300354000023,LELG,,Aeródromo Los Garranchos - San Javier,aerodromo,nacional,operativo,30,30035,76,37.846944,-0.879444
+300354000029,LELC,MJV,Base Aérea de San Javier,aerodromo,internacional,operativo,30,30035,9,37.774972,-0.812389
+300354000030,LENR,,Helipuerto del Hospital del Mar Menor,helipuerto,nacional,operativo,30,30035,44,37.817052,-0.858688
+300394000019,LETX,,Aeródromo de Totana,aerodromo,nacional,operativo,30,30039,168,37.754566,-1.446480
+310064000000,LETU,,Aeródromo de Ablitas,aerodromo,nacional,operativo,31,31006,321,42.007778,-1.622778
+311094000000,LEPP,PNA,Aeropuerto de Pamplona,aerodromo,internacional,operativo,31,31109,459,42.770040,-1.646329
+311594000000,LEUM,,Aeródromo Lumbier,pista_aterrizaje,nacional,operativo,31,31159,470,42.665833,-1.303333
+312014000000,LELU,,Helipuerto Miluce,helipuerto,nacional,operativo,31,31201,405,42.815752,-1.679275
+312164000000,LESG,,Aeródromo de Sangüesa,aerodromo,nacional,en_desuso,31,31216,402,42.568751,-1.288631
+320094000001,LEOB,,Helipuerto C.I. de o Barco,helipuerto,nacional,operativo,32,32009,424,42.434125,-6.972011
+320114000021,LEBI,,Aeródromo de Beariz,aerodromo,nacional,operativo,32,32011,767,42.457439,-8.338169
+320394000003,LEZA,,Helipuerto C.I. de Laza,helipuerto,nacional,operativo,32,32039,560,42.068781,-7.475044
+320474000010,LEMQ,,Helipuerto de A Merca,helipuerto,nacional,operativo,32,32047,596,42.265856,-7.944972
+320514000001,LEXU,,Helipuerto Base del Xurés,helipuerto,nacional,operativo,32,32051,850,41.951188,-7.957433
+320704000016,LEXN,,Helipuerto de San Xoán de Río,helipuerto,nacional,operativo,32,32070,1007,42.383958,-7.301256
+320854000001,LEHK,,Helipuerto de Vilamaior,helipuerto,nacional,operativo,32,32085,530,41.973981,-7.399264
+330164000004,LEAS,OVD,Aeropuerto de Asturias,aerodromo,internacional,operativo,33,33016,127,43.563567,-6.034621
+330244000001,LEEL,,Helipuerto de El Musel,helipuerto,nacional,operativo,33,33024,4,43.549722,-5.695278
+330284000021,LEBO,,Helipuerto de Ibias Parque de Bomberos Asturias,helipuerto,nacional,operativo,33,33028,760,43.027000,-6.884328
+330354000008,LEMR,,Aeródromo de La Morgal,aerodromo,nacional,operativo,33,33035,165,43.430564,-5.832944
+330354000013,LEGM,,Helipuerto de La Morgal,helipuerto,nacional,operativo,33,33035,164,43.436389,-5.830833
+330444000015,LEHU,,Helipuerto del Hospital Universitario Central de Asturias en Oviedo,helipuerto,nacional,operativo,33,33044,197,43.377208,-5.826311
+330734000003,LETN,,Helipuerto de Tineo,aerodromo_helipuerto,nacional,operativo,33,33073,675,43.335431,-6.378008
+340274000001,LEUC,,Aeródromo de Cillamayor,aerodromo,nacional,operativo,34,34027,980,42.851389,-4.280833
+340834000001,LERP,,Aeródromo Herrera de Pisuerga,aerodromo,nacional,operativo,34,34083,900,42.593611,-4.288333
+342084000001,LEAE,,Helipuerto Villaeles,helipuerto,nacional,operativo,34,34208,909,42.569247,-4.574764
+342434000001,LEAV,,Aeródromo de Villoldo,aerodromo,nacional,operativo,34,34243,818,42.265417,-4.647222
+350034000029,GCAT,,Aeródromo de Antigua - Fuerteventura,pista_aterrizaje,nacional,operativo,35,35003,171,28.391071,-13.983027
+350054000001,GCAR,,Helipuerto de Artenara,helipuerto,nacional,operativo,35,35005,1223,28.022429,-15.655754
+350114000007,GCLP,LPA,Aeropuerto de Gran Canaria,aerodromo,internacional,operativo,35,35011,24,27.931878,-15.386584
+350160000001,GCPM,,Helipuerto Palmas Port,helipuerto,nacional,operativo,35,35016,9,28.165891,-15.402041
+350164000017,GCHG,,Helipuerto del Hospital Universitario Insular de Gran Canaria,helipuerto,nacional,operativo,35,35016,9,28.082949,-15.417366
+350174000034,GCFV,FUE,Aeropuerto de Fuerteventura,aerodromo_helipuerto,internacional,operativo,35,35017,25,28.452717,-13.863762
+350184000045,GCRR,ACE,Aeropuerto de César Manrique Lanzarote,aerodromo,internacional,operativo,35,35018,14,28.945461,-13.605225
+350194000004,GCLB,,Aeródromo Maspalomas-El Berriel,aerodromo_helipuerto,nacional,operativo,35,35019,8,27.782357,-15.507427
+360054000001,LEDD,,Aeródromo de Caldas de Reis,aerodromo,nacional,operativo,36,36005,14,42.578036,-8.697231
+360304000008,LEQE,,Helipuerto de Queimadelos,helipuerto,nacional,operativo,36,36030,279,42.215556,-8.426425
+360574000001,LEHV,,Helipuerto Nuevo Hospital de Vigo,helipuerto,nacional,operativo,36,36057,135,42.187828,-8.714100
+360574000009,LEVX,VGO,Aeropuerto de Vigo,aerodromo,internacional,operativo,36,36033,257,42.229121,-8.627527
+370544000001,LEBD,,Helipuerto El Bodón,helipuerto,nacional,operativo,37,37054,803,40.484556,-6.577097
+370734000008,LEUN,,Aeródromo de Calzada de Valdunciel,aerodromo,nacional,operativo,37,37073,813,41.074944,-5.727917
+371544000001,,,Helipuerto C.I. Guadramiro,helipuerto,nacional,operativo,37,37154,770,41.010833,-6.477778
+371774000007,LEHL,,Helipuerto El Maillo,aerodromo_helipuerto,nacional,operativo,37,37177,1024,40.571397,-6.223356
+373524000001,LESA,SLM,Base Aérea de Matacán (Salamanca),aerodromo,internacional,operativo,37,37352,791,40.952026,-5.502023
+380014000034,GCAD,,Helipuerto de Adeje,helipuerto,nacional,operativo,38,38001,220,28.124157,-16.742906
+380034000025,GCGM,GMZ,Aeropuerto de La Gomera,aerodromo,nacional,operativo,38,38003,218,28.029613,-17.214595
+380174000023,GCTS,TFS,Aeropuerto de Tenerife Sur,aerodromo_helipuerto,internacional,operativo,38,38017,64,28.044457,-16.572484
+380184000001,GCLG,,Helipuerto C.I. de la Guancha,helipuerto,nacional,operativo,38,38018,424,28.377397,-16.649336
+380234000042,GCHU,,Helipuerto de Hospital Universitario de Canarias,helipuerto,nacional,operativo,38,38023,324,28.456160,-16.291820
+380234000043,GCXO,TFN,Aeropuerto de Tenerife Norte-Ciudad de La Laguna,aerodromo,internacional,operativo,38,38023,633,28.482646,-16.341535
+380234000044,GCXM,,Helipuerto Tenerife Norte/Los Rodeos,helipuerto,nacional,operativo,38,38023,638,28.483881,-16.351270
+380294000055,GCPU,,BRIF La Palma,helipuerto,nacional,operativo,38,38029,432,28.778870,-17.995549
+380364000028,GCGO,,Helipuerto de San Sebastián de la Gomera,helipuerto,nacional,operativo,38,38036,101,28.097200,-17.102330
+380384000001,GCDC,,Helipuerto Hospital U. Nuestra Sra. de Candelaria,helipuerto,nacional,operativo,38,38038,230,28.448737,-16.284667
+380484000015,GCHI,VDE,Aeropuerto de El Hierro,aerodromo,nacional,operativo,38,38048,30,27.814829,-17.887050
+380534000048,GCLA,SPC,Aeropuerto de La Palma,aerodromo,internacional,operativo,38,38053,33,28.626635,-17.755612
+390164000002,LEXJ,SDR,Aeropuerto Seve Ballesteros-Santander,aerodromo,internacional,operativo,39,39016,0,43.427063,-3.820005
+390664000001,LERU,,Helipuerto de Jaedo,helipuerto,nacional,operativo,39,39066,272,43.257778,-4.251944
+390944000001,,,Helipuerto Base C.I. de Valderredible,helipuerto,nacional,operativo,39,39094,1070,42.770092,-3.953077
+400574000001,LEIC,,Helipuerto C.I. Coca,helipuerto,nacional,operativo,40,40057,784,41.223333,-4.506111
+400614000013,LECA,,Aeródromo La Nava-Corral de Ayllón,aerodromo,nacional,operativo,40,40061,1025,41.410833,-3.448333
+401224000002,LEIR,,Aeródromo Air Marugan,aerodromo,nacional,operativo,40,40122,939,40.910600,-4.369528
+401354000009,,,Aeródromo de Campolara,aerodromo,nacional,en_desuso,40,40135,1027,40.899069,-4.519401
+401914000014,LETP,,Aeródromo de Santo Tome Del Puerto,aerodromo,nacional,operativo,40,40191,1113,41.204167,-3.594722
+401944000011,LEFM,,Aeródromo de Fuentemilanos (Aeródromo),aerodromo,nacional,operativo,40,40194,1001,40.888028,-4.238809
+402254000015,LEEV,,Aeródromo E. Castellanos-Villacastin,aerodromo,nacional,operativo,40,40225,1108,40.783889,-4.462778
+410114000016,LEMO,OZP,Aeródromo de Sevilla/Morón,aerodromo,nacional,operativo,41,41011,87,37.174945,-5.616020
+410164000019,LEJU,,Aeródromo La Juliana,aerodromo,nacional,operativo,41,41016,46,37.295000,-6.162500
+410384000005,LEEC,,Helipuerto Militar Sevilla/El Copero,helipuerto,nacional,operativo,41,41038,5,37.313080,-5.999041
+410484000025,LEGC,,Aeródromo de Altarejos-Guadalcanal,aerodromo,nacional,operativo,41,41048,592,38.171767,-5.739594
+410530000001,LEHX,,Helipuerto Hospital de Alta Resolución de Lebrija,helipuerto,nacional,operativo,41,41053,,36.910167,-6.071500
+410584000024,LEAH,,Aeródromo Los Alcores,aerodromo,nacional,operativo,41,41058,43,37.329609,-5.722936
+410734000001,LEEP,,Helipuerto de El Pedroso,helipuerto,nacional,operativo,41,41073,356,37.839783,-5.700217
+410914000004,LEEX,,Helipuerto Expo'92,helipuerto,nacional,operativo,41,41091,9,37.399306,-6.010656
+410914000022,,,Aeródromo Tablada,aerodromo,nacional,en_desuso,41,41091,1,37.351799,-6.014733
+410914000031,LEZL,SVQ,Aeropuerto de Sevilla,aerodromo,internacional,operativo,41,41091,34,37.417921,-5.898914
+410954000002,LEOH,,Aeródromo Hotel Hacienda Orán,aerodromo,nacional,operativo,41,41095,20,37.197181,-5.880622
+410954000014,LEUT,,Aeródromo AMR,aerodromo,nacional,operativo,41,41095,40,37.153533,-5.798642
+420944000007,LEGY,,Aeródromo de Garray,aerodromo_helipuerto,nacional,operativo,42,42094,1036,41.821389,-2.476667
+430144000001,LEMN,,Helipuerto de Heli Montsiá- Amposta,helipuerto,nacional,operativo,43,43014,89,40.665278,0.563611
+430654000001,LEAI,,Aeródromo de García,aerodromo,nacional,operativo,43,43065,159,41.113825,0.711744
+431234000001,LERS,REU,Aeropuerto de Reus,aerodromo,internacional,operativo,43,43123,1,41.147390,1.167171
+431234000002,LEJN,,Helipuerto del Hospital Universitari de Sant Joan de Reus,helipuerto,nacional,operativo,43,43123,86,41.144614,1.124931
+431234000014,LECE,,Helipuerto Centre de Gestió d' Emergéncies 112,helipuerto,nacional,operativo,43,43123,61,41.133761,1.187358
+431454000013,LEPS,,Helipuerto Mas Passamaner,helipuerto,nacional,operativo,43,43145,145,41.186111,1.160000
+431484000001,LEDT,,Helipuerto Port de Tarragona,helipuerto,nacional,operativo,43,43148,1,41.088750,1.225931
+431484000015,LEHJ,,Helipuerto Hospital Universitario Joan XXIII,helipuerto,nacional,operativo,43,43148,23,41.125556,1.238056
+431554000003,,,Helipuerto del Hospital Tortosa Verge de la Cinta,helipuerto,nacional,operativo,43,43155,29,40.811292,0.523392
+431714000001,LEHP,,Helipuerto Port Aventura,helipuerto,nacional,operativo,43,43171,37,41.095444,1.154639
+440144000001,LEAF,,Helipuerto forestal Alcorisa Forestal,helipuerto,nacional,operativo,44,44014,716,40.898150,-0.396388
+442164000001,LEFB,,Helipuerto Teruel forestal Blancos del Coscojar,helipuerto,nacional,operativo,44,44216,983,40.321621,-1.056583
+442164000005,LETL,TEV,Aeropuerto de Teruel,aerodromo,internacional,operativo,44,44216,1026,40.412028,-1.217611
+450134000026,LETH,,Aeródromo Las Tablas del Alberche,aerodromo,nacional,operativo,45,45013,503,40.211667,-4.386389
+450324000032,LERN,,Aeródromo de Camarenilla,aerodromo,nacional,operativo,45,45032,530,40.025772,-4.068644
+450414000022,LEMT,,Aeródromo de Casarrubios del Monte,aerodromo,nacional,operativo,45,45041,625,40.235000,-4.026389
+450794000031,LETI,,Aeródromo El Tiétar,aerodromo,nacional,operativo,45,45079,427,40.247500,-4.789724
+450844000024,LELT,,Aérodromo de Lillo,aerodromo,nacional,operativo,45,45084,682,39.716944,-3.320556
+451214000030,LEOC,,Aeródromo de Ocaña,aerodromo,nacional,operativo,45,45121,733,39.937500,-3.503333
+451244000036,LEGZ,,Aeródromo de Orgaz,aerodromo,nacional,operativo,45,45124,721,39.693333,-3.934722
+451414000037,LEMX,,Aeródromo de La Mancha,aerodromo,nacional,operativo,45,45141,669,39.562222,-3.249678
+451574000035,LEMK,,Aeródromo Martinamatos,aerodromo,nacional,operativo,45,45157,559,40.099467,-4.294306
+451654000001,LEEI,,Helipuerto Base C.I. Talavera de la Reina,helipuerto,nacional,operativo,45,45165,488,39.924094,-4.801247
+451684000001,LEOP,,Helipuerto COR-COP Toledo,helipuerto,nacional,operativo,45,45168,602,39.904044,-4.005297
+451684000013,LEJI,,Helipuerto Hospital Nacional de parapléjicos de Toledo,helipuerto,nacional,operativo,45,45168,442,39.875672,-4.049794
+451684000034,LETG,,Aeródromo de Algodor,aerodromo_helipuerto,nacional,operativo,45,45168,530,39.898417,-3.874658
+460704000001,LEBT,,Helipuerto de Valencia/Bétera,helipuerto,nacional,operativo,46,46070,127,39.624444,-0.472222
+461594000001,LEVC,VLC,Aeropuerto de Valencia,aerodromo,internacional,operativo,46,46159,73,39.489314,-0.481624
+462134000001,LERE,,Aeródromo de Requena,aerodromo,nacional,operativo,46,46213,710,39.474722,-1.034444
+470054000007,LEAZ,,Helipuerto de Alcazarén,helipuerto,nacional,operativo,47,47005,738,41.371533,-4.698519
+470834000002,LETC,,Aeródromo de Matilla de los Caños,aerodromo,nacional,operativo,47,47083,702,41.530556,-4.925000
+471114000007,,,Aeródromo de Corbejón y Quemados (Mojados),aerodromo,nacional,operativo,47,47111,705,41.470668,-4.713885
+471294000001,LEQU,,Helipuerto C.I. Quintanilla,helipuerto,nacional,operativo,47,47129,725,41.628333,-4.384444
+471574000001,LEFI,,Helipuerto Finca Retuerta,helipuerto,nacional,operativo,47,47157,720,41.616944,-4.412667
+471864000002,LEVV,,Helipuerto Base C.I. Vivero,helipuerto,nacional,operativo,47,47186,688,41.606242,-4.767119
+471864000009,LETZ,,Aeródromo Torozos,aerodromo,nacional,operativo,47,47186,845,41.785022,-4.865304
+472124000010,LEVB,,Aeródromo El Carrascal,aerodromo,nacional,operativo,47,47212,848,41.824722,-4.893056
+472174000003,LEVD,VLL,Base Aérea de Villanubla (Valladolid),aerodromo,internacional,operativo,47,47217,844,41.706000,-4.851861
+480134000012,LEHS,,Helipuerto del Hospital Cruces de Baracaldo,helipuerto,nacional,operativo,48,48013,47,43.281556,-2.985156
+480204000013,LEDR,,Helipuerto de la Torre Iberdrola,helipuerto,nacional,operativo,48,48020,10,43.268025,-2.938664
+489034000011,LEBB,BIO,Aeropuerto de Bilbao,aerodromo,internacional,operativo,48,48903,41,43.300550,-2.910076
+489104000008,LEIU,,Helipuerto de Iurreta,helipuerto,nacional,operativo,48,48910,128,43.181944,-2.646389
+491814000008,LESI,,Aeródromo Rosinos de la Requejada (forestal),aerodromo_helipuerto,nacional,operativo,49,49181,1000,42.103865,-6.530158
+492614000001,LEVI,,Helipuerto Villaralbo,helipuerto,nacional,operativo,49,49261,629,41.502667,-5.663333
+492624000004,LEDS,,Helipuerto Base C.I. Villardeciervos,helipuerto,nacional,operativo,49,49262,849,41.940772,-6.280314
+500944000001,LEHD,,Helipuerto Daroca Forestal,helipuerto,nacional,operativo,50,50094,941,41.131983,-1.419903
+500954000001,LEEJ,,Helipuerto Ejea forestal,helipuerto,nacional,operativo,50,50095,341,42.134682,-1.210353
+502974000020,LEZG,ZAZ,Aeropuerto de Zaragoza / Base Aérea de Zaragoza,aerodromo,internacional,operativo,50,50297,263,41.666242,-1.041554
+510014000002,GECE,JCU,Helipuerto de Ceuta,helipuerto,nacional,operativo,51,51001,3,35.892692,-5.306296
+520014000001,GEML,MLN,Aeropuerto de Melilla,aerodromo,nacional,operativo,52,52001,48,35.279815,-2.956256
+520014000002,GEHM,,Helipuerto de Melilla,helipuerto,nacional,operativo,52,52001,73,35.301945,-2.944444
+530744000001,LELS,,Helipuerto de las Casillas,helipuerto,nacional,operativo,40,,1178,41.271944,-3.517778
+540064000001,LXGB,GIB,Aeropuerto de Gibraltar,aerodromo,nacional,operativo,11,11022,0,36.150834,-5.349444
