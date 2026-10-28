@@ -3,6 +3,7 @@
 ## Bancos
 
 - **Datos de registro de las entidades** (NIF, LEI, tipo, bajas y sucesoras, históricos, entidades de pago): [Registro de Entidades](https://www.bde.es/f/webbe/SGE/regis/ficheros/es/Registro_Entidades.xlsx) del Banco de España, con datos a 22 de octubre de 2026. Fuente: Banco de España. Según su [aviso legal](https://www.bde.es/wbe/es/pie/aviso-legal/), se reproduce sin alterar, así que los nombres y los motivos de baja van tal como los publica, erratas incluidas. El cambio de código de Openbank (de 0224 a 0073) sale de la resolución [BOE-A-2026-11394](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11394).
+- **BIC de las entidades añadidas en octubre de 2026 y de Open Bank:** [fichero de relaciones BIC-LEI](https://www.gleif.org/en/lei-data/lei-mapping/download-bic-to-lei-relationship-files) de GLEIF y SWIFT (septiembre de 2026, CC0), cruzado por el LEI del registro del Banco de España o, en las sucursales que no lo tienen, por el de la lista de entidades del BCE. Solo se han añadido las entidades con BIC español y logo oficial.
 - **Estructura del IBAN:** IBAN Registry de SWIFT.
 
 ## Direcciones
