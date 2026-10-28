@@ -9,7 +9,7 @@ OUTPUT_LINES = 20
 DIFF_LINES = 60
 
 CHECKS = [
-    ("Tipos de IVA, IGIC e IPSI", ["scripts/fiscal/tipos_impositivos.py"], ["fiscal/tipos_impositivos_es.csv"]),
+    ("Tipos de IVA, IGIC e IPSI", ["scripts/fiscal/tipos_impositivos.py", "--sin-boletines"], ["fiscal/tipos_impositivos_es.csv"]),
     ("Canon digital", ["scripts/fiscal/canon_digital.py", "--refrescar"], ["fiscal/canon_digital_es.csv"]),
     ("Reglas del canon digital", ["scripts/fiscal/canon_digital_reglas.py"], ["fiscal/canon_digital_reglas_es.csv"]),
     ("Impuesto sobre los envases de plástico", ["scripts/fiscal/canon_gravamenes_producto.py", "--refrescar"],

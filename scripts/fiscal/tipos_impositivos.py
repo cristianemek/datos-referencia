@@ -1,3 +1,4 @@
+import argparse
 import csv
 import re
 import sys
@@ -42,10 +43,12 @@ def boe_texts(boe_id: str, block_id: str, version_id: str | None) -> list[str]:
     return texts
 
 
-def check_row(row: dict) -> list[str]:
+def check_row(row: dict, bulletins: bool) -> list[str]:
     errors = []
     for check in row["checks"]:
         if len(check) == 2:
+            if not bulletins:
+                continue
             name, needle = check
             if norm(needle) not in bulletin(name):
                 errors.append(f"'{needle}' no está en {name}")
@@ -120,9 +123,13 @@ def sort_key(row: dict) -> tuple:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Comprueba los tipos de IVA, IGIC e IPSI contra sus normas y escribe el CSV.")
+    parser.add_argument("--sin-boletines", action="store_true",
+                        help="no comprueba los boletines de Ceuta y Melilla, que son publicaciones cerradas")
+    args = parser.parse_args()
     rows = IVA_ROWS + IGIC_ROWS + IPSI_ROWS
     today = date.today().isoformat()
-    errors = [error for row in rows for error in check_row(row)]
+    errors = [error for row in rows for error in check_row(row, not args.sin_boletines)]
     errors += [error for row in rows for error in check_current(row, today)]
     errors += check_dates(rows) + check_overlaps(rows)
     if errors:
