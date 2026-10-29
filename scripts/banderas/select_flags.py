@@ -25,6 +25,10 @@ QUALIFIERS_QUERY = """SELECT ?item ?code ?pq ?val WHERE {
 }"""
 MANUAL = {
     "GP": ("Flag of France.svg", "dos banderas preferentes (Francia y «local»); se toma la bandera estatal oficial (Francia)"),
+    "BQ": ("Flag of the Netherlands.svg", "municipios especiales de los Países Bajos: se toma la bandera de los Países Bajos"),
+    "XI": ("Flag of the United Kingdom (3-5).svg", "sin bandera oficial propia desde 1972: se toma la del Reino Unido, la misma que GB"),
+    "EH": ("Flag of the Sahrawi Arab Democratic Republic.svg",
+           "territorio en disputa sin bandera reconocida por la ONU: se toma la de la RASD, la convención de los conjuntos de banderas por código ISO"),
 }
 FIELDS = ["item", "itemLabel", "codeRank", "flag", "flagRank", "start", "end", "endItem"]
 
@@ -112,6 +116,8 @@ def select(code: str, rows: list[dict], ends: set) -> dict:
     notes = []
     candidates, entities = candidates_for(code, rows, ends, notes)
     if not candidates:
+        if code in MANUAL:
+            return {"item": None, "label": None, "file": MANUAL[code][0], "notes": notes + [MANUAL[code][1]]}
         return {"item": None, "label": None, "file": None, "notes": notes + ["sin entidad con P297 vigente"]}
     if len(candidates) > 1:
         notes.append("SIN RESOLVER: varias entidades vigentes con P41")
