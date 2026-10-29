@@ -11,33 +11,6 @@ Datos de España en CSV para reutilizar en cualquier proyecto: bancos, territori
 - Coordenadas en grados decimales WGS84.
 - Logos, banderas y escudos van incrustados como SVG en una sola línea. Algunos pasan de 128 KB, el límite por defecto del módulo `csv` de Python (ver [FUENTES.md](FUENTES.md#nota-sobre-python)).
 
-## Uso
-
-Python:
-
-```python
-import csv
-
-with open("direcciones/municipios_es.csv", encoding="utf-8", newline="") as f:
-    municipios = {fila["municipality_code"]: fila for fila in csv.DictReader(f)}
-
-print(municipios["28079"]["municipality"])  # Madrid
-```
-
-Con pandas, `pd.read_csv(ruta, dtype=str)` mantiene los códigos como texto.
-
-PHP:
-
-```php
-$fichero = fopen('bancos/bancos_es.csv', 'r');
-$cabecera = fgetcsv($fichero);
-while (($fila = fgetcsv($fichero)) !== false) {
-    $banco = array_combine($cabecera, $fila);
-}
-```
-
-Las tablas se relacionan por sus códigos: `municipality_code`, `province_code` y `ccaa_code` son los del INE, y los países usan ISO 3166-1 alfa-2.
-
 ## [bancos/](bancos/)
 
 - [`bancos_es.csv`](bancos/bancos_es.csv): entidades de crédito con código de entidad, BIC, nombre, NIF, LEI, tipo, situación (con fecha de baja y entidad sucesora) y logo en SVG (`logo_on_dark` indica los que solo se ven sobre fondo oscuro).
