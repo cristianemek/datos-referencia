@@ -82,6 +82,14 @@ MERGES = {
             "cash_minor_units", "cash_rounding", "countries",
         ],
     },
+    "envios/agencias_envio_es.csv": {
+        "key": "code",
+        "sources": [{"file": "agencias_envio_registro.csv", "columns": ["postal_authorization"]}],
+        "order": [
+            "code", "name", "legal_name", "nif", "group", "website", "tracking_url", "tracking_page",
+            "tracking_number_pattern", "services", "postal_authorization", "logo_on_dark", "logo",
+        ],
+    },
     "comercio_exterior/incoterms.csv": {
         "key": "code",
         "sources": [

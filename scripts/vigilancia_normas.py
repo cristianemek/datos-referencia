@@ -19,6 +19,7 @@ CHECKS = [
      ["catalogos/formas_juridicas_es.csv", "catalogos/letras_nif_es.csv"]),
     ("Tipos de documento de identidad", ["scripts/rrhh/tipos_documento_identidad.py"], ["catalogos/tipos_documento_identidad.csv"]),
     ("Idiomas cooficiales", ["scripts/rrhh/idiomas.py"], ["catalogos/idiomas.csv"]),
+    ("Agencias de envío (registro postal, NIF y seguimiento)", ["scripts/envios/agencias_envio.py"], []),
 ]
 
 

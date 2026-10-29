@@ -70,6 +70,10 @@
 
 - **Dominios desechables:** [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains), en la copia que publica [Propaganistas/Laravel-Disposable-Email](https://github.com/Propaganistas/Laravel-Disposable-Email) (octubre de 2026).
 
+## Envíos
+
+- **Agencias de envío:** las que analiza el [informe del sector postal 2025](https://www.cnmc.es/expedientes/infdtsp02426) de la CNMC (INF/DTSP/024/26), con las marcas que han desaparecido o se han integrado en otras fuera (Envialia, TNT, Tourline, Mondial Relay). La razón social y la autorización salen del [Registro General de Empresas Prestadoras de Servicios Postales](https://www.transportes.gob.es/el-ministerio/servicios-postales/registro-general-de-empresas-prestadoras-de-servicios-postales) (listado a 30 de septiembre de 2026; fuente: Ministerio de Transportes y Movilidad Sostenible), salvo Amazon Shipping y Zeleris, que no están inscritas y cuya sociedad da el informe de la CNMC. `postal_authorization` vale `A` (servicios fuera del servicio postal universal), `B` (dentro de él) o `A|B`, y queda vacío si la empresa no está inscrita. El NIF sale del aviso legal o las condiciones de cada agencia; los de UPS y Ontime, de la Plataforma de Contratación del Sector Público, y el de Amazon Road Transport Spain, de la resolución [STP/DTSP/006/20](https://www.cnmc.es/expedientes/stpdtsp00620) de la CNMC. [VIES](https://ec.europa.eu/taxation_customs/vies/) confirma que cada NIF corresponde a su razón social. La web, los servicios, el seguimiento y los logos salen de la web oficial de cada agencia (28 de octubre de 2026); los enlaces de seguimiento se han probado con un número inventado, salvo los de UPS, FedEx y DHL Express, cuyas webs bloquean los navegadores automáticos. Los logos de FedEx, MRW, SEUR y Sending solo se publican como imagen y se han vectorizado; el de SEUR sale de la copia de seur.com en web.archive.org, porque su web bloquea las descargas automáticas. Los logos son marcas de sus titulares y solo sirven para identificar a cada agencia.
+
 ## Facturación
 
 - **VeriFactu:** [errores](https://www2.agenciatributaria.gob.es/static_files/common/internet/dep/aplicaciones/es/aeat/tikeV1.0/cont/ws/errores.properties) y esquemas XSD de la AEAT, listas del anexo de la [Orden HAC/1177/2024](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-22138) y documento [Validaciones y errores](https://www.agenciatributaria.es/static_files/AEAT_Desarrolladores/EEDD/IVA/VERI-FACTU/Validaciones_Errores_Veri-Factu.pdf) (versión 1.2.2) para los códigos de IGIC e IPSI. Los mensajes de error van tal cual los devuelve la AEAT, erratas incluidas.
@@ -114,7 +118,7 @@
 - [Unicode CLDR](LICENSES/Unicode-3.0-cldr.txt): licencia Unicode v3.
 - [aemet-mcp](LICENSES/MIT-aemet-mcp.txt): MIT.
 - INE, Eurostat, IGN, Renfe, Comisión Europea y CEPE/ONU: reutilización libre citando la fuente (CC BY 4.0).
-- Ministerios de Hacienda, Justicia, Sanidad y Educación, AEAT, Seguridad Social, AEMET y CNMC: reutilización libre (Ley 37/2007) citando la fuente y la fecha de actualización.
+- Ministerios de Hacienda, Justicia, Sanidad, Educación y Transportes, AEAT, Seguridad Social, AEMET y CNMC: reutilización libre (Ley 37/2007) citando la fuente y la fecha de actualización.
 - Banco de España: reproducción fiel, sin alterar los contenidos y citando la fuente.
 - Libro de estilo interinstitucional: © Unión Europea, reproducción autorizada citando la fuente.
 - Wikidata y GLEIF: CC0. IANA tz database: dominio público.

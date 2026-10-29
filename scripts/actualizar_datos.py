@@ -9,7 +9,7 @@ REPO = Path(__file__).resolve().parents[1]
 TIMEOUT = 3600
 OUTPUT_LINES = 15
 DATA_FOLDERS = [
-    "bancos", "catalogos", "comercio_exterior", "direcciones", "facturacion", "lugares", "pagos", "telecomunicaciones",
+    "bancos", "catalogos", "comercio_exterior", "direcciones", "envios", "facturacion", "lugares", "pagos", "telecomunicaciones",
 ]
 NEW_BANKS = REPO / "build" / "bancos_nuevos.csv"
 
@@ -39,6 +39,7 @@ STEPS = [
     ("Numeración y operadores de la CNMC", ["scripts/telecomunicaciones/cnmc_numeracion.py"]),
     ("Sanidad, transporte y educación", ["scripts/lugares/build_all.py"]),
     ("Banderas de países", ["scripts/banderas/banderas.py"]),
+    ("Agencias de envío", ["scripts/envios/agencias_envio.py"]),
     ("Unión de columnas", ["scripts/unir_columnas.py"]),
 ]
 

@@ -48,6 +48,7 @@ jobs:
             catalogos/*.csv
             comercio_exterior/*.csv
             direcciones/*.csv
+            envios/*.csv
             facturacion/*.csv
             lugares/*.csv
             pagos/*.csv

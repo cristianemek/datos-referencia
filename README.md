@@ -1,6 +1,6 @@
 # Datos de referencia
 
-Datos de España en CSV para reutilizar en cualquier proyecto: bancos, territorio, calendario, catálogos oficiales, facturación, fiscalidad, lugares y telecomunicaciones. Todo sale de fuentes oficiales, citadas en [FUENTES.md](FUENTES.md), y se regenera con los scripts del repo.
+Datos de España en CSV para reutilizar en cualquier proyecto: bancos, territorio, calendario, catálogos oficiales, facturación, fiscalidad, agencias de envío, lugares y telecomunicaciones. Todo sale de fuentes oficiales, citadas en [FUENTES.md](FUENTES.md), y se regenera con los scripts del repo.
 
 ## Formato
 
@@ -123,6 +123,10 @@ Las tablas se relacionan por sus códigos: `municipality_code`, `province_code` 
 
 - [`dominios_desechables.csv`](email/dominios_desechables.csv): dominios de correo temporal o desechable.
 
+## [envios/](envios/)
+
+- [`agencias_envio_es.csv`](envios/agencias_envio_es.csv): agencias de paquetería y mensajería que operan en España, con razón social, NIF, grupo, web, enlace y página de seguimiento, formato del número de envío (si la agencia lo documenta), servicios, autorización del registro postal y logo en SVG. En `tracking_url` hay que sustituir `{tracking}` por el número de envío; si está vacía, la agencia no permite enlazar el seguimiento y hay que usar `tracking_page`.
+
 ## [pagos/](pagos/)
 
 - [`redsys_codigos.csv`](pagos/redsys_codigos.csv): códigos de respuesta y errores de Redsys en seis idiomas.
@@ -150,7 +154,7 @@ Cada CSV sale de un script de [`scripts/`](scripts/) que descarga su fuente ofic
 | [Festivos del BOE](.github/workflows/festivos.yml) | Lunes de octubre a enero | Busca la resolución de fiestas laborales del año siguiente y abre un PR. |
 | [Fiestas locales](.github/workflows/festivos_locales.yml) | Días 1 y 15 de cada mes | Descarga las fiestas locales de los portales autonómicos y abre un PR. |
 | [Actualización de los datos](.github/workflows/actualizacion.yml) | Día 3 de cada mes | Ejecuta [`scripts/actualizar_datos.py`](scripts/actualizar_datos.py), que regenera todos los datos y une las columnas, y abre un PR con un informe de los pasos que fallan, las entidades nuevas del Banco de España y los ficheros cambiados. |
-| [Vigilancia de normas](.github/workflows/vigilancia_normas.yml) | Lunes | Ejecuta [`scripts/vigilancia_normas.py`](scripts/vigilancia_normas.py) y abre un issue si el BOE cambia algo de lo que dependen los datos, por ejemplo un tipo nuevo del IGIC. |
+| [Vigilancia de normas](.github/workflows/vigilancia_normas.yml) | Lunes | Ejecuta [`scripts/vigilancia_normas.py`](scripts/vigilancia_normas.py) y abre un issue si el BOE cambia algo de lo que dependen los datos, por ejemplo un tipo nuevo del IGIC, o si una agencia de envío causa baja en el registro postal o su enlace de seguimiento deja de funcionar. |
 
 Los PR no se fusionan solos: hay que revisar el diff. Algunas fuentes no responden desde GitHub (los portales de fiestas locales de Asturias, Castilla y León y Galicia, y los boletines de Ceuta); en ese caso se conservan sus datos anteriores y el PR lo indica.
 
