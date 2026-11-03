@@ -5657,7 +5657,7 @@ center_code,name,center_type,ownership,address,postal_code,locality,province_cod
 08045100,Municipal,,publico,"ctra. de Vilassar de Dalt, 52-54",08330,Premià de Mar,08,08172,937522773
 08045161,Ginebró,,concertado,c. Joaquim Costa (Perllongament),08450,Llinars del Vallès,08,08106,
 08045185,Diaula,,privado,"c. Ballester, 45",08023,Barcelona,08,08019,932114791
-08045203,Obert de Catalunya,,publico,"av. del Paral·lel, 71-73",08004,Barcelona,08,08019,
+08045203,Obert de Catalunya,Centro Público de Enseñanza a Distancia,publico,"av. del Paral·lel, 71-73",08004,Barcelona,08,08019,
 08045227,Les Aigües,Col·legi d'Educació Especial,publico,"rda. Cros, 1",08303,Mataró,08,08121,937577739
 08045239,Escola Intermunicipal del Penedès,,publico,"pl. Santiago Rusiñol, s/n",08770,Sant Sadurní d'Anoia,08,08240,938912061
 08045240,Quitxalla,,publico,"pl. 1 d¿octubre,2",08670,Navàs,08,08141,938204375
@@ -10206,7 +10206,7 @@ center_code,name,center_type,ownership,address,postal_code,locality,province_cod
 13004134,PRADO DE ALARCOS,Escuela Oficial de Idiomas,publico,"PS. DE LA UNIVERSIDAD, 2",13004,Ciudad Real,13,13034,926221728
 13004146,MARÍA AUXILIADORA,Centro Privado de Educación Especial,concertado,"CR. DE ARENALES, 2",13610,Campo de Criptana,13,13028,926561112
 13004213,ANTONIO MACHADO,Centro Público de Educación de Personas Adultas,publico,"CL. CALZADA, 17",13500,Puertollano,13,13071,926423850
-13004225,FRANCISCO DE QUEVEDO,Centro Público de Educación de Personas Adultas,publico,"AV. LOS ESTUDIANTES, S/N",13300,Valdepeñas,13,13087,926325395
+13004225,FRANCISCO DE QUEVEDO,Centro Público de Educación de Personas Adultas,publico,"PS. ESTACIÓN (DE LA), 6",13300,Valdepeñas,13,13087,926325395
 13004274,DAVID JIMÉNEZ AVENDAÑO,Colegio de Educación Infantil y Primaria,publico,"CL. CAÑERIAS, 14",13500,Puertollano,13,13071,926427632
 13004286,ÁNGEL ANDRADE,Colegio de Educación Infantil y Primaria,publico,"CL. SOCUELLAMOS, 49",13500,Puertollano,13,13071,926427988
 13004298,Centro de Enseñanzas de Personas Adultas,Centro Público de Educación de Personas Adultas,publico,"PZ. WALDO FERRER, 41-1º",13400,Almadén,13,13011,926713334
@@ -33327,8 +33327,8 @@ center_code,name,center_type,ownership,address,postal_code,locality,province_cod
 48003266,N.S.DE FATIMA,Colegio de Educación Primaria,publico,ENECURI,48015,Bilbao,48,48020,
 48003281,ARANGOYA,Centro Privado de Educación Secundaria,concertado,Ercilla 18,48009,Bilbao,48,48020,
 48003291,SANTA MARIA DE ARTAGAN,Centro Privado de Educación Secundaria,concertado,Zabalbide 110,48006,Bilbao,48,48020,944450650|944463484
-48003308,CRUZ ROJA,Centro Privado de Educación Secundaria,concertado,Jose María Olavarri 6,48001,Bilbao,48,48020,
-48003311,MARIA INMACULADA,Centro Privado de Educación Secundaria,concertado,Fontecha y Salazar 7,48007,Bilbao,48,48020,944459923
+48003308,GURUTZE GORRIA LANBIDE HEZIKETA,Centro Privado de Educación Secundaria,privado,Jose Mar a Olavarri 6,48001,Bilbao,48,48020,
+48003311,MAR A INMACULADA,Centro Privado de Educación Secundaria,concertado,Fontecha y Salazar 7,48007,Bilbao,48,48020,944459923
 48003357,ALMI,Centro Privado de Educación Secundaria,concertado,Lehendakari Aguirre 29,48014,Bilbao,48,48020,944232089|944103837
 48003412,MIKELDI,Centro Privado de Educación Secundaria,privado,"Autonomía, 60-62",48012,Bilbao,48,48020,944211131
 48003436,ARMENGOL,Centro Privado de Educación Secundaria,privado,"Bailén, 7-9",48003,Bilbao,48,48020,944162018
@@ -33892,9 +33892,7 @@ center_code,name,center_type,ownership,address,postal_code,locality,province_cod
 48018889,MUXUKA,Centro Privado de Educación Infantil,privado,Castilla-Leon 13,48901,San Vicente de Barakaldo,48,48013,944780517|636841614
 48018890,TXANOGORRITXU SARRIKO,Centro Privado de Educación Infantil,privado,Ibarrekolanda 28,48015,Bilbao,48,48020,666843919
 48018907,ESCUELAS CENETED,Centro Autorizado de Enseñanzas Deportivas,privado,Alberto Palacio 2,48920,Portugalete,48,48078,651634501
-48018919,ILARGI,Centro Privado de Educación Infantil,privado,Euskadi 9,48901,San Vicente de Barakaldo,48,48013,946533115
 48018920,ÉCOLE,Centro Privado de Educación Infantil,privado,Doctor Fleming 5,48980,Santurtzi,48,48082,944072326|680670405
-48018932,TXANOGORRITXU BEC,Centro Privado de Educación Infantil,privado,Euskadi 46,48903,San Vicente de Barakaldo,48,48013,946128338|618594026
 48018944,ERMUA,Instituto de Educación Secundaria,publico,Errebalburu 8,48260,Ermua,48,48034,944280172
 48018956,DANTZERTI,Arte Dramatiko eta Dantza Goi Eskola,publico,Ibarrekolanda 1,48015,Bilbao,48,48020,946570600
 48018968,ESCUELA DE TECNICOS EN EQUITACION,Centro Autorizado de Enseñanzas Deportivas,privado,"Mendiondo, z/g",48111,Mendiondo,48,48053,944734895
@@ -33921,7 +33919,6 @@ center_code,name,center_type,ownership,address,postal_code,locality,province_cod
 48019225,SANTURTZI,Instituto Municipal de Formación Profesional Básica,publico,"Cueto, z/g",48980,Santurtzi,48,48082,944613700|944613297
 48019237,SESTAO,Instituto Municipal de Formación Profesional Básica,publico,Rebonza 1,48910,Sestao,48,48084,944964404
 48019262,TXANOGORRITXU SOPELA,Centro Privado de Educación Infantil,privado,"Sipiri, 22-24 bajo",48600,Moreaga,48,48085,944035521|688601388
-48019274,EGUZKILORE,Centro Privado de Educación Infantil,privado,Pablo de Alzola 2,48012,Bilbao,48,48020,647058106
 48019286,LANDABASO ESKOLA AKTIBOA,Centro Privado de Educación Infantil y Primaria,privado,La Herrera-Ijalde 7,48869,Herrera,48,48096,635352158
 48019298,BARAKALDOKO HAURRESKOLA-GURUTZETA,Escuela Infantil,publico,La Paz 25,48903,San Vicente de Barakaldo,48,48013,946859000
 48019304,ATXONDOKO HAURRESKOLA,Escuela Infantil,publico,Los Fueros 7,48291,Apatamonasterio,48,48091,946859002
@@ -33952,7 +33949,7 @@ center_code,name,center_type,ownership,address,postal_code,locality,province_cod
 48019638,HAURKABI BARAKALDO,Centro Privado de Educación Infantil,privado,San Vicente 3,48902,San Vicente de Barakaldo,48,48013,946439000
 48019641,ÉCOLE ALGORTA,Centro Privado de Educación Infantil,privado,Mariandresena 1,48991,Algorta,48,48044,680670405
 48019675,Escuela de Entrenadores Técnicos Madre de Dios,Centro Autorizado de Enseñanzas Deportivas,privado,Etxepare 20,48015,Bilbao,48,48020,944759983|944745410
-48019717,KUNSTHAL,Centro Privado Autorizado Superior de Diseño,privado,Deustu 17,48014,Bilbao,48,48020,
+48019717,KUNSTHAL,Centro Privado Autorizado Superior de Diseño,privado,Ribera de Deustu 17,48014,Bilbao,48,48020,
 48019729,VITAE BILBAO,Centro Privado de Educación Secundaria,privado,Goierri-Martiartu Errepidea 13,48950,Goierri,48,48902,
 48019742,CENTRO VASCO DE ENSEÑANZAS DEPORTIVAS EKFB,Centro Autorizado de Enseñanzas Deportivas,privado,Los Chopos 0,48992,Andra Mari,48,48044,946232689
 48019754,BILBOKO HAURRESKOLA-IRUARTETA,Escuela Infantil,publico,Andres Eliseo de Mañaricua 16,48003,Bilbao,48,48020,
@@ -33965,7 +33962,7 @@ center_code,name,center_type,ownership,address,postal_code,locality,province_cod
 48019845,Agonza Bilbao,Centro Privado de Educación Secundaria,privado,Marcelino Menéndez y Pelayo 25,48006,Bilbao,48,48020,651634501
 48019857,GLOBAL SCHOOL,Centro Privado de Educación Secundaria,privado,Artatza 87,48940,Artatza,48,48054,944633122
 48019912,GETXOKO HAURRESKOLA-KRESALTSU,Escuela Municipal de Educación Infantil,publico,"calle Luis Lopez Oses, s/n.",48930,Las Arenas-Areeta,48,48044,
-48020011,BILBOKO HAURRESKOLA-TXURDINAGA,Escuela Municipal de Educación Infantil,publico,Fernando Jim nez Miembro de DYA 3,48004,Bilbao,48,48020,
+48020011,BILBOKO HAURRESKOLA-TXURDINAGA,Escuela Municipal de Educación Infantil,publico,Fernando Jiménez Miembro de DYA 3,48004,Bilbao,48,48020,
 48020094,HAURRESKOLA ARRIETANE FUNDAZIOA,Escuela Infantil,publico,Larraburu 2,48180,Lauroeta,48,48903,
 48020100,BIWAK,Centro Autorizado de Enseñanzas Deportivas,privado,Calle Astintze 4,48160,Aranoltza (San Antolín),48,48901,
 49000042,VIRGEN DE LA SALUD,Colegio de Educación Infantil y Primaria,publico,"LA ATALAYA ALTO DEL PINAR,S/N",49500,Alcañices,49,49003,980680093
