@@ -3323,11 +3323,11 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0705000991,05-C231-0004,CENTRO DE SALUD DE AVILA RURAL,C231,Centro de salud,CALLE SANTA FE ESQUINA C MADRIGAL DE LAS ALTAS TORRES S/N,05003,05,05019,920253436,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705000992,05-C231-0005,CENTRO DE SALUD DE ARENAS DE SAN PEDRO,C231,Centro de salud,PASEO PINTOR MARTINEZ VAZQUEZ 21,05400,05,05014,920371509,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705000993,05-C231-0006,CENTRO DE SALUD DE AREVALO,C231,Centro de salud,AVENIDA DE EMILIO ROMERO,05200,05,05016,920300118,02,Servicios o Institutos de Salud de las comunidades autónomas
-0705000995,05-C231-0008,CENTRO DE SALUD DE CANDELEDA,C231,Centro de salud,"CALLE CHILLA, S/N S/N",05480,05,05047,920380197,02,Servicios o Institutos de Salud de las comunidades autónomas
+0705000995,05-C231-0008,CENTRO DE SALUD DE CANDELEDA,C231,Centro de salud,CALLE CHILLA SN S/N,05480,05,05047,920380197,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705000996,05-C231-0009,CENTRO DE SALUD DE CEBREROS,C231,Centro de salud,AVENIDA DE LA CONSTITUCION S/N,05260,05,05057,918630365,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705000997,05-C231-0010,CENTRO DE SALUD DE EL BARCO DE AVILA,C231,Centro de salud,CALLE JOSE SORIA CHICO,05600,05,05021,920340027,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705000998,05-C231-0011,CENTRO DE SALUD DE FONTIVEROS,C231,Centro de salud,PASEO CHICO 1,05310,05,05074,920245006,02,Servicios o Institutos de Salud de las comunidades autónomas
-0705000999,05-C231-0012,CENTRO DE SALUD DE LANZAHITA,C231,Centro de salud,"CALLE FELIPE VELASCO, S/N",05490,05,05110,920378004,02,Servicios o Institutos de Salud de las comunidades autónomas
+0705000999,05-C231-0012,CENTRO DE SALUD DE LANZAHITA,C231,Centro de salud,CALLE FELIPE VELASCO S/N,05490,05,05110,920378004,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001000,05-C231-0013,CENTRO DE SALUD DE MOMBELTRAN,C231,Centro de salud,CALLE JOSE MANUEL FERNANDEZ SANTIAGO 2,05410,05,05132,920386058,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001001,05-C231-0014,CENTRO DE SALUD DE MUÑANA,C231,Centro de salud,CARRETERA SAN JUAN DEL OLMO S/N,05540,05,05135,920231396,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001002,05-C231-0015,CENTRO DE SALUD DE MUÑICO,C231,Centro de salud,CALLE DE LA SALUD 1,05144,05,05136,920232494,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -3428,7 +3428,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0705001110,05-C232-0101,CONSULTORIO DE ATENCION PRIMARIA DE GOTARRENDURA,C232,Consultorio de atención primaria,PLAZA DE SANTA TERESA 1,05163,05,05087,920269038,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001111,05-C232-0102,CONSULTORIO DE ATENCION PRIMARIA DE GUAREÑA,C232,Consultorio de atención primaria,CALLE CONSULTORIO SN S/N,05590,05,05247,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001114,05-C232-0105,CONSULTORIO DE ATENCION PRIMARIA DE GUTIERRE-MUÑOZ,C232,Consultorio de atención primaria,CALLE CONCEPCION 29,05296,05,05090,920301163,02,Servicios o Institutos de Salud de las comunidades autónomas
-0705001115,05-C232-0106,CONSULTORIO DE ATENCION PRIMARIA DE HERGUIJUELA,C232,Consultorio de atención primaria,CALLE SANTA TERESA S/N,05631,05,05901,920346293,02,Servicios o Institutos de Salud de las comunidades autónomas
+0705001115,05-C232-0106,CONSULTORIO DE ATENCION PRIMARIA DE HERGUIJUELA,C232,Consultorio de atención primaria,CALLE DEL CHORRILLO S/N,05631,05,05901,920346293,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001117,05-C232-0108,CONSULTORIO DE ATENCION PRIMARIA DE HERNANSANCHO,C232,Consultorio de atención primaria,PLAZA DEL SOL 1,05164,05,05092,920261002,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001118,05-C232-0109,CONSULTORIO DE ATENCION PRIMARIA DE EL HERRADON DE PINARES,C232,Consultorio de atención primaria,TRAVESIA MAYOR 1,05268,05,05093,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001119,05-C232-0110,CONSULTORIO DE ATENCION PRIMARIA DE HERREROS DE SUSO,C232,Consultorio de atención primaria,"CALLE EMPEDRADA, 6",05378,05,05094,923566382,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -3498,8 +3498,8 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0705001195,05-C232-0186,CONSULTORIO DE ATENCION PRIMARIA DE NAVAMEDIANA,C232,Consultorio de atención primaria,PLAZA DE LA FUENTE S/N,05690,05,05037,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001197,05-C232-0188,CONSULTORIO DE ATENCION PRIMARIA DE NAVAMUÑANA,C232,Consultorio de atención primaria,CALLE MAYOR S/N,05592,05,05228,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001198,05-C232-0189,CONSULTORIO DE ATENCION PRIMARIA DE NAVAMURES,C232,Consultorio de atención primaria,CALLE MAYOR S/N,05698,05,05244,,02,Servicios o Institutos de Salud de las comunidades autónomas
-0705001199,05-C232-0190,CONSULTORIO DE ATENCION PRIMARIA DE NAVAQUESERA,C232,Consultorio de atención primaria,PLAZA MAYOR S/N,05122,05,05164,920297918,02,Servicios o Institutos de Salud de las comunidades autónomas
-0705001200,05-C232-0191,CONSULTORIO DE ATENCION PRIMARIA DE NAVARREDONDILLA,C232,Consultorio de atención primaria,PLAZA MAYOR S/N,05120,05,05166,920297605,02,Servicios o Institutos de Salud de las comunidades autónomas
+0705001199,05-C232-0190,CONSULTORIO DE ATENCION PRIMARIA DE NAVAQUESERA,C232,Consultorio de atención primaria,PLAZA PLAZA MAYOR SN S/N,05122,05,05164,920297918,02,Servicios o Institutos de Salud de las comunidades autónomas
+0705001200,05-C232-0191,CONSULTORIO DE ATENCION PRIMARIA DE NAVARREDONDILLA,C232,Consultorio de atención primaria,PLAZA MAYOR SN S/N,05120,05,05166,920297605,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001204,05-C232-0195,CONSULTORIO DE ATENCION PRIMARIA DE NAVATALGORDO,C232,Consultorio de atención primaria,CALLE ARROYUELO S/N,05122,05,05169,920297842,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001205,05-C232-0196,CONSULTORIO DE ATENCION PRIMARIA DE NAVATEJARES,C232,Consultorio de atención primaria,CALLE ESCUELAS 2,05647,05,05170,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001206,05-C232-0197,CONSULTORIO DE ATENCION PRIMARIA DE NEILA DE SAN MIGUEL,C232,Consultorio de atención primaria,CALLE LA CRUZ SN S/N,05619,05,05171,923430195,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -3521,7 +3521,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0705001230,05-C232-0221,CONSULTORIO DE ATENCION PRIMARIA DE PESQUERA,C232,Consultorio de atención primaria,CALLE SOLANILLO S/N,05515,05,05186,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001231,05-C232-0222,CONSULTORIO DE ATENCION PRIMARIA DE PIEDRALAVES,C232,Consultorio de atención primaria,"CALLE SAN ROQUE, S/N S/N",05440,05,05187,918665230,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001232,05-C232-0223,CONSULTORIO DE ATENCION PRIMARIA DE POVEDA,C232,Consultorio de atención primaria,PLAZA MAYOR SN S/N,05550,05,05188,,02,Servicios o Institutos de Salud de las comunidades autónomas
-0705001233,05-C232-0224,CONSULTORIO DE ATENCION PRIMARIA DE POYALES DEL HOYO,C232,Consultorio de atención primaria,PLAZA NUEVA S/N,05492,05,05189,920390073,02,Servicios o Institutos de Salud de las comunidades autónomas
+0705001233,05-C232-0224,CONSULTORIO DE ATENCION PRIMARIA DE POYALES DEL HOYO,C232,Consultorio de atención primaria,PLAZA NUEVA SN S/N,05492,05,05189,920390073,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001234,05-C232-0225,CONSULTORIO DE ATENCION PRIMARIA DE POZANCO,C232,Consultorio de atención primaria,CALLE DEL CAÑO S/N,05295,05,05190,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001235,05-C232-0226,CONSULTORIO DE ATENCION PRIMARIA DE PRADOSEGAR,C232,Consultorio de atención primaria,PLAZA PRINCIPAL SN S/N,05550,05,05191,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001236,05-C232-0227,CONSULTORIO DE ATENCION PRTIMARIA DE PUERTO CASTILLA,C232,Consultorio de atención primaria,AVENIDA ESCUELAS S/N,05622,05,05192,920342700,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -3543,7 +3543,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0705001255,05-C232-0246,CONSULTORIO DE ATENCION PRIMARIA DE SAN ESTEBAN DE ZAPARDIEL,C232,Consultorio de atención primaria,PLAZA AYUNTAMIENTO S/N,05229,05,05208,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001256,05-C232-0247,CONSULTORIO DE ATENCION PRIMARIA DE SAN ESTEBAN DEL VALLE,C232,Consultorio de atención primaria,PLAZA DE ESPAÑA S/N,05412,05,05207,920383455,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001258,05-C232-0249,CONSULTORIO DE ATENCION PRIMARIA DE SAN JUAN DE LA ENCINILLA,C232,Consultorio de atención primaria,CALLE LUIS GARCIA 5,05359,05,05210,920240318,02,Servicios o Institutos de Salud de las comunidades autónomas
-0705001259,05-C232-0250,CONSULTORIO DE ATENCION PRIMARIA DE SAN JUAN DEL MOLINILLO,C232,Consultorio de atención primaria,CALLE COTANILLO S/N,05120,05,05212,920280109,02,Servicios o Institutos de Salud de las comunidades autónomas
+0705001259,05-C232-0250,CONSULTORIO DE ATENCION PRIMARIA DE SAN JUAN DEL MOLINILLO,C232,Consultorio de atención primaria,TRAVESIA COTANILLO S/N,05120,05,05212,920280109,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001260,05-C232-0251,CONSULTORIO DE ATENCION PRIMARIA DE SAN JUAN DEL OLMO,C232,Consultorio de atención primaria,"PLAZA , S/N S/N",05145,05,05213,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001262,05-C232-0253,CONSULTORIO DE ATENCION PRIMARIA DE SAN MARTIN DE LA VEGA DEL ALBERCHE,C232,Consultorio de atención primaria,CALLE TOLEDO 4,05133,05,05165,920296303,02,Servicios o Institutos de Salud de las comunidades autónomas
 0705001263,05-C232-0254,CONSULTORIO DE ATENCION PRIMARIA DE SAN MARTIN DEL PIMPOLLAR,C232,Consultorio de atención primaria,CALLE NUEVA AVENIDA 7,05132,05,05165,920207003,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -3673,7 +3673,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0709001813,09-C231-0040,CENTRO DE SALUD DE QUINTANAR DE LA SIERRA,C231,Centro de salud,CALLE DE LA IGLESIA 25-27,09670,09,09289,947396100,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709001814,09-C231-0041,CENTRO DE SALUD LAS HUELGAS,C231,Centro de salud,PASEO DE LOS COMENDADORES ANTIGUO HOSPITAL MILITAR PAB 4,09001,09,09059,947425092,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709001815,09-C231-0042,CONSULTORIO DE ATENCION PRIMARIA DE LA NUEZ DE ABAJO,C232,Consultorio de atención primaria,CALLE SANTIAGO 23,09150,09,09902,,02,Servicios o Institutos de Salud de las comunidades autónomas
-0709001816,09-C231-0043,CONSULTORIO DE ATENCION PRIMARIA DE SANTA CRUZ DEL VALLE URBION,C232,Consultorio de atención primaria,CALLE LA PLAZA 6,09268,09,09346,659125413,02,Servicios o Institutos de Salud de las comunidades autónomas
+0709001816,09-C231-0043,CONSULTORIO DE ATENCION PRIMARIA DE SANTA CRUZ DEL VALLE URBION,C232,Consultorio de atención primaria,CALLE LA PLAZA 6,09268,09,09346,600355526,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709001817,09-C231-0044,CONSULTORIO DE ATENCION PRIMARIA DE TUBILLA DEL LAGO,C232,Consultorio de atención primaria,CALLE REAL 32,09453,09,09396,947557048,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709001818,09-C232-0001,CONSULTORIO DE ATENCION PRIMARIA DE ZAEL,C232,Consultorio de atención primaria,CALLE SANTA CECILIA 11 S/N,09339,09,09480,947189101,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709001819,09-C232-0002,CONSULTORIO DE ATENCION PRIMARIA DE ABAJAS,C232,Consultorio de atención primaria,"CALLE CTRA. DE VILLARCAYO, S/N S/N",09141,09,09001,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -3692,7 +3692,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0709001833,09-C232-0017,CONSULTORIO DE ATENCION PRIMARIA DE AÑASTRO,C232,Consultorio de atención primaria,PLAZA AÑASTRO 11,09215,09,09109,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709001834,09-C232-0018,CONSULTORIO DE ATENCION PRIMARIA DE ARANDILLA,C232,Consultorio de atención primaria,"AVENIDA JULIO, S/N S/N",09410,09,09019,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709001835,09-C232-0019,CONSULTORIO DE ATENCION PRIMARIA DE ARAUZO DE MIEL,C232,Consultorio de atención primaria,PLAZA TOROS 14,09452,09,09020,947388119,02,Servicios o Institutos de Salud de las comunidades autónomas
-0709001836,09-C232-0020,CONSULTORIO DE ATENCION PRIMARIA DE ARAUZO DE SALCE,C232,Consultorio de atención primaria,"CALLE LA FUENTE, S/N S/N",09452,09,09021,947392261,02,Servicios o Institutos de Salud de las comunidades autónomas
+0709001836,09-C232-0020,CONSULTORIO DE ATENCION PRIMARIA DE ARAUZO DE SALCE,C232,Consultorio de atención primaria,CALLE LA FUENTE SN S/N,09452,09,09021,947392261,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709001837,09-C232-0021,CONSULTORIO DE ATENCION PRIMARIA DE ARAUZO DE TORRE,C232,Consultorio de atención primaria,"PLAZA DEL AYUNTAMIENTO, S/N S/N",09452,09,09022,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709001839,09-C232-0023,CONSULTORIO DE ATENCION PRIMARIA DE ARCONADA,C232,Consultorio de atención primaria,CALLE ERILLA 1,09592,09,09071,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709001841,09-C232-0025,CONSULTORIO DE ATENCION PRIMARIA DE ARENILLAS DE MUÑO,C232,Consultorio de atención primaria,"CALLE ALTA, S/N S/N",09239,09,09125,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -4051,7 +4051,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0709002243,09-C232-0458,CONSULTORIO DE ATENCION PRIMARIA DE VILVIESTRE DEL PINAR,C232,Consultorio de atención primaria,CALLE PARROCO GRACIANO MARTINEZ 2,09690,09,09425,947396141,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002244,09-C232-0459,CONSULTORIO DE ATENCION PRIMARIA DE VILVIESTRE DE MUÑO,C232,Consultorio de atención primaria,CALLE CELADA S/N,09230,09,09125,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002245,09-C232-0460,CONSULTORIO DE ATENCION PRIMARIA DE VILORIA DE RIOJA,C232,Consultorio de atención primaria,CALLE LA ASUNCION 13,09259,09,09424,947277944,02,Servicios o Institutos de Salud de las comunidades autónomas
-0709002246,09-C232-0461,CONSULTORIO DE ATENCION PRIMARIA DE VILLUSTO,C232,Consultorio de atención primaria,"CALLE HOSPITAL, S/N S/N",09134,09,09427,,02,Servicios o Institutos de Salud de las comunidades autónomas
+0709002246,09-C232-0461,CONSULTORIO DE ATENCION PRIMARIA DE VILLUSTO,C232,Consultorio de atención primaria,"CALLE REAL, Nº 7 S/N",09124,09,09427,947361700,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002247,09-C232-0462,CONSULTORIO DE ATENCION PRIMARIA DE VILLOVELA DE ESGUEVA,C232,Consultorio de atención primaria,PLAZA ESPAÑA 1,09310,09,09391,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002248,09-C232-0463,CONSULTORIO DE ATENCION PRIMARIA DE VILLOREJO,C232,Consultorio de atención primaria,CALLE HOSPITAL S/N,09133,09,09181,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002250,09-C232-0465,CONSULTORIO DE ATENCION PRIMARIA DE VILLELA,C232,Consultorio de atención primaria,CALLE DEL MOLINO S/N S/N,34492,09,09306,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -4100,7 +4100,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0709002295,09-C232-0512,CONSULTORIO DE ATENCION PRIMARIA DE URREZ,C232,Consultorio de atención primaria,CALLE DESCONOCIDA S/N,09199,09,09463,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002296,09-C232-0513,CONSULTORIO DE ATENCION PRIMARIA DE TALAMILLO DEL TOZO,C232,Consultorio de atención primaria,CALLE LA IGLESIA 15,09124,09,09045,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002297,09-C232-0514,CONSULTORIO DE ATENCION PRIMARIA DE TAMARON,C232,Consultorio de atención primaria,"PLAZA DE LA FUENTE, S/N S/N",09227,09,09375,,02,Servicios o Institutos de Salud de las comunidades autónomas
-0709002298,09-C232-0515,CONSULTORIO DE ATENCION PRIMARIA DE TAPIA,C232,Consultorio de atención primaria,"CALLE LA IGLESIA, S/N S/N",09124,09,09427,,02,Servicios o Institutos de Salud de las comunidades autónomas
+0709002298,09-C232-0515,CONSULTORIO DE ATENCION PRIMARIA DE TAPIA,C232,Consultorio de atención primaria,"CALLE LA IGLESIA, S/N S/N",09124,09,09427,947361700,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002299,09-C232-0516,CONSULTORIO DE ATENCION PRIMARIA DE TARDAJOS,C232,Consultorio de atención primaria,CALLE DESCONOCIDA S/N,09130,09,09377,947244756,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002300,09-C232-0517,CONSULTORIO DE ATENCION PRIMARIA DE TEJADA,C232,Consultorio de atención primaria,CALLE LAS ERAS 2,09348,09,09378,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002301,09-C232-0518,CONSULTORIO DE ATENCION PRIMARIA DE TEMIÑO,C232,Consultorio de atención primaria,"CALLE MAYOR, S/N S/N",09591,09,09904,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -4111,7 +4111,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0709002306,09-C232-0524,CONSULTORIO DE ATENCION PRIMARIA DE TOLBAÑOS DE ABAJO,C232,Consultorio de atención primaria,CALLE LAS ESCUELAS 17,09614,09,09414,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002307,09-C232-0525,CONSULTORIO DE ATENCION PRIMARIA DE TOLBAÑOS DE ARRIBA,C232,Consultorio de atención primaria,CALLE MAYOR 47,09614,09,09414,618143665,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002309,09-C232-0527,CONSULTORIO DE ATENCION PRIMARIA DE TORDUELES,C232,Consultorio de atención primaria,CALLE SANTAMARIA S/N,09347,09,09901,947174551,02,Servicios o Institutos de Salud de las comunidades autónomas
-0709002310,09-C232-0528,CONSULTORIO DE ATENCION PRIMARIA DE TORME,C232,Consultorio de atención primaria,"CARRETERA VILLACOMPARADA, S/N S/N",09555,09,09903,,02,Servicios o Institutos de Salud de las comunidades autónomas
+0709002310,09-C232-0528,CONSULTORIO DE ATENCION PRIMARIA DE TORME,C232,Consultorio de atención primaria,CARRETERA VILLACOMPARADA SN S/N,09555,09,09903,947131004,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002311,09-C232-0529,CONSULTORIO DE ATENCION PRIMARIA DE TORRECILLA DEL MONTE,C232,Consultorio de atención primaria,PLAZA MAYOR 1,09330,09,09386,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002312,09-C232-0530,CONSULTORIO DE ATENCION PRIMARIA DE TORRECITORES,C232,Consultorio de atención primaria,PLAZA MAYOR S/N S/N,09345,09,09032,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0709002313,09-C232-0531,CONSULTORIO DE ATENCION PRIMARIA DE TORREPADRE,C232,Consultorio de atención primaria,PLAZA LAS ESCUELAS 1,09345,09,09389,947186500,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -5991,8 +5991,8 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0740001312,40-C232-0341,CONSULTORIO DE ATENCION PRIMARIA DE ZAMARRAMALA,C232,Consultorio de atención primaria,CALLE REAL ALTA 9,40196,40,40194,659667718,02,Servicios o Institutos de Salud de las comunidades autónomas
 0740001313,40-C232-0342,CONSULTORIO DE ATENCION PRIMARIA DE ESPIRDO,C232,Consultorio de atención primaria,CALLE SOL 5,40191,40,40077,921449001,02,Servicios o Institutos de Salud de las comunidades autónomas
 0740001314,40-C232-0343,CONSULTORIO DE ATENCION PRIMARIA DE HONTANARES DE ERESMA,C232,Consultorio de atención primaria,CALLE REAL 11,40490,40,40101,921490401,02,Servicios o Institutos de Salud de las comunidades autónomas
-0740001315,40-C232-0344,CONSULTORIO DE ATENCION PRIMARIA DE JUARROS DE VOLTOYA,C232,Consultorio de atención primaria,PASEO DIPUTACION PROVINCIAL 7,40445,40,40106,921582006,02,Servicios o Institutos de Salud de las comunidades autónomas
-0740001316,40-C232-0345,CONSULTORIO DE ATENCION PRIMARIA DE SANTIUSTE DE SAN JUAN BAUTISTA,C232,Consultorio de atención primaria,CALLE POLIDEPORTIVO S/N,40460,40,40189,921596161,02,Servicios o Institutos de Salud de las comunidades autónomas
+0740001315,40-C232-0344,CONSULTORIO DE ATENCION PRIMARIA DE JUARROS DE VOLTOYA,C232,Consultorio de atención primaria,CALLE LA IGLESIA 18,40445,40,40106,921582006,02,Servicios o Institutos de Salud de las comunidades autónomas
+0740001316,40-C232-0345,CONSULTORIO DE ATENCION PRIMARIA DE SANTIUSTE DE SAN JUAN BAUTISTA,C232,Consultorio de atención primaria,CALLE POLIDEPORTIVO 2,40460,40,40189,921596000,02,Servicios o Institutos de Salud de las comunidades autónomas
 0740001317,40-C232-0346,CONSULTORIO DE ATENCION PRIMARIA DE ALDEA REAL,C232,Consultorio de atención primaria,CALLE DE LA CRUZ 2,40292,40,40012,921570767,02,Servicios o Institutos de Salud de las comunidades autónomas
 0740001318,40-C232-0347,CONSULTORIO DE ATENCION PRIMARIA DE NAVALILLA,C232,Consultorio de atención primaria,CALLE ESCUELAS 1,40331,40,40140,921532616,02,Servicios o Institutos de Salud de las comunidades autónomas
 0740001319,40-C232-0348,CONSULTORIO DE ATENCION PRIMARIA DE SOTILLO,C232,Consultorio de atención primaria,CALLE PICOTA 9,40311,40,40198,921545078,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -6028,6 +6028,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0740001977,40-C232-0380,CONSULTORIO DE ATENCION PRIMARIA DE NAVAS DE ORO,C232,Consultorio de atención primaria,CALLE RONDA DEL MEDIODIA 5,40470,40,40145,921591000,04,Otras entidades u organismos públicos de dependencia autonómica
 0740001983,40-C232-0381,CAP DE LASTRAS DEL POZO,C232,Consultorio de atención primaria,PLAZA PZA MAYOR 1,40142,40,40111,921196006,02,Servicios o Institutos de Salud de las comunidades autónomas
 0740001994,40-C231-0019,CENTRO DE SALUD SEGOVIA IV,C231,Centro de salud,CALLE DAMASO ALONSO 5,40006,40,40194,921419263,02,Servicios o Institutos de Salud de las comunidades autónomas
+0740001998,40-C232-0382,CONSULTORIO MEDICO SEBULCOR,C232,Consultorio de atención primaria,CALLE ESCUELAS 4,40380,40,40193,921521016,02,Servicios o Institutos de Salud de las comunidades autónomas
 0742000751,42-C231-0001,CENTRO DE SALUD DE AGREDA,C231,Centro de salud,"CALLE VENERABLE, 85 S/N",42100,42,42004,976647218,02,Servicios o Institutos de Salud de las comunidades autónomas
 0742000752,42-C231-0002,CENTRO DE SALUD DE ALMAZAN,C231,Centro de salud,CALLE FERIAL S/N,42200,42,42020,975300961,02,Servicios o Institutos de Salud de las comunidades autónomas
 0742000753,42-C231-0003,CENTRO DE SALUD DE ARCOS DE JALON,C231,Centro de salud,CARRETERA DE MARANCHON,42250,42,42025,975320311,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -7028,7 +7029,6 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0749001595,49-C232-0406,CONSULTORIO DE ATENCION PRIMARIA DE EL PIÑERO,C232,Consultorio de atención primaria,CALLE MAYOR 32,49715,49,49158,980565005,02,Servicios o Institutos de Salud de las comunidades autónomas
 0749001596,49-C232-0407,CONSULTORIO DE ATENCION PRIMARIA DE ACIBEROS,C232,Consultorio de atención primaria,BLOQUE CONSULTORIO,49574,49,49100,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0749001597,49-C232-0408,CONSULTORIO DE ATENCION PRIMARIA DE CHANOS,C232,Consultorio de atención primaria,BLOQUE CONSULTORIO,49573,49,49100,980548204,02,Servicios o Institutos de Salud de las comunidades autónomas
-0749001598,49-C232-0409,CONSULTORIO DE ATENCION PRIMARIA DE VILLANUEVA DE LA SIERRA,C232,Consultorio de atención primaria,BLOQUE CONSULTORIO,49580,49,49154,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0749001600,49-C232-0411,CONSULTORIO DE ATENCION PRIMARIA DE ILANES,C232,Consultorio de atención primaria,BLOQUE CONSULTORIO,49359,49,49085,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0749001601,49-C232-0412,CONSULTORIO DE ATENCION PRIMARIA DE SANTA CRUZ DE ABRAHANES,C232,Consultorio de atención primaria,BLOQUE CONSULTORIO S/N,49392,49,49145,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0749001602,49-C232-0413,CONSULTORIO DE ATENCION PRIMARIA DE ASPARIEGOS,C232,Consultorio de atención primaria,CALLE LA IGLESIA SN S/N,49124,49,49016,980501001,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -7072,6 +7072,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0749002388,49-C232-0448,CONSULTORIO DE ATENCION PRIMARIA DE VEGA DE VILLALOBOS,C232,Consultorio de atención primaria,CALLE POZO 1,49133,49,49232,,02,Servicios o Institutos de Salud de las comunidades autónomas
 0749002391,49-C232-0449,CONSULTORIO DE ATENCION PRIMARIA DE REQUEJO,C232,Consultorio de atención primaria,AVENIDA JUAN SEISDEDOS 1,49394,49,49174,980622431,02,Servicios o Institutos de Salud de las comunidades autónomas
 0749002398,49-C232-0450,CONSULTORIO DE ATENCION PRIMARIA DE VILLANUEVA DE LA SIERRA,C232,Consultorio de atención primaria,CALLE REGUEIRA S/N,49580,49,49154,652106062,02,Servicios o Institutos de Salud de las comunidades autónomas
+0749002399,49-C232-0451,CONSULTORIO DE ATENCION PRIMARIA DE SOGO,C232,Consultorio de atención primaria,PLAZA PLAZA 4,49270,49,49152,980551003,02,Servicios o Institutos de Salud de las comunidades autónomas
 0802000083,AB00713/00000811,CONSULTORIO LOCAL DE ALATOZ,C232,Consultorio de atención primaria,CALLE LOS BARRANCOS 26,02152,02,02002,967402311,02,Servicios o Institutos de Salud de las comunidades autónomas
 0802000114,AB01649/00003545,CENTRO DE SALUD ALBACETE-6,C231,Centro de salud,CALLE AZORIN S/N,02001,02,02003,967241511,02,Servicios o Institutos de Salud de las comunidades autónomas
 0802000115,AB01651/00006911,CENTRO DE SALUD DE ALMANSA,C231,Centro de salud,CALLE SAN JUAN S/N,02640,02,02009,967339500,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -7497,7 +7498,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0816000130,CU01504/00011491,CONSULTORIO LOCAL DE ZARZA DE TAJO,C232,Consultorio de atención primaria,TRAVESIA ANTONIO MACHADO S/N,16470,16,16279,969999999,06,Municipio
 0816000131,CU01507/00010392,CONSULTORIO LOCAL DE HUERTA DE LA OBISPALIA,C232,Consultorio de atención primaria,CALLE DE LA CRUZ 62,16195,16,16110,969272446,02,Servicios o Institutos de Salud de las comunidades autónomas
 0816000132,CU01508/00010651,CONSULTORIO LOCAL DE PINEDA DE GIGUELA,C232,Consultorio de atención primaria,CALLE ERAS S/N,16542,16,16160,969275095,06,Municipio
-0816000133,CU01509/00010376,CONSULTORIO LOCAL DE PALOMARES DEL CAMPO,C232,Consultorio de atención primaria,CALLE PRENSA 1,16160,16,16148,,02,Servicios o Institutos de Salud de las comunidades autónomas
+0816000133,CU01509/00010376,CONSULTORIO LOCAL DE PALOMARES DEL CAMPO,C232,Consultorio de atención primaria,CALLE IGLESIA 2,16160,16,16148,969277500,02,Servicios o Institutos de Salud de las comunidades autónomas
 0816000134,CU01510/00010377,CONSULTORIO LOCAL DE VILLAREJO-SOBREHUERTA,C232,Consultorio de atención primaria,CALLE EGIDO 14,16195,16,16211,969272443,02,Servicios o Institutos de Salud de las comunidades autónomas
 0816000135,CU01512/00010653,CONSULTORIO LOCAL DE NAHARROS,C232,Consultorio de atención primaria,"CALLE CUENCA, S/N S/N",16162,16,16211,,06,Municipio
 0816000136,CU01515/00010394,CONSULTORIO LOCAL DE VILLAR DEL HORNO,C232,Consultorio de atención primaria,PLAZA CONSTITUCION S/N,16370,16,16211,,06,Municipio
@@ -8573,7 +8574,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0908001474,E08044495,CONSULTORI MEDIC LOCAL D' ALELLA,C232,Consultorio de atención primaria,AVENIDA MAS DE XAXARS 10,08328,08,08003,935550354,02,Servicios o Institutos de Salud de las comunidades autónomas
 0908001479,E08044632,CONSULTORI MEDIC LOCAL D' AIGUAFREDA,C232,Consultorio de atención primaria,CARRETERA RIBES 10,08591,08,08014,938441026,02,Servicios o Institutos de Salud de las comunidades autónomas
 0908001480,E08044640,CONSULTORI MEDIC LOCAL DE ROCA DEL VALLES,C232,Consultorio de atención primaria,CALLE PIRINEUS 2,08430,08,08181,938424432,20,Privados
-0908001483,E08044671,CAP CASTELLTERÇOL,C232,Consultorio de atención primaria,CARRETERA CASTELLCIR S/N,08183,08,08064,938666350,02,Servicios o Institutos de Salud de las comunidades autónomas
+0908001483,E08044671,CL CASTELLTERÇOL,C232,Consultorio de atención primaria,CARRETERA CASTELLCIR S/N,08183,08,08064,938666350,02,Servicios o Institutos de Salud de las comunidades autónomas
 0908001484,E08044752,CAP DR. GUILLERMO MASRIERA,C231,Centro de salud,CALLE SANTA MARIA 59,08340,08,08219,937540642,02,Servicios o Institutos de Salud de las comunidades autónomas
 0908001485,E08044760,CAP DR.JOSEP TORNER I FORS,C231,Centro de salud,AVENIDA COSTA BRAVA (CTRA. VB6001) CTDA C/ RIERA S/N,08380,08,08110,937619500,08,Otras entidades u organismos públicos
 0908001493,E08044914,CAP POLINYA,C232,Consultorio de atención primaria,CALLE ONZE DE SETEMBRE S/N,08213,08,08167,937134722,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -8692,7 +8693,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0908003705,E08766998,CAP SANT VICENÇ DEL HORTS 2 (EL SERRAL),C231,Centro de salud,CARRETERA SANT BOI 59-61,08620,08,08263,932142124,02,Servicios o Institutos de Salud de las comunidades autónomas
 0908003706,E08767790,CAP CONCORDIA,C231,Centro de salud,PLAZA SANT AGUSTI S/N,08206,08,08187,937136420,02,Servicios o Institutos de Salud de las comunidades autónomas
 0908003707,E08767800,CAP CENTRE,C231,Centro de salud,PLAZA JOAN OLIU 9,08201,08,08187,937256585,02,Servicios o Institutos de Salud de las comunidades autónomas
-0908003710,E08768794,CAP CANET DE MAR,C231,Centro de salud,PLAZA UNIVERSITAT 1,08360,08,08040,937956867,02,Servicios o Institutos de Salud de las comunidades autónomas
+0908003710,E08768794,CAP CANET DE MAR,C231,Centro de salud,PLAZA UNIVERSITAT 1,08360,08,08040,937956676,02,Servicios o Institutos de Salud de las comunidades autónomas
 0908003724,E08771405,CENTRE D'ATENCIO PRIMARIA ROGER DE FLOR,C231,Centro de salud,CALLE ROGER DE FLOR 194-196,08013,08,08019,902500179,20,Privados
 0908003775,E08782990,CAP BARBERA 2,C231,Centro de salud,PLAZA ROSA DELS VENTS S/N,08210,08,08252,937194281,02,Servicios o Institutos de Salud de las comunidades autónomas
 0908003864,E08802212,CONSULTORI MEDIC LOCAL DE CASTELLNOU DE BAGES,C232,Consultorio de atención primaria,CALLE ONZE DE SETEMBRE S/N,08251,08,08062,938272091,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -8838,6 +8839,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 0908016230,E08768307,CONSULTORI LOCAL DE MUNTANYOLA,C232,Consultorio de atención primaria,CALLE SERRARICA S/N,08529,08,08129,938830186,20,Privados
 0908016287,E08769942,CONSULTORI LOCAL LA TORRETA,C232,Consultorio de atención primaria,CALLE JOSEP TORELLO 4,08430,08,08181,938424432,20,Privados
 0908016288,E08769572,CONSULTORI LOCAL SANTA AGNES DE MALANYANES,C232,Consultorio de atención primaria,CALLE MIGJORN S/N,08430,08,08181,938424432,20,Privados
+0908016866,E08790359,CAP CASTELLDEFELS MUNTANYETA,C231,Centro de salud,AVENIDA LLUIS COMPANYS 18,08860,08,08056,936655659,08,Otras entidades u organismos públicos
 0917000001,E17006309,CAP ARBUCIES,C231,Centro de salud,PASEO L'HAVANA S/N,17401,17,17009,972162444,02,Servicios o Institutos de Salud de las comunidades autónomas
 0917000002,E17006330,CAP BANYOLES,C231,Centro de salud,PLAZA CATALUNYA 6,17820,17,17015,972572474,02,Servicios o Institutos de Salud de las comunidades autónomas
 0917000003,E17006355,CAP BLANES,C231,Centro de salud,CALLE SEBASTIA LLORENÇ 4,17300,17,17023,972331027,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -10066,6 +10068,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1012001479,11812,CONSULTORIO DE LUCENA DEL CID,C232,Consultorio de atención primaria,PLAZA ESPAÑA 22,12120,12,12072,964381196|964738200,02,Servicios o Institutos de Salud de las comunidades autónomas
 1012002267,18616,CENTRO DE SALUD DE PEÑISCOLA,C231,Centro de salud,CALLE ULLAL DE L'ESTANY 6,12598,12,12089,964468520|964477000,02,Servicios o Institutos de Salud de las comunidades autónomas
 1012003138,24082,CENTRO DE SALUD CASTELLO - SEQUIOL,C231,Centro de salud,AVENIDA BURRIANA 7,12005,12,12040,964725025,02,Servicios o Institutos de Salud de las comunidades autónomas
+1012003256,45948,CONSULTORIO AUXILIAR DE TEMPORADA LA MARJALERIA,C232,Consultorio de atención primaria,CAMINO SEGONA TRAVESSERA 16,12100,12,12040,964390667,02,Servicios o Institutos de Salud de las comunidades autónomas
 1046000014,1006,CONSULTORIO AUXILIAR DE RUGAT,C232,Consultorio de atención primaria,AVENIDA AUSIAS MARCH 2,46842,46,46219,962813619|962814090,02,Servicios o Institutos de Salud de las comunidades autónomas
 1046000015,1007,CONSULTORIO AUXILIAR DE OTOS,C232,Consultorio de atención primaria,CALLE SAN JOSE 6,46844,46,46185,962356235,02,Servicios o Institutos de Salud de las comunidades autónomas
 1046000023,10119,CENTRO DE SALUD DE VALENCIA FUENTE DE SAN LUIS,C231,Centro de salud,CALLE ARABISTA AMBROSIO HUICI 30,46013,46,46250,961972813|961972999,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -10723,6 +10726,8 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1106002928,06106099,CONSULTORIO MEDICO SAN BENITO DE LA CONTIENDA,C232,Consultorio de atención primaria,CALLE SAN JUAN (SAN BENITO DE LA CONTIENDA) 14,06106,06,06095,924492934,02,Servicios o Institutos de Salud de las comunidades autónomas
 1106002929,06106051,CENTRO DE SALUD LOS SANTOS DE MAIMONA,C231,Centro de salud,CALLE MANUEL RODRIGUEZ PACHON 5,06230,06,06122,924029200,02,Servicios o Institutos de Salud de las comunidades autónomas
 1106002963,06106166,CONSULTORIO MEDICO DE ZURBARAN,C232,Consultorio de atención primaria,CALLE SAN AGUSTIN 1,06712,06,06153,924856154,02,Servicios o Institutos de Salud de las comunidades autónomas
+1106003151,06106101,CONSULTORIO MEDICO HIGUERA DE LA SERENA,C231,Centro de salud,CALLE CASTELAR 22,06441,06,06064,924771451,02,Servicios o Institutos de Salud de las comunidades autónomas
+1106003154,06106483,CENTRO VIRTUAL HCEM,C231,Centro de salud,AVENIDA AMERICAS 2,06800,06,06083,924004100,02,Servicios o Institutos de Salud de las comunidades autónomas
 1110000001,10000268,ABADIA,C232,Consultorio de atención primaria,TRASERA JUAN CARLOS I,10748,10,10001,927479007,02,Servicios o Institutos de Salud de las comunidades autónomas
 1110000002,10000269,ABERTURA,C232,Consultorio de atención primaria,CALLE JOSE ANTONIO,10262,10,10002,927167624,02,Servicios o Institutos de Salud de las comunidades autónomas
 1110000003,10000270,CONSULTORIO DE ACEBO,C232,Consultorio de atención primaria,CALLE COSO 41,10857,10,10003,927141770,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11503,7 +11508,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328000183,CS0177,CS LAS ROZAS - EL ABAJÓN,C231,Centro de salud,CALLE PRINCIPADO DE ASTURIAS 30,28230,28,28127,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000205,CS0216,CS PINTORES,C231,Centro de salud,CALLE CUENCA S/N,28982,28,28106,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000207,CS0218,CS SAN BLAS,C231,Centro de salud,CALLE SAN BLAS 24,28981,28,28106,,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328000208,CS0219,CS PERALES DE TAJUÑA,C231,Centro de salud,AVENIDA DE LA PAZ 5,28540,28,28110,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328000208,CS0219,CS PERALES DE TAJUÑA,C231,Centro de salud,AVENIDA DE LA PAZ 5,28540,28,28110,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000239,CS0265,CS ARTILLEROS,C231,Centro de salud,PASEO DE LOS ARTILLEROS 31,28032,28,28079,913909880,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000256,CS0287,CS JOSÉ MARÍA LLANOS,C231,Centro de salud,CALLE DEL CABO MACHICHACO 62,28053,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000258,CS0292,CS EL TORITO,C231,Centro de salud,CALLE DEL CAMINO DE LOS VINATEROS 140,28030,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11515,7 +11520,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328000324,CS0399,CS LAS AGUILAS,C231,Centro de salud,CALLE DE JOSE DE CADALSO 51,28044,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000328,CS0403,CS RAFAEL ALBERTI,C231,Centro de salud,CALLE DE SAN CLAUDIO 154,28038,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000364,CS0457,CS BUENOS AIRES,C231,Centro de salud,CALLE DE PIO FELIPE 26,28038,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328000366,CS0459,CS PACÍFICO,C231,Centro de salud,CALLE DE LOS REYES MAGOS 19-21,28007,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328000366,CS0459,CS PACIFICO,C231,Centro de salud,CALLE DE LOS REYES MAGOS 19-21,28007,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000393,CS0501,CS ALMENDRALES,C231,Centro de salud,CALLE DE VISITACION 5,28026,28,28079,915002017,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000396,CS0507,CS ALGETE,C231,Centro de salud,CALLE DE VALDEAMOR S/N,28110,28,28009,931370292,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000397,CS0510,CL LOCAL DE BUSTARVIEJO,C232,Consultorio de atención primaria,CALLE MADRID 19,28720,28,28028,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11537,7 +11542,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328000447,CS0586,CS DOCTOR CIRAJAS,C231,Centro de salud,CALLE DEL DOCTOR CIRAJAS 20,28017,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000454,CS0597,CS GUAYABA,C231,Centro de salud,CALLE DE LA GUAYABA S/N,28044,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000465,CS0611,CS REINA VICTORIA,C231,Centro de salud,AVENIDA DE LA REINA VICTORIA 21,28003,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328000486,CS0642,CS FEDERICA MONTSENY,C231,Centro de salud,AVENIDA DE LA ALBUFERA 285,28038,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328000486,CS0642,CS FEDERICA MONTSENY,C231,Centro de salud,AVENIDA DE LA ALBUFERA 285,28038,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000496,CS0662,CS MARTINEZ DE LA RIVA,C231,Centro de salud,CALLE DE MARTINEZ DE LA RIVA 57,28053,28,28079,913909880,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000536,CS0725,CS ARGANDA DEL REY,C231,Centro de salud,CAMINO DEL MOLINO S/N,28500,28,28014,913909880,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328000544,CS0740,CS ALCALA DE GUADAIRA,C231,Centro de salud,CALLE DE ALCALA DE GUADAIRA 4,28018,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11552,7 +11557,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328001009,CS10282,CS JUAN DE AUSTRIA,C231,Centro de salud,AVENIDA JUAN DE AUSTRIA 19,28804,28,28005,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328001010,CS10283,CL CAMARMA DE ESTERUELAS,C231,Centro de salud,CALLE DE LAS CASQUERAS 4,28816,28,28032,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328001011,CS10284,CS LOS FRESNOS,C231,Centro de salud,CALLE JOAQUIN BLUME ESQUINA A,28850,28,28148,,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328001012,CS10285,CS MONTESA,C231,Centro de salud,CALLE DE MONTESA 38,28006,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328001012,CS10285,CS MONTESA,C231,Centro de salud,CALLE DE MONTESA 38,28006,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328001013,CS10286,CS MIGUEL DE CERVANTES,C231,Centro de salud,CALLE RAMON MARIA DEL VALLE INCLAN S/N,28806,28,28005,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328001214,CS10477,CL ANCHUELO,C232,Consultorio de atención primaria,CALLE DEL COSO S/Nº,28818,28,28012,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328001216,CS10479,CL SANTORCAZ,C232,Consultorio de atención primaria,PLAZA DE LA CONSTITUCION 5,28818,28,28136,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11581,7 +11586,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328002788,CS2223,CS BARAJAS,C231,Centro de salud,AVENIDA DE LOGROÑO 319,28042,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328002790,CS2225,CS CANAL DE PANAMÁ,C231,Centro de salud,CALLE DE VERDAGUER Y GARCIA 56,28027,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328002822,CS2260,CS CERRO ALMODOVAR,C231,Centro de salud,CALLE DE FUENTESPINA 2,28031,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328003005,CS2479,CS LAS CIUDADES,C231,Centro de salud,CALLE PALESTINA S/N,28903,28,28065,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328003005,CS2479,CS LAS CIUDADES,C231,Centro de salud,CALLE PALESTINA S/N,28903,28,28065,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328003016,CS2494,CS ESTRECHO DE COREA,C231,Centro de salud,CALLE DEL ESTRECHO DE COREA 1,28027,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328003358,CS2896,CS GARCÍA NOBLEJAS,C231,Centro de salud,CALLE DE LOS HERMANOS GARCIA NOBLEJAS 168,28037,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328003363,CS2901,CS CANILLEJAS,C231,Centro de salud,CALLE DE BOLTAÑA 5,28022,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11600,7 +11605,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328005391,CS5245,CS CIUDAD SAN PABLO,C231,Centro de salud,AVENIDA DE MADRID 11,28820,28,28049,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328005392,CS5246,CS SAN FERNANDO I,C231,Centro de salud,CALLE CORDOBA S/N,28830,28,28130,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328005418,CS5277,CS TORRES DE LA ALAMEDA,C231,Centro de salud,PLAZA JUEGO DE PELOTA 3,28813,28,28154,,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328005699,CS5589,CS LOS ALPES,C231,Centro de salud,CALLE DE SUECIA 62,28022,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328005699,CS5589,CS LOS ALPES,C231,Centro de salud,CALLE DE SUECIA 62,28022,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328005731,CS5628,CS GANDHI,C231,Centro de salud,CALLE DE GANDHI 30,28017,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328005865,CS5775,CS PUERTA DE MADRID,C231,Centro de salud,AVENIDA DEL EJERCITO 61,28802,28,28005,918806699,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328006076,CS6002,CS JUNCAL,C231,Centro de salud,AVENIDA MADRID 39,28850,28,28148,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11680,7 +11685,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328007479,CS7530,CS CARMEN CALZADO,C231,Centro de salud,CALLE CARMEN CALZADO 14,28801,28,28005,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328007480,CS7531,CS LUIS VIVES,C231,Centro de salud,CALLE LUIS VIVES 16,28803,28,28005,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328007905,CS7976,CL ORUSCO DE TAJUÑA,C232,Consultorio de atención primaria,CALLE COMUNIDAD DE MADRID 2,28570,28,28102,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328007995,CS8070,CS LAS REJAS,C231,Centro de salud,CALLE DE EUTERPE 12,28022,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328007995,CS8070,CS LAS REJAS,C231,Centro de salud,CALLE DE EUTERPE 12,28022,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328008063,CS8140,CS SANCHINARRO,C231,Centro de salud,CALLE DE ANA DE AUSTRIA 26,28050,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328008095,CS8173,CS SILVANO,C231,Centro de salud,AVENIDA DE MACHUPICHU 58,28043,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328008096,CS8174,CS DOCTOR CASTROVIEJO,C231,Centro de salud,CALLE DE CANDIDO MATEOS 11,28035,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11720,7 +11725,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328008625,CS8715,CS RASCAFRIA,C231,Centro de salud,CALLE DE LA RIVERA DEL ARTIÑUELO 2,28740,28,28120,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328008626,CS8716,CL MORALZARZAL,C232,Consultorio de atención primaria,AVENIDA DE SALVADOR SANCHEZ FRASCUELO 11,28411,28,28090,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328008636,CS8726,CS LUCERO,C231,Centro de salud,CALLE DE LA LATINA 14,28047,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328008646,CS8736,CS ROSA DE LUXEMBURGO,C231,Centro de salud,AVENIDA DE ARAGON 6,28700,28,28134,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328008646,CS8736,CS ROSA LUXEMBURGO,C231,Centro de salud,AVENIDA DE ARAGON 6,28700,28,28134,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328008647,CS8737,CS COLMENAR VIEJO SUR,C231,Centro de salud,CALLE DEL DOCTOR CECILIO DE LA MORENA S/N,28770,28,28045,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328008655,CS8745,CS CARAMUEL,C231,Centro de salud,CALLE DE FUENTEOVEJUNA 17-19-21,28011,28,28079,913352580,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328008699,CS8790,CS JUSTICIA,C231,Centro de salud,CALLE DE REGUEROS 3,28004,28,28079,913352580,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11751,7 +11756,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328009073,CS9172,CS PANADERAS,C231,Centro de salud,CALLE DE LAS PANADERAS 7- 9,28944,28,28058,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009102,CS9202,CL RIBATEJADA,C232,Consultorio de atención primaria,PLAZA DE LA CONSTITUCION 9,28815,28,28122,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009103,CS9203,CL VALDEPIÉLAGOS,C232,Consultorio de atención primaria,CARRETERA CUBILLO S/N,28170,28,28163,,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328009104,CS9204,CL TALAMANCA DEL JARAMA,C232,Consultorio de atención primaria,AVENIDA DE ALCALA 2,28160,28,28145,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328009104,CS9204,CL TALAMANCA DEL JARAMA,C232,Consultorio de atención primaria,AVENIDA DE ALCALA 2,28160,28,28145,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009108,CS9208,CL ALAPARDO,C232,Consultorio de atención primaria,CALLE DE CARLOS MARTIN ALVAREZ S/N,28130,28,28162,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009140,CS9240,CS SANTA ISABEL,C231,Centro de salud,CALLE ISABEL LA CATOLICA 1,28914,28,28074,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009166,CS9267,CS ARANJUEZ,C231,Centro de salud,CALLE DE ABASTOS S/N,28300,28,28013,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11759,7 +11764,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328009184,CS9285,MADRID SALUD,C231,Centro de salud,CALLE DE LA CONCORDIA 15-17,28053,28,28079,915886016,06,Municipio
 1328009188,CS9289,CS LINNEO,C231,Centro de salud,CALLE DE LINNEO 3,28005,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009202,CS9304,CS SOTO DEL REAL,C231,Centro de salud,CALLE CRISTAL 2,28791,28,28144,,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328009203,CS9305,CL VALDARACETE,C232,Consultorio de atención primaria,CALLE DE SAN MARTIN DE PORRES 6,28035,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328009203,CS9305,CL VALDARACETE,C232,Consultorio de atención primaria,CARRETERA M-404 (ARANJUEZ-BREA) 6,28594,28,28155,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009215,CS9317,CL LOS MOLINOS,C232,Consultorio de atención primaria,CALLE LAS DALIAS S/N,28460,28,28087,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009233,CS9335,CS PEDRO LAÍN ENTRALGO,C231,Centro de salud,AVENIDA DE LA LIBERTAD 2,28924,28,28007,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009234,CS9336,CS EL NARANJO,C231,Centro de salud,CALLE DE AVILES 2,28942,28,28058,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11769,8 +11774,8 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328009259,CS9363,CS MARÍA MONTESSORI,C231,Centro de salud,AVENIDA DE PORTUGAL 2,28916,28,28074,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009260,CS9364,CS CUZCO,C231,Centro de salud,CALLE DE CUZCO 4,28945,28,28058,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009266,CS9370,AYUNTAMIENTO DE COBEÑA,C232,Consultorio de atención primaria,CALLE DEL MERCADO 17,28863,28,28041,916208132,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328009285,CS9389,CL CHINCHON,C231,Centro de salud,CALLE DE ALVAREZ GATO S/N,28370,28,28052,,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328009357,CS9463,CS LA GARENA,C231,Centro de salud,CALLE ARTURO SORIA 12,28806,28,28005,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328009285,CS9389,CL CHINCHON,C232,Consultorio de atención primaria,CALLE DE ALVAREZ GATO S/N,28370,28,28052,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328009357,CS9463,CS LA GARENA,C231,Centro de salud,CALLE ARTURO SORIA 12,28806,28,28005,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009387,CS9494,CL AOSLOS,C232,Consultorio de atención primaria,CALLE REAL 5,28755,28,28070,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009388,CS9495,CL GARGANTILLA DE LOZOYA,C232,Consultorio de atención primaria,CALLE CARRETAS 11,28739,28,28063,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009409,CS9516,CS LOS CASTILLOS,C231,Centro de salud,CALLE CARBALLINO 25,28925,28,28007,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11807,9 +11812,8 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328009747,CS9860,CL ZULEMA,C232,Consultorio de atención primaria,AVENIDA MADRID S/N,28810,28,28172,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009748,CS9861,CL CORPA,C232,Consultorio de atención primaria,PLAZA DE ESPAÑA S/N,28811,28,28048,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009750,CS9863,CL VILLANUEVA DE PERALES,C232,Consultorio de atención primaria,CALLE CARRETAS 16,28609,28,28178,918137054,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328009764,CS9877,CL MORATA DE TAJUÑA,C232,Consultorio de atención primaria,CALLE DE LA CLINICA 4,28530,28,28091,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328009764,CS9877,CL MORATA DE TAJUÑA,C232,Consultorio de atención primaria,CALLE DE LA CLINICA 4,28530,28,28091,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328009765,CS9878,CS MARIE CURIE,C231,Centro de salud,CALLE SAN BERNARDO 13,28917,28,28074,,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328009813,CS9927,CL VALDEAVERO,C232,Consultorio de atención primaria,CALLE DE LA FUENTE 1,28816,28,28156,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328012125,SS0102,"SERVICIO MADRILEÑO DE SALUD, GERENCIA DE ATENCION PRIMARIA",C232,Consultorio de atención primaria,PLAZA DEL PROGRESO S/N,28840,28,28084,915576015,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328012388,CS11352,CS CARABANCHEL ALTO,C231,Centro de salud,AVENIDA DE CARABANCHEL ALTO 150,28054,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328012480,CS11358,CS ISLA DE OZA,C231,Centro de salud,CALLE DE SAN MARTIN DE PORRES 6,28035,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11821,7 +11825,6 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328012640,CS11462,MADRID SALUD - AYUNTAMIENTO DE MADRID,C231,Centro de salud,CALLE DEL CONCEJAL BENITO MARTIN LOZANO 1,28005,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328012647,CS11438,CL VILLAR DEL OLMO,C232,Consultorio de atención primaria,CALLE REAL 42,28512,28,28179,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328012707,CS11513,CL ESTREMERA,C232,Consultorio de atención primaria,CALLE DE DON JOSE MAESTRO MARTINEZ S/Nº,28595,28,28055,,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328012742,CS11577,CL TIELMES,C232,Consultorio de atención primaria,CALLE REAL 33,28550,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328012793,CS11604,CL LA POVEDA,C232,Consultorio de atención primaria,CALLE MONTE ALEGRE 11,28500,28,28014,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328012798,CS11599,CL OLMEDA DE LAS FUENTES,C232,Consultorio de atención primaria,CALLE DEL PINTOR ALVARO DELGADO 2,28515,28,28101,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328012893,CS11482,CL NAVALESPINO,C232,Consultorio de atención primaria,CALLE CALDERON DE LA BARCA 23,28296,28,28135,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11842,9 +11845,8 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328017026,CS12650,CL BELVIS DEL JARAMA,C232,Consultorio de atención primaria,CALLE MAYOR 6,28862,28,28104,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017027,CS12765,CL PRADENA DEL RINCON,C232,Consultorio de atención primaria,CALLE DE LA IGLESIA 12,28191,28,28117,913700500,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017081,CS12763,CL MONTEJO DE LA SIERRA,C232,Consultorio de atención primaria,CALLE REAL 5,28190,28,28088,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328017082,CS12733,CL MADARCOS,C232,Consultorio de atención primaria,PLAZA DEL IGLESIA 1,28755,28,28078,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017083,CS12728,CL EL ESPARTAL,C232,Consultorio de atención primaria,CALLE DE LA PALOMA (EL VELLON) 14,28722,28,28168,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328017087,CS12730,CL MANJIRON,C232,Consultorio de atención primaria,CALLE DE SAN MARTIN DE PORRES 6,28035,28,28079,913700500,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328017087,CS12730,CL MANJIRON,C232,Consultorio de atención primaria,AVENIDA DEL VILLAR 34,28754,28,28902,913700500,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017088,CS12766,CS BUITRAGO DE LOYOZA,C232,Consultorio de atención primaria,CALLE DE LA FUENTE 16,28196,28,28027,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017102,CS12769,CL MINGORRUBIO,C232,Consultorio de atención primaria,CALLE DE LA FORTALEZA 4,28048,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017104,CS12770,CL LOECHES,C232,Consultorio de atención primaria,CALLE VIRGEN DE LAS ANGUSTIAS S/N,28890,28,28075,913700500,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11855,7 +11857,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328017198,CS12674,CL LA ACEBEDA,C232,Consultorio de atención primaria,PLAZA DE SAN MIGUEL 1,28755,28,28001,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017199,CS12727,CL LA SERNA DEL MONTE,C232,Consultorio de atención primaria,CALLE DE CARLOS RUIZ 19,28737,28,28138,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017200,CS12661,CL BRAOJOS,C232,Consultorio de atención primaria,PLAZA DEL SOL 20,28737,28,28024,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328017236,CS12644,CL NAVAS DE BUITRAGO,C232,Consultorio de atención primaria,PLAZA DE LA CONSTITUCION (NAVAS) S/N,28754,28,28901,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328017236,CS12644,CL NAVAS DE BUITRAGO,C232,Consultorio de atención primaria,PLAZA DE LA CONSTITUCION (NAVAS) 1,28752,28,28901,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017431,CS13050,CL SERRANILLOS DEL VALLE,C232,Consultorio de atención primaria,CALLE MORALEJA DE ENMEDIO 8,28979,28,28140,916957013,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017432,CS13045,CL BATRES,C232,Consultorio de atención primaria,CALLE LOS SECADEROS 3,28979,28,28017,916957013,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017508,CS13043,CL BREA DE TAJO,C232,Consultorio de atención primaria,CALLE JULIAN NICOLAS 1,28596,28,28025,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11869,18 +11871,18 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328017740,CS13268,CS VALDELASFUENTES,C231,Centro de salud,CALLE DOLORES IBARRURI 4,28100,28,28006,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017755,CS13283,CL NAVALAFUENTE,C232,Consultorio de atención primaria,CALLE IGLESIA 15,28729,28,28094,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017767,CS13295,CL OTERUELO DEL VALLE,C232,Consultorio de atención primaria,CALLE DE SAN MARTIN DE PORRES 6,28035,28,28079,913700570,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328017768,CS13296,CL REDUEÑA,C232,Consultorio de atención primaria,CALLE DE LA PALMA 8,28721,28,28121,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328017768,CS13296,CL REDUEÑA,C232,Consultorio de atención primaria,CALLE DE LA PALMA 8,28721,28,28121,913700570,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017777,CS13305,CL LOZOYA DEL VALLE,C232,Consultorio de atención primaria,CALLE DEL DUQUE 1,28742,28,28076,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017833,CS13363,CS HUERTA DE LOS FRAILES,C231,Centro de salud,AVENIDA DE LOS PINOS 30,28914,28,28074,,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328017834,CS13364,CL MORALEJA DE EN MEDIO,C232,Consultorio de atención primaria,CALLE DE LA FUENTE 10,28950,28,28089,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328017834,CS13364,CL MORALEJA DE EN MEDIO,C232,Consultorio de atención primaria,CALLE DE LA FUENTE 10,28950,28,28089,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017845,CS13375,CL EL CUADRON,C232,Consultorio de atención primaria,CALLE DE LA REINA 19,28749,28,28062,913700570,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017846,CS13376,CL PINILLA DE BUITRAGO,C232,Consultorio de atención primaria,PLAZA DE LA TABERNA S/N,28739,28,28063,913700570,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328017847,CS13377,CL ROBLEDILLO DE LA JARA,C232,Consultorio de atención primaria,CALLE DE LAS PEÑAS 6,28194,28,28124,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328017847,CS13377,CL ROBLEDILLO DE LA JARA,C232,Consultorio de atención primaria,CALLE DE LAS PEÑAS 6,28194,28,28124,913700570,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017863,CS13393,CL HORCAJUELO DE LA SIERRA,C232,Consultorio de atención primaria,CALLE COMUNIDAD DE MADRID 3,28191,28,28071,913700570,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017864,CS13394,CL SAN MAMÉS,C232,Consultorio de atención primaria,TRAVESIA DE LA SOLANA 18,28739,28,28097,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017866,CS13396,CL NAVARREDONDA,C232,Consultorio de atención primaria,CALLE DE LA FUENTE VIEJA 13,28739,28,28097,913700570,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328017873,CS13403,CL GANDULLAS,C232,Consultorio de atención primaria,PLAZA DE LA SIERRA 1,28738,28,28114,913700570,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328017874,CS13404,CL CINCOVILLAS,C232,Consultorio de atención primaria,CALLE DE LA IGLESIA (CINCO VILLAS) 2,28754,28,28902,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328017874,CS13404,CL CINCOVILLAS,C232,Consultorio de atención primaria,CALLE DE LA IGLESIA (CINCO VILLAS) 2,28754,28,28902,913700570,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328018054,CS13587,CL SERRACINES,C232,Consultorio de atención primaria,CAMINO VALDEAVERO 2,28815,28,28057,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328018170,CS13706,CL ARROYOMOLINOS,C232,Consultorio de atención primaria,CALLE DE MARBELLA S/N,28939,28,28015,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328018171,CS13707,CS MARÍA ÁNGELES LÓPEZ GÓMEZ,C231,Centro de salud,CALLE MARIA ANGELES LOPEZ GOMEZ 2,28915,28,28074,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11894,7 +11896,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328018381,CS13925,CL SOMOSIERRA,C232,Consultorio de atención primaria,CARRETERA DE IRUN KM. 92,28756,28,28143,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328018812,CS13990,CL DOCTOR AGUILAR,C231,Centro de salud,CALLE SAN ISIDRO 5,28978,28,28050,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328018814,CS13983,CL LA HIRUELA,C232,Consultorio de atención primaria,CALLE HERRERIA 1,28191,28,28069,,02,Servicios o Institutos de Salud de las comunidades autónomas
-1328018818,CS13991,CS VICENTE SOLDEVILLA,C231,Centro de salud,CALLE DE LA SIERRA DE ALQUIFE 8,28053,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
+1328018818,CS13991,CS VICENTE SOLDEVILLA,C231,Centro de salud,CALLE DE LA SIERRA DE ALQUIFE 8,28053,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328018875,CS14041,CL SAN AGUSTÍN DE GUADALIX,C232,Consultorio de atención primaria,AVENIDA DE MADRID 28,28750,28,28129,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328019162,CS14146,CS ALAMEDA,C231,Centro de salud,CALLE DE LA ALAMEDA 5,28014,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328019225,CS14189,CS NUMANCIA,C231,Centro de salud,CALLE DEL PUERTO DE COTOS 2,28038,28,28079,,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11929,6 +11931,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1328032640,CS22229,CLTIELMES,C232,Consultorio de atención primaria,CALLE REAL 37,28550,28,28146,913700571,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328032736,CS22326,CS ENFERMERA CARMEN VAZQUEZ,C231,Centro de salud,AVENIDA DE LA VIA LACTEA SN,28938,28,28092,913700571,02,Servicios o Institutos de Salud de las comunidades autónomas
 1328032737,CS22316,CL VALDEAVERO,C232,Consultorio de atención primaria,CALLE CASTILLA LA MANCHA 2,28816,28,28156,913700571,04,Otras entidades u organismos públicos de dependencia autonómica
+1328032963,CS22404,CS BUTARQUE,C231,Centro de salud,CALLE DE LAS CAMAS 1,28021,28,28079,913702929,02,Servicios o Institutos de Salud de las comunidades autónomas
 1430000149,2010038,C.S. SAN JAVIER,C231,Centro de salud,CALLE CABO RAS S/N ESQ. CABO LARA,30730,30,30035,968191866,02,Servicios o Institutos de Salud de las comunidades autónomas
 1430000189,2010096,C.S. DE EL ALGAR,C231,Centro de salud,CALLE JOSE FERNANDEZ TIRADO S/N,30366,30,30016,968135510,02,Servicios o Institutos de Salud de las comunidades autónomas
 1430000252,2020030,C.S. YECLA OESTE,C231,Centro de salud,CALLE PINTOR JUAN ALBERT S/N,30510,30,30043,639439628,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -11956,7 +11959,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1430000989,20900022,C.S. MURCIA/BARRIO DEL CARMEN,C231,Centro de salud,CALLE MADRE ELISEA OLIVER 12,30002,30,30030,968228250,02,Servicios o Institutos de Salud de las comunidades autónomas
 1430000997,20900030,C.S. LOS ALCAZARES,C231,Centro de salud,CALLE MAR TIRRENO 58,30710,30,30902,968228250,02,Servicios o Institutos de Salud de las comunidades autónomas
 1430001002,20900035,SERVICIO DE URGENCIAS DE ATENCION PRIMARIA - YECLA,C232,Consultorio de atención primaria,CALLE SAN JOSE 8,30510,30,30043,968750421,02,Servicios o Institutos de Salud de las comunidades autónomas
-1430001022,20900056,C.S. ALCANTARILLA/SANGONERA LA SECA,C231,Centro de salud,CALLE CARMEN 1,30820,30,30005,968228250,02,Servicios o Institutos de Salud de las comunidades autónomas
+1430001022,20900056,C.S. ALCANTARILLA / SANGONERA LA SECA,C231,Centro de salud,CALLE CARMEN 1,30820,30,30005,968228250,02,Servicios o Institutos de Salud de las comunidades autónomas
 1430001023,20900057,CONS. ROLDAN,C232,Consultorio de atención primaria,"CALLE COSTERA, S/N",30709,30,30037,968588066,02,Servicios o Institutos de Salud de las comunidades autónomas
 1430001024,20900058,C.S. ALHAMA DE MURCIA,C231,Centro de salud,AVENIDA SIERRA ESPUÑA 14,30840,30,30008,968228250,02,Servicios o Institutos de Salud de las comunidades autónomas
 1430001025,20900059,C.S. MULA,C231,Centro de salud,AVENIDA JUAN VIÑEGLAS (DE) S/N,30170,30,30029,968637006,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -12487,7 +12490,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1601000187,01 C.2.3.1. 1237,CENTRO DE SALUD CASCO VIEJO (OSAKIDETZA),C231,Centro de salud,CALLE CORRERIA 108,01001,01,01059,945006796,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000188,01 C.2.3.1. 1238,CENTRO DE SALUD DE SANSOMENDI (OSAKIDETZA),C231,Centro de salud,CALLE PAULA MONTAL 28,01010,01,01059,945006780,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000189,01 C.2.3.1. 1239,CENTRO DE SALUD HABANA (OSAKIDETZA),C231,Centro de salud,CALLE CUBA 7,01012,01,01059,945006785,02,Servicios o Institutos de Salud de las comunidades autónomas
-1601000190,01 C.2.3.1. 1240,CENTRO DE SALUD DE ZARAMAGA (OSAKIDETZA),C231,Centro de salud,CALLE PUERTO DE AZAZETA 2,01013,01,01059,945006790,02,Servicios o Institutos de Salud de las comunidades autónomas
+1601000190,01 C.2.3.1. 1240,CENTRO DE SALUD DE ZARAMAGA - OSAKIDETZA,C231,Centro de salud,CALLE PUERTO DE AZAZETA 2,01013,01,01059,945006790,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000191,01 C.2.3.1. 1241,CENTRO DE SALUD DE ARANBIZKARRA I (OSAKIDETZA),C231,Centro de salud,CALLE SIERRAS ALAVESAS 20,01002,01,01059,945006840|945281288,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000193,01 C.2.3.1. 4425,CENTRO DE SALUD DE OION (OSAKIDETZA),C231,Centro de salud,CALLE FUEROS S/N,01320,01,01043,945622155,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000194,01 C.2.3.1. 4456,CENTRO DE SALUD OLARIZU (OSAKIDETZA),C231,Centro de salud,CALLE HERACLIO FOURNIER 19,01006,01,01059,945006810,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -12497,10 +12500,10 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1601000198,01 C.2.3.1. 6309,CENTRO DE SALUD DE LEGUTIANO (OSAKIDETZA),C231,Centro de salud,CALLE GORBEA 2,01170,01,01058,945455017,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000199,01 C.2.3.1. 6633,CENTRO DE SALUD TXAGORRITXU (OSAKIDETZA),C231,Centro de salud,CALLE CHILE 9,01009,01,01059,945006660,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000200,01 C.2.3.1. 7780,CENTRO DE SALUD DE ALEGRIA - OSAKIDETZA,C231,Centro de salud,CALLE IRURAIZ 2,01240,01,01001,945400890,02,Servicios o Institutos de Salud de las comunidades autónomas
-1601000201,01 C.2.3.2. 1119,CONSULTORIO NANCLARES DE OCA (OSAKIDETZA),C232,Consultorio de atención primaria,PARQUE TRES DE MARZO 1,01230,01,01901,945371120,02,Servicios o Institutos de Salud de las comunidades autónomas
+1601000201,01 C.2.3.2. 1119,CONSULTORIO NANCLARES DE OCA - OSAKIDETZA,C232,Consultorio de atención primaria,PARQUE TRES DE MARZO 1,01230,01,01901,945371120,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000202,01 C.2.3.2. 1120,CONSULTORIO ASISTENCIAL DE NAVARIDAS (OSAKIDETZA),C232,Consultorio de atención primaria,CALLE FABULISTA SAMANIEGO S/N,01309,01,01041,945605182,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000203,01 C.2.3.2. 1121,CONSULTA ASISTENCIAL DE LEZA (OSAKIDETZA),C232,Consultorio de atención primaria,CALLE CALLE MAYOR 4,01307,01,01034,945605066,02,Servicios o Institutos de Salud de las comunidades autónomas
-1601000204,01 C.2.3.2. 1162,CONSULTA ASISTENCIAL DE BERANTEVILLA (OSAKIDETZA),C232,Consultorio de atención primaria,CALLE CALLE MAYOR 40,01218,01,01014,945337058,02,Servicios o Institutos de Salud de las comunidades autónomas
+1601000204,01 C.2.3.2. 1162,CONSULTA ASISTENCIAL DE BERANTEVILLA - OSAKIDETZA,C232,Consultorio de atención primaria,CALLE CALLE MAYOR 40,01218,01,01014,945337058,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000205,01 C.2.3.2. 1163,CONSULTORIO ASISTENCIAL DE BERGUENDA (OSAKIDETZA),C232,Consultorio de atención primaria,CALLE LA IGLESIA 5,01423,01,01902,945351106,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000206,01 C.2.3.2. 1164,CONSULTORIO ASISTENCIAL DE ESPEJO (OSAKIDETZA),C232,Consultorio de atención primaria,CARRETERA BILBAO 61,01423,01,01055,945351011,02,Servicios o Institutos de Salud de las comunidades autónomas
 1601000207,01 C.2.3.2. 1165,CONSULTA ASISTENCIAL DE IZARRA-URKABUSTAIZ (OSAKIDETZA),C232,Consultorio de atención primaria,CALLE LOGORRI 1,01440,01,01054,945437029|945437080,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -12638,6 +12641,7 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1620004713,20/016436,ADORE PSIKOLOGIA ZENTROA,C231,Centro de salud,CALLE ARABA KALEA 24,20800,20,20079,692730347,20,Privados
 1620004733,20/016492,CENTRO DE SALUD ARETXABALETA,C231,Centro de salud,CALLE ERREKABARREN 8,20550,20,20013,943711959,02,Servicios o Institutos de Salud de las comunidades autónomas
 1620004764,20/016564,CENTRO DE SALUD DE ALEGIA PROVISIONAL,C231,Centro de salud,CALLE SAN JUAN 69,20260,20,20005,688809233|943653212,02,Servicios o Institutos de Salud de las comunidades autónomas
+1620004880,20/016890,CENTRO PENITENCIARIO GIPUZKOA,C231,Centro de salud,CALLE ESKUSAITZETA 2,20160,20,20069,943007333,02,Servicios o Institutos de Salud de las comunidades autónomas
 1648000842,48 C.2.3.1. 1912,CENTRO DE SALUD DE ALTAMIRA,C231,Centro de salud,BARRIO ALTAMIRA 19,48013,48,48020,944274411,02,Servicios o Institutos de Salud de las comunidades autónomas
 1648000843,48 C.2.3.1. 1913,CENTRO DE SALUD DE BALMASEDA,C231,Centro de salud,AVENIDA ENCARTACIONES 9,48800,48,48090,946102325,02,Servicios o Institutos de Salud de las comunidades autónomas
 1648000844,48 C.2.3.1. 1941,CENTRO DE SALUD DE LEIOA,C231,Centro de salud,PLAZA IKEABARRI 1,48940,48,48054,946007001,02,Servicios o Institutos de Salud de las comunidades autónomas
@@ -12808,7 +12812,6 @@ center_code,regional_code,name,type_code,type,address,postal_code,province_code,
 1648005694,48/014400,CONSULTORIO FORUA,C232,Consultorio de atención primaria,CALLE TORRE-BARRI 4,48393,48,48906,663001310,02,Servicios o Institutos de Salud de las comunidades autónomas
 1648005719,48/014445,CONSULTORIO DE MURUETA,C232,Consultorio de atención primaria,BARRIO KANPANTXUA 3,48394,48,48908,946035810,02,Servicios o Institutos de Salud de las comunidades autónomas
 1648006784,48/015609,CENTRO DE SALUD DE ZALLA,C231,Centro de salud,BARRIO EL CARMEN 14,48860,48,48096,946007590,02,Servicios o Institutos de Salud de las comunidades autónomas
-1648007412,48/016662,JUAN DE AJURIAGUERRA N19 2-F,C231,Centro de salud,CALLE JUAN DE AJURIAGUERRA 19,48009,48,48020,622029370,20,Privados
 1726000058,1068120232001,CONSULTORIO LOCAL DE ATENCION PRIMARIA DE BRIONES,C232,Consultorio de atención primaria,CARRETERA DE LOGROÑO 1,26330,26,26034,941322192,06,Municipio
 1726000059,1070120232001,CONSULTORIO LOCAL DE SAN VICENTE DE LA SONSIERRA,C232,Consultorio de atención primaria,CALLE PECIÑA 1,26338,26,26142,941308006,06,Municipio
 1726000060,1071120232001,CONSULTORIO AUXILIAR DE ATENCION PRIMARIA DE ABALOS,C232,Consultorio de atención primaria,PLAZA MARTIN FERNANDEZ DE NAVARRETE 1,26339,26,26001,941334160,06,Municipio
